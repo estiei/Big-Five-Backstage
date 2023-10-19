@@ -1,6 +1,6 @@
 # Big-Five-Backstage
 
-Welcome to the official repo of the Big-Five Backstage dataset -- a textual dataset comprising fictional character lines with annotations based on their gender and Big-Five personality traits. 
+Welcome to the official repo of the Big-Five Backstage (B5B) dataset -- a textual dataset comprising fictional character lines with annotations based on their gender and Big-Five personality traits. 
 Along with the data, here you can find the research notebooks used in the paper "Big-Five Backstage: A Dramatic Dataset for Fiction Character Personality Traits & Gender Analysis".
 
 # Dataset
@@ -8,6 +8,8 @@ Along with the data, here you can find the research notebooks used in the paper 
 TBD
 
 # Notebooks
+
+There is an introductory notebook demonstrating different properties of the dataset (link).
 
 TBD
 
