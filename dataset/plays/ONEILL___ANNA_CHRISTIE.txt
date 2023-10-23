@@ -1,0 +1,1520 @@
+#FIRST LONGSHOREMAN.
+Gimme a shock. Number Two.
+#SECOND LONGSHOREMAN.
+Same here.
+#FIRST LONGSHOREMAN.
+Here's luck!
+#SECOND LONGSHOREMAN.
+Give us another.
+#FIRST LONGSHOREMAN.
+Gimme a scoop this time - lager and porter. I'm dry.
+#SECOND LONGSHOREMAN.
+Same here.
+#LARRY.
+Hello, boss.
+#JOHNNY.
+Hello, Larry. Just on time.
+#FIRST LONGSHOREMAN.
+Let's drink up and get back to it.
+#THE POSTMAN.
+Addressed care of you, Johnny. Know him?
+#JOHNNY.
+Christopher Christopherson.
+#THE POSTMAN.
+Square - head name.
+#LARRY.
+Old Chris - that's who.
+#JOHNNY.
+Oh, sure. I was forgetting Chris carried a hell of a name like that. Letters come here for him sometimes before, I remember now. Long time ago, though.
+#THE POSTMAN.
+It'll get him all right then?
+#JOHNNY.
+Sure thing. He comes here whenever he's in port.
+#THE POSTMAN.
+Sailor, eh?
+#JOHNNY.
+Captain of a coal barge.
+#THE POSTMAN.
+Some job! Well, s'long.
+#JOHNNY.
+S'long. I'll see he gets it. You got good eyes, Larry. Where's it from?
+#LARRY.
+St. Paul. That'll be in Minnesota, I'm thinkin'. Looks like a woman's writing, too, the old divil!
+#JOHNNY.
+He's got a daughter somewheres out West, I think he told me once. Come to think of it, I ain't seen old Chris in a dog's age. Guess I'll be gettin' home. See you to - morrow.
+#LARRY.
+Good - night to ye, boss.
+#CHRIS.
+Hello, Yohnny! Have drink on me. Come on, Larry. Give us drink. Have one yourself. Ay gat money - plenty money.
+#JOHNNY.
+Speak of the devil. We was just talkin' about you.
+#LARRY.
+Hello, Chris. Put it there.
+#CHRIS.
+Give us drink.
+#JOHNNY.
+You got a half - snootful now. Where'd you get it?
+#CHRIS.
+Oder fallar on oder barge - Irish fallar - he gat bottle vhiskey and we drank it, yust us two. Dot vhiskey gat kick, by yingo! Ay yust come ashore. Give us drink, Larry. Ay vas little drunk, not much. Yust feel good.
+#JOHNNY.
+Same old Yosie, eh, Chris?
+#CHRIS.
+You don't know good song when you hear him. Italian fallar on oder barge, he learn me dat. Give us drink.
+#LARRY.
+What's your pleasure, gentlemen?
+#JOHNNY.
+Small beer, Larry.
+#CHRIS.
+Vhiskey - Number Two.
+#LARRY.
+I'll take a cigar on you.
+#CHRIS.
+Skoal!
+#JOHNNY.
+Drink hearty.
+#CHRIS.
+Have oder drink.
+#JOHNNY.
+No. Some other time. Got to go home now. So you've just landed? Where are you in from this time?
+#CHRIS.
+Norfolk. Ve make slow voyage - dirty vedder - yust fog, fog, fog, all bloody time! Ay go open, Larry. Ay forgat. It vas Marthy. She come with me.
+#LARRY.
+He's still got that same cow livin' with him, the old fool!
+#JOHNNY.
+A sport, Chris is. Well, I'll beat it home. S'long.
+#LARRY.
+So long, boss.
+#JOHNNY.
+Oh - don't forget to give him his letter.
+#LARRY.
+I won't.
+#MARTHY.
+What yuh tryin' to do, Dutchy - keep me standin' out there all day?
+#CHRIS.
+Ay'm sorry, Marthy. Ay talk to Yohnny. Ay forgat. What you goin' take for drink?
+#MARTHY.
+Gimme a scoop of lager an' ale.
+#CHRIS.
+Ay go bring him back. Lager and ale for Marthy, Larry. Vhiskey for me.
+#LARRY.
+Right you are. Here's a letter for you - from St. Paul, Minnesota - and a lady's writin'.
+#CHRIS.
+Oh, den it come from my daughter, Anna. She live dere. Ay don't gat letter from Anna - must be a year.
+#LARRY.
+That's a fine fairy tale to be tellin' - your daughter! Sure I'll bet it's some bum.
+#CHRIS.
+No. Dis come from Anna. By golly, Ay tank Ay'm too drunk for read dis letter from Anna. Ay tank Ay sat down for a minute. You bring drinks in back room, Larry.
+#MARTHY.
+Where's my lager an' ale, yuh big stiff?
+#CHRIS.
+Larry bring him.
+#LARRY.
+Good news?
+#MARTHY.
+What's that yuh got - a letter, fur Gawd's sake?
+#CHRIS.
+Py yiminy! Yust tank, Anna say she's comin' here right avay! She gat sick on yob in St. Paul, she say. It's short letter, don't tal me much more'n dat. Py golly, dat's good news all at one time for ole fallar! You know, Marthy, Ay've tole you Ay don't see my Anna since she vas little gel in Sveden five year ole.
+#MARTHY.
+How old'll she be now?
+#CHRIS.
+She must be - lat me see - she must be twenty year ole, py Yo!
+#LARRY.
+You've not seen her in fifteen years?
+#CHRIS.
+No. Ven she vas little gel, Ay vas bo'sun on vindjammer. Ay never gat home only few time dem year. Ay'm fool sailor fallar. My voman - Anna's mother - she gat tired vait all time Sveden for me ven Ay don't never come. She come dis country, bring Anna, dey go out Minnesota, live with her cousins on farm. Den ven her mo'der die ven Ay vas on voyage, Ay tank it's better dem cousins keep Anna. Ay tank it's better Anna live on farm, den she don't know dat ole davil, sea, she don't know fader like me.
+#LARRY.
+This girl, now, 'll be marryin' a sailor herself, likely. It's in the blood.
+#CHRIS.
+No, py God! She don't do dat!
+#MARTHY.
+Hey, look out, yuh nut! Wanta spill my suds for me?
+#LARRY.
+Oho, what's up with you? Ain't you a sailor yourself now, and always been?
+#CHRIS.
+Dat's yust vhy Ay say it. Sailor vas all right fallar, but not for marry gel. No. Ay know dat. Anna's mo'der, she know it, too.
+#LARRY.
+When is your daughter comin'? Soon?
+#CHRIS.
+Py yiminy, Ay forgat. She say she come right avay, dat's all.
+#LARRY.
+She'll maybe be comin' here to look for you, I s'pose.
+#CHRIS.
+Ay gat speak with Larry. Ay be right back. Ay bring you oder drink.
+#MARTHY.
+Sure. That's me.
+#CHRIS.
+Py yingo, Ay gat gat Marthy shore off barge before Anna come! Anna raise hell if she find dat out. Marthy raise hell, too, for go, py golly!
+#LARRY.
+Serve ye right, ye old divil - havin' a woman at your age!
+#CHRIS.
+You tal me lie for tal Marthy, Larry, so's she gat off barge quick.
+#LARRY.
+She knows your daughter's comin'. Tell her to get the hell out of it.
+#CHRIS.
+No. Ay don't like make her feel bad.
+#LARRY.
+You're an old mush! Keep your girl away from the barge, then. She'll likely want to stay ashore anyway. What does she work at, your Anna?
+#CHRIS.
+She stay on dem cousins' farm 'till two year ago. Dan she gat yob nurse gel in St. Paul. But Ay don't vant for her gat yob now. Ay vant for her stay with me.
+#LARRY.
+On a coal barge! She'll not like that, I'm thinkin'.
+#MARTHY.
+Don't I get that bucket o' suds, Dutchy?
+#CHRIS.
+Yes, Ay come, Marthy.
+#LARRY.
+Now you're in for it! You'd better tell her straight to get out!
+#CHRIS.
+Py golly. Marthy -
+#MARTHY.
+Wha's that? I'm wise to what's in back of your nut, Dutchy. Yuh want to git rid o' me, huh? - now she's comin'. Gimme the bum's rush ashore, huh? Lemme tell yuh, Dutchy, there ain't a square - head workin' on a boat man enough to git away with that. Don't start nothin' yuh can't finish!
+#CHRIS.
+Ay don't start nutting, Marthy.
+#MARTHY.
+Ho - ho! Yuh're a scream, Square - head - an honest - ter - Gawd knockout! Ho - ho!
+#CHRIS.
+Ay don't see nutting for laugh at.
+#MARTHY.
+Take a slant in the mirror and yuh'll see. Ho - ho! A square - head tryin' to kid Marthy Owen at this late day! - after me campin' with barge men the last twenty years. I'm wise to the game, up, down, and sideways. I ain't been born and dragged up on the water front for nothin'. Think I'd make trouble, huh? Not me! I'll pack up me duds an' beat it. I'm quittin' yuh, get me? I'm tellin' yuh I'm sick of stickin' with yuh, and I'm leavin' yuh flat, see? There's plenty of other guys on other barges waitin' for me. Always was, I always found. So cheer up, Dutchy! I'll be offen the barge before she comes. You'll be rid o' me for good - and me o' you - good riddance for both of us. Ho - ho!
+#CHRIS.
+Ay don' tank dat. You vas good gel, Marthy.
+#MARTHY.
+Good girl? Aw, can the bull! Well, yuh treated me square, yuhself. So it's fifty - fifty. Nobody's sore at nobody. We're still good frien's, huh?
+#CHRIS.
+Yes, py golly.
+#MARTHY.
+That's the talkin'! In all my time I tried never to split with a guy with no hard feelin's. But what was yuh so scared about - that I'd kick up a row? That ain't Marthy's way. Think I'd break my heart to lose yuh? Commit suicide, huh? Ho - ho! Gawd! The world's full o' men if that's all I'd worry about! Blow me to another scoop, huh? I'll drink your kid's health for yuh.
+#CHRIS.
+Sure tang. Ay go gat him. Oder drink. Same for both.
+#LARRY.
+She's not such a bad lot, that one.
+#CHRIS.
+She's good gel, Ay tal you! Py golly, Ay calabrate now! Give me vhiskey here at bar, too. You have drink, Larry.
+#LARRY.
+You know I never touch it.
+#CHRIS.
+You don't know what you miss. Skoal!
+#MARTHY.
+Gawd!
+#CHRIS.
+Ay'm good singer, yes? Ve drink, eh? Skoal! Ay calabrate! Ay calabrate 'cause Anna's coming home. You know, Marthy, Ay never write for her to come, 'cause Ay tank Ay'm no good for her. But all time Ay hope like hell some day she vant for see me and den she come. And dat's vay it happen now, py yiminy! What you tank she look like, Marthy? Ay bet you she's fine, good, strong gel, pooty like hell! Living on farm made her like dat. And Ay bet you some day she marry good, steady land fallar here in East, have home all her own, have kits - and dan Ay'm ole grandfader, py golly! And Ay go visit dem every time Ay gat in port near! By yiminy crickens, Ay calabrate dat! Bring oder drink, Larry!
+#LARRY.
+Easy there! Don't be breakin' the table, you old goat!
+#CHRIS.
+"My Yosephine comes board de ship - "
+#MARTHY.
+You're soused to the ears, Dutchy. Go out and put a feed into you. It'll sober you up. Listen, yuh old nut! Yuh don't know what time your kid's liable to show up. Yuh want to be sober when she comes, don't yuh?
+#CHRIS.
+Py golly, yes.
+#LARRY.
+That's good sense for you. A good beef stew'll fix you. Go round the corner.
+#CHRIS.
+All right. Ay be back soon, Marthy.
+#LARRY.
+He'll come round all right with some grub in him.
+#MARTHY.
+Sure.
+#ANNA.
+Gimme a whiskey - ginger ale on the side. And don't be stingy, baby.
+#LARRY.
+Shall I serve it in a pail?
+#ANNA.
+That suits me down to the ground. Gee, I needed that bad, all right, all right!
+#MARTHY.
+Sure - yuh look all in. Been on a bat?
+#ANNA.
+No - travelling - day and a half on the train. Had to sit up all night in the dirty coach, too. Gawd, I thought I'd never get here!
+#MARTHY.
+Where'd yuh come from, huh?
+#ANNA.
+St. Paul - out in Minnesota.
+#MARTHY.
+So - yuh're - Gawd!
+#ANNA.
+All the way from Minnesota, sure. What you laughing at? Me?
+#MARTHY.
+No, honest, kid. I was thinkin' of somethin' else.
+#ANNA.
+Well, I wouldn't blame you, at that. Guess I do look rotten - yust out of the hospital two weeks. I'm going to have another 'ski. What d'you say? Have something on me?
+#MARTHY.
+Sure I will. T'anks. Hey, Larry! Little service!
+#ANNA.
+Same for me.
+#MARTHY.
+Same here.
+#ANNA.
+Why don't you come sit over here, be sociable. I'm a dead stranger in this burg - and I ain't spoke a word with no one since day before yesterday.
+#MARTHY.
+Sure thing.
+#ANNA.
+Skoal! Here's how!
+#MARTHY.
+Here's luck!
+#ANNA.
+Let you smoke in here, won't they?
+#MARTHY.
+Sure. On'y trow it away if yuh hear someone comin'.
+#ANNA.
+Gee, they're fussy in this dump, ain't they? Ain't nothing wrong with me, is there? You're looking hard enough.
+#MARTHY.
+Ain't got to look much. I got your number the minute you stepped in the door.
+#ANNA.
+Ain't you smart! Well, I got yours, too, without no trouble. You're me forty years from now. That's you!
+#MARTHY.
+Is that so? Well, I'll tell you straight, kiddo, that Marthy Owen never - What are you and me scrappin' over? Let's cut it out, huh? Me, I don't want no hard feelin's with no one. Shake and forget it, huh?
+#ANNA.
+Only too glad to. I ain't looking for trouble. Let's have 'nother. What d'you say?
+#MARTHY.
+Not for mine. I'm full up. And you - Had anythin' to eat lately?
+#ANNA.
+Not since this morning on the train.
+#MARTHY.
+Then yuh better go easy on it, hadn't yuh?
+#ANNA.
+Guess you're right. I got to meet someone, too. But my nerves is on edge after that rotten trip.
+#MARTHY.
+Yuh said yuh was just outa the hospital?
+#ANNA.
+Two weeks ago. The joint I was in out in St. Paul got raided. That was the start. The judge give all us girls thirty days. The others didn't seem to mind being in the cooler much. Some of 'em was used to it. But me, I couldn't stand it. It got my goat right - couldn't eat or sleep or nothing. I never could stand being caged up nowheres. I got good and sick and they had to send me to the hospital. It was nice there. I was sorry to leave it, honest!
+#MARTHY.
+Did yuh say yuh got to meet someone here?
+#ANNA.
+Yes. Oh, not what you mean. It's my Old Man I got to meet. Honest! It's funny, too. I ain't seen him since I was a kid - don't even know what he looks like - yust had a letter every now and then. This was always the only address he give me to write him back. He's yanitor of some building here now - used to be a sailor.
+#MARTHY.
+Janitor!
+#ANNA.
+Sure. And I was thinking maybe, seeing he ain't never done a thing for me in my life, he might be willing to stake me to a room and eats till I get rested up. Gee, I sure need that rest! I'm knocked out. But I ain't expecting much from him. Give you a kick when you're down, that's what all men do. Men, I hate 'em - all of 'em! And I don't expect he'll turn out no better than the rest. Say, do you hang out around this dump much?
+#MARTHY.
+Oh, off and on.
+#ANNA.
+Then maybe you know him - my Old Man - or at least seen him?
+#MARTHY.
+It ain't old Chris, is it?
+#ANNA.
+Old Chris?
+#MARTHY.
+Chris Christopherson, his full name is.
+#ANNA.
+Yes, that's him! Anna Christopherson - that's my real name - only out there I called myself Anna Christie. So you know him, eh?
+#MARTHY.
+Seen him about for years.
+#ANNA.
+Say, what's he like, tell me, honest?
+#MARTHY.
+Oh, he's short and -
+#ANNA.
+I don't care what he looks like. What kind is he?
+#MARTHY.
+Well, yuh can bet your life, kid, he's as good an old guy as ever walked on two feet. That goes!
+#ANNA.
+I'm glad to hear it. Then you think's he'll stake me to that rest cure I'm after?
+#MARTHY.
+Surest thing you know. But where'd yuh get the idea he was a janitor?
+#ANNA.
+He wrote me he was himself.
+#MARTHY.
+Well, he was lyin'. He ain't. He's captain of a barge - five men under him.
+#ANNA.
+A barge? What kind of a barge?
+#MARTHY.
+Coal, mostly. coal barge! If that ain't a swell job to find your long lost Old Man working at! Gee, I knew something'd be bound to turn out wrong - always does with me. That puts my idea of his giving me a rest on the bum.
+#MARTHY.
+What d'yuh mean?
+#ANNA.
+I s'pose he lives on the boat, don't he?
+#MARTHY.
+Sure. What about it? Can't you live on it, too?
+#ANNA.
+Me? On a dirty coal barge! What d'you think I am?
+#MARTHY.
+What d'yuh know about barges, huh? Bet yuh ain't never seen one. That's what comes of his bringing yuh up inland - away from the old devil sea - where yuh'd be safe - Gawd!
+#ANNA.
+His bringing me up! Is that what he tells people! I like his nerve! He let them cousins of my Old Woman's keep me on their farm and work me to death like a dog.
+#MARTHY.
+Well, he's got queer notions on some things. I've heard him say a farm was the best place for a kid.
+#ANNA.
+Sure. That's what he'd always answer back - and a lot of crazy stuff about staying away from the sea - stuff I couldn't make head or tail to. I thought he must be nutty.
+#MARTHY.
+He is on that one point. So yuh didn't fall for life on the farm, huh?
+#ANNA.
+I should say not! The old man of the family, his wife, and four sons - I had to slave for all of 'em. I was only a poor relation, and they treated me worse than they dare treat a hired girl. It was one of the sons - the youngest - started me - when I was sixteen. After that, I hated 'em so I'd killed 'em all if I'd stayed. So I run away - to St. Paul.
+#MARTHY.
+I've heard Old Chris talkin' about your bein' a nurse girl out there. Was that all a bluff yuh put up when yuh wrote him?
+#ANNA.
+Not on your life, it wasn't. It was true for two years. I didn't go wrong all at one jump. Being a nurse girl was yust what finished me. Taking care of other people's kids, always listening to their bawling and crying, caged in, when you're only a kid yourself and want to go out and see things. At last I got the chance - to get into that house. And you bet your life I took it! And I ain't sorry neither. It was all men's fault - the whole business. It was men on the farm ordering and beating me - and giving me the wrong start. Then when I was a nurse, it was men again hanging around, bothering me, trying to see what they could get. And now it's men all the time. Gawd, I hate 'em all, every mother's son of 'em! Don't you?
+#MARTHY.
+Oh, I dunno. There's good ones and bad ones, kid. You've just had a run of bad luck with 'em, that's all. Your Old Man, now - old Chris - he's a good one.
+#ANNA.
+He'll have to show me.
+#MARTHY.
+Yuh kept right on writing him yuh was a nurse girl still, even after yuh was in the house, didn't yuh?
+#ANNA.
+Sure. Not that I think he'd care a darn.
+#MARTHY.
+Yuh're all wrong about him, kid, I know Old Chris well for a long time. He's talked to me 'bout you lots o' times. He thinks the world o' you, honest he does.
+#ANNA.
+Aw, quit the kiddin'!
+#MARTHY.
+Honest! Only, he's a simple old guy, see? He's got nutty notions. But he means well, honest. Listen to me, kid - Ssshh!
+#ANNA.
+What's up?
+#CHRIS.
+Py golly, Larry, dat grub taste good. Marthy in back?
+#LARRY.
+Sure - and another tramp with her.
+#MARTHY.
+That's him now. He's comin' in here. Brace up!
+#ANNA.
+Who?
+#MARTHY.
+Why hello, Old Chris. Come here. I wanta tell yuh somethin'. Listen! I'm goin' to beat it down to the barge - pack up me duds and blow. That's her in there - your Anna - just come - waitin' for yuh. Treat her right, see? She's been sick. Well, s'long! S'long, kid. I gotta beat it now. See yuh later.
+#ANNA.
+So long. LARRY - Well, what's up now?
+#CHRIS.
+Nutting - nutting. Anna!
+#ANNA.
+Hello - father. She told me it was you. I yust got here a little while ago.
+#CHRIS.
+It's good - for see you - after all dem years, Anna.
+#ANNA.
+It's good to see you, too.
+#CHRIS.
+Anna lilla! Anna lilla!
+#ANNA.
+What's that - Swedish? I don't know it. Gee, I had an awful trip coming here. I'm all in. I had to sit up in the dirty coach all night - couldn't get no sleep, hardly - and then I had a hard job finding this place. I never been in New York before, you know, and -
+#CHRIS.
+You know you vas awful pooty gel, Anna? Ay bet all men see you fall in love with you, py yiminy!
+#ANNA.
+Cut it! You talk same as they all do.
+#CHRIS.
+Ain't no harm for your fader talk dat vay, Anna.
+#ANNA.
+No - course not. Only - it's funny to see you and not remember nothing. You're like - a stranger.
+#CHRIS.
+Ay s'pose. Ay never come home only few times ven you vas kit in Sveden. You don't remember dat?
+#ANNA.
+No. But why didn't you never come home them days? Why didn't you never come out West to see me?
+#CHRIS.
+Ay tank, after your mo'der die, ven Ay vas avay on voyage, it's better for you you don't never see me! Ay don't know, Anna, vhy Ay never come home Sveden in ole year. Ay vant come home end of every voyage. Ay vant see your mo'der, your two bro'der before dey vas drowned, you ven you vas born - but - Ay - don't go. Ay sign on oder ships - go South America, go Australia, go China, go every port all over world many times - but Ay never go aboard ship sail for Sveden. Ven Ay gat money for pay passage home as passenger den - Ay forgat and Ay spend all money. Ven Ay tank again, it's too late. Ay don't know vhy but dat's vay with most sailor fallar, Anna. Dat ole davil sea make dem crazy fools with her dirty tricks. It's so.
+#ANNA.
+Then you think the sea's to blame for everything, eh? Well, you're still workin' on it, ain't you, spite of all you used to write me about hating it. That dame was here told me you was captain of a coal barge - and you wrote me you was yanitor of a building!
+#CHRIS.
+Oh, Ay work on land long time as yanitor. Yust short time ago Ay got dis yob cause Ay vas sick, need open air.
+#ANNA.
+Sick? You? You'd never think it.
+#CHRIS.
+And, Anna, dis ain't real sailor yob. Dis ain't real boat on sea. She's yust ole tub - like piece of land with house on it dat float. Yob on her ain't sea yob. No. Ay don't gat yob on sea, Anna, if Ay die first. Ay swear dat, ven your mo'der die. Ay keep my word, py yingo!
+#ANNA.
+Well, I can't see no difference. Speaking of being sick, I been there myself - yust out of the hospital two weeks ago.
+#CHRIS.
+You, Anna? Py golly! You feel better now, dough, don't you? You look little tired, dat's all!
+#ANNA.
+I am. Tired to death. I need a long rest and I don't see much chance of getting it.
+#CHRIS.
+What you mean, Anna?
+#ANNA.
+Well, when I made up my mind to come to see you, I thought you was a yanitor - that you'd have a place where, maybe, if you didn't mind having me, I could visit a while and rest up - till I felt able to get back on the job again.
+#CHRIS.
+But Ay gat place, Anna - nice place. You rest all you want, py yiminy! You don't never have to vork as nurse gel no more. You stay with me, py golly!
+#ANNA.
+Then you're really glad to see me - honest?
+#CHRIS.
+Anna, Ay like see you like hell, Ay tal you! And don't you talk no more about gatting yob. You stay with me. Ay don't see you for long time, you don't forgat dat. Ay'm gatting ole. Ay gat no one in vorld but you.
+#ANNA.
+Thanks. It sounds good to hear someone - talk to me that way. Say, though - if you're so lonely - it's funny - why ain't you ever married again?
+#CHRIS.
+Ay love your mo'der too much for ever do dat, Anna.
+#ANNA.
+I don't remember nothing about her. What was she like? Tell me.
+#CHRIS.
+Ay tal you all about everytang - and you tal me all tangs happen to you. But not here now. Dis ain't good place for young gel, anyway. Only no good sailor fallar come here for gat drunk. You come with me, Anna. You need lie down, gat rest.
+#ANNA.
+Where're you going?
+#CHRIS.
+Come. Ve gat on board.
+#ANNA.
+On board your barge, you mean? Nix for mine! Do you think that's a good place for a young girl like me - a coal barge?
+#CHRIS.
+Yes, Ay tank. You don't know how nice it's on barge, Anna. Tug come and ve gat towed out on voyage - yust water all round, and sun, and fresh air, and good grub for make you strong, healthy gel. You see many tangs you don't see before. You gat moonlight at night, maybe; see steamer pass; see schooner make sail - see everytang dat's pooty. You need take rest like dat. You work too hard for young gel already. You need vacation, yes!
+#ANNA.
+It sounds good to hear you tell it. I'd sure like a trip on the water, all right. It's the barge idea has me stopped. Well, I'll go down with you and have a look - and maybe I'll take a chance. Gee, I'd do anything once.
+#CHRIS.
+Ye go, eh?
+#ANNA.
+What's the rush? Wait a second. Gee, I'm thirsty.
+#CHRIS.
+Ay'm sorry, Anna. What you tank you like for drink, eh?
+#ANNA.
+I'll take a - I don't know. What'a they got here?
+#CHRIS.
+Ay don't tank dey got much fancy drink for young gel in dis place, Anna. Yinger ale - sas'prilla, maybe.
+#ANNA.
+Make it sas, then.
+#CHRIS.
+Ay tal you, Anna, we calabrate, yes - dis one time because we meet after many year. Dey gat good port wine, Anna. It's good for you. Ay tank - little bit - for give you appetite. It ain't strong, neider. One glass don't go to your head, Ay promise.
+#ANNA.
+All right! I'll take port.
+#CHRIS.
+Ay go gat him.
+#ANNA.
+Gawd, I can't stand this! I better beat it.
+#LARRY.
+Well, who's the blond?
+#CHRIS.
+Dat vas Anna, Larry.
+#LARRY.
+Your daughter, Anna?
+#CHRIS.
+Don't you tank she vas pooty gel, Larry?
+#LARRY.
+Sure! A peach!
+#CHRIS.
+You bet you! Give me drink for take back - one port vine for Anna - she calabrate dis one time with me - and small beer for me.
+#LARRY.
+Small beer for you, eh? She's reformin' you already.
+#CHRIS.
+You bet! You look tired, Anna. Veil, Ay make you take good long rest now. Come, you drink vine. It put new life in you. Skoal, Anna! You know dat Svedish word?
+#ANNA.
+Skoal! Skoal? Guess I know that word, all right, all right! Act II
+#CHRIS.
+Anna! Anna!
+#ANNA.
+Yes, here I am. What d'you want?
+#CHRIS.
+Don't you come turn in, Anna? It's late - after four bells. It ain't good for you stay out here in fog, Ay tank.
+#ANNA.
+Why not? I love this fog! Honest! It's so - Funny and still. I feel as if I was - out of things altogether.
+#CHRIS.
+Fog's vorst one of her dirty tricks, py yingo!
+#ANNA.
+Beefing about the sea again? I'm getting so's I love it, the little I've seen.
+#CHRIS.
+Dat's foolish talk, Anna. You see her more, you don't talk dat vay. But Ay'm glad you like it on barge. Ay'm glad it makes you feel good again. You like live like dis alone with ole fa'der, eh?
+#ANNA.
+Sure I do. Everything's been so different from anything I ever come across before. And now - this fog - Gee, I wouldn't have missed it for nothing. I never thought living on ships was so different from land. Gee, I'd just love to work on it, honest I would, if I was a man. I don't wonder you always been a sailor.
+#CHRIS.
+Ay ain't sailor, Anna. And dis ain't real sea. You only see nice part. Vell, fog lift in morning, Ay tank.
+#ANNA.
+I love it! I don't give a rap if it never lifts! It makes me feel clean - out here - 's if I'd taken a bath.
+#CHRIS.
+You better go in cabin - read book. Dat put you to sleep.
+#ANNA.
+I don't want to sleep. I want to stay out here - and think about things.
+#CHRIS.
+You act funny to - night, Anna.
+#ANNA.
+Say, what're you trying to do - make things rotten? You been kind as kind can be to me and I certainly appreciate it - only don't spoil it all now. Let's talk of something else. Come. Sit down here.
+#CHRIS.
+It's gatting pooty late in night, Anna. Must be near five bells.
+#ANNA.
+Five bells? What time is that?
+#CHRIS.
+Half past ten.
+#ANNA.
+Funny I don't know nothing about sea talk - but those cousins was always talking crops and that stuff. Gee, wasn't I sick of it - and of them!
+#CHRIS.
+You don't like live on farm, Anna?
+#ANNA.
+I've told you a hundred times I hated it. I'd rather have one drop of ocean than all the farms in the world! Honest! And you wouldn't like a farm, neither. Here's where you belong. But not on a coal barge. You belong on a real ship, sailing all over the world.
+#CHRIS.
+Ay've done dat many year, Anna, when Ay vas damn fool.
+#ANNA.
+Oh, rats! Was the men in our family always sailors - as far back as you know about?
+#CHRIS.
+Yes. Damn fools! All men in our village on coast, Sveden, go to sea. Ain't nutting else for dem to do. My fa'der die on board ship in Indian Ocean. He's buried at sea. Ay don't never know him only little bit. Den my tree bro'der, older'n me, dey go on ships. Den Ay go, too. Den my mo'der she's left all 'lone. She die pooty quick after dat - all 'lone. Ve vas all avay on voyage when she die. Two my bro'der dey gat lost on fishing boat same like your bro'ders vas drowned. My oder bro'der, he save money, give up sea, den he die home in bed. He's only one dat ole davil don't kill. But me, Ay bet you Ay die ashore in bed, too!
+#ANNA.
+Were all of 'em yust plain sailors?
+#CHRIS.
+Able body seaman, most of dem. Dey vas all smart seaman, too - A one. Ay vas bo'sun.
+#ANNA.
+Bo'sun?
+#CHRIS.
+Dat's kind of officer.
+#ANNA.
+Gee, that was fine. What does he do?
+#CHRIS.
+Hard vork all time. It's rotten, Ay tal you, for go to sea. Dey're all fool fallar, dem fallar in our family. Dey all vork rotten yob on sea for nutting, don't care nutting but yust gat big pay day in pocket, gat drunk, gat robbed, ship avay again on oder voyage. Dey don't come home, Dey don't do anytang like good man do. And dat ole davil, sea, sooner, later she svallow dem up.
+#ANNA.
+Good sports, I'd call 'em. But say - listen - did all the women of the family marry sailors?
+#CHRIS.
+Yes - and it's bad on dem like hell vorst of all. Dey don't see deir men only once in long while. Dey set and vait all 'lone. And vhen deir boys grows up, go to sea, dey sit and vait some more. Any gel marry sailor, she's crazy fool! Your mo'der she tal you same tang if she vas alive.
+#ANNA.
+Funny! I do feel sort of - nutty, to - night. I feel old.
+#CHRIS.
+Old?
+#ANNA.
+Sure - like I'd been living a long, long time - out here in the fog. I don't know how to tell you yust what I mean. It's like I'd come home after a long visit away some place. It all seems like I'd been here before lots of times - on boats - in this same fog. You must think I'm off my base.
+#CHRIS.
+Anybody feel funny dat vay in fog.
+#ANNA.
+But why d'you s'pose I feel so - so - like I'd found something I'd missed and been looking for - 's if this was the right place for me to fit in? And I seem to have forgot - everything that's happened - like it didn't matter no more. And I feel clean, somehow - like you feel yust after you've took a bath. And I feel happy for once - yes, honest! - happier than I ever been anywhere before! It's nutty for me to feel that way, don't you think?
+#CHRIS.
+Ay tank Ay'm damn fool for bring you on voyage, Anna.
+#ANNA.
+You talk - nutty to - night yourself. You act's if you was scared something was going to happen.
+#CHRIS.
+Only God know dat, Anna.
+#ANNA.
+Then it'll be Gawd's will, like the preachers say - what does happen.
+#CHRIS.
+No! Dat ole davil, sea, she ain't God! "Ahoy!"
+#ANNA.
+What's that?
+#CHRIS.
+Py golly, dat scare me for minute. It's only some fallar hail, Anna - loose his course in fog. Must be fisherman's power boat. His engine break down, Ay guess. Sound from dis side. She come in from open sea. Ahoy, dere! Vhat's trouble?
+#VALSIN.
+Heave a rope when we come alongside. Where are ye, ye scut?
+#CHRIS.
+Ay hear dem rowing. Dey come up by bow, Ay tank. Dis vay!
+#VALSIN.
+Right ye are!
+#ANNA.
+Why don't that guy stay where he belongs?
+#CHRIS.
+Ay go up bow. All hands asleep 'cepting fallar on vatch. Ay gat heave line to dat fallar. Anna! You come help, vill you? You find vhiskey in cabin. Dese fallars need drink for fix dem. Dey vas near dead.
+#ANNA.
+Sure - but who are they? What's the trouble?
+#CHRIS.
+Sailor fallars. Deir steamer gat wrecked. Dey been five days in open boat - four fallars - only one left able stand up. Come, Anna. Go gat oder fallar, Yohnson.
+#JOHNSON.
+Yes, sir.
+#BURKE.
+Row, ye divil! Row! What's this tub? Well, we're safe anyway - with the help of God. Is it losing the small wits ye iver had, ye are? Deck - scrubbing scut! I'm bate out - bate out entirely.
+#ANNA.
+Here you are. Here's a drink for you. You need it, I guess.
+#BURKE.
+Is it dreaming I am?
+#ANNA.
+Drink it and you'll find it ain't no dream.
+#BURKE.
+To hell with the drink - but I'll take it just the same. Aah! I'm needin' that - and 'tis fine stuff. But 'twasn't the booze I meant when I said, was I dreaming. I thought you was some mermaid out of the sea come to torment me. Aye, rale flesh and blood, divil a less.
+#ANNA.
+Cut that.
+#BURKE.
+But tell me, isn't this a barge I'm on - or isn't it?
+#ANNA.
+Sure.
+#BURKE.
+And what is a fine handsome woman the like of you doing on this scow?
+#ANNA.
+Never you mind. Say, you're a great one, honest - starting right in kidding after what you been through.
+#BURKE.
+Ah, it was nothing - aisy for a rale man with guts to him, the like of me. All in the day's work, darlin'. But I won't be denying 'twas a damn narrow squeak. We'd all ought to be with Davy Jones at the bottom of the sea, be rights. And only for me, I'm telling you, and the great strength and guts is in me, we'd be being scoffed by the fishes this minute!
+#ANNA.
+Gee, you hate yourself, don't you? Well, you'd better come in and lie down. You must want to sleep.
+#BURKE.
+Lie down and sleep, is it? Divil a wink I'm after having for two days and nights and divil a bit I'm needing now. Let you not be thinking I'm the like of them three weak scuts come in the boat with me. I could lick the three of them sitting down with one hand tied behind me. They may be bate out, but I'm not - and I've been rowing the boat with them lying in the bottom not able to raise a hand for the last two days we was in it. And I can lick all hands on this tub, wan be wan, tired as I am!
+#ANNA.
+Gee, ain't you a hard guy! But never mind that fight talk. I'll take your word for all you've said. Go on and sit down out here, anyway, if I can't get you to come inside. You're all in, you might as well own up to it.
+#BURKE.
+The hell I am!
+#ANNA.
+Well, be stubborn then for all I care. And I must say I don't care for your language. The men I know don't pull that rough stuff when ladies are around.
+#BURKE.
+Ladies! Ho - ho! Divil mend you! Let you not be making game of me. What would ladies be doing on this bloody hulk? Aisy, now! You're not the old Square - head's woman, I suppose you'll be telling me next - living in his cabin with him, no less! But I do be thinking, iver since the first look my eyes took at you, that it's a fool you are to be wasting yourself - a fine, handsome girl - on a stumpy runt of a man like that old Swede. There's too many strapping great lads on the sea would give their heart's blood for one kiss of you!
+#ANNA.
+Lads like you, eh?
+#BURKE.
+Ye take the words out o' my mouth. I'm the proper lad for you, if it's meself do be saying it. Whisht, now, me daisy! Himself's in the cabin. It's wan of your kisses I'm needing to take the tiredness from me bones. Wan kiss, now!
+#ANNA.
+Leggo of me, you big mut!
+#BURKE.
+God stiffen it!
+#ANNA.
+You're coming to all right, eh? Gee, I was scared for a moment I'd killed you.
+#BURKE.
+Killed, is it? It'd take more than a bit of a blow to crack my thick skull. But, glory be, it's a power of strength is in them two fine arms of yours. There's not a man in the world can say the same as you, that he seen Mat Burke lying at his feet and him dead to the world.
+#ANNA.
+Forget it. I'm sorry it happened, see? Only you had no right to be getting fresh with me. Listen, now, and don't go getting any more wrong notions. I'm on this barge because I'm making a trip with my father. The captain's my father. Now you know.
+#BURKE.
+The old square - the old Swede, I mean?
+#ANNA.
+Yes.
+#BURKE.
+Sure I might have known it, if I wasn't a bloody fool from birth. Where else'd you get that fine yellow hair is like a golden crown on your head.
+#ANNA.
+Say, nothing stops you, does it? But don't you think you ought to be apologizing for what you said and done yust a minute ago, instead of trying to kid me with that mush?
+#BURKE.
+Mush! Indade and I will ask your pardon a thousand times - and on my knees, if ye like. I didn't mean a word of what I said or did. But divil a woman in all the ports of the world has iver made a great fool of me that way before!
+#ANNA.
+I see. You mean you're a lady - killer and they all fall for you.
+#BURKE.
+Leave off your fooling! 'Tis that is after getting my back up at you. 'Tis no lie I'm telling you about the women. Though it's a great jackass I am to be mistaking you, even in anger, for the like of them cows on the waterfront is the only women I've met up with since I was growed to a man. I'm a hard, rough man and I'm not fit, I'm thinking, to be kissing the shoe - soles of a fine, dacent girl the like of yourself. 'Tis only the ignorance of your kind made me see you wrong. So you'll forgive me, for the love of God, and let us be friends from this out. I'm thinking I'd rather be friends with you than have my wish for anything else in the world.
+#ANNA.
+Sure.
+#BURKE.
+God bless you!
+#ANNA.
+Ouch!
+#BURKE.
+Your pardon, Miss. 'Tis a clumsy ape I am. It's great power I have in my hand and arm, and I do be forgetting it at times.
+#ANNA.
+Gee, you're some strong, all right.
+#BURKE.
+It's no lie, and why shouldn't I be, with me shoveling a million tons of coal in the stokeholes of ships since I was a lad only. Let you sit down, now, Miss, and I'll be telling you a bit of myself, and you'll be telling me a bit of yourself, and in an hour we'll be as old friends as if we was born in the same house. Sit down now, if you plaze.
+#ANNA.
+Well - But we won't talk about me, see? You tell me about yourself and about the wreck.
+#BURKE.
+I'll tell you, surely. But can I be asking you one question. Miss, has my head in a puzzle?
+#ANNA.
+Well - I dunno - what is it?
+#BURKE.
+What is it you do when you're not taking a trip with the Old Man? For I'm thinking a fine girl the like of you ain't living always on this tub.
+#ANNA.
+No - of course I ain't. Well, I'll tell you. I'm a governess, see? I take care of kids for people and learn them things.
+#BURKE.
+A governess, is it? You must be smart, surely.
+#ANNA.
+But let's not talk about me. Tell me about the wreck, like you promised me you would.
+#BURKE.
+'Twas this way, Miss. Two weeks out we ran into the divil's own storm, and she sprang wan hell of a leak up for'ard. The skipper was hoping to make Boston before another blow would finish her, but ten days back we met up with another storm the like of the first, only worse. Four days we was in it with green seas raking over her from bow to stern. That was a terrible time, God help us. And if 'twasn't for me and my great strength, I'm telling you - and it's God's truth - there'd been mutiny itself in the stokehole. 'Twas me held them to it, with a kick to wan and a clout to another, and they not caring a damn for the engineers any more, but fearing a clout of my right arm more than they'd fear the sea itself.
+#ANNA.
+You did some hard work, didn't you?
+#BURKE.
+I did that! I'm a divil for sticking it out when them that's weak give up. But much good it did anyone! 'Twas a mad, fightin' scramble in the last seconds with each man for himself. I disremember how it come about, but there was the four of us in wan boat and when we was raised high on a great wave I took a look about and divil a sight there was of ship or men on top of the sea.
+#ANNA.
+Then all the others was drowned?
+#BURKE.
+They was, surely.
+#ANNA.
+What a terrible end!
+#BURKE.
+A terrible end for the like of them swabs does live on land, maybe. But for the like of us does be roaming the seas, a good end, I'm telling you - quick and clane.
+#ANNA.
+Yes, clean. That's yust the word for - all of it - the way it makes me feel.
+#BURKE.
+The sea, you mean? I'm thinking you have a bit of it in your blood, too. Your Old Man wasn't only a barge rat - begging your pardon - all his life, by the cut of him.
+#ANNA.
+No, he was bo'sun on sailing ships for years. And all the men on both sides of the family have gone to sea as far back as he remembers, he says. All the women have married sailors, too.
+#BURKE.
+Did they, now? They had spirit in them. It's only on the sea you'd find rale men with guts is fit to wed with fine, high - tempered girls the like of yourself.
+#ANNA.
+There you go kiddin' again. But you was going to tell me about yourself. You're Irish, of course I can tell that.
+#BURKE.
+Yes, thank God, though I've not seen a sight of it in fifteen years or more.
+#ANNA.
+Sailors never do go home hardly, do they? That's what my father was saying.
+#BURKE.
+He wasn't telling no lie. It's a hard and lonesome life, the sea is. The only women you'd meet in the ports of the world who'd be willing to speak you a kind word isn't woman at all. You know the kind I mane, and they're a poor, wicked lot, God forgive them. They're looking to steal the money from you only.
+#ANNA.
+I think - I guess I'd better see what's doing inside.
+#BURKE.
+Don't go, I'm saying! Is it I've given you offence with my talk of the like of them? Don't heed it at all! I'm clumsy in my wits when it comes to talking proper with a girl the like of you. And why wouldn't I be? Since the day I left home for to go to sea punching coal, this is the first time I've had a word with a rale, dacent woman. So don't turn your back on me now, and we beginning to be friends.
+#ANNA.
+I'm not sore at you, honest.
+#BURKE.
+God bless you!
+#ANNA.
+But if you honestly think the sea's such a rotten life, why don't you get out of it?
+#BURKE.
+Work on land, is it? Digging spuds in the muck from dawn to dark, I suppose? I wasn't made for it, Miss.
+#ANNA.
+I thought you'd say that.
+#BURKE.
+But there's good jobs and bad jobs at sea, like there'd be on land. I'm thinking if it's in the stokehole of a proper liner I was, I'd be able to have a little house and be home to it wan week out of four. And I'm thinking that maybe then I'd have the luck to find a fine dacent girl - the like of yourself, now - would be willing to wed with me.
+#ANNA.
+Why, sure. Why not?
+#BURKE.
+Then you think a girl the like of yourself might maybe not mind the past at all but only be seeing the good herself put in me?
+#ANNA.
+Why, sure.
+#BURKE.
+She'd not be sorry for it, I'd take my oath! 'Tis no more drinking and roving about I'd be doing then, but giving my pay day into her hand and staying at home with her as meek as a lamb each night of the week I'd be in port.
+#ANNA.
+All you got to do is find the girl.
+#BURKE.
+I have found her!
+#ANNA.
+You have? When? I thought you was saying -
+#BURKE.
+This night. If she'll be having me. 'Tis you I mean.
+#ANNA.
+Say - are you - going crazy? Are you trying to kid me? Proposing - to me! - for Gawd's sake! - on such short acquaintance?
+#BURKE.
+I'm telling you there's the will of God in it that brought me safe through the storm and fog to the wan spot in the world where you was! Think of that now, and isn't it queer -
+#CHRIS.
+Anna! Anna, you gat in cabin, you hear!
+#ANNA.
+Who d'you think you're talking to - a slave?
+#CHRIS.
+You need gat rest, Anna. You gat sleep. What you doing here, you sailor fallar? You ain't sick like oders. You gat in fo'c's'tle. Dey give you bunk. You hurry, Ay tal you!
+#ANNA.
+But he is sick. Look at him. He can hardly stand up.
+#BURKE.
+Is it giving me orders ye are, me bucko? Let you look out, then! With wan hand, weak as I am, I can break ye in two and fling the pieces over the side - and your crew after you. I was forgetting. You're her Old Man and I'd not raise a fist to you for the world.
+#ANNA.
+Come on in the cabin. You can have my bed if there ain't no other place.
+#BURKE.
+Glory be to God, is it holding my arm about your neck you are! Anna! Anna! Sure it's a sweet name is suited to you.
+#ANNA.
+Sssh! Sssh!
+#BURKE.
+Whisht, is it? Indade, and I'll not. I'll be roaring it out like a fog horn over the sea! You're the girl of the world and we'll be marrying soon and I don't care who knows it!
+#ANNA.
+Ssshh! Never mind that talk. You go to sleep.
+#CHRIS.
+Dat's your dirty trick, damn ole davil, you! But, py God, you don't do dat! Not while Ay'm living! No, py God, you don't!
+#ANNA.
+I'm glad someone's feeling good. Gee, I sure wish we was out of this dump and back in New York.
+#CHRIS.
+Ay'm glad vhen ve sail again, too. Ay don't see vhy you don't like Boston, dough. You have good time here, Ay tank. You go ashore all time, every day and night veek ve've been here. You go to movies, see show, gat all kinds fun - All with that damn Irish fallar!
+#ANNA.
+Oh, for heaven's sake, are you off on that again? Where's the harm in his taking me around? D'you want me to sit all day and night in this cabin with you - and knit? Ain't I got a right to have as good a time as I can?
+#CHRIS.
+It ain't right kind of fun - not with that fallar, no.
+#ANNA.
+I been back on board every night by eleven, ain't I? Say, look here, what d'you mean by what you yust said?
+#CHRIS.
+Nutting but what Ay say, Anna.
+#ANNA.
+You said "ain't right" and you said it funny. Say, listen here, you ain't trying to insinuate that there's something wrong between us, are you?
+#CHRIS.
+No, Anna! No, Ay svear to God, Ay never tank dat!
+#ANNA.
+Well, don't you never think it neither if you want me ever to speak to you again. If I ever dreamt you thought that, I'd get the hell out of this barge so quick you couldn't see me for dust.
+#CHRIS.
+Ay wouldn't never dream - You vas gatting learn to svear. Dat ain't nice for young gel, you tank?
+#ANNA.
+Excuse me. You ain't used to such language, I know. That's what your taking me to sea has done for me.
+#CHRIS.
+No, it ain't me. It's dat damn sailor fallar learn you bad tangs.
+#ANNA.
+He ain't a sailor. He's a stoker.
+#CHRIS.
+Dat vas million times vorse, Ay tal you! Dem fallars dat vork below shoveling coal vas de dirtiest, rough gang of no - good fallars in vorld!
+#ANNA.
+I'd hate to hear you say that to Mat.
+#CHRIS.
+Oh, Ay tal him same tang. You don't gat it in head Ay'm scared of him yust 'cause he vas stronger'n Ay vas. You don't gat for fight with fists with dem fallars. Dere's oder vay for fix him.
+#ANNA.
+What d'you mean?
+#CHRIS.
+Nutting.
+#ANNA.
+You'd better not. I wouldn't start no trouble with him if I was you. He might forget some time that you was old and my father - and then you'd be out of luck.
+#CHRIS.
+Vell, yust let him! Ay'm ole bird maybe, but Ay bet Ay show him trick or two.
+#ANNA.
+Aw come on, be good. What's eating you, anyway? Don't you want no one to be nice to me except yourself?
+#CHRIS.
+Yes, Ay do, Anna - only not fallar on sea. But Ay like for you marry steady fallar got good yob on land. You have little home in country all your own -
+#ANNA.
+Oh, cut it out! Little home in the country! I wish you could have seen the little home in the country where you had me in jail till I was sixteen! Some day you're going to get me so mad with that talk, I'm going to turn loose on you and tell you - a lot of things that'll open your eyes.
+#CHRIS.
+Ay don't vant -
+#ANNA.
+I know you don't; but you keep on talking yust the same.
+#CHRIS.
+Ay don't talk no more den, Anna.
+#ANNA.
+Then promise me you'll cut out saying nasty things about Mat Burke every chance you get.
+#CHRIS.
+Vhy? You like dat fallar - very much, Anna?
+#ANNA.
+Yes, I certainly do! He's a regular man, no matter what faults he's got. One of his fingers is worth all the hundreds of men I met out there - inland.
+#CHRIS.
+Maybe you tank you love him, den?
+#ANNA.
+What of it if I do?
+#CHRIS.
+Maybe - you tank you - marry him?
+#ANNA.
+No! If I'd met him four years ago - or even two years ago - I'd have jumped at the chance, I tell you that straight. And I would now - only he's such a simple guy - a big kid - and I ain't got the heart to fool him. But don't never say again he ain't good enough for me. It's me ain't good enough for him.
+#CHRIS.
+Py yiminy, you go crazy, Ay tank!
+#ANNA.
+Well, I been thinking I was myself the last few days. Guess I'll take a walk down to the end of the dock for a minute and see what's doing. I love to watch the ships passing. Mat'll be along before long, I guess. Tell him where I am, will you?
+#CHRIS.
+All right, Ay tal him.
+#BURKE.
+Well, God bless who's here! And how is the world treating you this afternoon, Anna's father?
+#CHRIS.
+Pooty goot - if it ain't for some fallars.
+#BURKE.
+Meaning me, do you? Well, if you ain't the funny old crank of a man! Where's herself? Where's Anna, I'm after asking you?
+#CHRIS.
+She go down end of dock.
+#BURKE.
+I'll be going down to her, then. But first I'm thinking I'll take this chance when we're alone to have a word with you. And that word is soon said. I'm marrying your Anna before this day is out, and you might as well make up your mind to it whether you like it or no.
+#CHRIS.
+Ho - ho! Dat's easy for say!
+#BURKE.
+You mean I won't? Is it the like of yourself will stop me, are you thinking?
+#CHRIS.
+Yes, Ay stop it, if it come to vorst.
+#BURKE.
+God help you!
+#CHRIS.
+But ain't no need for me do dat. Anna -
+#BURKE.
+Is it Anna you think will prevent me?
+#CHRIS.
+Yes.
+#BURKE.
+And I'm telling you she'll not. She knows I'm loving her, and she loves me the same, and I know it.
+#CHRIS.
+Ho - ho! She only have fun. She make big fool of you, dat's all!
+#BURKE.
+That's a lie in your throat, divil mend you!
+#CHRIS.
+No, it ain't lie. She tal me yust before she go out she never marry fallar like you.
+#BURKE.
+I'll not believe it. 'Tis a great old liar you are, and a divil to be making a power of trouble if you had your way. But 'tis not trouble I'm looking for, and me sitting down here. Let us be talking it out now as man to man. You're her father, and wouldn't it be a shame for us to be at each other's throats like a pair of dogs, and I married with Anna. So out with the truth, man alive. What is it you're holding against me at all?
+#CHRIS.
+Vell - Ay don't vant for Anna gat married. Listen, you fallar. Ay'm a ole man. Ay don't see Anna for fifteen year. She vas all Ay gat in vorld. And now ven she come on first trip - you tank Ay vant her leave me 'lone again?
+#BURKE.
+Let you not be thinking I have no heart at all for the way you'd be feeling.
+#CHRIS.
+Den you do right tang, eh? You ship avay again, leave Anna alone. Big fallar like you dat's on sea, he don't need vife. He gat new gel in every port, you know dat.
+#BURKE.
+God stiffen you! I'll not be giving you the lie on that. But divil take you, there's a time comes to every man, on sea or land, that isn't a born fool, when he's sick of the lot of them cows, and wearing his heart out to meet up with a fine dacent girl, and have a home to call his own and be rearing up children in it. 'Tis small use you're asking me to leave Anna. She's the wan woman of the world for me, and I can't live without her now, I'm thinking.
+#CHRIS.
+You forgat all about her in one veek out of port, Ay bet you!
+#BURKE.
+You don't know the like I am. Death itself wouldn't make me forget her. So let you not be making talk to me about leaving her. I'll not, and be damned to you! It won't be so bad for you as you'd make out at all. She'll be living here in the States, and her married to me. And you'd be seeing her often so - a sight more often than ever you saw her the fifteen years she was growing up in the West. It's quare you'd be the one to be making great trouble about her leaving you when you never laid eyes on her once in all them years.
+#CHRIS.
+Ay taught it vas better Anna stay avay, grow up inland where she don't ever know ole davil, sea.
+#BURKE.
+Is it blaming the sea for your troubles ye are again, God help you? Well, Anna knows it now. 'Twas in her blood, anyway.
+#CHRIS.
+And Ay don't vant she ever know no - good fallar on sea -
+#BURKE.
+She knows one now.
+#CHRIS.
+Dat's yust it! Dat's yust what you are - no - good, sailor fallar! You tank Ay lat her life be made sorry by you like her mo'der's vas by me! No, Ay svear! She don't marry you if Ay gat kill you first!
+#BURKE.
+Ho - ho! Glory be to God, it's bold talk you have for a stumpy runt of a man!
+#CHRIS.
+Vell - you see!
+#BURKE.
+I'll see, surely! I'll see myself and Anna married this day, I'm telling you! It's quare fool's blather you have about the sea done this and the sea done that. You'd ought to be shamed to be saying the like, and you an old sailor yourself. I'm after hearing a lot of it from you and a lot more that Anna's told me you do be saying to her, and I'm thinking it's a poor weak thing you are, and not a man at all!
+#CHRIS.
+You see if Ay'm man - maybe quicker'n you tank.
+#BURKE.
+Yerra, don't be boasting. I'm thinking 'tis out of your wits you've got with fright of the sea. You'd be wishing Anna married to a farmer, she told me. That'd be a swate match, surely! Would you have a fine girl the like of Anna lying down at nights with a muddy scut stinking of pigs and dung? Or would you have her tied for life to the like of them skinny, shrivelled swabs does be working in cities?
+#CHRIS.
+Dat's lie, you fool!
+#BURKE.
+'Tis not. 'Tis your own mad notions I'm after telling. But you know the truth in your heart, if great fear of the sea has made you a liar and coward itself. The sea's the only life for a man with guts in him isn't afraid of his own shadow! 'Tis only on the sea he's free, and him roving the face of the world, seeing all things, and not giving a damn for saving up money, or stealing from his friends, or any of the black tricks that a landlubber'd waste his life on. 'Twas yourself knew it once, and you a bo'sun for years.
+#CHRIS.
+You vas crazy fool, Ay tal you!
+#BURKE.
+You've swallowed the anchor. The sea give you a clout once knocked you down, and you're not man enough to get up for another, but lie there for the rest of your life howling bloody murder. Isn't it myself the sea has nearly drowned, and me battered and bate till I was that close to hell I could hear the flames roaring, and never a groan out of me till the sea gave up and it seeing the great strength and guts of a man was in me?
+#CHRIS.
+Yes, you vas hell of fallar, hear you tal it!
+#BURKE.
+You'll be calling me a liar once too often, me old bucko! Wasn't the whole story of it and my picture itself in the newspapers of Boston a week back? Sure I'd like to see you in the best of your youth do the like of what I done in the storm and after. 'Tis a mad lunatic, screeching with fear, you'd be this minute!
+#CHRIS.
+Ho - ho! You vas young fool! In ole years when Ay was on windyammer, Ay vas through hundred storms vorse'n dat! Ships vas ships den - and men dat sail on dem vas real men. And now what you gat on steamers? You gat fallars on deck don't know ship from mudscow. And below deck you gat fallars yust know how for shovel coal - might yust as veil vork on coal vagon ashore!
+#BURKE.
+Is it casting insults at the men in the stokehole ye are, ye old ape? God stiffen you! Wan of them is worth any ten stock - fish - swilling Square - heads ever shipped on a windbag!
+#CHRIS.
+Irish svine, you!
+#BURKE.
+Don't ye like the Irish, ye old babboon? 'Tis that you're needing in your family, I'm telling you - an Irishman and a man of the stokehole - to put guts in it so that you'll not be having grandchildren would be fearful cowards and jackasses the like of yourself!
+#CHRIS.
+You look out!
+#BURKE.
+And it's that you'll be having, no matter what you'll do to prevent; for Anna and me'll be married this day, and no old fool the like of you will stop us when I've made up my mind.
+#CHRIS.
+You don't!
+#BURKE.
+Old men is getting childish shouldn't play with knives. I've half a mind to hit you a great clout will put sense in your square head. Kape off me now, I'm warning you!
+#BURKE.
+Now don't be coming at me again, I'm saying, or I'll flatten you on the floor with a blow, if 'tis Anna's father you are itself! I've no patience left for you. Well, 'tis a bold old man you are just the same, and I'd never think it was in you to come tackling me alone.
+#ANNA.
+Hello, Mat. Are you here already? I was down - What's up? How'd that chair get knocked over? You ain't been fighting with him, Mat - after you promised?
+#BURKE.
+I've not laid a hand on him, Anna.
+#ANNA.
+with a reassuring smile.] Let you not be worried at all. 'Twas only a bit of an argument we was having to pass the time till you'd come.
+#ANNA.
+It must have been some argument when you got to throwing chairs. Why don't you say something? What was it about?
+#CHRIS.
+Ve vas talking about ships and fallars on sea.
+#ANNA.
+Oh - the old stuff, eh?
+#BURKE.
+He's not after telling you the whole of it. We was arguing about you mostly.
+#ANNA.
+About me?
+#BURKE.
+And we'll be finishing it out right here and now in your presence if you're willing.
+#ANNA.
+Sure. Tell me what it's all about.
+#CHRIS.
+No! You don't do dat, you! You tal him you don't vant for hear him talk, Anna.
+#ANNA.
+But I do. I want this cleared up.
+#CHRIS.
+Vell, not now, anyvay. You vas going ashore, yes? You ain't got time -
+#ANNA.
+Yes, right here and now. You tell me, Mat, since he don't want to.
+#BURKE.
+The whole of it's in a few words only. So's he'd make no mistake, and him hating the sight of me, I told him in his teeth I loved you. And that's God truth, Anna, and well you know it!
+#CHRIS.
+Ho - ho! He tal same tang to gel every port he go!
+#ANNA.
+Shut up, can't you? I know it's true, Mat. I don't mind what he says.
+#BURKE.
+God bless you!
+#ANNA.
+And then what?
+#BURKE.
+And then - And then I said - I said I was sure - I told him I thought you have a bit of love for me, too. Say you do, Anna! Let you not destroy me entirely, for the love of God!
+#ANNA.
+So you told him that, Mat? No wonder he was mad. Well, maybe it's true, Mat. Maybe I do. I been thinking and thinking - I didn't want to, Mat, I'll own up to that - I tried to cut it out - but - I guess I can't help it anyhow. So I guess I do, Mat. Sure I do! What's the use of kidding myself different? Sure I love you, Mat!
+#CHRIS.
+Anna!
+#BURKE.
+God be praised!
+#ANNA.
+And I ain't never loved a man in my life before, you can always believe that - no matter what happens.
+#BURKE.
+Sure I do be believing ivery word you iver said or iver will say. And 'tis you and me will be having a grand, beautiful life together to the end of our days!
+#ANNA.
+Good - bye.
+#BURKE.
+Good - bye, is it? The divil you say! I'll be coming back at you in a second for more of the same! Now, me old bucko, what'll you be saying? You heard the words from her own lips. Confess I've bate you. Own up like a man when you're bate fair and square. And here's my hand to you - And let you take it and we'll shake and forget what's over and done, and be friends from this out.
+#CHRIS.
+Ay don't shake hands vith you fallar - not vhile Ay live!
+#BURKE.
+The back of my hand to you then, if that suits you better. 'Tis a rotten bad loser you are, divil mend you!
+#CHRIS.
+Ay don't lose - Anna say she like you little bit but you don't hear her say she marry you, Ay bet.
+#BURKE.
+No, and I wasn't hearing her say the sun is shining either.
+#CHRIS.
+Dat's all right. She don't say it, yust same.
+#ANNA.
+No, I didn't say it, Mat.
+#CHRIS.
+Dere! You hear!
+#BURKE.
+You're waiting till you do be asked, you mane? Well, I'm asking you now. And we'll be married this day, with the help of God!
+#ANNA.
+You heard what I said, Mat - after I kissed you?
+#BURKE.
+No - I disremember.
+#ANNA.
+I said good - bye. That kiss was for good - bye, Mat.
+#BURKE.
+What d'you mane?
+#ANNA.
+I can't marry you, Mat - and we've said good - bye. That's all.
+#CHRIS.
+Ay know it! Ay know dat vas so!
+#BURKE.
+Anna! Is it making game of me you'd be? 'Tis a quare time to joke with me, and don't be doing it, for the love of God.
+#ANNA.
+D'you think I'd kid you now? No, I'm not joking, Mat. I mean what I said.
+#BURKE.
+Ye don't! Ye can't! 'Tis mad you are. I'm telling you!
+#ANNA.
+No I'm not.
+#BURKE.
+But what's come over you so sudden? You was saying you loved me -
+#ANNA.
+I'll say that as often as you want me to. It's true.
+#BURKE.
+Then why - what, in the divil's name - Oh, God help me, I can't make head or tail to it at all!
+#ANNA.
+Because it's the best way out I can figure, Mat. I been thinking it over and thinking it over day and night all week. Don't think it ain't hard on me, too, Mat.
+#BURKE.
+For the love of God, tell me then, what is it that's preventing you wedding me when the two of us has love? Is it giving heed to the like of that old fool ye are, and him hating me and filling your ears full of bloody lies against me?
+#CHRIS.
+Yes, Anna believe me, not you! She know her old fa'der don't lie like you.
+#ANNA.
+You sit down, d'you hear? Where do you come in butting in and making things worse? You're like a devil, you are! Good Lord, and I was beginning to like you, beginning to forget all I've got held up against you!
+#CHRIS.
+You ain't got nutting for hold against me, Anna.
+#ANNA.
+Ain't I yust! Well, lemme tell you - Say, Mat, I'm s'prised at you. You didn't think anything he'd said -
+#BURKE.
+Sure, what else would it be?
+#ANNA.
+Think I've ever paid any attention to all his crazy bull? Gee, you must take me for a five - year - old kid.
+#BURKE.
+I don't know how to take you, with your saying this one minute and that the next.
+#ANNA.
+Well, he has nothing to do with it.
+#BURKE.
+Then what is it has? Tell me, and don't keep me waiting and sweating blood.
+#ANNA.
+I can't tell you - and I won't. I got a good reason - and that's all you need to know. I can't marry you, that's all there is to it. So, for Gawd's sake, let's talk of something else.
+#BURKE.
+I'll not! Is it married to someone else you are - in the West maybe?
+#ANNA.
+I should say not.
+#BURKE.
+To the divil with all other reasons then. They don't matter with me at all. I'm thinking you're the like of them women can't make up their mind till they're drove to it. Well, then, I'll make up your mind for you bloody quick. We've had enough of talk! Let you be going into your room now and be dressing in your best and we'll be going ashore.
+#CHRIS.
+No, py God, she don't do that!
+#ANNA.
+Say, where do you get that stuff?
+#BURKE.
+Never mind, now! Let you go get dressed, I'm saying, We'll be seeing who'll win in the end - me or you.
+#CHRIS.
+You stay right here, Anna, you hear!
+#BURKE.
+She'll not! She'll do what I say! You've had your hold on her long enough. It's my turn now.
+#ANNA.
+Your turn? Say, what am I, anyway?
+#BURKE.
+'Tis not what you are, 'tis what you're going to be this day - and that's wedded to me before night comes. Hurry up now with your dressing.
+#CHRIS.
+You don't do one tang he say, Anna!
+#BURKE.
+She will, so!
+#CHRIS.
+Ay tal you she don't! Ay'm her fa'der.
+#BURKE.
+She will in spite of you. She's taking my orders from this out, not yours.
+#ANNA.
+Orders is good!
+#BURKE.
+Hurry up now, and shake a leg. We've no time to be wasting. Do you hear what I'm telling you?
+#CHRIS.
+You stay dere, Anna!
+#ANNA.
+You can go to hell, both of you! You're just like all the rest of them - you two! Gawd, you'd think I was a piece of furniture! I'll show you! Sit down now! Sit down and let me talk for a minute. You're all wrong, see? Listen to me! I'm going to tell you something - and then I'm going to beat it. I'm going to tell you a funny story, so pay attention. I've been meaning to turn it loose on him every time he'd get my goat with his bull about keeping me safe inland. I wasn't going to tell you, but you've forced me into it. What's the dif? It's all wrong anyway, and you might as well get cured that way as any other. Only don't forget what you said a minute ago about it not mattering to you what other reason I got so long as I wasn't married to no one else.
+#BURKE.
+That's my word, and I'll stick to it!
+#ANNA.
+What a chance! You make me laugh, honest! Want to bet you will? Wait 'n see! First thing is, I want to tell you two guys something. You was going on's if one of you had got to own me. But nobody owns me, see? - 'cepting myself. I'll do what I please and no man, I don't give a hoot who he is, can tell me what to do! I ain't asking either of you for a living. I can make it myself - one way or other. I'm my own boss. So put that in your pipe and smoke it! You and your orders!
+#BURKE.
+I wasn't meaning it that way at all and well you know it. You've no call to be raising this rumpus with me.
+#ANNA.
+I'm coming to him. But you - you did mean it that way, too. You sounded - yust like all the rest. But, damn it, shut up! Let me talk for a change!
+#BURKE.
+'Tis quare, rough talk, that - for a dacent girl the like of you!
+#ANNA.
+Decent? Who told you I was? Don't go to sleep, Old Man! Listen here, I'm talking to you now!
+#CHRIS.
+Ay don't vant for hear it. You vas going out of head, Ay tank, Anna.
+#ANNA.
+Well, living with you is enough to drive anyone off their nut. Your bunk about the farm being so fine! Didn't I write you year after year how rotten it was and what a dirty slave them cousins made of me? What'd you care? Nothing! Not even enough to come out and see me! That crazy bull about wanting to keep me away from the sea don't go down with me! You yust didn't want to be bothered with me! You're like all the rest of 'em!
+#CHRIS.
+Anna! It ain't so -
+#ANNA.
+But one thing I never wrote you. It was one of them cousins that you think is such nice people - the youngest son - Paul - that started me wrong. It wasn't none of my fault. I hated him worse 'n hell and he knew it. But he was big and strong - like you!
+#BURKE.
+God blarst it!
+#CHRIS.
+Anna!
+#ANNA.
+That was why I run away from the farm. That was what made me get a yob as nurse girl in St. Paul. And you think that was a nice yob for a girl, too, don't you? With all them nice inland fellers yust looking for a chance to marry me, I s'pose. Marry me? What a chance! They wasn't looking for marrying. I'm owning up to everything fair and square. I was caged in, I tell you - yust like in yail - taking care of other people's kids - listening to 'em bawling and crying day and night - when I wanted to be out - and I was lonesome - lonesome as hell! So I give up finally. What was the use? You don't say nothing - either of you - but I know what you're thinking. You're like all the rest! And who's to blame for it, me or you? If you'd even acted like a man - if you'd even been a regular father and had me with you - maybe things would be different!
+#CHRIS.
+Don't talk dat vay, Anna! Ay go crazy! Ay von't listen!
+#ANNA.
+You will too listen! You - keeping me safe inland - I wasn't no nurse girl the last two years - I lied when I wrote you - I was in a house, that's what! - yes, that kind of a house - the kind sailors like you and Mat goes to in port - and your nice inland men, too - and all men, God damn 'em! I hate 'em! Hate 'em!
+#CHRIS.
+Anna! Anna! It's lie! It's lie!
+#BURKE.
+So that's what's in it!
+#ANNA.
+I s'pose you remember your promise, Mat? No other reason was to count with you so long as I wasn't married already. So I s'pose you want me to get dressed and go ashore, don't you? Yes, you do!
+#BURKE.
+God stiffen you!
+#ANNA.
+I s'pose if I tried to tell you I wasn't - that - no more you'd believe me, wouldn't you? Yes, you would! And if I told you that yust getting out in this barge, and being on the sea had changed me and made me feel different about things,'s if all I'd been through wasn't me and didn't count and was yust like it never happened - you'd laugh, wouldn't you? And you'd die laughing sure if I said that meeting you that funny way that night in the fog, and afterwards seeing that you was straight goods stuck on me, had got me to thinking for the first time, and I sized you up as a different kind of man - a sea man as different from the ones on land as water is from mud - and that was why I got stuck on you, too. I wanted to marry you and fool you, but I couldn't. Don't you see how I'd changed? I couldn't marry you with you believing a lie - and I was shamed to tell you the truth - till the both of you forced my hand, and I seen you was the same as all the rest. And now, give me a bawling out and beat it, like I can tell you're going to. Will you believe it if I tell you that loving you has made me - clean? It's the straight goods, honest! Like hell you will! You're like all the rest!
+#BURKE.
+The rest, is it? God's curse on you! Clane, is it? You slut, you, I'll be killing you now!
+#CHRIS.
+Stop, you crazy fool! You vant for murder her!
+#ANNA.
+Well, ain't you got the nerve to do it? Go ahead! I'll be thankful to you, honest. I'm sick of the whole game.
+#BURKE.
+I can't do it, God help me, and your two eyes looking at me. Though I do be thinking I'd have a good right to smash your skull like a rotten egg. Was there iver a woman in the world had the rottenness in her that you have, and was there iver a man the like of me was made the fool of the world, and me thinking thoughts about you, and having great love for you, and dreaming dreams of the fine life we'd have when we'd be wedded! Yerra, God help me! I'm destroyed entirely and my heart is broken in bits! I'm asking God Himself, was it for this He'd have me roaming the earth since I was a lad only, to come to black shame in the end, where I'd be giving a power of love to a woman is the same as others you'd meet in any hooker - shanty in port, with red gowns on them and paint on their grinning mugs, would be sleeping with any man for a dollar or two!
+#ANNA.
+Don't, Mat! For Gawd's sake! Get out of here! Leave me alone! Get out of here!
+#BURKE.
+I'll be going, surely! And I'll be drinking sloos of whiskey will wash that black kiss of yours off my lips; and I'll be getting dead rotten drunk so I'll not remember if 'twas iver born you was at all; and I'll be shipping away on some boat will take me to the other end of the world where I'll never see your face again!
+#CHRIS.
+No, you don't go. Ay tank maybe it's better Anna marry you now.
+#BURKE.
+Lave go of me, ye old ape! Marry her, is it? I'd see her roasting in hell first! I'm shipping away out of this, I'm telling you! And my curse on you and the curse of Almighty God and all the Saints! You've destroyed me this day and may you lie awake in the long nights, tormented with thoughts of Mat Burke and the great wrong you've done him!
+#ANNA.
+Mat!
+#CHRIS.
+Ay tank Ay go ashore, too.
+#ANNA.
+Not after him! Let him go! Don't you dare -
+#CHRIS.
+Ay go for gat drink.
+#ANNA.
+So I'm driving you to drink, too, eh? I s'pose you want to get drunk so's you can forget - like him?
+#CHRIS.
+Yes, Ay vant! You tank Ay like hear dem tangs. Ay tank you vasn't dat kind of gel, Anna.
+#ANNA.
+And I s'pose you want me to beat it, don't you? You don't want me here disgracing you, I s'pose?
+#CHRIS.
+No, you stay here! Ain't your fault, Anna, Ay know dat. It's dat ole davil, sea, do this to me! It's her dirty tricks! It vas all right on barge with yust you and me. Den she bring dat Irish fallar in fog, she make you like him, she make you fight with me all time! If dat Irish fallar don't never come, you don't never tal me dem tangs, Ay don't never know, and every tang's all right. Dirty ole davil!
+#ANNA.
+Oh, what's the use? Go on ashore and get drunk.
+#CHRIS.
+You vait here, Anna?
+#ANNA.
+Maybe - and maybe not. Maybe I'll get drunk, too. Maybe I'll - But what the hell do you care what I do? Go on and beat it.
+#ANNA.
+Come in. Come in. It's foggy.
+#ANNA.
+So you come back at last, did you? You're a fine looking sight! I thought you'd beaten it for good on account of the disgrace I'd brought on you.
+#CHRIS.
+Don't say dat, Anna, please!
+#ANNA.
+What's the trouble? Feeling sick?
+#CHRIS.
+Inside my head feel sick.
+#ANNA.
+Well, what d'you expect after being soused for two days? It serves you right. A fine thing - you leaving me alone on this barge all that time!
+#CHRIS.
+Ay'm sorry, Anna.
+#ANNA.
+Sorry!
+#CHRIS.
+But Ay'm not sick inside head vay you mean. Ay'm sick from tank too much about you, about me.
+#ANNA.
+And how about me? D'you suppose I ain't been thinking, too?
+#CHRIS.
+Ay'm sorry, Anna. You pack your bag, Anna? You vas going - ?
+#ANNA.
+Yes, I was going right back to what you think.
+#CHRIS.
+Anna!
+#ANNA.
+I went ashore to get a train for New York. I'd been waiting and waiting 'till I was sick of it. Then I changed my mind and decided not to go to - day. But I'm going first thing to - morrow, so it'll all be the same in the end.
+#CHRIS.
+No, you never do dat, Anna!
+#ANNA.
+Why not, I'd like to know?
+#CHRIS.
+You don't never gat to do - dat vay - no more, Ay tal you. Ay fix dat up all right.
+#ANNA.
+Fix what up?
+#CHRIS.
+You vas vaiting, you say? You vasn't vaiting for me, Ay bet.
+#ANNA.
+You'd win.
+#CHRIS.
+For dat Irish fallar?
+#ANNA.
+Yes - if you want to know! If he did come back it'd only because he wanted to beat me up or kill me, I suppose. But even if he did, I'd rather have him come than not show up at all. I wouldn't care what he did.
+#CHRIS.
+Ay guess it's true you vas in love with him all right.
+#ANNA.
+You guess!
+#CHRIS.
+And Ay'm sorry for you like hell he don't come, Anna!
+#ANNA.
+Seems to me you've changed your tune a lot.
+#CHRIS.
+Ay've been tanking, and Ay guess it vas all my fault - all bad tangs dat happen to you. You try for not hate me, Anna. Ay'm crazy ole fool, dat's all.
+#ANNA.
+Who said I hated you?
+#CHRIS.
+Ay'm sorry for everytang Ay do wrong for you, Anna. Ay vant for you be happy all rest of your life for make up! It make you happy marry dat Irish fallar, Ay vant it, too.
+#ANNA.
+- Well, there ain't no chance. But I'm glad you think different about it, anyway.
+#CHRIS.
+And you tank - maybe - you forgive me sometime?
+#ANNA.
+I'll forgive you right now.
+#CHRIS.
+Anna lilla! Anna lilla!
+#ANNA.
+Don't bawl about it. There ain't nothing to forgive, anyway. It ain't your fault, and it ain't mine, and it ain't his neither. We're all poor nuts, and things happen, and we yust get mixed in wrong, that's all.
+#CHRIS.
+You say right tang, Anna, py golly! It ain't nobody's fault! It's dat ole davil, sea!
+#ANNA.
+Gee, won't you ever can that stuff? You said a minute ago you'd fixed something up - about me. What was it?
+#CHRIS.
+Ay'm shipping avay on sea again, Anna.
+#ANNA.
+You're - what?
+#CHRIS.
+Ay sign on steamer sail to - morrow. Ay gat my ole yob - bo'sun. Ay tank dat's best tang for you. Ay only bring you bad luck, Ay tank. Ay make your mo'der's life sorry. Ay don't vant make yours dat way, but Ay do yust same. Dat ole davil, sea, she make me Yonah man ain't no good for nobody. And Ay tank now it ain't no use fight with sea. No man dat live going to beat her, py yingo!
+#ANNA.
+So that's how you've fixed me, is it?
+#CHRIS.
+Yes, Ay tank if dat ole davil gat me back she leave you alone den.
+#ANNA.
+But, for Gawd's sake, don't you see, you're doing the same thing you've always done? Don't you see - ? But what's the use of talking. You ain't right, that's what. I'll never blame you for nothing no more. But how you could figure out that was fixing me - !
+#CHRIS.
+Dat ain't all. Ay gat dem fallars in steam - ship office to pay you all money coming to me every month vhile Ay'm avay.
+#ANNA.
+Thanks. But I guess I won't be hard up for no small change.
+#CHRIS.
+It ain't much, Ay know, but it's plenty for keep you so you never gat go.
+#ANNA.
+Shut up, will you? We'll talk about it later, see?
+#CHRIS.
+You like Ay go ashore look for dat Irish fallar, Anna?
+#ANNA.
+Not much! Think I want to drag him back?
+#CHRIS.
+Py golly, dat booze don't go veil. Give me fever, Ay tank, Ay feel hot like hell.
+#ANNA.
+What you got in your pocket, for Pete's sake - a ton of lead? A gun? What were you doing with this?
+#CHRIS.
+Ay forgat. Ain't nutting. Ain't loaded, anyvay.
+#ANNA.
+That ain't telling me why you got it?
+#CHRIS.
+Ay'm ole fool. Ay gat it vhen Ay go ashore first. Ay tank den it's all fault of dat Irish fallar.
+#ANNA.
+Say, you're crazier than I thought. I never dreamt you'd go that far.
+#CHRIS.
+Ay don't. Ay gat better sense right avay. Ay don't never buy bullets even. It ain't his fault, Ay know.
+#ANNA.
+Well, I'll take care of this for a while, loaded or not.
+#CHRIS.
+Throw it overboard if you vant. Ay don't care, Py golly, Ay tank Ay go lie down. Ay feel sick. Ve talk again before Ay go, yes?
+#ANNA.
+Where's this ship going to?
+#CHRIS.
+Cape Town. Dat's in South Africa. She's British steamer called Londonderry. Anna - you forgive me sure?
+#ANNA.
+Sure I do. You ain't to blame. You're yust - what you are - like me.
+#CHRIS.
+Den - you lat me kiss you again once?
+#ANNA.
+Sure. No hard feelings.
+#CHRIS.
+Anna lilla! Ay - Ay can't say it. Good - night, Anna.
+#ANNA.
+Good - night. Gawd, I can't stand this much longer! What am I waiting for anyway? - like a damn fool! Mat!
+#BURKE.
+Let you not be hiding from me, whoever's here - though 'tis well you know I'd have a right to come back and murder you. There's no one here, I'm thinking, and 'tis a great fool I am to be coming. Yerra, Mat Burke, 'tis a great jackass you've become and what's got into you at all, at all? She's gone out of this long ago, I'm telling you, and you'll never see her face again. What's this? It's hers. She's not gone! But where is she? Ashore? What would she be doing ashore on this rotten night? 'Tis that, is it? Oh, God's curse on her! I'll wait 'till she comes and choke her dirty life out.
+#ANNA.
+What are you doing here?
+#BURKE.
+Glory be to God!
+#ANNA.
+Well, can't you talk?
+#BURKE.
+You've a year's growth scared out of me, coming at me so sudden and me thinking I was alone.
+#ANNA.
+You've got your nerve butting in here without knocking or nothing. What d'you want?
+#BURKE.
+Oh, nothing much. I was wanting to have a last word with you, that's all.
+#ANNA.
+Careful now! Don't try getting too close. I heard what you said you'd do to me.
+#BURKE.
+Is it murdering me you'd be now, God forgive you? Or is it thinking I'd be frightened by that old tin whistle?
+#ANNA.
+Look out, I tell you!
+#BURKE.
+Let you shoot, then! Let you shoot, I'm saying, and be done with it! Let you end me with a shot and I'll be thanking you, for it's a rotten dog's life I've lived the past two days since I've known what you are, 'til I'm after wishing I was never born at all!
+#ANNA.
+What d'you want coming here? Why don't you beat it? Go on!
+#BURKE.
+'Tis right you'd be asking why did I come. 'Tis because 'tis a great weak fool of the world I am, and me tormented with the wickedness you'd told of yourself, and drinking oceans of booze that'd make me forget. Forget? Divil a word I'd forget, and your face grinning always in front of my eyes, awake or asleep, 'til I do be thinking a madhouse is the proper place for me.
+#ANNA.
+You look like you ought to be put away some place. Wonder you wasn't pulled in. You been scrapping, too, ain't you?
+#BURKE.
+I have - with every scut would take off his coat to me! And each time I'd be hitting one a clout in the mug, it wasn't his face I'd be seeing at all, but yours, and me wanting to drive you a blow would knock you out of this world where I wouldn't be seeing or thinking more of you.
+#ANNA.
+Thanks!
+#BURKE.
+That's right, make game of me! Oh, I'm a great coward surely, to be coming back to speak with you at all. You've a right to laugh at me.
+#ANNA.
+I ain't laughing at you, Mat.
+#BURKE.
+You to be what you are, and me to be Mat Burke, and me to be drove back to look at you again! 'Tis black shame is on me!
+#ANNA.
+Then get out. No one's holding you!
+#BURKE.
+And me to listen to that talk from a woman like you and be frightened to close her mouth with a slap! Oh, God help me, I'm a yellow coward for all men to spit at! But I'll not be getting out of this 'till I've had me word. And let you look out how you'd drive me! Don't be angry now! I'm raving like a real lunatic, I'm thinking, and the sorrow you put on me has my brains drownded in grief. Tell me it's a lie, I'm saying! That's what I'm after coming to hear you say.
+#ANNA.
+A lie? What?
+#BURKE.
+All the badness you told me two days back. Sure it must be a lie! You was only making game of me, wasn't you? Tell me 'twas a lie, Anna, and I'll be saying prayers of thanks on my two knees to the Almighty God!
+#ANNA.
+I can't. Mat. Oh, Mat, won't you see that no matter what I was I ain't that any more? Why, listen! I packed up my bag this afternoon and went ashore. I'd been waiting here all alone for two days, thinking maybe you'd come back - thinking maybe you'd think over all I'd said - and maybe - oh, I don't know what I was hoping! But I was afraid to even go out of the cabin for a second, honest - afraid you might come and not find me here. Then I gave up hope when you didn't show up and I went to the railroad station. I was going to New York. I was going back -
+#BURKE.
+God's curse on you!
+#ANNA.
+Listen, Mat! You hadn't come, and I'd gave up hope. But - in the station - I couldn't go. I'd bought my ticket and everything. But I got to thinking about you - and I couldn't take the train - I couldn't! So I come back here - to wait some more. Oh, Mat, don't you see I've changed? Can't you forgive what's dead and gone - and forget it?
+#BURKE.
+Forget, is it? I'll not forget 'til my dying day, I'm telling you, and me tormented with thoughts. Oh, I'm wishing I had wan of them fornenst me this minute and I'd beat him with my fists 'till he'd be a bloody corpse! I'm wishing the whole lot of them will roast in hell 'til the Judgment Day - and yourself along with them, for you're as bad as they are.
+#ANNA.
+Mat! Well, you've had your say. Now you better beat it.
+#BURKE.
+And what'll you be doing?
+#ANNA.
+What difference does it make to you?
+#BURKE.
+I'm asking you!
+#ANNA.
+My bag's packed and I got my ticket. I'll go to New York to - morrow.
+#BURKE.
+You mean - you'll be doing the same again?
+#ANNA.
+Yes.
+#BURKE.
+You'll not! Don't torment me with that talk! 'Tis a she - divil you are sent to drive me mad entirely!
+#ANNA.
+Oh, for Gawd's sake, Mat, leave me alone! Go away! Don't you see I'm licked? Why d'you want to keep on kicking me?
+#BURKE.
+And don't you deserve the worst I'd say, God forgive you?
+#ANNA.
+All right. Maybe I do. But don't rub it in. Why ain't you done what you said you was going to? Why ain't you got that ship was going to take you to the other side of the earth where you'd never see me again?
+#BURKE.
+I have.
+#ANNA.
+What - then you're going - honest?
+#BURKE.
+I signed on to - day at noon, drunk as I was - and she's sailing to - morrow.
+#ANNA.
+And where's she going to?
+#BURKE.
+Cape Town.
+#ANNA.
+Cape Town? Where's that. Far away?
+#BURKE.
+'Tis at the end of Africa. That's far for you.
+#ANNA.
+You're keeping your word all right, ain't you? What's the boat's name?
+#BURKE.
+The Londonderry.
+#ANNA.
+The Londonderry! It's the same - Oh, this is too much! Ha - ha - ha!
+#BURKE.
+What's up with you now?
+#ANNA.
+Ha - ha - ha! It's funny, funny! I'll die laughing!
+#BURKE.
+Laughing at what?
+#ANNA.
+It's a secret. You'll know soon enough. It's funny. What kind of a place is this Cape Town? Plenty of dames there, I suppose?
+#BURKE.
+To hell with them! That I may never see another woman to my dying hour!
+#ANNA.
+That's what you say now, but I'll bet by the time you get there you'll have forgot all about me and start in talking the same old bull you talked to me to the first one you meet.
+#BURKE.
+I'll not, then! God mend you, is it making me out to be the like of yourself you are, and you taking up with this one and that all the years of your life?
+#ANNA.
+Yes, that's yust what I do mean! You been doing the same thing all your life, picking up a new girl in every port. How're you any better than I was?
+#BURKE.
+Is it no shame you have at all? I'm a fool to be wasting talk on you and you hardened in badness. I'll go out of this and lave you alone forever. And I suppose 'tis the same lies you told them all before that you told to me?
+#ANNA.
+That's a lie! I never did!
+#BURKE.
+You'd be saying that, anyway.
+#ANNA.
+Are you trying to accuse me - of being in love - really in love - with them?
+#BURKE.
+I'm thinking you were, surely.
+#ANNA.
+You mutt, you! I've stood enough from you. Don't you dare. Love 'em! Oh, my Gawd! You damn thick - head! Love 'em? I hated 'em, I tell you! Hated 'em, hated 'em, hated 'em! And may Gawd strike me dead this minute and my mother, too, if she was alive, if I ain't telling you the honest truth!
+#BURKE.
+If I could only be believing you now!
+#ANNA.
+Oh, what's the use? What's the use of me talking? What's the use of anything? Oh, Mat, you mustn't think that for a second! You mustn't! Think all the other bad about me you want to, and I won't kick, 'cause you've a right to. But don't think that! I couldn't bear it! It'd be yust too much to know you was going away where I'd never see you again - thinking that about me!
+#BURKE.
+If I was believing - that you'd never had love for any other man in the world but me - I could be forgetting the rest, maybe.
+#ANNA.
+Mat!
+#BURKE.
+If 'tis truth you're after telling, I'd have a right, maybe, to believe you'd changed - and that I'd changed you myself 'til the thing you'd been all your life wouldn't be you any more at all.
+#ANNA.
+Oh, Mat! That's what I been trying to tell you all along!
+#BURKE.
+For I've a power of strength in me to lead men the way I want, and women, too, maybe, and I'm thinking I'd change you to a new woman entirely, so I'd never know, or you either, what kind of woman you'd been in the past at all.
+#ANNA.
+Yes, you could, Mat! I know you could!
+#BURKE.
+And I'm thinking 'twasn't your fault, maybe, but having that old ape for a father that left you to grow up alone, made you what you was. And if I could be believing 'tis only me you -
+#ANNA.
+You got to believe it. Mat! What can I do? I'll do anything, anything you want to prove I'm not lying!
+#BURKE.
+Would you be willing to swear an oath, now - a terrible, fearful oath would send your soul to the divils in hell if you was lying?
+#ANNA.
+Sure, I'll swear, Mat - on anything!
+#BURKE.
+Will you swear on this?
+#ANNA.
+Yes. Sure I will. Give it to me.
+#BURKE.
+'Tis a cross was given me by my mother, God rest her soul. I was a lad only, and she told me to keep it by me if I'd be waking or sleeping and never lose it, and it'd bring me luck. She died soon after. But I'm after keeping it with me from that day to this, and I'm telling you there's great power in it, and 'tis great bad luck it's saved me from and me roaming the seas, and I having it tied round my neck when my last ship sunk, and it bringing me safe to land when the others went to their death. And I'm warning you now, if you'd swear an oath on this, 'tis my old woman herself will be looking down from Hivin above, and praying Almighty God and the Saints to put a great curse on you if she'd hear you swearing a lie!
+#ANNA.
+I wouldn't have the nerve - honest - if it was a lie. But it's the truth and I ain't scared to swear. Give it to me.
+#BURKE.
+Be careful what you'd swear, I'm saying.
+#ANNA.
+Well - what do you want me to swear? You say it.
+#BURKE.
+Swear I'm the only man in the world ivir you felt love for.
+#ANNA.
+I swear it.
+#BURKE.
+And that you'll be forgetting from this day all the badness you've done and never do the like of it again.
+#ANNA.
+I swear it! I swear it by God!
+#BURKE.
+And may the blackest curse of God strike you if you're lying. Say it now!
+#ANNA.
+And may the blackest curse of God strike me if I'm lying!
+#BURKE.
+Oh, glory be to God, I'm after believing you now!
+#ANNA.
+What's the matter with you?
+#BURKE.
+Is it Catholic ye are?
+#ANNA.
+No. Why?
+#BURKE.
+Oh, God, help me! There's some divil's trickery in it, to be swearing an oath on a Catholic cross and you wan of the others.
+#ANNA.
+Oh, Mat, don't you believe me?
+#BURKE.
+If it isn't a Catholic you are -
+#ANNA.
+I ain't nothing. What's the difference? Didn't you hear me swear?
+#BURKE.
+Oh, I'd a right to stay away from you - but I couldn't! I was loving you in spite of it all and wanting to be with you, God forgive me, no matter what you are. I'd go mad if I'd not have you! I'd be killing the world -
+#ANNA.
+Mat!
+#BURKE.
+If your oath is no proper oath at all, I'll have to be taking your naked word for it and have you anyway, I'm thinking - I'm needing you that bad!
+#ANNA.
+Mat! I swore, didn't I?
+#BURKE.
+Oath or no oath, 'tis no matter. We'll be wedded in the morning, with the help of God. We'll be happy now, the two of us, in spite of the divil!
+#CHRIS.
+Me have drink on this, py golly!
+#BURKE.
+God stiffen it!
+#ANNA.
+That's the way to talk! And say, it's about time for you and Mat to kiss and make up. You're going to be shipmates on the Londonderry, did you know it?
+#BURKE.
+Shipmates - Has himself -
+#CHRIS.
+Ay vas bo'sun on her.
+#BURKE.
+The divil! You'd be going back to sea and leaving her alone, would you?
+#ANNA.
+It's all right, Mat. That's where he belongs, and I want him to go. You got to go, too; we'll need the money. And as for me being alone, that runs in the family, and I'll get used to it. I'll get a little house somewhere and I'll make a regular place for you two to come back to, - wait and see. And now you drink up and be friends.
+#BURKE.
+Sure! Here's luck to you!
+#CHRIS.
+Skoal.
+#BURKE.
+You'll not be lonesome long. I'll see to that, with the help of God. 'Tis himself here will be having a grandchild to ride on his foot, I'm telling you!
+#ANNA.
+Quit the kidding, now.
+#BURKE.
+Is it any religion at all you have, you and your Anna?
+#CHRIS.
+Vhy yes. Ve vas Lutheran in ole country.
+#BURKE.
+Luthers, is it? Well, damned then surely. Yerra, what's the difference? 'Tis the will of God, anyway.
+#CHRIS.
+It's funny. It's queer, yes - you and me shipping on same boat dat vay. It ain't right. Ay don't know - it's dat funny vay ole davil sea do her vorst dirty tricks, yes. It's so.
+#BURKE.
+I'm fearing maybe you have the right of it for once, divil take you.
+#ANNA.
+Gee, Mat, you ain't agreeing with him, are you? Aw say, what's the matter? Cut out the gloom. We're all fixed now, ain't we, me and you? Come on! Here's to the sea, no matter what! Be a game sport and drink to that! Come on!
+#CHRIS.
+Fog, fog, fog, all bloody time. You can't see vhere you vas going, no. Only dat ole davil, sea - she knows!

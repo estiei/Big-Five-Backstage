@@ -1,0 +1,312 @@
+#STRICKLAND.
+Benson!
+#BENSON.
+Yes, sir.
+#STRICKLAND.
+Close the window: it's cold.
+#BENSON.
+The window is closed, sir. It's been closed all evening.
+#STRICKLAND.
+Benson.
+#BENSON.
+Yes, sir?
+#STRICKLAND.
+Don't forget a heavy overcoat.
+#BENSON.
+I've put it in already, sir.
+#STRICKLAND.
+Plenty of fresh linen?
+#BENSON.
+Yes, sir.
+#STRICKLAND.
+Collars and ties?
+#BENSON.
+I've looked out for everything, sir.
+#STRICKLAND.
+You sent off the trunks this afternoon?
+#BENSON.
+Yes, sir.
+#STRICKLAND.
+You're sure they can't be traced?
+#BENSON.
+I had one wagon take them to a vacant lot, and another wagon take them to the station.
+#STRICKLAND.
+Good!
+#BENSON.
+I checked them through to Chicago. Here are the checks. What train do we take, sir?
+#STRICKLAND.
+I take the midnight. You follow me some time next week. We mustn't be seen leaving town together.
+#BENSON.
+How will I find you in Chicago?
+#STRICKLAND.
+You won't. You'll take rooms somewheres, and I'll take rooms somewheres else till it's all blown over. When I want you I'll put an ad in the "Tribune."
+#BENSON.
+You don't know when that will be, sir?
+#STRICKLAND.
+As soon as I think it is safe. It may be two weeks. It may be a couple of months. But you will stay in Chicago till you hear from me one way or the other. You understand?
+#BENSON.
+Yes, sir.
+#STRICKLAND.
+Have you plenty of money?
+#BENSON.
+Not enough to last a couple of months.
+#STRICKLAND.
+How much do you want?
+#BENSON.
+Five or six hundred.
+#STRICKLAND.
+Wait a minute! I left that much in my bureau drawer.
+#BENSON.
+Mr. Strickland?
+#STRICKLAND.
+Yes?
+#BENSON.
+It's the midnight train for Chicago, isn't it?
+#STRICKLAND.
+Yes.
+#BENSON.
+Hello. Murray Hill 3500.... Hello. This Finley? This is Benson.... He's going to take the midnight train for Chicago. Pennsylvania. You had better arrest him at the station. If he once gets to Chicago you'll never find him. And, Finley, you won't forget me, will you?... I want five thousand dollars for it. Yes, five thousand. That's little enough. He's got almost three hundred thousand on him, and you won't turn in all of that to Headquarters. Yes, it's cash. Large bills. Midnight for Chicago.
+#STRICKLAND.
+Here's your money, Benson. Count it.
+#BENSON.
+Six hundred dollars, thank you, sir. Shall I go now?
+#STRICKLAND.
+No. Wait a minute. Hello, Madison Square 7900 ... Pennsylvania? I want a stateroom for Chicago, midnight train. Yes, to - night.
+#BENSON.
+Don't give your own name, sir.
+#STRICKLAND.
+No. The name is Stevens.... Oh, you have one reserved in that name already? Well, this is Alfred Stevens.... You have it reserved in that name? Then give me another stateroom.... What? You haven't any other? : Never mind, then. Good - by. Benson, go right down to the Pennsylvania, and get the stateroom that is reserved for Alfred Stevens. You've got to get there before he does. Wait for me at the train gate.
+#BENSON.
+Yes, sir.
+#STRICKLAND.
+Don't waste any time. I'll see you later.
+#BENSON.
+Very well, sir.
+#STRICKLAND.
+Who's there?
+#A GIRL.
+I, sir.
+#STRICKLAND.
+Who are you?
+#THE GIRL.
+Who, don't you remember me, sir?
+#STRICKLAND.
+No.
+#THE GIRL.
+I'm from the office, sir.
+#STRICKLAND.
+The office?
+#THE GIRL.
+Your office. I'm one of your personal stenographers, sir.
+#STRICKLAND.
+Oh. I suppose I didn't recognize you on account of the hat. What do you want?
+#THE GIRL.
+There were some letters which came late this afternoon -
+#STRICKLAND.
+And you're bothering me with them now? I've got no time. Good night.
+#THE GIRL.
+I thought you'd want to see these letters.
+#STRICKLAND.
+Plenty of time to - morrow.
+#THE GIRL.
+But you won't be here to - morrow, will you?
+#STRICKLAND.
+Won't be here? What do you mean?
+#THE GIRL.
+You're taking the train to Chicago to - night.
+#STRICKLAND.
+How did you know - Taking a train to Chicago? Of course not! What put that in your head?
+#THE GIRL.
+Why, you told me, sir.
+#STRICKLAND.
+I told you?
+#THE GIRL.
+You said so this afternoon.
+#STRICKLAND.
+I didn't see you this afternoon!
+#THE GIRL.
+No, sir? Then I found this time - table.
+#STRICKLAND.
+Where did you find it?
+#THE GIRL.
+On your desk, sir.
+#STRICKLAND.
+On my desk?
+#THE GIRL.
+Yes, sir.
+#STRICKLAND.
+You're lying!
+#THE GIRL.
+Why, Mr. Strickland!
+#STRICKLAND.
+That time - table never reached my desk! I lost it between the railroad station and my office.
+#THE GIRL.
+Did you, sir? But it's the same time - table: you see, you checked the midnight train. I reserved a stateroom for you.
+#STRICKLAND.
+You reserved a stateroom?
+#THE GIRL.
+I knew you'd forget it. You have your head so full of other things. So I telephoned as soon as you left the office.
+#STRICKLAND.
+I suppose you made the reservation in my own name?
+#THE GIRL.
+No, sir.
+#STRICKLAND.
+What?
+#THE GIRL.
+I thought you'd prefer some other name: you didn't want your trip to be known.
+#STRICKLAND.
+No, I didn't. What name did you give?
+#THE GIRL.
+Stevens, sir.
+#STRICKLAND.
+Stevens?
+#THE GIRL.
+Alfred Stevens.
+#STRICKLAND.
+What made you choose that name?
+#THE GIRL.
+I don't know, sir.
+#STRICKLAND.
+You don't know?
+#THE GIRL.
+No, sir. It was just the first name that popped into my head. I said "Stevens," and when the clerk asked for the first name, I said "Alfred."
+#STRICKLAND.
+Have you ever known anybody of that name?
+#THE GIRL.
+No, sir.
+#STRICKLAND.
+You are sure you never knew anybody of that name?
+#THE GIRL.
+How can I be sure? I may have; I don't remember it.
+#STRICKLAND.
+How old are you? You're not twenty, are you?
+#THE GIRL.
+Do you think so?
+#STRICKLAND.
+And I'm forty - seven. It was more than twenty - five years ago.... You couldn't have known.
+#THE GIRL.
+No, sir.
+#STRICKLAND.
+What is your name?
+#THE GIRL.
+Does it matter? You didn't recognize my face a few minutes ago; my name can't mean much to you. I'm just one of the office force: I'm the girl who answers when you push the button three times. These are the letters I brought with me.
+#STRICKLAND.
+What are they about?
+#THE GIRL.
+This is from a woman who wants to invest some money.
+#STRICKLAND.
+How much?
+#THE GIRL.
+Only a thousand dollars.
+#STRICKLAND.
+Why didn't you turn it over to the clerks?
+#THE GIRL.
+The savings of a lifetime, she writes.
+#STRICKLAND.
+What of it?
+#THE GIRL.
+She wrote that she had confidence in you. She says that she wants you to invest it for her yourself.
+#STRICKLAND.
+You shouldn't have bothered me with that. Did she inclose the money?
+#THE GIRL.
+Yes. A certified check.
+#STRICKLAND.
+Write her - oh, you know what to write: that I will give the matter my personal attention.
+#THE GIRL.
+Yes, sir. She says she doesn't want a big return on her investment. She wants something that will be perfectly safe, and she knows you will take care of her.
+#STRICKLAND.
+Yes. Of course. What else have you? dozen other letters like it.
+#STRICKLAND.
+All from old women?
+#THE GIRL.
+Some of them. Here is one from a young man who has saved a little money. He says that when he gets a little more he's going to open a store, and go into business for himself. Here is another from a girl whose father was an ironworker. He was killed accidentally, and she wants you to invest the insurance. Here is another from - but they're all pretty much alike.
+#STRICKLAND.
+Why did you bring them here?
+#THE GIRL.
+Every one of these letters asks you to do the investing yourself.
+#STRICKLAND.
+Oh!
+#THE GIRL.
+And you're leaving town to - night. Here are the checks. Every one of them is made out to you personally; not to the firm.
+#STRICKLAND.
+You shouldn't have come here.... I haven't time to bother with that sort of thing. Every man who has five dollars to invest asks the head of the firm to attend to it himself. It means nothing. I get hundreds of letters like those.
+#THE GIRL.
+Still -
+#STRICKLAND.
+What?
+#THE GIRL.
+You must do something to deserve such letters or they wouldn't keep on coming in. It's a wonderful thing to inspire such confidence in people?
+#STRICKLAND.
+Do you think so?
+#THE GIRL.
+It is more than wonderful! It is magnificent! These people don't know you from Adam. Not one in a hundred has seen you: not one in a thousand calls you by your first name. But they've all heard of you: you're as real to them as if you were a member of their family. And what is even more real than you is your reputation! Something in which they rest their absolute confidence: something in which they place their implicit trust!
+#STRICKLAND.
+So you think there are few honest men?
+#THE GIRL.
+No: there are many of them. But there is something about you that is different: something in the tone of your voice: something in the way you shake hands: something in the look of your eye, that is reassuring. There is never a doubt - never a question about you. Oh, it's splendid! Simply splendid! What a satisfaction it must be to you to walk along the street and know that every one you meet must say to himself, "There goes an honest man!" It's been such an inspiration to me!
+#STRICKLAND.
+To you?
+#THE GIRL.
+Oh, I know that I'm just one of the office force to you. You don't even know my name. But you don't imagine that any one can see you as I have seen you, can work with you as I have worked with you, without there being some kind of an effect? You know, in my own troubles -
+#STRICKLAND.
+So you have troubles?
+#THE GIRL.
+You don't pay me a very big salary, and there are others whom I must help. But I'm not complaining. I - I used to be like the other girls. I used to watch the clock. I used to count the hours and the minutes till the day's work was over. But it's different now.
+#STRICKLAND.
+How - different?
+#THE GIRL.
+I thought it over, and I made up my mind that it wasn't right to count the minutes you worked for an honest man. And there is a new pleasure in my work: I do my best - that's all I can do, but you do your best, and it's the least I can do.
+#STRICKLAND.
+Are you sure - I do my best? Are you sure I am an honest man?
+#THE GIRL.
+Don't you know it yourself, Mr. Strickland?
+#STRICKLAND.
+You remember - a few minutes ago, you spoke the name of Alfred Stevens?
+#THE GIRL.
+Yes.
+#STRICKLAND.
+Suppose I told you that there once was an Alfred Stevens? Suppose I told you that Stevens, whom I knew, stole money - stole it when there was no excuse for it - when he didn't need it. His people had plenty, and they gave him plenty. But the chance came, and he couldn't resist the temptation.... He was eighteen years old then.
+#THE GIRL.
+Only a boy.
+#STRICKLAND.
+Only a boy, yes, but he had the dishonest streak in him! Other boys passed by the same opportunity. Stevens didn't even know what to do with the money when he had stolen it. They caught him in less than twenty - four hours. It was almost funny.
+#THE GIRL.
+He was punished.
+#STRICKLAND.
+He served a year in jail. God! What a year! His folks wouldn't do a thing for him: they said such a thing had never happened in the family. And they let him take the consequences. When he got out - when he was let out, his family offered him help. But he was too proud to accept the help: it hadn't been offered when he needed it most. He told his family that he never wanted to see them again. He changed his name so they couldn't find him. He left his home town. He came here.
+#THE GIRL.
+And he has been honest ever since!
+#STRICKLAND.
+Ever since: for twenty - eight years! It was hard at times, terribly hard! In the beginning, when he had to go hungry and cold, when he saw other men riding around in carriages, he wondered if he hadn't made a mistake. He had knocked about a good deal; he had learnt a lot, and he wouldn't have been caught so easily the second time. It was almost worth taking the chance! It was almost worth getting a foot of lead pipe, and waiting in some dark street, waiting, waiting for some sleek honest man with his pockets full of money! It would have been so simple! And he knew how! I don't know why he didn't do it.
+#THE GIRL.
+Tell me more.
+#STRICKLAND.
+He managed to live. It wasn't pleasant living. But he stayed alive! I don't like to think of what he did to stay alive: it was humiliating; it was shameful, because he hadn't been brought up to do that kind of thing, but it was honest. Honest, and when he walked home from his work at six o'clock, walked home to save the nickel, his betters never crowded him because they didn't want to soil their clothes with his honest dirt! He had thought the year in jail was terrible. The first year he was free was worse. He had never been hungry in jail.
+#THE GIRL.
+Then his chance came.
+#STRICKLAND.
+Yes, it was a chance. He found a purse in the gutter, and he returned it to the owner before he had made up his mind whether to keep it or not. So they said he was honest! He knew he wasn't! He knew that he had returned it because there was so much money in it that he was afraid to keep it, but he never told them that. And when the man who owned the purse gave him a job, he worked - worked because he was afraid not to work - worked so that he wouldn't have any time to think, because he knew that if he began to think, he would begin to steal! Then they said he was a hard worker, and they promoted him: they made him manager. That gave him more chances to steal, but there were so many men watching him, so many men anxious for him to make a slip so that they might climb over him, that he didn't dare.
+#THE GIRL.
+And then?
+#STRICKLAND.
+The rest was easy. Nothing succeeds like a good reputation, and he didn't steal because he knew they'd catch him. But he wasn't honest at bottom! The rotten streak was still there! After twenty - eight years things began to be bad. He speculated: lost all the money he could call his own, and he made up his mind to take other money that wasn't his own, all he could lay his hands on, and run off with it! It was wrong! It was the work of a lifetime gone to hell! But it was the rottenness in him coming to the surface! It was the thief he thought dead coming to life again!
+#THE GIRL.
+What a pity!
+#STRICKLAND.
+He had been honest so long - he had made other people think that he was honest so long, that he had made himself think that he was honest!
+#THE GIRL.
+Was he wrong, Mr. Strickland?
+#STRICKLAND.
+Stevens, please. I don't know what sent you: who sent you: but you've come here to - night as I am running away. You're too late. You can't stop me. Not even the finger of God Himself could stop me! I've gone too far. Here is money! Hundreds of thousands of it, not a cent of it mine! And I'm stealing it, do you understand me? Stealing it! To - morrow the firm will be bankrupt, and there'll be a reward out for me. Here, if you please, is your honest man! What have you to say to him?
+#THE GIRL.
+The man who has been honest so long that he has made himself think that he is honest can't steal!
+#STRICKLAND.
+You believe that?
+#THE GIRL.
+I was left a little money this week: only a few hundred dollars, hardly enough to bother you with. Will you take care of it for me - Alfred Stevens?
+#STRICKLAND.
+Good God!
+#THE GIRL.
+Look! What a beautiful night! The thousands of sleeping houses! The millions of shining stars! And the lights beneath! And in the distance, how the stars and the lights meet! So that one cannot say: "Here Gods ends; Here Man begins."
+#STRICKLAND.
+Yes?... You're afraid I'm going to miss the train?... Yes? Well, I'm going to miss the train!... I'm going to stay and face the music! I'm an honest man, d'ye hear me? I'm an honest man. Did you hear what I told him? I'm going to make good. I'm going to face the music! Because I'm an honest man! An honest man! The Curtain Falls.]

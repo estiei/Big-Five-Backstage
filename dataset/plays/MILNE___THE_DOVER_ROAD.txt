@@ -1,0 +1,2470 @@
+#DOMINIC.
+The blue room in the east wing is ready?
+#THE MEN.
+Yes, Mr. Dominic.
+#DOMINIC.
+The white room in the west wing is ready?
+#THE WOMEN.
+Yes, Mr. Dominic.
+#DOMINIC.
+The procedure will be as before.
+#THE FOUR.
+Yes, Mr. Dominic.
+#DOMINIC.
+See to it that I have no fault to find. That will do.
+#LEONARD.
+Oh—er—is this—er—an hotel? My chauffeur said—we’ve had an accident, been delayed on the way—he said that we could put up here. Here, Saunders! This can’t be the place. Perhaps you could tell me——
+#ANNE.
+Saunders has gone, Leonard.
+#LEONARD.
+Gone! What the devil——
+#DOMINIC.
+Saunders was perfectly correct, my lord. This is a sort of hotel.
+#ANNE.
+He went off as soon as you got out of the car. Leonard, are you sure——?
+#DOMINIC.
+Saunders was perfectly correct, my lord. This is a sort of hotel.
+#LEONARD.
+What the devil’s happened to him?
+#DOMINIC.
+Doubtless he has gone round to the garage to get the doors open. Won’t your lordship——
+#LEONARD.
+You can put us up? Just for to - night. My—er—wife and myself——
+#DOMINIC.
+If your lordship and her ladyship will come in——
+#LEONARD.
+It’s the best we can do, dear. I’m frightfully sorry about it, but, after all, what difference——
+#ANNE.
+I daresay it will be quite comfortable. It’s only for one night.
+#DOMINIC.
+Thank you, my lady.
+#DOMINIC.
+Allow me, my lady.
+#LEONARD.
+You can give us something to eat?
+#ANNE.
+I don’t want anything, Leonard.
+#LEONARD.
+Nonsense, dear.
+#DOMINIC.
+Supper will be served in five minutes, my lord.
+#ANNE.
+Do you know who we are?
+#DOMINIC.
+I have not that pleasure, my lady.
+#ANNE.
+Then why do you call me “my lady”?
+#LEONARD.
+My dear!
+#ANNE.
+No, Leonard. Well?
+#DOMINIC.
+His lordship mentioned that your ladyship was his wife.
+#ANNE.
+Y—yes.... Then you know him by sight?
+#LEONARD.
+Well, my dear, that need not surprise you.
+#DOMINIC.
+I know his lordship’s rank, my lady. Not his lordship’s name.
+#LEONARD.
+My rank? How the devil——
+#DOMINIC.
+Supper will be served in five minutes, my lady.
+#LEONARD.
+Dashed rummy sort of hotel!
+#ANNE.
+Leonard, I don’t like it.
+#LEONARD.
+Pooh! Nonsense, dear.
+#ANNE.
+It almost seems as though they had expected us.
+#LEONARD.
+My dear child, how could they? In the ordinary way we should have been at Dover—why, almost at Calais by this time.
+#ANNE.
+I know. Why aren’t we?
+#LEONARD.
+The car—Saunders, a fool of a chauffeur—a series of unfortunate accidents——
+#ANNE.
+Do you often have these unfortunate accidents, Leonard?
+#LEONARD.
+My dear Anne, you aren’t suggesting that I’ve done this on purpose!
+#ANNE.
+No, no. But why to - night of all nights?
+#LEONARD.
+Of course, it’s damned annoying missing the boat, but we can get it to - morrow morning. We shall be in Paris to - morrow night.
+#ANNE.
+To - morrow night—but that makes such a difference. I hate every hour we spend together like this in England.
+#LEONARD.
+Well, really, I don’t see why——
+#ANNE.
+You must take it that I do, Leonard. I told you from the first that it was run - away or nothing with me; there was going to be no intrigue, no lies and pretences and evasions. And somehow it seems less—less sordid, if we begin our new life together in a new country. Perhaps the French for what we are doing is not quite so crude as the English.... Yes, I know it’s absurd of me, but there it is.
+#LEONARD.
+Oh, well! Do you mind a cigarette?
+#ANNE.
+Oh, why do men always want to smoke, even up to the moment when they’re going to eat? Can’t you breathe naturally for five minutes?
+#LEONARD.
+I beg your pardon.
+#ANNE.
+No, I beg yours.
+#LEONARD.
+You’re all to bits.
+#ANNE.
+Nerves, I suppose.
+#LEONARD.
+Nonsense! My Anne with nerves? Now if it had been Eustasia——
+#ANNE.
+Really, Leonard, I think we had better leave your wife out of the conversation.
+#LEONARD.
+I beg your pardon.
+#ANNE.
+Perhaps you’re right. In a crisis we are all alike, we women.
+#LEONARD.
+No, damn it, I won’t have that. It’s—it’s blasphemy. Anne, my darling——
+#ANNE.
+Oh!... I am different, aren’t I?
+#LEONARD.
+Darling!
+#ANNE.
+I’m not a bit like—like anybody else, am I, not even when I’m cross?
+#LEONARD.
+Darling!
+#ANNE.
+And you do love me?
+#LEONARD.
+Darling!
+#ANNE.
+No. Now you’re going to smoke. I’ll light it for you. Matches?
+#DOMINIC.
+Matches, my lady.
+#ANNE.
+Thank you.
+#LEONARD.
+Thanks. Damn that fellow!
+#ANNE.
+After all, darling, he thinks I’m your wife.... Or don’t wives light their husband’s cigarettes?
+#LEONARD.
+I believe you’re right, Anne. There’s something odd about this place.
+#ANNE.
+So you feel it now?
+#LEONARD.
+What did he mean by saying he knew my rank, but not my name?
+#ANNE.
+Perhaps he looked inside your cap—like Sherlock Holmes—and saw the embroidered coronet.
+#LEONARD.
+How do you mean? There’s nothing inside my cap.
+#ANNE.
+No, darling. That was a joke.
+#LEONARD.
+And the table laid. Only one table.
+#ANNE.
+Yes, but it’s for three. They didn’t expect us.
+#LEONARD.
+So it is.... It’s probably a new idea in hotels—some new stunt of Harrods—or what’s the fellow’s name?—Lyons. A country - house hotel. By the way, what will you drink?
+#DOMINIC.
+Bollinger 1906, my lord. Mr. Latimer will be down in two minutes, my lady. He asks you to forgive him for not being here to receive you.
+#LEONARD.
+Mr. Latimer? Who on earth’s Mr. Latimer?
+#DOMINIC.
+If you would wish to be shown your room, my lady——
+#ANNE.
+No, thank you.
+#LEONARD.
+Look here, my man, is this an hotel or have we come to a private house by mistake? sort of hotel, my lord. I assure your lordship there is no mistake. Thank you, my lady.
+#ANNE.
+Very original man, Harrod. Or is it Lyons?
+#LEONARD.
+Look here, I’m going to get to the bottom of this.
+#ANNE.
+Why bother? Mr. Latimer will be here in two minutes.
+#LEONARD.
+Yes, but who the devil’s Mr. Latimer?
+#ANNE.
+Leonard, do you always arrange something fascinating like this when you elope? I think it’s so romantic of you. But don’t you think that the mere running away is enough just at first? Leaving the fogs and the frets of England, the weariness and the coldness of it, and escaping together to the warm, blue, sun - filled South—isn’t that romantic enough? Why drag in a mysterious and impossible inn, a mysterious and impossible Mr. Latimer? You should have kept them for afterwards; for the time when the poetry was wearing out, and we were beginning to get used to each other.
+#LEONARD.
+My dear girl, what are you driving at? I say again—do you really think that I arranged all this?
+#ANNE.
+Well, somebody did.
+#DOMINIC.
+Mr. Latimer!
+#LATIMER.
+Good evening!
+#LEONARD.
+Good evening. Er——
+#LATIMER.
+You will forgive me for being announced in my own house, but I find that it saves so much trouble. If I had just come in and said, “I am Mr. Latimer,” then you would have had to say, “And I am—er—So - and - so, and this is—er——” Exactly. I mean we can get on so much better without names. But of course——
+#LEONARD.
+You will excuse me, sir, but——
+#LATIMER.
+But of course, as you were just going to say, we must call each other something. I think I shall call you Leonard. There is something about you—forgive the liberty—something Leonardish. I am sure you agree with me.
+#ANNE.
+I am wondering whether this is really happening, or whether I am dreaming it.
+#LATIMER.
+And Leonard isn’t wondering at all; he is just tapping his forehead with a great deal of expression.
+#LEONARD.
+I think we have had enough of this, Mr. Latimer. I was giving you the benefit of the doubt. If you are not mad, then I will ask you for some other explanation of all this nonsense.
+#LATIMER.
+An impetuous character, Leonard. It must be so obvious to everybody else in the room that an explanation will be forthcoming. But why not a friendly explanation following a friendly supper?
+#ANNE.
+Are we your guests?
+#LATIMER.
+Please.
+#ANNE.
+Thank you.
+#LATIMER.
+But there is still this question of names. Now we agreed about Leonard——
+#ANNE.
+My name is Anne.
+#LATIMER.
+Thank you, Miss Anne.
+#LEONARD.
+Er—my wife.
+#LATIMER.
+Then I am tempted to leave out the “Miss.”
+#LEONARD.
+Look here——
+#LATIMER.
+But there is nothing to look at if I do, Leonard. Ah, supper! Will you sit here, Anne? And you here, Leonard? That’s right.
+#LATIMER.
+“A little fish, a bird, a little sweet. Enough to drink, but not too much to eat.” I composed that in my bath this morning. The wine has been waiting for you since 1906. How different from the turbot! ’Twas but yesterday it scarce had heard the name of Le - o - nard. Dominic, dismiss the Staff. We would be alone. My friends, I will give you a toast. A Happy Ending!
+#ANNE.
+A Happy Ending!
+#LATIMER.
+You don’t drink, Leonard. You would have the adventure end unhappily, as is the way of the modern novel?
+#LEONARD.
+I don’t understand the beginning of it, Mr. Latimer. I don’t—you will forgive me for saying so—I don’t see how you came into it. Who are you?
+#ANNE.
+Our host, Leonard.
+#LEONARD.
+So it seems, my dear. But in that case, how did we come here? My chauffeur told us that this was an hotel—your man assured me, when I asked, that it was an hotel, a sort of hotel. And now it seems that we are in a private house. Moreover, we seem to have been expected. And then again—if you will forgive me—it appears to be an unusual kind of house. I tell you frankly that I don’t understand it.
+#LATIMER.
+I see your difficulty, Leonard.
+#LEONARD.
+Nor am I accustomed to being called Leonard by a perfect stranger.
+#LATIMER.
+What you are saying for yourself is, “Who is this man Latimer? Is he known? Is he in the Stud Book?—I mean Debrett. Is he perhaps one of the Hammersmith Latimers, or does he belong to the Ealing Branch?”
+#ANNE.
+What does it matter?
+#LATIMER.
+Yes, but then you like the fish. Leonard doesn’t.
+#LEONARD.
+I have no fault to find with the fish. You have an excellent cook.
+#LATIMER.
+I beg your pardon, I thank you. His lordship likes the fish.
+#DOMINIC.
+Thank you, sir. I will inform the cook.
+#ANNE.
+When you are giving us your tiresome explanations after supper, Mr. Latimer, I wish you would just add one more to them.
+#LATIMER.
+But of course!
+#ANNE.
+Your Mr. Dominic’s appearances are so apt. How is it done?
+#LATIMER.
+Yes, I’ll make a note of that. Dominic—Apt appearance of. DOMINIC reappears.
+#LATIMER.
+Admit the bird, Dominic.
+#LEONARD.
+I’m afraid we shall have to be getting on now, Mr. Latimer.... Anne, dear.... We are much obliged for your hospitality, but—er—I imagine we are not far from Dover——
+#LATIMER.
+On the Dover Road, certainly.
+#LEONARD.
+Exactly. So if you would—er—have instructions given to my chauffeur—er——
+#LATIMER.
+Dominic, his lordship’s glass is empty. He wishes to drink my health.
+#DOMINIC.
+I beg your pardon, my lord.
+#LATIMER.
+And while he is up, just find his lordship a more comfortable chair. He has been a little uneasy on that one all through the fish.
+#DOMINIC.
+I beg your pardon, my lord.
+#LATIMER.
+Your happiness! Now for the bird. I like these little ceremonies in between the courses. Don’t you?
+#ANNE.
+I’m liking my supper.
+#LATIMER.
+I am so glad. I shot this bird myself. What is it, Dominic?
+#DOMINIC.
+Poulet en casserole with mushrooms, sir.
+#LATIMER.
+Poulet en casserole with mushrooms. I shot the mushrooms.... A large help for his lordship, Dominic. Let me introduce your chicken to you, Leonard. One of the Buff - Orpingtons. I daresay you know the family. His mother was a Wyandotte. He was just about to contract an alliance with one of the Rock girls, the Plymouth Rocks, when the accident happened.
+#LATIMER.
+Dear me! Not a third chair, surely?
+#LEONARD.
+Now look here, Mr. Latimer, this farce has gone on long enough. I do not propose to sit through a whole meal without some further explanation. Either we have that explanation now, or else—Anne, dear—or else we’ll be getting on our way.
+#LATIMER.
+Ah, but which is your way?
+#LEONARD.
+Dover. My chauffeur seems to have got off the track a little, but if you can put us on to the Dover Road——
+#LATIMER.
+The Dover Road! The Dover Road! A dangerous road, my friends. And you’re travelling in the dark.
+#LEONARD.
+Really, Mr. Latimer, that needn’t frighten us.
+#ANNE.
+What do you mean? strange road, Anne, for you. A new, untravelled road.
+#LEONARD.
+Nonsense. She’s often been this way before. Haven’t you, dear?
+#ANNE.
+No.... But I’m not frightened, Mr. Latimer.
+#LATIMER.
+Dominic, supper is over. His lordship loved the chicken—too well to eat it. He adored the mushrooms—in silence. Inform the cook.
+#DOMINIC.
+Yes, sir.
+#LATIMER.
+A cigarette?
+#ANNE.
+No, thank you.
+#LATIMER.
+You permit it?
+#ANNE.
+Of course.
+#LATIMER.
+Thank you.
+#DOMINIC.
+Cigar, my lord?
+#LEONARD.
+Er—er——thanks.
+#LATIMER.
+Well, shall we——?
+#LATIMER.
+Which chair would you like, Anne? There? That’s right. Now then, Leonard, we want something especially comfortable for you. You are a little finicky about chairs, if you don’t mind my saying so.... What about that one? Just try it and see how you like it. Yes, I think you will be happy there. And I shall sit here. Now everything is ready.
+#LEONARD.
+I am waiting, Mr. Latimer.
+#LATIMER.
+I am waiting, Leonard, for your questions.
+#ANNE.
+Let me begin with one. Your table was laid for three. For whom were the other two places intended?
+#LATIMER.
+For yourself and Leonard.
+#ANNE.
+You expected us?
+#LATIMER.
+Yes.
+#ANNE.
+How did you know we were coming?
+#LATIMER.
+Saunders had his instructions to bring you.
+#LEONARD.
+Saunders! My chauffeur! Do you mean to say——
+#LATIMER.
+Let me help you up, Leonard. You have the wrong chair again. It is difficult to be properly indignant in that one. That’s better. You were saying——
+#LEONARD.
+You mean to tell me that you had the audacity to bribe my chauffeur?
+#LATIMER.
+No, no, Leonard. What I mean is that you had the foolhardiness to bribe my friend Saunders to be your chauffeur.
+#LEONARD.
+Upon my word——
+#ANNE.
+Who is Saunders?
+#LATIMER.
+Saunders? He’s Joseph’s brother. Joseph was the gentleman in orange. He helped you to fish.
+#LEONARD.
+How dare you interfere in my concerns in this way, sir!
+#ANNE.
+Before you explain how you dare, Mr. Latimer, I should like to know why you are so interested in us. Who are you?
+#LATIMER.
+No more than Mr. Latimer. It is a purely impersonal interest which I take—and I take it just because you are going the Dover Road, my dear, and it is a dangerous road for a young girl to travel.
+#ANNE.
+I don’t think I asked you to be interested in me.
+#LATIMER.
+Nobody does, my dear. But I am. Very interested. In all my fellow - travellers. It is my hobby.
+#LEONARD.
+Anne!
+#LATIMER.
+The door is locked, Leonard.
+#LEONARD.
+Ah! Then I will give you one minute in which to open it. DOMINIC has come in.
+#LATIMER.
+Dominic, his lordship’s face is just a little too close to mine. Could you—thank you! Coffee? Excellent.
+#ANNE.
+No, thank you.
+#LEONARD.
+No, thanks.
+#LATIMER.
+No, thank you. By the way, Dominic, did you go round to the Hospital this afternoon?
+#DOMINIC.
+Yes, sir. The young gentleman is getting on nicely. He was able to take a little bread - and - milk this morning.
+#LATIMER.
+Ah, I’m glad. Nothing solid yet?
+#DOMINIC.
+No, sir. The jaw is still very tender.
+#LATIMER.
+He bumped it against my knuckles last week. An impetuous young fellow. He was running away with—dear me, I forget her name—I always forget names. I think he called her Pussy. She had several children. What’s this? “Dominic—Apt appearance of.” Ah, yes. It’s very simple. A little fad of mine. There are bells everywhere in this room—in every chair, on the table, in the floor; wherever I am, I can press a bell for Dominic. He is always close at hand on reception - evenings. Yes.
+#ANNE.
+That was a little warning which you were giving us just now?
+#LATIMER.
+Yes. I thought it better. Leonard is so impetuous. Joseph and Jacob were both amateur champions in their day. Dominic is a very heavy fall - er. He never has to fall on a man twice. If all this is quite understood at the beginning, it makes it so much easier.
+#ANNE.
+Mr. Latimer, I assure you that this is not a sudden freak of fancy, and that I know my own mind. I ask you, as a gentleman, to open the door.
+#LATIMER.
+I am afraid it is impossible, Anne.
+#LEONARD.
+So we are kept here by force?
+#LATIMER.
+Need we insist upon it? Let us rather say that you have postponed your visit to France in order to spend a few days with a friend.
+#LEONARD.
+I prefer to say force.
+#LATIMER.
+I do not dictate your words to you. Your movements for the moment, yes. So let us say “force.”
+#LEONARD.
+We are prisoners, in fact?
+#LATIMER.
+Within the limits of my house.
+#LEONARD.
+And if my—my wife chooses to walk out of your front door to - morrow morning, your—your fellow - conspirators would lay hands on her and stop her?
+#LATIMER.
+My dear Leonard, why should your—your wife want to walk out of the front door to - morrow? What would she want to do in the garden in November? Do be reasonable.
+#LEONARD.
+Suppose she wished to walk to the nearest police - station?
+#LATIMER.
+Do you?
+#ANNE.
+Could I?
+#LATIMER.
+If you stood on Leonard’s shoulders you might just reach the top of the wall.... Dominic tells me that they have lost the key of the gates. Very careless of them.
+#LEONARD.
+Well, I’m—— It’s monstrous!
+#ANNE.
+Yes, but we can’t keep on saying that. Here we are apparently, and here we have to stay. But I still want to know very much why Mr. Latimer has this great desire for our company.
+#LEONARD.
+You have the advantage of me now, sir, but you will not always have it. The time will come when I shall demand satisfaction for this insult.
+#LATIMER.
+My lord! Letters addressed to me at the Charing Cross Post Office will always be forwarded!
+#LEONARD.
+This gross insult to myself and—er—my wife.
+#LATIMER.
+No, no, not your wife.
+#LEONARD.
+How dare you!
+#LATIMER.
+Surely I haven’t made a mistake. You and he are running away together, aren’t you?
+#LEONARD.
+Look here, sir——
+#ANNE.
+Oh, Leonard, what’s the good? We aren’t ashamed of it, are we? Yes, Mr. Latimer, we are running away together.
+#LATIMER.
+Of course! Why not? Leonard, you aren’t ashamed of it, are you?
+#LEONARD.
+I object to this interference in my private affairs by a——
+#LATIMER.
+Yes, yes, but you’ve said all that. It’s interfering of me, damnably interfering. But I am doing it because I want you both to be happy.
+#LEONARD.
+I can look after my own happiness.
+#LATIMER.
+And this lady’s?
+#LEONARD.
+She is good enough to believe it.
+#ANNE.
+I am not a child. Do you think I haven’t thought? The scandal, the good name I am going to lose, the position of that other woman, I have thought of all these things.
+#LATIMER.
+There is one thing of which you haven’t thought, Anne.
+#ANNE.
+I am afraid you are old - fashioned. You are going to talk to me of morality.
+#LATIMER.
+Oh no, I wasn’t.
+#ANNE.
+Living alone here, a bachelor, within these high walls which keep the world out, you believe what the fairy - books tell us, that once two people are married they live happy ever after.
+#LATIMER.
+Oh, no, I don’t.
+#ANNE.
+I am the wicked woman, coming between the happy husband and wife, breaking up the happy home. Is that it, Mr. Latimer?
+#LEONARD.
+Rubbish! The happy home! Why, this is my first real chance of happiness.
+#LATIMER.
+His first real chance of happiness! As he said when he proposed to Eustasia.
+#LEONARD.
+What’s that?
+#LATIMER.
+May I ask you some questions now?
+#ANNE.
+Yes?
+#LATIMER.
+Eustasia will divorce him?
+#LEONARD.
+We shall not defend the suit.
+#LATIMER.
+And then you will marry Anne?
+#LEONARD.
+Another insult. I shall not forget it.
+#LATIMER.
+I beg your pardon. I simply wanted an answer.
+#ANNE.
+He will marry me.
+#LATIMER.
+I see. And then, as the fairy - books tell us, you will live happy ever after?
+#LEONARD.
+I need hardly say that I shall do my best to——
+#LATIMER.
+And then, as the fairy - books tell us, you will live happy ever after? I live within my high walls which keep the world out; I am old - fashioned, Anne. You are modern, you know the world. You don’t believe the fairy - books, and yet—you are going to live happy ever after?
+#LEONARD.
+I don’t see what you’re driving at.
+#LATIMER.
+Anne does.
+#ANNE.
+I take the risk, Mr. Latimer.
+#LATIMER.
+But a big risk.... Oh, believe me, I am not so much out of the world as you think. Should I have known all about you, should I have brought you here, if I were? I know the world; I know the risks of marriage. Marriage is an art—well, it’s a profession in itself. And what are you doing? Marrying a man whose only qualification for the profession is that he has tried it once, and made a damned hash of it.
+#LEONARD.
+Well, really, sir!
+#LATIMER.
+Isn’t it true?
+#LEONARD.
+Well—er—I admit my marriage has not been a happy one, but I venture to say—well, I don’t wish to say anything against Eustasia——
+#LATIMER.
+Go on. Life is too short for us to be gentlemen all the time.
+#LEONARD.
+Well, then, I say that not even St. Michael and all his angels could have made a success of it. I mean, not even St. Michael.
+#LATIMER.
+Yet you chose her.
+#LEONARD.
+Er—well——
+#LATIMER.
+Miss Anne, I am not being moral. You see, I am a very rich man, and we know on good authority that it is difficult for a very rich man to be a very good man. But being a very rich man I try to spend my money so that it makes somebody else happy besides myself. It’s the only happy way of spending money, isn’t it? And it’s my hobby to prevent people—to try if I can prevent people—making unhappy marriages.... It’s wonderful what power money gives you. Nobody realises it, because nobody ever spends it save in the obvious ways.... You may say that I should have prevented Leonard from marrying Eustasia in the first place. I have done that sometimes. I have asked two young people here—oh, properly chaperoned—and guests, not prisoners as you are—two young people who thought that they were in love, and I have tried to show each to the other in the most unromantic light.... Sometimes the engagement has been broken off. Sometimes they have married and—lived happy ever after.... But mostly it is my hobby to concentrate on those second marriages into which people plunge—with no parents now to restrain them—so much more hastily even than they plunge into their first adventure. Yet how much more carefully they should be considered, seeing that one at least of the parties has already proved his utter ignorance of the art of marriage.... And so, my dear friends, when I hear—and a rich man has many means of hearing—when I hear that two people are taking the Dover Road, as you were taking it to - night, I venture to stop them, and say, in the words of the fairy - book, “Are you sure you are going to live happy ever after?”
+#LEONARD.
+Your intentions may be good, but I can only repeat that your interference is utterly unwarranted, and you are entirely mistaken as to the power and authority which your money gives you.
+#LATIMER.
+Authority, none. But power? Why, my dear Leonard, if I offered you a hundred thousand pounds to go back to your wife to - night, this lady would never see you again.
+#LEONARD.
+Well, of all the damnable things to say——
+#LATIMER.
+How damnable the truth is! Think it over to - night, Leonard. You are a poor man for your position—think of all the things you could do with a hundred thousand pounds. Turn it over in your mind—and then over and over again. A hundred thousand pounds.
+#ANNE.
+Is this part of the treatment? Am I being shown my lover when he is mercenary?
+#LATIMER.
+Oh no! If that were part of my treatment, there would be no marriages at all. Oh no, it isn’t a genuine offer. It’s off, Leonard. You needn’t think it out any more. Besides, you misunderstand me. I don’t want to separate you by force—I have no right to.
+#ANNE.
+But how modest suddenly!
+#LATIMER.
+Madam, I admire your spirit.
+#ANNE.
+Leonard, I am receiving the attentions of another man. Beware of jealousy.... All part of the treatment, Mr. Latimer?
+#LATIMER.
+You’re splendid. But I meant what I said just now. I am not preventing you from going the Dover Road, I am only asking you to wait a few days and see how you get on. It may be that you two are the perfect soul - mates; that your union has already been decreed in Heaven and will be watched over by the angels. If so, nobody will rejoice in your happiness more than I. I shall not say, “You have no right to be happy together. Leonard must remain with his lawfully - wedded Eustasia.” Believe me, I do not waste my money, my time, my breath in upholding the sanctity of an unhappy marriage. I was brought up in the sanctity of an unhappy marriage; even as a child I knew all about it. But oh, my dear Anne, let us have a little common sense before we adventure marriage with a man who is always making a mess of it. We know what Leonard is—how perfectly hopeless as a husband.
+#ANNE.
+I don’t think that is quite fair.
+#LATIMER.
+Well, as far as we can tell. You’ve never made a happy marriage yet, have you, Leonard?
+#LEONARD.
+I don’t want to say anything against Eustasia——
+#LATIMER.
+Good God, man, aren’t you shouting it all the time? Why else are you here? But don’t try to pretend that it’s all Eustasia’s fault.
+#LEONARD.
+Well——
+#LATIMER.
+Or that it will be all Anne’s fault next year.
+#LEONARD.
+What do you mean, next year?
+#LATIMER.
+I beg your pardon. I should have said the year after next.
+#ANNE.
+I think I will go to bed. How long do you want us to wait?
+#LATIMER.
+Can you spare a week? You with so many years in front of you.
+#ANNE.
+I have a father. I left him a note to say what I was doing. We don’t see much of each other, but I thought it polite. Does that interfere with your plans at all?
+#LATIMER.
+Not at all. There was a little mistake about the delivery of that note. Your father is under the impression that you are staying with friends—in Kent.... A great power, money.
+#ANNE.
+I congratulate you on the perfection of your methods. Good night.
+#LATIMER.
+Her ladyship will retire.
+#DOMINIC.
+Yes, sir.
+#LATIMER.
+Good night, Miss Anne.
+#ANNE.
+Without prejudice.
+#LATIMER.
+Ah, but you are prejudicing me entirely. A MAID comes in.
+#MAID.
+This way, my lady.
+#LATIMER.
+And did you leave a note for your father, Leonard?
+#LEONARD.
+You ought to know. You appear to have your conspirators everywhere. Saunders—and, I suppose, Anne’s maid—and God knows who else.
+#LATIMER.
+Money, Leonard, money. A pity you refused that hundred thousand pounds. You could have bribed the Archbishop of Canterbury to curse me.... Well, a week here won’t do either of you any harm. Have a whisky and soda?
+#LEONARD.
+I am not at all sure that I ought to drink in your house.
+#LATIMER.
+You will be thirsty before you go.
+#LEONARD.
+Well——
+#LATIMER.
+That’s right. Help yourself, won’t you?
+#LEONARD.
+Please understand that I do this, as I do everything else in your house, under protest.
+#LATIMER.
+Your protest is noted.
+#LEONARD.
+As I have already said, your conduct is perfectly outrageous.
+#LATIMER.
+And as I have already said, you can’t do moral indignation from that chair. Remember what happened to you last time.
+#LEONARD.
+Perfectly outrageous.
+#LATIMER.
+Have another cigar?
+#LEONARD.
+I shall go to bed as soon as I have drunk this.
+#LATIMER.
+You wouldn’t care for a game of billiards first?
+#LEONARD.
+I am not in the mood for billiards.
+#LATIMER.
+By the way, we have another runaway couple here. But their week of probation is just over. They expect to leave to - morrow.
+#LEONARD.
+I am not interested in your earlier crimes.
+#LATIMER.
+I think you would be interested in this couple, Leonard.
+#LEONARD.
+I assure you I am not.
+#LATIMER.
+Ah! Very good article this month by Sidney Webb. You ought to read it.
+#LEONARD.
+I am not interested in Sidney Webb.
+#LATIMER.
+Breakfast is at ten o’clock. In here.
+#LEONARD.
+I shall eat it under protest.
+#LATIMER.
+You’re off? Then I’ll say good night.
+#LEONARD.
+Good night.
+#DOMINIC.
+This way, my lord.
+#LEONARD.
+Er—er—thank you.
+#EUSTASIA.
+Finished, darling?
+#NICHOLAS.
+Yes, thank you, Eustasia. little more toast?
+#NICHOLAS.
+No, thank you, Eustasia.
+#EUSTASIA.
+Just a little tiny teeny - weeny bit, if his Eustasia butters it for him?
+#NICHOLAS.
+No, thank you. I’ve really finished.
+#EUSTASIA.
+Another cup of coffee?
+#NICHOLAS.
+No, thank you, Eustasia.
+#EUSTASIA.
+Just a little bit of a cup if his Eustasia pours it out for her own Nicholas, and puts the sugar in with her own ickle fingers?
+#NICHOLAS.
+No more coffee, thank you.
+#EUSTASIA.
+Then he shall sit in a more comfy chair while he smokes his nasty, horrid pipe, which he loves so much better than his Eustasia. He doesn’t really love it better?
+#NICHOLAS.
+Of course he doesn’t.
+#EUSTASIA.
+Kiss her to show that he doesn’t.
+#NICHOLAS.
+You baby!
+#EUSTASIA.
+And now give me your pipe. There! And she doesn’t really think it’s a nasty, horrid pipe, and she’s ever so sorry she said so.... Oh!
+#NICHOLAS.
+What is it?
+#EUSTASIA.
+Nicholas never had an apple!
+#NICHOLAS.
+Oh no, thanks, I don’t want one.
+#EUSTASIA.
+Oh, but he must have an apple! It’s so good for him. An apple a day keeps the doctor away. You must keep the doctor away, darling, else poor Eustasia will be miserable.
+#NICHOLAS.
+I’ve finished my breakfast.
+#EUSTASIA.
+Not even if his Eustasia peels it for him?
+#NICHOLAS.
+No, thank you. I assure you that I have had all I want.
+#EUSTASIA.
+Sure?
+#NICHOLAS.
+Quite sure, thank you. Where are you going to sit?
+#EUSTASIA.
+Nicholas sit there and Eustasia sit next to him.
+#NICHOLAS.
+Right.
+#EUSTASIA.
+Shall Eustasia fill his pipe for him?
+#NICHOLAS.
+No, thank you. It is filled. Er—Eustasia.
+#EUSTASIA.
+Yes, darling.
+#NICHOLAS.
+We’ve been here a week.
+#EUSTASIA.
+Yes, darling. A wonderful, wonderful week. And now to - day we leave this dear house where we have been so happy together, and go out into the world together——
+#NICHOLAS.
+A week. Except for the first day, we have had all our meals alone together.
+#EUSTASIA.
+Alone, Nicholas.
+#NICHOLAS.
+Four meals a day—that’s twenty - four meals.
+#EUSTASIA.
+Twenty - four!
+#NICHOLAS.
+And at every one of those meals you have asked me at least four times to have something more, when I had already said that I didn’t want anything more; or, in other words, you have forced me to say “No, thank you, Eustasia,” ninety - six times when there was absolutely no need for it.
+#EUSTASIA.
+Nicholas!
+#NICHOLAS.
+We are both young. I am twenty - six, you are——
+#EUSTASIA.
+Twenty - five.
+#NICHOLAS.
+You are twenty - five. If all goes well, we may look to have fifty years more together. Say two thousand five hundred weeks. Multiply that by a hundred, and we see that in the course of our joint lives you will, at the present rate, force me to say “No, thank you, Eustasia,” two hundred and fifty thousand times more than is necessary.
+#EUSTASIA.
+Nicholas!
+#NICHOLAS.
+I wondered if we couldn’t come to some arrangement about it. That’s all.
+#EUSTASIA.
+You’re cruel! Cruel!
+#NICHOLAS.
+I just wondered if we couldn’t come to some arrangement.
+#EUSTASIA.
+Oh! Oh! Nicholas! My darling!
+#NICHOLAS.
+Darling! Don’t! There! There! I’m sorry. Nicholas is sorry. I oughtn’t to have said it. Forgive me, darling.
+#EUSTASIA.
+It’s only because I love you so much, and w - want you to be well. And you m - must eat.
+#NICHOLAS.
+Yes, yes, Eustasia, I know. It is dear of you.
+#EUSTASIA.
+Ask any d - doctor. He would say you m - must eat.
+#NICHOLAS.
+Yes, darling.
+#EUSTASIA.
+You m - must eat.
+#NICHOLAS.
+Yes, darling.
+#EUSTASIA.
+What’s a wife for, if it isn’t to look after her husband when he’s ill, and to see that he eats?
+#NICHOLAS.
+All right, dear, we won’t say anything more about it.
+#EUSTASIA.
+And when you had that horrid cold and were so ill, the first day after we came here, I did look after you, didn’t I, Nicholas, and take care of you and make you well again?
+#NICHOLAS.
+You did, dear. Don’t think I am not grateful. You were very kind. Too kind.
+#EUSTASIA.
+Not too kind, darling. I love looking after you, and doing things for you, and taking care of you, and cosseting you. Leonard was never ill.
+#NICHOLAS.
+Leonard?
+#EUSTASIA.
+My husband.
+#NICHOLAS.
+Oh!... I’d never thought of him as Leonard. I prefer not to think about him. I’ve never seen him, and I don’t want to talk about him.
+#EUSTASIA.
+No, darling. I don’t want to either.
+#NICHOLAS.
+We’ve taken the plunge and— and we’re not going back on it.
+#EUSTASIA.
+Darling!
+#NICHOLAS.
+As a man of honour I—— Besides, you can’t go back now—I mean I took you away, and—— Well, here we are. Here we are.
+#EUSTASIA.
+Darling, you aren’t regretting?
+#NICHOLAS.
+No, no! No, no, no! No! No! Eustasia, listen! I love you! I’m not regretting! I’ve never been so happy! So happy, Eustasia! I have never, never been so happy! Can’t you hear?
+#EUSTASIA.
+Darling!
+#NICHOLAS.
+There, there!
+#EUSTASIA.
+Oh, Nicholas, you frightened me so! Just for a moment I was afraid you were regretting.
+#NICHOLAS.
+No, no!
+#EUSTASIA.
+How right Mr. Latimer was!
+#NICHOLAS.
+He was indeed.
+#EUSTASIA.
+How little we really knew of each other when you asked me to come away with you!
+#NICHOLAS.
+How little!
+#EUSTASIA.
+But this week has shown us to each other as we really are.
+#NICHOLAS.
+It has.
+#EUSTASIA.
+And now I feel absolutely safe. We are ready to face the world together, Nicholas.
+#NICHOLAS.
+Ready to face the world together.
+#EUSTASIA.
+What is it, darling?
+#NICHOLAS.
+Nothing, Eustasia, nothing. Just happiness.
+#LATIMER.
+Good morning, my friends, good morning.
+#NICHOLAS.
+Oh, good morning.
+#EUSTASIA.
+Good morning.
+#LATIMER.
+So you are leaving me this morning and going on your way?
+#NICHOLAS.
+Yes.
+#EUSTASIA.
+But we shall never forget this week, dear Mr. Latimer.
+#LATIMER.
+You have forgiven me for asking you to wait a little so as to make sure?
+#EUSTASIA.
+Oh, but you were so right! I was just saying so to Nicholas. Wasn’t I, Nicholas?
+#NICHOLAS.
+Yes. About a minute ago. About two minutes ago.
+#LATIMER.
+And so now you are sure of yourselves?
+#EUSTASIA.
+Oh, so sure, so very sure. Aren’t we, Nicholas?
+#NICHOLAS.
+Absolutely sure.
+#LATIMER.
+That’s right. Well, I don’t want to hurry you, but if you have any little things to do, the car will be here in half an hour, and——
+#EUSTASIA.
+Half an hour? Oh, I must fly.
+#NICHOLAS.
+Yes, we must fly.
+#LATIMER.
+By the way, you will be interested to hear that I had two other visitors last night.
+#EUSTASIA.
+Mr. Latimer! You don’t mean another—couple?
+#LATIMER.
+Yes, another romantic couple.
+#EUSTASIA.
+Oh, if I could but see them before we go! Just for a moment! Just to reconcile them to this week of probation! To tell them what a wonderful week it can be!
+#LATIMER.
+You shall. I promise you that you shall.
+#EUSTASIA.
+Oh, thank you, dear Mr. Latimer!
+#NICHOLAS.
+I say?
+#LATIMER.
+Yes?
+#NICHOLAS.
+I say, what would you—I mean—supposing—— Because you see—I mean, it isn’t as if—— Of course, now—— Half an hour. Well, I suppose I must be getting ready.
+#LATIMER.
+Er—Nicholas.
+#NICHOLAS.
+Yes?
+#LATIMER.
+Just a moment.
+#NICHOLAS.
+Yes?
+#LATIMER.
+Cheer up!
+#NICHOLAS.
+What?
+#NICHOLAS.
+Well, I’ll go and get ready.
+#LATIMER.
+Ah, good morning, Dominic.
+#DOMINIC.
+Good morning, sir. A nicish morning it seems to be, sir. very nicish morning. I have great hopes of the world to - day.
+#DOMINIC.
+I am very glad to hear it, sir.
+#LATIMER.
+We must all do what we can, Dominic.
+#DOMINIC.
+That’s the only way, isn’t it, sir?
+#LATIMER.
+Great hopes, great hopes.
+#DOMINIC.
+The paper, sir.
+#LATIMER.
+Thank you. Any one married this morning? Dear me, quite a lot. One, two, three, four ... ten. Ten! Twenty happy people, Dominic!
+#DOMINIC.
+Let us hope so, sir.
+#LATIMER.
+Let us hope so.... By the way, how was his lordship this morning? little depressed, sir.
+#LATIMER.
+Ah!
+#DOMINIC.
+There seems to have been some misunderstanding about his luggage. A little carelessness on the part of somebody, I imagine, sir.
+#LATIMER.
+Dear me! Didn’t it come with him?
+#DOMINIC.
+I’m afraid not, sir.
+#LATIMER.
+Tut, tut, how careless of somebody. Can’t we lend him anything?
+#DOMINIC.
+Joseph offered to lend him a comb, sir—his own comb—a birthday present last year, Joseph tells me. His lordship decided not to avail himself of the offer.
+#LATIMER.
+Very generous of Joseph, seeing that it was a birthday present.
+#DOMINIC.
+Yes, sir. Unfortunately Joseph had come down to the last blade of his safety razor this morning. His lordship is rather upset about the whole business, sir.
+#LATIMER.
+Well, well, I daresay a little breakfast will do him good.
+#DOMINIC.
+Yes, sir. Are you ready for breakfast now, sir?
+#LATIMER.
+Good morning, Anne. May I hope that you slept well?
+#ANNE.
+Very well, thank you.
+#LATIMER.
+I am so glad.... All right, Dominic.
+#DOMINIC.
+Thank you, sir.
+#LATIMER.
+You are ready for breakfast?
+#ANNE.
+Quite ready. But what about Leonard?
+#LATIMER.
+Leonard?
+#ANNE.
+I made sure that I was to have a practice breakfast with Leonard this morning. I have been thinking of a few things to say up in my room.
+#LATIMER.
+Say them to me instead.
+#ANNE.
+They are very wifely.
+#LATIMER.
+But think what good practice.
+#ANNE.
+Very well. Tea or coffee, darling?
+#LATIMER.
+Oh no, that will never do. You know by now that I always have coffee—half milk and three lumps of sugar.
+#ANNE.
+Of course, how silly of me.
+#LATIMER.
+Omelette—fish—kidney and bacon?
+#ANNE.
+Now you’re forgetting.
+#LATIMER.
+No, I’m remembering. Toast and marmalade—isn’t that right?
+#ANNE.
+Quite right, dear.
+#LATIMER.
+I knew she would like marmalade. No wonder that Leonard ran away with her.
+#ANNE.
+Your coffee, darling.
+#LATIMER.
+Thank you, my love.... “My love” is very connubial, I think.
+#ANNE.
+Delightfully so. Do go on.
+#LATIMER.
+Er—I am sorry to see in the paper this morning—which I glanced at, my precious, before you came down—— How do you like “My precious”?
+#ANNE.
+Wonderfully life - like. Are you sure you haven’t been married before?
+#LATIMER.
+Only once. Eustasia. You had not forgotten, Eustasia?
+#ANNE.
+I am afraid I had. In fact, I had forgotten for the moment that you were being Leonard.
+#LATIMER.
+Thank you. I could wish no better compliment.
+#ANNE.
+Oh, you’re too absurd.
+#LATIMER.
+Of course I don’t wish to say anything against Eustasia——
+#ANNE.
+My dear Leonard, I really think we might leave your first wife out of it.
+#LATIMER.
+Yes, you want to get that off pat. You’ll have to say that a good deal, I expect. Well, to resume. I am sorry to see in the paper this morning that Beelzebub, upon whom I laid my shirt for the 2.30 race at Newmarket yesterday—and incidentally your shirt too, darling—came in last, some five minutes after the others had finished the course.... Tut, tut, how annoying!
+#ANNE.
+Oh, my poor darling!
+#LATIMER.
+The word “poor” is well chosen. We are ruined. I shall have to work.
+#ANNE.
+You know what I want you to do, Leonard?
+#LATIMER.
+No, I have forgotten.
+#ANNE.
+I should like to see you in the House of Lords, taking your rightful place as a leader of men, making great speeches.
+#LATIMER.
+My dear Anne! I may be a peer, but I am not a dashed politician.
+#ANNE.
+I wish you were, Leonard.
+#LATIMER.
+I will be anything you like, Anne.
+#ANNE.
+How absurd you are! Some more coffee?
+#LATIMER.
+To which I answer, “A little more milk.” Do you realise that this goes on for fifty years?
+#ANNE.
+Well, and why not?
+#LATIMER.
+Fifty years. A solemn thought. But do not let it mar our pleasure in the meal that we are having together now. Let us continue to talk gaily together. Tell me of any interesting dream you may have had last night—any little adventure that befell you in the bath—any bright thought that occurred to you as you were dressing.
+#ANNE.
+I had a very odd dream last night.
+#LATIMER.
+I am longing to hear it, my love.
+#ANNE.
+I dreamt that you and I were running away together, Leonard, and that we lost our way and came to what we thought was an hotel. But it was not an hotel. It was a very mysterious house, kept by a very mysterious man called Mr. Latimer.
+#LATIMER.
+How very odd. Latimer? Latimer? No, I don’t seem to have heard of the fellow.
+#ANNE.
+He told us that we were his prisoners. That we must stay in his house a week before we went on our way again. That all the doors were locked, and there were high walls round the garden, that the gates from the garden were locked, so that we could not escape, and that we must wait a week together in his house to see if we were really suited to each other.
+#LATIMER.
+My dear, what an extraordinary dream!
+#ANNE.
+It was only a dream, wasn’t it?
+#LATIMER.
+Of course! What is there mysterious about this house? What is there mysterious about this—er—Mr. Latimer? And as for any one being kept prisoner—here—in this respectable England—why!
+#ANNE.
+It is absurd, isn’t it?
+#LATIMER.
+Quite ridiculous.
+#ANNE.
+I thought it was. You see, I thought it was! You see, the gates are open too! What an absurd dream to have had!
+#LATIMER.
+There’s no accounting for dreams. I had an absurd one too last night.
+#ANNE.
+What was it? lonely house. Father and daughter living together. Father old, selfish, absorbed in his work. Daughter left to herself; her only companion, books; knowing nothing of the world. A man comes into her life—the first. He makes much of her. It is a new experience for the daughter. She is grateful to him, so grateful, so very proud that she means anything to him. He tells her when it is too late that he is married; talks of an impossible wife; tells her that she is his real mate. Let her come with him and see something of the world which she has never known. She comes.... Dear me, what silly things one dreams!
+#ANNE.
+Absurd things.... When can we have the car?
+#LATIMER.
+The car?
+#ANNE.
+Leonard’s car.
+#LATIMER.
+You wish to continue the adventure?
+#ANNE.
+Why not?
+#LATIMER.
+Dear, dear! What a pity! In twenty - five minutes?
+#ANNE.
+That will do nicely, thank you.
+#LATIMER.
+We must let Leonard have a little breakfast first, if he is to cross the Channel to - day. In twenty - five minutes then.
+#ANNE.
+I shall see you again?
+#LATIMER.
+If only to wish you Godspeed.
+#LATIMER.
+Ah, good morning, Leonard.
+#LEONARD.
+Good Lord! I didn’t know you were there.
+#LATIMER.
+You were so hungry.... I trust you slept well.
+#LEONARD.
+Slept well! Of all the damned draughty rooms—— Yes, and what about my luggage?
+#LATIMER.
+Your luggage?
+#LEONARD.
+Yes, never put on the car, your fellow, what’s ’is name—Joseph says.
+#LATIMER.
+Dear me, we must enquire into this. Lost your luggage? Dear me, that’s a very unfortunate start for a honeymoon. That means bad luck, Leonard. Dominic, what’s this about his lordship’s luggage?
+#DOMINIC.
+Joseph tells me there must have been some misunderstanding about it, sir. A little carelessness on the part of somebody, I imagine, sir.
+#LATIMER.
+Dear me! Didn’t it come with him?
+#DOMINIC.
+I’m afraid not, sir.
+#LATIMER.
+Tut, tut, how careless of somebody! Thank you, Dominic.
+#DOMINIC.
+Thank you, sir.
+#LATIMER.
+Lost your luggage. How excessively annoying! My dear Leonard, what is it?
+#LEONARD.
+A - tish - oo!
+#LATIMER.
+At any rate I can find you a handkerchief.
+#LEONARD.
+Thank you.
+#LATIMER.
+Not at all. That’s a very nasty cold you’ve got. How wise of you to have kept on a dressing - gown.
+#LEONARD.
+The only thing I had to put on.
+#LATIMER.
+But surely you were travelling in a suit yesterday? I seem to remember a brown suit.
+#LEONARD.
+That fool of a man of yours——
+#LATIMER.
+You don’t mean to tell me—— Dominic, what’s this about his lordship’s brown suit?
+#DOMINIC.
+Owing to a regrettable misunderstanding, sir, his lordship’s luggage——
+#LATIMER.
+Yes, but I’m not talking about his twenty - five other suits, I mean the nice brown suit that he was wearing yesterday. It must be somewhere. I remember noticing it. I remember—— Just a moment, Dominic——
+#LEONARD.
+A - tish - oo!
+#LATIMER.
+I remember saying to myself, “What a nice brown suit Leonard is wearing.” Well, where is it, Dominic?
+#DOMINIC.
+Yes, sir. I seem to remember the suit to which you are referring. I regret to say that Joseph had an unfortunate accident with it.
+#LEONARD.
+Damned carelessness.
+#DOMINIC.
+Joseph was bringing back the clothes after brushing them, sir, and happened to have them in his arms while bending over the bath in order to test the temperature of the water for his lordship. A little surprised by the unexpected heat of the water, Joseph relinquished the clothes for a moment, and precipitated them into the bath.
+#LATIMER.
+Dear me, how extremely careless of Joseph!
+#DOMINIC.
+Yes, sir, I have already reprimanded him.
+#LEONARD.
+The fellow ought to be shot.
+#LATIMER.
+You’re quite right, Leonard. Dominic, shoot Joseph this morning.
+#DOMINIC.
+Yes, sir.
+#LATIMER.
+And see that his lordship’s suit is dried as soon as possible.
+#DOMINIC.
+Yes, sir. It is being dried now, sir.
+#LATIMER.
+But it must be dried thoroughly, Dominic. His lordship has a nasty cold, and——
+#LEONARD.
+A - tish - oo! very nasty one. I’m afraid you are subject to colds, Leonard?
+#LEONARD.
+The first one I’ve ever had in my life.
+#LATIMER.
+Do you hear that, Dominic? The first one he’s ever had in his life.
+#DOMINIC.
+Yes, sir. If you remember, sir, Mr. Nicholas, and one or two other gentlemen who have slept there, caught a very nasty cold. Almost looks as if there must be something the matter with the room.
+#LEONARD.
+Damned draughtiest room——
+#LATIMER.
+Dear me! You should have told me of this before. We must have the room seen to at once. And be sure that his lordship has a different room to - night.
+#DOMINIC.
+Yes, sir; thank you, sir.
+#LATIMER.
+My dear fellow, I am distressed beyond words. But you know the saying, “Feed a cold, starve a fever.” You must eat, you must eat. We must be firm with this cold. We must suffocate it. You were quite right not to shave. The protection offered by the beard, though small, is salutary. But I was forgetting—perhaps your razor is lost too?
+#LEONARD.
+Damned careless fellows!
+#LATIMER.
+I must lend you mine.
+#LEONARD.
+I say, I wish you would.
+#LATIMER.
+I will get it at once. Meanwhile, eat. No half measures with this cold of yours. My poor fellow!
+#ANNE.
+Leonard, my dear! My dear Leonard!
+#LEONARD.
+G’morning, Anne.
+#ANNE.
+Good morning.
+#LEONARD.
+How are you this morning?
+#ANNE.
+No, please go on with your breakfast. What is it?
+#LEONARD.
+Got a nasty cold. Can’t understand it. First I’ve ever had in my life.
+#ANNE.
+Do you sneeze like that much?
+#LEONARD.
+Off and on.
+#ANNE.
+Oh!... Hadn’t you better get on with your breakfast?
+#LEONARD.
+Well, I will if you don’t mind. Good thing for a cold, isn’t it? Eat a lot.
+#ANNE.
+I really know very little about colds.... Do get on with your breakfast.
+#LEONARD.
+Well, I will, if you don’t mind. You had yours?
+#ANNE.
+Yes.
+#LEONARD.
+That’s right. Did you have one of these kippers?
+#ANNE.
+No.
+#LEONARD.
+Ah! A pity. I will say that for Latimer’s cook. She knows how to do a kipper. Much more difficult than people think.
+#ANNE.
+I really know very little about kippers.
+#LEONARD.
+I have often wondered why somebody doesn’t invent one without bones. Seeing what science can do nowadays——
+#ANNE.
+What is it? I beg your pardon.
+#LEONARD.
+Right oh, darling.... After all, what do they want all these bones for? Other fish manage without them.
+#ANNE.
+Leonard, when you can spare me a moment I should like to speak to you.
+#LEONARD.
+My darling, all my time is yours.
+#ANNE.
+I should like your undivided attention if I can have it.
+#LEONARD.
+Fire away, darling, I’m listening.
+#ANNE.
+Have you finished your—kipper? What are you going to have next?
+#LEONARD.
+Well—what do you recommend?
+#ANNE.
+Omelette? I don’t think it has any bones.
+#LEONARD.
+What’s in that other dish? Kidneys? What are the kidneys like?
+#ANNE.
+Well, you can see what they look like.
+#LEONARD.
+Did you try one?
+#ANNE.
+They’re delightful, I tried several. There! Got the toast? Butter? Salt? What is it?
+#LEONARD.
+Pepper.
+#ANNE.
+Pepper—there. Now have you got everything?
+#LEONARD.
+Yes, thank you, my dear.
+#ANNE.
+Then before you actually begin, I have something I want to say to you.
+#LEONARD.
+You’re very mysterious. What is it?
+#ANNE.
+There is nothing mysterious about it at all. It’s perfectly plain and obvious. Only I do want you to grasp it.
+#LEONARD.
+Well? Well? Well?
+#ANNE.
+The car will be here in a quarter of an hour.
+#LEONARD.
+The car?
+#ANNE.
+The automobile.
+#LEONARD.
+But whose?
+#ANNE.
+Ours. More accurately, yours.
+#LEONARD.
+But what for?
+#ANNE.
+We are running away together, dear. You and I. It had slipped your memory perhaps, but I assure you it is a fact. The car will take us to Dover, and the boat will take us to Calais, and the train will take us to the South of France. You and I, dear. When you’ve finished your breakfast.
+#LEONARD.
+But what about Latimer?
+#ANNE.
+Just you and I, dear. Two of us only. The usual number. We shall not take Mr. Latimer.
+#LEONARD.
+My dear Anne, you seem quite to have forgotten that this confounded fellow Latimer has got us prisoners here until he chooses to let us go. I have not forgotten. I eat his kidneys now, but he shall hear from me afterwards. Damned interference!
+#ANNE.
+Have you been dreaming, Leonard? Before all these kippers and kidneys and things?
+#LEONARD.
+Dreaming?
+#ANNE.
+The car will be here in a quarter of an hour. Why not? It is your car. This is England; this is the twentieth century. We missed the boat and spent the night here. We go on our way this morning. Why not?
+#LEONARD.
+Well, you know, I said last night it was perfectly ridiculous for Latimer to talk that way. I mean, what has it got to do with him? Just a bit of leg - pulling—that’s what I felt all the time. Stupid joke. Bad taste too.
+#ANNE.
+You did hear what I said, didn’t you? The car will be here in a quarter of an hour. I don’t know how long it takes you to— to shave, and—and dress properly, and—and brush your hair, but I fancy you ought to be thinking about it quite seriously. You can have some more kidneys another time.
+#LEONARD.
+B - but I can’t possibly go like this.
+#ANNE.
+No, that’s what I say.
+#LEONARD.
+I mean I haven’t got any luggage for one thing—and, with a cold like this, I’m not at all sure——
+#ANNE.
+You’ve lost your luggage?
+#LEONARD.
+Apparently it was left behind by——
+#ANNE.
+You let yourself be tricked and humiliated by this Mr. Latimer, you let me be humiliated, and then when I say that, whatever happens, I won’t be humiliated, you—you lose your luggage!
+#LEONARD.
+I didn’t lose it. It just happens to be lost.
+#ANNE.
+And you catch a cold!
+#LEONARD.
+I didn’t catch it. It caught me.
+#ANNE.
+The—the humiliation of it!... And what do you propose to do now?
+#LEONARD.
+As soon as my luggage turns up, and I am well enough to travel——
+#ANNE.
+Meanwhile you accept this man’s hospitality——
+#LEONARD.
+Under protest. I shall keep a careful account of everything that we have here——
+#ANNE.
+Well, that’s your third kidney; you’d better make a note of it.
+#LEONARD.
+As it happens I was helping myself to a trifle more bacon.... As I say, I shall keep a careful account, and send him a cheque for our board and lodging as soon as we have left his roof.
+#ANNE.
+Oh!... I had some coffee and one slice of toast and a little marmalade. About a spoonful. And a cup of tea and two thin slices of bread and butter upstairs. Oh, and I’ve had two baths. They’re extra, aren’t they? A hot one last night and a cold one this morning. I think that’s all. Except supper last night, and you wouldn’t let me finish that, so I expect there’ll be a reduction.... You want a note - book with one of those little pencils in it.
+#LEONARD.
+I say, Anne, look here——
+#ANNE.
+Do go on with your breakfast.
+#LEONARD.
+You’re being awfully unfair. How can we possibly go now? Why, I haven’t even got a pair of trousers to put on.
+#ANNE.
+You’re not going to say you’ve lost those too!
+#LEONARD.
+It’s not my fault. That fellow—What’s ’is name——
+#ANNE.
+What made you ever think that you could take anybody to the South of France? Without any practice at all?... Now, if you had been taking an aunt to Hammersmith—well, you might have lost a bus or two ... and your hat might have blown off ... and you would probably have found yourselves at Hampstead the first two or three times ... and your aunt would have stood up the whole way ... but still you might have got there eventually. I mean, it would be worth trying—if your aunt was very anxious to get to Hammersmith. But the South of France! My dear Leonard! It’s so audacious of you.
+#LEONARD.
+Now, look here, Anne——
+#LATIMER.
+Now then, Leonard, we’ll soon have you all right. Ah, Anne! You don’t mind waiting while Leonard has a shave? He wanted to grow a special beard for the Continent, but I persuaded him not to. The French accent will be quite enough. Do you mind Wednesday’s blade? I used Tuesday’s myself this morning.
+#ANNE.
+Oh, Mr. Latimer, I find that we shall not want the car after all.
+#LATIMER.
+No?
+#ANNE.
+No. Poor Leonard is hardly well enough to travel. I hope that by to - morrow, perhaps—— But I am afraid that we must trespass on your hospitality until then. I am so sorry.
+#LATIMER.
+But I am charmed to have you. Let me tell your maid to unpack.
+#ANNE.
+Don’t trouble, thanks. I’ve got to take my hat off. I shan’t be a moment, Leonard darling.
+#LATIMER.
+Now then, Leonard darling, to work.
+#LEONARD.
+Thanks.
+#LATIMER.
+But where are you going?
+#LEONARD.
+Upstairs, of course.
+#LATIMER.
+Is that wise? With a cold like yours?
+#LEONARD.
+Damn it, I can’t shave down here.
+#LATIMER.
+Oh, come, we mustn’t stand on ceremony when your life is at stake. You were complaining only five minutes ago of the draught in your room. Now, here we have a nice even temperature——
+#LEONARD.
+Well, there’s something in that.
+#LATIMER.
+There’s everything in it. Of course you’ve never had a cold before, so you don’t know, but any doctor will tell you how important it is to stay in one room—with a nice even temperature. You mustn’t dream of going upstairs.
+#LEONARD.
+Well——
+#LATIMER.
+That’s right. Got everything you want? There are plenty of mirrors. Which period do you prefer? Queen Anne?
+#LEONARD.
+It’s all right, thanks.
+#LATIMER.
+Good. Then I’ll leave you to it.
+#NICHOLAS.
+Hallo!
+#LEONARD.
+Hallo!
+#NICHOLAS.
+Shaving?
+#LEONARD.
+Well, what the devil did you think I was doing?
+#NICHOLAS.
+Shaving.
+#LEONARD.
+A - tish - oo!
+#NICHOLAS.
+Got a cold?
+#LEONARD.
+Obviously.
+#NICHOLAS.
+Horrid, sneezing when you’re all covered with soap.
+#LEONARD.
+Look here, I didn’t ask for your company, and I don’t want your comments.
+#NICHOLAS.
+Well, if it comes to that, I was here first, and I didn’t ask you to shave in the hall.
+#LEONARD.
+There are reasons why it is necessary for me to shave in the hall.
+#NICHOLAS.
+Don’t bother to tell me. I know ’em.
+#LEONARD.
+What do you mean?
+#NICHOLAS.
+You’re the couple that arrived last night.
+#LEONARD.
+And you’re the couple that is leaving this morning.
+#NICHOLAS.
+Exactly.
+#LEONARD.
+Yes, but I don’t see——
+#NICHOLAS.
+You haven’t tumbled to it yet?
+#LEONARD.
+Tumbled to what?
+#NICHOLAS.
+The fact that a week ago there were reasons why it was necessary for me to shave in the hall.
+#LEONARD.
+You!... You don’t mean——
+#NICHOLAS.
+Yes, I do.
+#LEONARD.
+You lost your luggage?
+#NICHOLAS.
+Yes.
+#LEONARD.
+You woke up with a cold?
+#NICHOLAS.
+Yes.... Horrid, sneezing when you’re all covered with soap.
+#LEONARD.
+I say, that fellow—what’s ’is name—didn’t drop your clothes in the bath?
+#NICHOLAS.
+Oh, rather.... Damned smart chap, Latimer.
+#LEONARD.
+Damned scoundrel.
+#NICHOLAS.
+Oh no. He’s quite right. One learns a lot down here.
+#LEONARD.
+I shall leave his house at once ... as soon as I have shaved.
+#NICHOLAS.
+You still want to? Oh, well, you’ve hardly been here long enough, I suppose.
+#LEONARD.
+What do you mean? Don’t you want to any more?
+#NICHOLAS.
+Latimer’s quite right, you know. One learns a lot down here.
+#LEONARD.
+What about the lady?
+#NICHOLAS.
+That’s the devil of it.
+#LEONARD.
+My dear fellow, as a man of honour, you’re bound to go on.
+#NICHOLAS.
+As a man of honour, ought I ever to have started?
+#LEONARD.
+Naturally I can’t give an opinion on that.
+#NICHOLAS.
+No.... You want to be careful with that glass. The light isn’t too good. I should go over it all again.
+#LEONARD.
+Thank you. I am accustomed to shaving myself.
+#NICHOLAS.
+I was just offering a little expert advice. You needn’t take it.
+#LEONARD.
+H’m, perhaps you’re right. Curious creatures, women.
+#NICHOLAS.
+Amazing.
+#LEONARD.
+It’s a life’s work in itself trying to understand ’em. And then you’re no further. week told me all I wanted to know.
+#LEONARD.
+They’re so unexpected.
+#NICHOLAS.
+So unreasonable.
+#LEONARD.
+What was it the poet said about them?
+#NICHOLAS.
+What didn’t he say?
+#LEONARD.
+No, you know the one I mean. How does it begin?... “O woman, in our hours of ease——”
+#NICHOLAS.
+“Uncertain, coy and hard to please.”
+#LEONARD.
+That’s it. Well, I grant you that——
+#NICHOLAS.
+Grant it me! I should think you do! They throw it at you with both hands.
+#LEONARD.
+But in the next two lines he misses the point altogether. When—what is it?—“When pain and anguish wring the brow”——
+#NICHOLAS.
+“A ministering angel thou.”
+#LEONARD.
+Yes, and it’s a lie. It’s simply a lie.
+#NICHOLAS.
+My dear fellow, it’s the truest thing anybody ever said. Only—only one gets too much of it.
+#LEONARD.
+True? Nonsense!
+#NICHOLAS.
+Evidently you don’t know anything about women.
+#LEONARD.
+I! Not know anything about women!
+#NICHOLAS.
+Well, you said yourself just now that you didn’t.
+#LEONARD.
+I never said—— What I said——
+#NICHOLAS.
+If you did know anything about ’em, you’d know that there’s nothing they like more than doing the ministering angel business.
+#LEONARD.
+Ministering angel!
+#NICHOLAS.
+Won’t you have a little more of this, and won’t you have a little more of that, and how is the poor cold to - day, and——
+#LEONARD.
+You really think that women talk like that?
+#NICHOLAS.
+How else do you think they talk?
+#LEONARD.
+My dear fellow!... Why, I mean, just take my own case as an example. Here am I, with a very nasty cold, the first I’ve ever had in my life. I sit down for a bit of breakfast—not wanting it particularly, but feeling that, for the sake of my health, I ought to try and eat something. And what happens?
+#LATIMER.
+You eat too much.
+#LEONARD.
+Ah, so it’s you! You have come just in time, Mr. Latimer. I propose to leave your house at once.
+#LATIMER.
+Not like that? Not with a little bit of soap behind the ear? The other ear. That’s right.
+#LEONARD.
+At once, sir.
+#NICHOLAS.
+You’d better come with us. We’re just going.
+#LEONARD.
+Thank you.
+#LATIMER.
+Four of you. A nice little party. ANNE comes in.
+#LEONARD.
+Anne, my dear, we are leaving the house at once. Are you ready?
+#ANNE.
+But——
+#EUSTASIA.
+Nich - o - las!
+#NICHOLAS.
+Hallo!
+#EUSTASIA.
+Where are you?
+#NICHOLAS.
+Here! EUSTASIA comes in.
+#EUSTASIA.
+Are you ready, darling? Leonard!
+#NICHOLAS.
+Leonard!
+#LEONARD.
+Eustasia!
+#ANNE.
+Eustasia!
+#ANNE.
+Oh, isn’t anybody going to say anything? Mr. Latimer, while Leonard is thinking of something, you might introduce me to his wife.
+#LATIMER.
+I beg your pardon! Eustasia, this is Anne.
+#ANNE.
+How do you do?
+#EUSTASIA.
+How do you do?
+#LATIMER.
+Leonard, this is Nicholas.
+#NICHOLAS.
+We’ve met. Quite old friends.
+#LEONARD.
+I repudiate the friendship. We met under false pretences. I—I—Well, upon my word, I don’t know what to say.
+#NICHOLAS.
+Then don’t say it, old boy. Here we all are, and we’ve got to make the best of it.
+#LEONARD.
+I—I—a - tish - oo!
+#EUSTASIA.
+Leonard, you have a cold? very nasty cold.
+#ANNE.
+It will be better when he has finished his breakfast.
+#LEONARD.
+I have finished my breakfast. A long time ago.
+#ANNE.
+I beg your pardon. I misunderstood.
+#LEONARD.
+I’ve been shaving.
+#EUSTASIA.
+But, Leonard dear, I don’t understand. I’ve never known you ill before.
+#LEONARD.
+I never have been ill before. But I am ill now. Very ill. And nobody minds. Nobody minds at all. This fellow Latimer invaygles me here—
+#LATIMER.
+Inveegles.
+#LEONARD.
+I shall pronounce it how I like. It is quite time I asserted myself. I have been too patient. You invaygle me here and purposely give me a cold. You——are entirely unmoved by my sufferings, instead of which you make fun of the very simple breakfast which I had forced myself to eat. You——run away with my wife, at a time when I am ill and unable to protect her, and you——well, all I can say is that you surprise me, Eustasia, you surprise me. I didn’t think you had it in you. masterly summing up of the case. Well, I hope you’re all ashamed of yourselves.
+#EUSTASIA.
+But, Leonard, how rash of you to think of running away with a cold like this. You must take care of yourself—Eustasia will take care of you and get you well. Poor boy! He had a nasty, nasty cold, and nobody looked after him. Mr. Latimer, I shall want some mustard, and hot water, and eucalyptus.
+#LATIMER.
+But of course!
+#LEONARD.
+There you are! As soon as somebody who really understands illness comes on the scene, you see what happens. Mustard, hot water, eucalyptus—she has it all at her finger - ends. Enter DOMINIC.
+#DOMINIC.
+Yes, sir? small mustard and water for his lordship.
+#EUSTASIA.
+It’s to put his feet in, not to drink. large mustard and water.
+#DOMINIC.
+Yes, sir.
+#EUSTASIA.
+Hot water.
+#DOMINIC.
+Yes, my lady.
+#EUSTASIA.
+And if you have any eucalyptus——
+#DOMINIC.
+Yes, my lady; we got some in specially for his lordship.
+#LATIMER.
+Did Mr. Nicholas absorb all the last bottle?
+#DOMINIC.
+Yes, sir.
+#NICHOLAS.
+I fairly lived on it.
+#DOMINIC.
+Is there anything else his lordship will require?
+#NICHOLAS.
+What about a mustard - plaster?
+#LEONARD.
+Please mind your own business.
+#EUSTASIA.
+No, I don’t think there’s anything else, thank you.
+#NICHOLAS.
+Well, I call that very unfair. I had one.
+#LEONARD.
+Oh, did you? Well, in that case, Eustasia, I certainly don’t see why——
+#LATIMER.
+Two mustard - plasters. We mustn’t grudge his lordship anything.
+#DOMINIC.
+Yes, sir.
+#EUSTASIA.
+Now come over here, darling, away from the door. Lean on me.
+#ANNE.
+Surely one can walk with a cold in the head!
+#NICHOLAS.
+No, it’s very dangerous.
+#LATIMER.
+Nicholas speaks as an expert.
+#EUSTASIA.
+There! Is that comfy?
+#LEONARD.
+Thank you, Eustasia.
+#EUSTASIA.
+We’ll soon have you all right, dear.
+#LEONARD.
+Thank you.
+#LATIMER.
+Well, as Nicholas said just now, “Here we all are, and we’ve got to make the best of it.” What are we all going to do?
+#ANNE.
+Please leave me out of it. I can make my own arrangements. If you will excuse me.
+#DOMINIC.
+I thought that her ladyship might require a thermometer for his lordship’s temperature.
+#EUSTASIA.
+Thank you. I think it would be safer just to take it. And I wondered if we couldn’t just put this screen round his lordship’s chair.
+#DOMINIC.
+Certainly, my lady, one can’t be too careful.
+#EUSTASIA.
+Yes, that’s right.
+#LATIMER.
+Did you have the screen?
+#NICHOLAS.
+Oh, rather.
+#LATIMER.
+And the thermometer?
+#NICHOLAS.
+Yes.... Funny thing was I liked it just at first. I don’t mean the actual thermometer, I mean all the fussing.
+#LATIMER.
+It’s a wonderful invention, a cold in the head. It finds you out. There’s nothing like it, Nicholas, nothing.
+#EUSTASIA.
+Thank you. And you’re bringing the other things?
+#DOMINIC.
+Yes, my lady, as soon as ready.
+#EUSTASIA.
+Thank you. Now, dear, under the tongue.
+#LEONARD.
+I don’t think I ever——
+#EUSTASIA.
+No, dear, don’t try to talk.
+#NICHOLAS.
+I say——
+#LATIMER.
+Well?
+#NICHOLAS.
+I say, not too loud.
+#LATIMER.
+Well?
+#NICHOLAS.
+Well, what about it?
+#LATIMER.
+What about what?
+#NICHOLAS.
+I mean, where do I come in? As a man of honour, oughtn’t I to—er—— You see what I mean? Of course I want to do the right thing.
+#LATIMER.
+Naturally, my dear Nicholas. It’s what one expected of you.
+#NICHOLAS.
+I thought that if I slipped away now, unostentatiously....
+#LATIMER.
+With just a parting word of farewell——
+#NICHOLAS.
+Well, that was what I was wondering. Would anything in the nature of a farewell be in good taste?
+#LATIMER.
+I see your point.
+#NICHOLAS.
+Don’t think that I’m not just as devoted to Eustasia as ever I was.
+#LATIMER.
+But you feel that in the circumstances you could worship her from afar with more propriety.
+#NICHOLAS.
+Yes. You see, I had no idea that they were so devoted.
+#LATIMER.
+But their devotion may not last for ever.
+#NICHOLAS.
+Exactly. That’s why I thought I’d slip away now.
+#LATIMER.
+Oh, Nicholas! Oh, Nicholas!
+#NICHOLAS.
+Well, I don’t want to say anything against Eustasia——
+#LATIMER.
+The house is full of people who don’t want to say anything against Eustasia.
+#NICHOLAS.
+But, you see—— Look out, here’s Miss Anne. ANNE comes in.
+#LATIMER.
+Anne, you’re just in time. Nicholas wants your advice.
+#NICHOLAS.
+I say, shut up! We can’t very well——
+#ANNE.
+Mr. Latimer, I went upstairs to get my things and find my way to the nearest railway station. But—but there is a reason why I am not going after all. Just yet. I thought I’d better tell you.
+#LATIMER.
+Were you really thinking of going? I’m so glad you’ve changed your mind.
+#ANNE.
+There are reasons why I had to.
+#LATIMER.
+Bless them!... Nicholas, I believe she stayed just so that she might help you.
+#ANNE.
+What does Mr. Nicholas want?
+#NICHOLAS.
+I say, it’s awfully good of you and all that, but this is rather—I mean, it’s a question that a fellow ought to settle for himself.
+#LATIMER.
+What he means is, ought he to get his things and find his way to the nearest railway station?
+#ANNE.
+Oh no!
+#LATIMER.
+There you are, Nicholas.
+#NICHOLAS.
+Oh, well—well—— Well, perhaps you’re right.
+#EUSTASIA.
+There!
+#LATIMER.
+His temperature! This is an exciting moment in the history of the House of Lords.
+#NICHOLAS.
+I say, do you really think I ought to stay?
+#ANNE.
+Please, Mr. Nicholas, I want you to stay.
+#NICHOLAS.
+Righto! then I’ll stay.
+#LATIMER.
+A hundred and nine.
+#LEONARD.
+I say, what ought it to be?
+#NICHOLAS.
+Ninety - eight.
+#LEONARD.
+Good Lord! I’m dying!
+#EUSTASIA.
+It’s just ninety - nine. A little over normal, Leonard, but nothing to matter.
+#LATIMER.
+Ninety - nine—so it is. I should never have forgiven myself if it had been a hundred and nine.
+#NICHOLAS.
+It’s all right, I’m going to.
+#EUSTASIA.
+Going to? Going to what?
+#NICHOLAS.
+Oh, nothing.
+#LATIMER.
+What he means is that he is going to be firm. He thinks we all ought to have a little talk about things. Just to see where we are.
+#EUSTASIA.
+Well, things aren’t quite as they were, are they? If I’d known that Leonard was ill—but I’ve seen so little of him lately. And he’s never been ill before!
+#NICHOLAS.
+Of course we ought to know where we are.
+#LATIMER.
+Yes. At present Leonard is behind that screen, which makes it difficult to discuss things properly. Leonard, could you——
+#EUSTASIA.
+Oh, we mustn’t take any risks! But if we moved the screen a little, and all sat up at that end of the room——
+#LATIMER.
+Delightful!
+#NICHOLAS.
+Sit here, Miss Anne, won’t you?
+#LATIMER.
+There! Now, are we all here?... We are. Then with your permission, Ladies and Gentlemen, I will open the proceedings with a short speech.
+#NICHOLAS.
+Oh, I say, must you?
+#LATIMER.
+Certainly.
+#EUSTASIA.
+Hush, dear.
+#LEONARD.
+I didn’t say anything.
+#EUSTASIA.
+No, but you were just going to.
+#LATIMER.
+Seeing that I refrained from making my speech when Leonard had the thermometer in his mouth, the least he can do now is to listen in silence.
+#LEONARD.
+Well, I’m——
+#LATIMER.
+I resume.... By a fortunate concatenation of circumstances, ladies and gentlemen—or, as more illiterate men would say, by a bit of luck—two runaway couples have met under my roof. No need to mention names. You can all guess for yourselves. But I call now—this is the end of my speech, Leonard—I call now upon my noble friend on the right to tell us just why he left the devoted wife by his side in order to travel upon the Continent.
+#LEONARD.
+Well, really——
+#LATIMER.
+Naturally Leonard does not wish to say anything against Eustasia. Very creditable to him. But can it be that the devoted wife by his side wishes to say anything against Leonard?
+#EUSTASIA.
+You neglected me, Leonard, you know you did. And when I was so ill——
+#LEONARD.
+My dear, you were always ill. That was the trouble.
+#LATIMER.
+And you were never ill, Leonard. That was the trouble.... You heartless ruffian!
+#EUSTASIA.
+Hush, dear.
+#LATIMER.
+Why couldn’t you have had a cold sometimes? Why couldn’t you have come home with a broken leg, or lost your money, or made a rotten speech in the House of Lords? If she could never be sorry for you, for whom else could she be sorry, except herself? I don’t suppose he even lost his umbrella, did he?
+#ANNE.
+Oh, he must have lost that.
+#LATIMER.
+Eustasia, ladies and gentlemen, is one of those dear women, those sweet women, those delightful women——stop me if I’m overdoing it—those adorable women who must always cosset or be cosseted. She couldn’t cosset Leonard; Leonard wouldn’t cosset her. Hence—the Dover Road.
+#EUSTASIA.
+How well you understand, Mr. Latimer!
+#LATIMER.
+Enter, then, my friend Nicholas. Oh, Nicholas! Oh, Nicholas! Oh, Nicholas!
+#NICHOLAS.
+What’s all that about?
+#LATIMER.
+Anything you say will be used in evidence against you. Proceed, my young friend.
+#NICHOLAS.
+Well—well—well—I mean, there she was.
+#LATIMER.
+Lonely.
+#NICHOLAS.
+Exactly.
+#LATIMER.
+Neglected by her brute of a husband— fingers crossed, Leonard—who spent day and night rioting in the House of Lords while his poor little wife cried at home.
+#NICHOLAS.
+Well——
+#LATIMER.
+Then out spake bold Sir Nicholas— This was also composed in my bath— Then out spake bold Sir Nicholas, “Lo, I will write a note to - night
+#NICHOLAS.
+Well, you see——
+#LATIMER.
+I see, Nicholas.... And so here we all are.
+#ANNE.
+Except me.
+#LATIMER.
+I guessed at you, Anne. Did I guess right?
+#ANNE.
+Yes.
+#LATIMER.
+And so here we all are.... And what are we all going to do? My house is at your disposal for as long as you wish. The doors are open for those who wish to go.... Eustasia?
+#EUSTASIA.
+My duty is to stay here—to look after my husband.
+#LATIMER.
+Well, that settles Eustasia.... Anne?
+#ANNE.
+Of necessity I must stay here—for the present.
+#LATIMER.
+Well, that settles Anne.... Nicholas?
+#NICHOLAS.
+I stay here too— from choice.
+#LATIMER.
+Well, that settles Nicholas.... Leonard?
+#LATIMER.
+Ah!... And this will settle Leonard.
+#ANNE.
+Nich - o - las!
+#NICHOLAS.
+Hallo!
+#ANNE.
+Where—are—you?
+#NICHOLAS.
+Coming. Just went upstairs to get a pipe. And now I’ve forgotten it.
+#ANNE.
+Oh, Nicholas, how silly you are!
+#NICHOLAS.
+I don’t want to smoke, you know.
+#ANNE.
+I thought men always did.
+#NICHOLAS.
+Well, it depends what they’re doing.
+#ANNE.
+Oh!
+#NICHOLAS.
+I say, it has been rather jolly here the last three days, don’t you think?
+#ANNE.
+It has been rather nice.
+#NICHOLAS.
+We’ve sort of got so friendly.
+#ANNE.
+We have, haven’t we?
+#NICHOLAS.
+You’ve been awfully nice to me.
+#ANNE.
+You’ve been nice to me.
+#NICHOLAS.
+I should have gone, you know, if it hadn’t been for you.
+#ANNE.
+I don’t know what I should have done if you had gone.
+#NICHOLAS.
+You did ask me to stay, didn’t you?
+#ANNE.
+Yes, I couldn’t let you go.
+#NICHOLAS.
+Do you know what you said? You said, “Please, Mr. Nicholas, I want you to stay.” I shall always remember that. “Please, Mr. Nicholas, I want you to stay.” I wonder what made you think of saying that?
+#ANNE.
+I wanted us to be friends. I wanted to get to know you; to make you think of me as—as your friend.
+#NICHOLAS.
+We are friends, Anne, aren’t we?
+#ANNE.
+I think we are now, Nicholas.
+#NICHOLAS.
+Friends!
+#ANNE.
+Nicholas!
+#NICHOLAS.
+Yes?
+#ANNE.
+I—I want you to do something for me.
+#NICHOLAS.
+Anything, Anne, anything.
+#ANNE.
+I don’t know whether I ought to ask you.
+#NICHOLAS.
+Of course you ought!
+#ANNE.
+But you see, we are friends—almost like brother and sister——
+#NICHOLAS.
+Well, I shouldn’t put it quite like that——
+#ANNE.
+And I thought I might ask you——
+#NICHOLAS.
+Of course, Anne! You know I would do anything for you.
+#ANNE.
+Yes.... Well—well—— Well, then, will you lend me one pound two and sixpence till next Monday?
+#NICHOLAS.
+Lend you——!
+#ANNE.
+To - day’s Friday, I’ll send you the money off on Sunday. I promise. Of course I know one oughtn’t to borrow from men, but you’re different. Almost like a brother. I knew you would understand.
+#NICHOLAS.
+But—but—I don’t understand.
+#ANNE.
+You see, I—I only have three and fourpence ha’penny. And it costs one pound five and twopence to get home. Oh, it’s a shame the way men always pay for us, and then when we really want money we haven’t got any.... But I will pay you back on Sunday. I have some money at home; I meant to have brought it.
+#NICHOLAS.
+But—but why do you suddenly——
+#ANNE.
+Suddenly? I’ve been wanting it ever since that first morning. I went upstairs to get my hat, meaning to walk straight out of the house—and then I looked in my purse and found— three and fourpence ha’penny. What was I to do?
+#NICHOLAS.
+Any one would have lent you anything.
+#ANNE.
+Leonard, for instance?
+#NICHOLAS.
+Well ... no.... No. You couldn’t very well have touched Leonard. But Latimer——
+#ANNE.
+Mr. Latimer! The man who had brought us here, locked us up here, and started playing Providence to us—I was to go on my knees to him and say, “Please, dear Mr. Latimer, could you lend me one pound two and sixpence, so that I may run away from your horrid house?” Really!
+#NICHOLAS.
+Well, you seem to have been pretty friendly with him these three days.
+#ANNE.
+Naturally I am polite to a man when I am staying in his house. That’s different.
+#NICHOLAS.
+As a matter of fact, Latimer has been jolly decent. Anyway, he has saved us both from making silly asses of ourselves.
+#ANNE.
+And you think I am grateful to him for that?... Doesn’t any man understand any woman?
+#NICHOLAS.
+Are you suggesting that I don’t understand women?
+#ANNE.
+I’m suggesting that you should lend me one pound two shillings and sixpence.
+#NICHOLAS.
+Of course, if you’re in such a confounded hurry to get away from here—— Do you mind all silver?
+#ANNE.
+Not at all.
+#NICHOLAS.
+In such a confounded hurry to get away from here——
+#ANNE.
+Why ever should I want to stay?
+#NICHOLAS.
+Well—well—— Oh, Lord!... Ten shillings ... fourteen and six ... why should she want to stay! Why do you think I’m staying?
+#ANNE.
+Because you’re so fond of Mr. Latimer. He’s so jolly decent.
+#NICHOLAS.
+One pound two shillings and sixpence. I suppose if I told you what I really thought about it all, you’d get on your high horse again and refuse the money from me. So I won’t tell you. Here you are.
+#ANNE.
+You didn’t think I was in love with you, Nicholas? In three days? Oh, Nicholas!
+#NICHOLAS.
+Well—well, I don’t see——
+#ANNE.
+From a friend?
+#NICHOLAS.
+From a friend.
+#ANNE.
+Lent to a friend?
+#NICHOLAS.
+Lent to a friend.
+#ANNE.
+Thank you, Nicholas. Thank you very much, Nicholas!
+#NICHOLAS.
+Well, I’m damned!
+#NICHOLAS.
+Hallo! Do you want to come here?
+#LEONARD.
+Don’t go, old boy, don’t go. Plenty of room for us all.
+#EUSTASIA.
+Thank you so much. Leonard is not very strong yet. His temperature is up again to - day. You will be better on the sofa, darling. I’m so sorry to trouble you.
+#NICHOLAS.
+Not at all. I was just going anyhow.
+#LEONARD.
+Oh, nonsense. Stay and talk to us. Plenty of room for us all.
+#NICHOLAS.
+Got to get my pipe. Left it upstairs, like an ass.
+#LEONARD.
+Have a cigarette instead?
+#NICHOLAS.
+Rather have a pipe, thanks.
+#LEONARD.
+But you’ll come back?
+#NICHOLAS.
+Oh—er—righto.
+#LEONARD.
+Come and keep us company. Thanks, Eustasia, thanks. That’s quite all right.
+#EUSTASIA.
+Another cushion for your back, darling?
+#LEONARD.
+No, thanks.
+#EUSTASIA.
+Quite sure?
+#LEONARD.
+Quite sure, thanks.
+#EUSTASIA.
+I can easily get it for you.
+#LEONARD.
+Oh, very well.
+#EUSTASIA.
+That’s right. You must be comfortable. Now, are you sure that’s all right?
+#LEONARD.
+Quite all right, thank you.
+#EUSTASIA.
+Sure, darling? Anything else you want, I can get it for you at once. A rug over your knees?
+#LEONARD.
+No, thank you, Eustasia.
+#EUSTASIA.
+You wouldn’t like a hot - water bottle?
+#LEONARD.
+No, thank you, Eustasia.
+#EUSTASIA.
+You’ve only got to say, you know. Now shall we talk, or would you like me to read to you?
+#LEONARD.
+I think read—no, I mean, talk—no, read to me.
+#EUSTASIA.
+It’s for you to say, darling.
+#LEONARD.
+Read to me, Eustasia.
+#EUSTASIA.
+We’ll go on from where we left off. We didn’t get very far—I marked the place.... Yes, here we are. “... the sandy deserts of Arabia and Africa.... 4.” And then there’s a little footnote at the bottom; that’s how I remember it. “Tacit. Annal. l. ii., Dion Cassius l. lvi. p. 833, and the speech of Augustus himself.” That doesn’t seem to mean much. “It receives great light from the learned notes of his French translator,
+#MARY.
+Spanheim.” Well, that’s a good thing. Spanheim—sounds more like a German, doesn’t it? Now are you sure you’re quite comfortable, dear?
+#LEONARD.
+Yes, thank you, Eustasia.
+#EUSTASIA.
+Then I’ll begin. “Happily for the repose of mankind, the moderate system recommended by the wisdom of Augustus was adopted by the fears and vices of his immediate successors. Engaged in the pursuit of pleasure or the exercise of tyranny, the first Caesars seldom showed themselves to the armies or to the provinces; nor were they disposed to suffer that those triumphs which their indolence neglected should be usurped by the conduct and valour of their lieutenants.” “The military fame of a subject was considered as an insolent invasion of the Imperial prerogative; and it became the duty as well as interest of every Roman General to guard the frontiers entrusted to his care”— “without aspiring for conquests which might have proved no less fatal to himself than to the vanquished barbarians.”... And then there’s another little footnote. Perhaps it would be better if I read all the little footnotes afterwards—what do you think, darling? Or shall we take them as they come?
+#LEONARD.
+Yes, dear.
+#EUSTASIA.
+Very well. This is footnote 5. “Germanicus, Suetonius Paulinus and Agricola”——“were checked and recalled in the course of their victories. Corbulo was put to death.” Oh, what a shame! “Military merit, as it is admirably expressed by Tacitus, was, in the strictest sense of the word——” well, there are two words, and they are both in Latin. I suppose Tacitus wrote in Latin. But it doesn’t really matter, because it’s only a little footnote. Are you liking the book, darling?
+#LEONARD.
+Very much, dear.
+#EUSTASIA.
+It’s nicely written, but I don’t think it’s very exciting. I don’t think Mr. Latimer has a very good taste in books. I asked him to recommend me something really interesting to read aloud, and he said that the two most interesting books he knew were Carlyle’s French Revolution and—and— Gibbon’s Roman Empire.... Fancy, there are four volumes of it and six hundred pages in a volume. We’re at page 3 now. Oh, now, this is rather interesting, because it’s all about us. “The only accession which the Roman Empire received during the first century of the Christian era was the province of Britain.” Fancy! “The proximity of its situation to the coast of Gaul seemed to invite their arms, the pleasing though doubtful intelligence of a pearl fishery attracted their avarice.” And then there’s a little footnote—I suppose that’s to say it was Whitstable. Oh no—“The British pearls proved, however, of little value, on account of their dark and livid colour.” How horrid. “Tacitus observes——” well, then, Tacitus says something again.... I wish he would write in English.... Now where was I? Something about the pearls. Oh yes. “After a war of about forty years”—good gracious!—“undertaken by the most stupid, maintained by the most dissolute, and——”
+#NICHOLAS.
+Oh, sorry, I’m interrupting.
+#LEONARD.
+No, no. Eustasia was just reading to me. You mustn’t tire yourself, dear. Stay and talk.
+#NICHOLAS.
+What’s the book? Carlyle’s French Revolution?
+#EUSTASIA.
+Certainly not. Gibbon’s Roman Empire.
+#NICHOLAS.
+Any good?
+#EUSTASIA.
+Fascinating, isn’t it, Leonard?
+#LEONARD.
+Very.
+#NICHOLAS.
+You ought to try Carlyle, old chap.
+#LEONARD.
+Is he good?
+#NICHOLAS.
+Oh, topping.
+#EUSTASIA.
+Good gracious! I ought to be dressing.
+#LEONARD.
+Yes, it is about time.
+#NICHOLAS.
+Yes.
+#EUSTASIA.
+Leonard, darling, I don’t think it would be safe for you to change. Not to - night; to - morrow if you like.
+#LEONARD.
+I say, look here, you said that last night.
+#EUSTASIA.
+Ah, but your temperature has gone up again.
+#NICHOLAS.
+I expect that’s only because the book was so exciting.
+#LEONARD.
+Yes, that’s right.
+#EUSTASIA.
+But I took his temperature before I began reading.
+#NICHOLAS.
+Perhaps yesterday’s instalment was still hanging about a bit.
+#EUSTASIA.
+No, darling, not to - night. Just to please his Eustasia.
+#LEONARD.
+All right.
+#EUSTASIA.
+That’s a good boy. And if he’s very good, and Eustasia is very quick dressing, perhaps she’ll read him another little bit of that nice book before dinner.
+#LEONARD.
+I say, don’t go, old chap. You can change in five minutes.
+#NICHOLAS.
+Righto.
+#LEONARD.
+I say!
+#NICHOLAS.
+Yes?
+#LEONARD.
+Oh, nothing.
+#NICHOLAS.
+Curious creatures, women.
+#LEONARD.
+Amazing.
+#NICHOLAS.
+They’re so unexpected.
+#LEONARD.
+So unreasonable.
+#NICHOLAS.
+Yes....
+#LEONARD.
+I hate England at this time of year.
+#NICHOLAS.
+So do I.
+#LEONARD.
+Do you go South as a rule?
+#NICHOLAS.
+As a rule.
+#LEONARD.
+Monte?
+#NICHOLAS.
+Sometimes. We had thought—I half thought of Nice.
+#LEONARD.
+Not bad. We were—I think I prefer Cannes myself.
+#NICHOLAS.
+There’s not much in it.
+#LEONARD.
+No.... Between ourselves, you know—quite between ourselves—I’m about fed up with women.
+#NICHOLAS.
+Absolutely.
+#LEONARD.
+You are too?
+#NICHOLAS.
+Rather. I should think so.
+#LEONARD.
+They’re so dashed unreasonable.
+#NICHOLAS.
+So unexpected....
+#LEONARD.
+Had you booked your rooms?
+#NICHOLAS.
+At Nice? Yes.
+#LEONARD.
+So had I.
+#NICHOLAS.
+At Cannes?
+#LEONARD.
+Yes.... I say, what about it?
+#NICHOLAS.
+Do you mean——
+#LEONARD.
+Yes.
+#NICHOLAS.
+Evaporating?
+#LEONARD.
+Yes. Quite quietly, you know.
+#NICHOLAS.
+Without ostentation.
+#LEONARD.
+That’s it.
+#NICHOLAS.
+It’s rather a scheme. And then we shouldn’t waste the rooms. At least, only one set of them. I’ll tell you what. I’ll toss you whether we go to Nice or Cannes.
+#LEONARD.
+Right.
+#NICHOLAS.
+Tails.
+#LEONARD.
+Heads. Do you mind coming to Cannes?
+#NICHOLAS.
+Just as soon, really. When shall we go? To - morrow?
+#LEONARD.
+Mightn’t get a chance to - morrow. Why not to - night? It seems a pity to waste the opportunity.
+#NICHOLAS.
+You mean while Eustasia’s dressing?
+#LEONARD.
+The—er—opportunity. Sleep the night at Dover and cross to - morrow morning.
+#NICHOLAS.
+She’ll be after us.
+#LEONARD.
+Nonsense.
+#NICHOLAS.
+My dear man, you don’t know Eustasia.
+#LEONARD.
+I don’t know Eustasia? Well!
+#NICHOLAS.
+She’ll be after you like a bird. You’ve never seen Eustasia when she has got somebody ill to look after.
+#LEONARD.
+I’ve never seen Eustasia? Well!
+#NICHOLAS.
+My dear chap, you’ve only had three days of her; I’ve had six.... Lord!... Look here. We shall have to—— Enter LATIMER.
+#LATIMER.
+What, Leonard, all alone?
+#NICHOLAS.
+I say, you’re the very man we want.
+#LEONARD.
+S’sh.
+#LATIMER.
+Leonard, don’t “s’sh” Nicholas when he wants to speak to me.
+#NICHOLAS.
+It’s all right, old chap, Latimer is a sportsman.
+#LATIMER.
+There! You see the sort of reputation I have in the West End. What is it you want to do? Run away?
+#LEONARD.
+Well—er——
+#NICHOLAS.
+I say, however did you guess?
+#LATIMER.
+Leonard’s car has had steam up for the last twenty - four hours, waiting for a word from its owner.
+#LEONARD.
+By Jove!
+#LATIMER.
+And you are going with him, Nicholas?
+#NICHOLAS.
+Yes. Thought I might as well be getting on. Very grateful and all that, but can’t stay here for ever.
+#LATIMER.
+So you are going too! I thought—— Well! Nicholas is going too.
+#LEONARD.
+I say, you do understand—I mean about—er—I mean, when I’m quite well again—start afresh and all that. Cosset her a bit. But when you’re ill—or supposed to be ill—— Well, I mean, ask Nicholas.
+#NICHOLAS.
+Oh, rather.
+#LATIMER.
+My dear Leonard, why these explanations? Who am I to interfere in other people’s matrimonial affairs? You and Nicholas are going away—good - bye.
+#NICHOLAS.
+Yes, but what about Eustasia? She’s not going to miss the chance of cosseting Leonard just when she is getting into it. She’ll be after him like a bird.
+#LATIMER.
+I see. So you want me to keep her here?
+#NICHOLAS.
+That’s the idea, if you could.
+#LATIMER.
+How can I keep her here if she doesn’t want to stay?
+#LEONARD.
+Well, how do you keep anybody here?
+#LATIMER.
+Really, Leonard, I am surprised at you. By the charm of my old - world courtesy and hospitality, of course.
+#LEONARD.
+Oh! Well, I doubt if that keeps Eustasia.
+#LATIMER.
+I am afraid that that is only too true. In fact, the more I think of it, the more I realise that there is only one thing which will keep this devoted wife from her afflicted and suffering husband. and NICHOLAS. What? DOMINIC comes in.
+#LATIMER.
+His lordship and Mr. Nicholas are leaving at once. His lordship’s car will wait for them outside the gates. See that a bag is packed for them.
+#DOMINIC.
+Yes, sir.
+#LATIMER.
+And come back when you’ve seen about that.
+#DOMINIC.
+Yes, sir.
+#LATIMER.
+The car can return for the rest of your luggage, and take it over in the morning.
+#NICHOLAS.
+Good!
+#LEONARD.
+Er—thanks very much. What were you going to say about the only way of—er——
+#LATIMER.
+The only way of keeping this devoted wife from her afflicted and suffering husband?
+#LEONARD.
+Yes. What is it?
+#LATIMER.
+Somebody else must have a temperature. Somebody else must be ill. Eustasia must have somebody else to cosset.
+#NICHOLAS.
+I say, how awfully sporting of you!
+#LATIMER.
+Sporting?
+#NICHOLAS.
+To sacrifice yourself like that. You don’t think I am going to sacrifice myself, do you? No, no, it’s Dominic.
+#DOMINIC.
+Yes, sir.
+#LATIMER.
+Dominic, are you ever ill?
+#DOMINIC.
+Never, sir, barring a slight shortness of the breath.
+#LATIMER.
+That’s awkward. I don’t think you can cosset a shortness of the breath.
+#NICHOLAS.
+I say, you could pretend to be ill, couldn’t you?
+#DOMINIC.
+With what object, sir?
+#NICHOLAS.
+Well—er——
+#LATIMER.
+Her ladyship is training to be a nurse. She has already cured two very obstinate cases of nasal catarrh accompanied by debility and a fluctuating temperature. If she brings one more case off successfully, she earns the diploma and the gold medal of the Royal Therapeutical Society.
+#NICHOLAS.
+That’s right.
+#DOMINIC.
+And you would wish me to be that third case, sir?
+#NICHOLAS.
+That’s the idea.
+#DOMINIC.
+And be cosseted back to health by her ladyship?
+#LATIMER.
+Such would be your inestimable privilege.
+#DOMINIC.
+I am sorry, sir. I must beg respectfully to decline.
+#NICHOLAS.
+I say, be a sport.
+#LEONARD.
+Of course we should—— Naturally you would not—er—lose anything by—er——
+#LATIMER.
+His lordship wishes to imply that not only would your mental horizon be widened during the period of convalescence, but that material blessings would also flow. Isn’t that right, Leonard? commission on the gold medal. Naturally.
+#DOMINIC.
+I am sorry, sir. I am afraid I cannot see my way.
+#NICHOLAS.
+I say——
+#LATIMER.
+Thank you, Dominic.
+#DOMINIC.
+Thank you, sir.
+#NICHOLAS.
+Well, that’s torn it. If you’re quite sure that you wouldn’t like to have a go? It’s the chance of a lifetime to learn all about the French Revolution.
+#LATIMER.
+Well, well! Something must be done. After all, why not?
+#LEONARD.
+You will?
+#LATIMER.
+I will.
+#NICHOLAS.
+I say——
+#LATIMER.
+No, no. Don’t wait. Fly.
+#LEONARD.
+Yes, we’d better be moving. Come on!
+#NICHOLAS.
+There’s an awfully good bit in the second chapter——
+#LATIMER.
+Listen! I hear her coming.
+#LEONARD.
+Good Lord!
+#LATIMER.
+Oh, Dominic. In consequence of your obstinate good - health, I am going to sacrifice myself—I mean, I myself am going to embrace this great opportunity of mental and spiritual development.
+#DOMINIC.
+Yes, sir. Very good of you, I’m sure, sir.
+#LATIMER.
+What sort of illness would you recommend?
+#DOMINIC.
+How about a nice sprained ankle, sir?
+#LATIMER.
+You think that would go well?
+#DOMINIC.
+It would avoid any interference with the customary habits at meal - time, sir. There’s a sort of monotony about bread - and - milk; no inspiration about it, sir, whether treated as a beverage or as a comestible.
+#LATIMER.
+I hadn’t thought about bread - and - milk.
+#DOMINIC.
+You’ll find that you will have little else to think about, sir, if you attempt anything stomachic. Of course you could have the usual nasty cold, sir.
+#LATIMER.
+No, no, not that. Let us be original....
+#DOMINIC.
+How about Xerostomia, sir? Spelt with an x.
+#LATIMER.
+Is that good?
+#DOMINIC.
+Joseph tells me that his father has had it for a long time.
+#LATIMER.
+Oh! Then perhaps we oughtn’t to deprive him of it.
+#DOMINIC.
+I looked it up in the dictionary one Sunday afternoon, sir. They describe it there as “an abnormal dryness of the mouth.”
+#LATIMER.
+I said I wanted to be original, Dominic.
+#DOMINIC.
+Quite so, sir.
+#LATIMER.
+Perhaps I had better leave it to the inspiration of the moment.
+#EUSTASIA.
+Dominic! Dominic!
+#DOMINIC.
+This appears to be the moment, sir.
+#LATIMER.
+Quick. Don’t let her ladyship come in for a moment. I must assume a recumbent position.
+#DOMINIC.
+Yes, sir.
+#LATIMER.
+Throwing it away!
+#LATIMER.
+Oh, my poor—er—head!
+#ANNE.
+What is it?
+#LATIMER.
+Oh, my—— Hallo, Anne, is it you?
+#ANNE.
+Yes, what is it?
+#LATIMER.
+Oh, nothing, nothing. A touch of neuralgia.
+#ANNE.
+Oh!... You frightened me.
+#LATIMER.
+Did I, Anne? I’m sorry.
+#ANNE.
+You were groaning so. I thought—I didn’t know what had happened.... Is it very bad?
+#LATIMER.
+Not so bad as it sounded.
+#ANNE.
+I know how bad it can be. Father has it sometimes. Then I have to send it away. May I try?
+#LATIMER.
+Anne!
+#ANNE.
+Close your eyes.
+#LATIMER.
+Ah, but I don’t want to now.
+#ANNE.
+It will go soon.
+#LATIMER.
+Not too soon....
+#ANNE.
+Aren’t faces funny when they’re upside down?
+#LATIMER.
+You have the absurdest little upside - down face that ever I saw, Anne.
+#ANNE.
+Have I?
+#LATIMER.
+Why do you wear a hat on your chin? Why do you wear a hat?
+#ANNE.
+I was going away.
+#LATIMER.
+Without saying good - bye?
+#ANNE.
+I—I think so.
+#LATIMER.
+Oh, Anne!
+#ANNE.
+I should have written. post - card! letter.
+#LATIMER.
+With many thanks for your kind hospitality, yours sincerely.
+#ANNE.
+Yours very sincerely. shall never see you again. shall never forget.
+#LATIMER.
+Ah, but you must forget....
+#ANNE.
+Is it better?
+#LATIMER.
+It is just the same. It will always be the same. It is unthinkable that anything different should ever happen. In a hundred years’ time we shall still be like this. You will be a little tired, perhaps; your fingers will ache; but I shall be lying here, quite, quite happy.
+#ANNE.
+You shall have another minute—no more.
+#LATIMER.
+Then I shall go straight to the chemist and ask for three pennyworth of Anne’s fingers. What is it?
+#ANNE.
+I heard something. Whispers.
+#LATIMER.
+Don’t look round.
+#ANNE.
+What was it? Was it——
+#LATIMER.
+An episode in your life. Over, buried, forgotten....
+#ANNE.
+It never really happened, did it?
+#LATIMER.
+Of course not! We must have read about it somewhere—or was it in a play?
+#ANNE.
+That was it! We were in a box together.
+#LATIMER.
+Munching chocolates. What a child she was—that girl in the play—with her little, funny, grown - up airs!
+#DOMINIC.
+Oh, I beg your pardon, sir.
+#LATIMER.
+Go on, Anne. I am having neuralgia, Dominic.
+#DOMINIC.
+Yes, sir. A stubborn complaint, as I have heard, sir.
+#LATIMER.
+Miss Anne is making me well.... What did you want?
+#DOMINIC.
+Her ladyship says will you please excuse her if she is not down to - night.
+#LATIMER.
+Shall we excuse her if she is not down to - night?
+#DOMINIC.
+The fact is, sir, that Joseph is taken ill suddenly, and——
+#LATIMER.
+I never thought of Joseph!
+#ANNE.
+Oh, poor Joseph! What is it? trifling affection of the throat, but necessitating careful attention, her ladyship says.
+#LATIMER.
+Please tell her ladyship how very much I thank her for looking after Joseph ... and tell Joseph how very sorry I am for him.
+#DOMINIC.
+Yes, sir.
+#LATIMER.
+You can’t go now, Anne. You will have to stay and chaperone Eustasia and me. Must you go?
+#ANNE.
+Yes.
+#LATIMER.
+Back to your father?
+#ANNE.
+Yes.
+#LATIMER.
+Let us say good - bye now. There is a magic in your fingers which goes to my head, and makes me think ridiculous things. Let us say good - bye now.
+#ANNE.
+Good - bye! I wish you had been my father.
+#LATIMER.
+Dominic, how old would you say I was?
+#DOMINIC.
+More than that, sir.
+#LATIMER.
+Yes, I’m afraid I am. And yet I look very young. Sometimes I think I look too young.
+#DOMINIC.
+Yes, sir.
+#LATIMER.
+Miss Anne has just asked me to be her father.
+#DOMINIC.
+Very considerate of her, I’m sure, sir.
+#LATIMER.
+Yes.... To prevent similar mistakes in the future, I think I shall wear a long white beard.
+#DOMINIC.
+Yes, sir. Shall I order one from the Stores?
+#LATIMER.
+Please.
+#DOMINIC.
+Thank you, sir.... Is Miss Anne leaving us, sir?
+#LATIMER.
+Yes.... Don’t overdo the length, Dominic, and I like the crinkly sort.
+#DOMINIC.
+Yes, sir.... One of our most successful weeks on the whole, if I may say so, sir.
+#LATIMER.
+Yes.... Well, well, we must all do what we can, Dominic.
+#DOMINIC.
+That’s the only way, isn’t it, sir?
+#A MANLY VOICE.
+Oh, is this—er—an hotel? sort of hotel, your Grace. My chauffeur said—we’ve had an accident—been delayed on the way—he said that——

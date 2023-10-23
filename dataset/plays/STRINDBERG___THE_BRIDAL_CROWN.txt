@@ -1,0 +1,1988 @@
+#MOTHER.
+Where have you been all this time, daughter?
+#KERSTI.
+In the woods, mother.
+#MOTHER.
+Picking strawberries, I suppose. Your lips are so red.
+#KERSTI.
+Why did you call me, mother?
+#MOTHER.
+The woods were full of noises, child, and of stealthy footfalls. Could it be the bear?
+#KERSTI.
+Can't tell.
+#MOTHER.
+I thought I heard the strokes of an axe, but maybe I was mistaken.
+#KERSTI.
+The bear uses no axe, mother.
+#MOTHER.
+Why dressed up in your best, daughter?
+#KERSTI.
+It's Sunday, mother.
+#MOTHER.
+There is milk on your tucker, child. Have you been milking May - dew or Starbright?
+#KERSTI.
+Could I but milk the stars - and the moon, O!
+#MOTHER.
+While it's night, O!
+#KERSTI.
+Day and night!
+#MOTHER.
+Night and day! - Yes, I know! Beware of the bear!
+#KERSTI.
+Do you think he would tear my pet cow?
+#MOTHER.
+Have you lost her?
+#KERSTI.
+Shall I ask Anna?
+#MOTHER.
+You had better!
+#KERSTI.
+"Too - la - loo, Ann at Boorness! Do you see my cosset cow Over there at your place?"
+#MATS.
+"Too - la - loo, so I do. Come at once: Cosset cow is here now!"
+#MOTHER.
+What a deep voice Anna has got!
+#KERSTI.
+She has been calling her cows since the sun began to set.
+#MOTHER.
+What do you hear down there in the valley, child?
+#KERSTI.
+The big bell of the cow, the low bell of the goat....
+#MOTHER.
+Oh, no!
+#KERSTI.
+I can hear the cock crowing and the dog barking, the gun banging and the cart clanking, and the oars saying "duck - duck" in the rowlocks.
+#MOTHER.
+Whose cock do you mean, and whose dog?
+#KERSTI.
+The miller's.
+#MOTHER.
+What's his name? Is it Anna?
+#MOTHER.
+What do you see down there in the valley?
+#KERSTI.
+The water - wheel in the mill - race, the smoke from the chimney....
+#MOTHER.
+Whose chimney? The mill - folk's, I suppose?
+#KERSTI.
+It's growing dark, mother.
+#MOTHER.
+I am going - before it grows still darker! This has been the longest Sunday in all my life! - What kind of a smell is that?
+#KERSTI.
+I smell the woods; I smell the cattle; I smell the hay.
+#MOTHER.
+No, it was tattle - berries you were picking!
+#KERSTI.
+It is growing dark, mother!
+#MOTHER.
+So I see, daughter mine. The darkness is coming down on us heavy as a pall, and downward goes my path now - ever downward! But you must stay to watch the curds. And trust me to see if you let the fire go out.
+#KERSTI.
+Trust me to see that the fire won't go out, mother.
+#MOTHER.
+Good night, then. And don't forget your evening prayers!
+#KERSTI.
+Good night, mother.
+#MOTHER.
+"The joy that was mine has been turned into woe!" Don't forget your evening prayers! opens the door of the hut. A big pot is seen hanging over the fire, on which she puts more wood; coming out again, she looks around to make sure that her mother is gone; then she picks up the alpenhorn and sounds another wordless melody on it.
+#KERSTI.
+Baby, baby darling! Is he still asleep?
+#MATS.
+Indeed he is!
+#KERSTI.
+Bring him here, and we'll let the trees rock him.
+#KERSTI.
+"Birches nod in the blowing breeze, but baby slumbers in perfect peace.".... Did you hear the hunt, Mats?
+#MATS.
+No hunt at this time of day, girl!
+#KERSTI.
+But I heard it!
+#MATS.
+Hardly! - What did your mother have to say?
+#KERSTI.
+She bothered me until I thought she would bother the life out of me.
+#MATS.
+Yes, dear, there can be no peace or happiness for us until our union has been hallowed and our baby baptised.
+#KERSTI.
+As long as the old folk resist there can be no wedding. But we must pray the Lord to bless our union before we give baby a name.
+#MATS.
+So we have agreed, and now it may as well be done.
+#KERSTI.
+Everything is ready, as you see.
+#MATS.
+It's well done, but - we're a sorry couple for all that, and a sorry wedding we're having.
+#KERSTI.
+Let the Lord look into our minds and hearts, and if they hold no evil - what matters the rest? Have you brought the Book?
+#MATS.
+I have. But are you sure, dear, that what we mean to do is not sinful?
+#KERSTI.
+Why should it be? Don't you know that the midwife can baptise in case of need?
+#MATS.
+Well, that's the midwife!
+#KERSTI.
+Let us begin!
+#MATS.
+In the name of the Lord! And may we never come to regret it! "I, Mats Anders Larsson, take you, Kersti Margaret Hansdaughter, to be my wedded wife, whom I will love in good days and bad, and in token thereof I give you this ring."
+#KERSTI.
+"I, Kersti Margaret Hansdaughter, take you, Mats Anders Larsson, to be my wedded husband, whom I will love in good days and bad, and in token thereof I give you this ring."
+#MATS.
+Now you are mine in the sight of God, dear, and after this we won't mind what people may say.
+#KERSTI.
+That remains to be seen.
+#MATS.
+And what have we to eat, dear.
+#KERSTI.
+Nothing at all, Mats.
+#MATS.
+Then there is nothing left but to smoke.
+#MATS.
+What was that you said about the hunt just now?
+#KERSTI.
+I haven't the heart to tell, Mats. I haven't the heart since I guessed what folk they were.
+#MATS.
+Better not, maybe!... Look at the cradle - going as if it could rock itself.
+#KERSTI.
+That's the wind, Mats; the wind in the birches.
+#MATS.
+But there is no wind in the spruces over there.
+#KERSTI.
+So I see. Surely the evil ones are abroad to - night.
+#MATS.
+Don't talk of them!
+#KERSTI.
+Do you see my smoke going northward?
+#MATS.
+And mine southward!
+#KERSTI.
+The gnats are dancing....
+#MATS.
+Which means a wedding....
+#KERSTI.
+Do you think we are happier now?
+#MATS.
+Hardly!
+#KERSTI.
+Do you hear the cry of the blackcock? sure sign of wedding....
+#KERSTI.
+But not a single church bell to be heard MATS. It's Sunday, and the ringing during the day has made them tired What shall we call the little one?
+#KERSTI.
+Burden and Ill - luck and Un - asked and crown - thief....
+#MATS.
+Why crown - thief?
+#KERSTI.
+Because and because and because Even if we get a real wedding, I can wear no crown! What should he be called? Bride - spoil, Mother - woe, Forest - find!
+#MATS.
+Badly fares who badly does!
+#KERSTI.
+Yes, that's for you to say!
+#MATS.
+There are evil eyes about!
+#KERSTI.
+And evil thoughts.... What you brew I have to drink. What you grind I have to bake.
+#MATS.
+Can you tell what made our families hate each other so fiercely?
+#KERSTI.
+It had to do with land - with bought favours, and ill - gotten gains, and corrupt judges, and - everything that's bad, bad, bad!
+#MATS.
+And then the hatred turned into liking, love, lust....
+#KERSTI.
+All of it poisoned....
+#MATS.
+How dark it turns when the hatred breaks through!
+#KERSTI.
+Well may you say so! The devil take the wreath, as I can't have a crown....
+#MATS.
+Don't say that!
+#KERSTI.
+We hold wedding like beggars, and rascals, and roving folk.... What is it you cannot eat or drink, but that tastes good for all that? It's tobacco - and that's all you get for a wedding - feast! The fire under the kettle is going out, Mats. Go and fetch some wood. It's all the dancing there will be.
+#MATS.
+If tokens tell the truth, you were born to be a queen!
+#KERSTI.
+Maybe! Surely not to milk the cows!
+#MATS.
+And the baby, the baby, the dear little thing!
+#KERSTI.
+The poor dear! Oh, what will become of us? What can be in store for us? Get some wood, Mats! Mother will beat me if the milk doesn't curdle. Go, Mats!
+#MATS.
+There was a time when you served my father, KERSTI, and now it's my turn to serve you. Because he was harsh to you, I'll be good to you!
+#KERSTI.
+Yes, Mats, you are good, but I am not. If I only were!
+#MATS.
+Try to be!
+#KERSTI.
+Try to be bad, Mats, and we'll see if you can.
+#MATS.
+You don't mean it!
+#KERSTI.
+Who can tell? - Get away from here, Mats, and hurry up! Somebody is coming. I know her steps. It's mother!
+#MATS.
+Your mother? - And how about the baby?
+#KERSHI.
+Go, go, go!
+#MATS.
+Be careful about baby - be careful now!
+#KERSTI.
+Of course, of course!
+#MOTHER.
+Was it Anna that was here?
+#KERSTI.
+It was.
+#MOTHER.
+And she left when I came? - What a voice she has!
+#KERSTI.
+Yes, has she not?
+#MOTHER.
+And she cut the wedding poles, too, and spread the spruce?
+#KERSTI.
+What is strange about that?
+#MOTHER.
+Storyteller, hussy, strumpet....
+#KERSTI.
+Take care!
+#MOTHER.
+Will you lay hand on your own mother, you trull? Is that what Mats has been teaching you? His father drove us from house and home, and now you take the son in your arms, daughter mine.... O!
+#KERSTI.
+That such things can be said.... O!
+#MOTHER.
+What have you there?
+#KERSTI.
+Clothes to be aired.
+#MOTHER.
+Small ones, I guess.
+#KERSTI.
+Not so very.
+#MOTHER.
+And inside the cradle?
+#KERSTI.
+Small wash - not for small ones.
+#MOTHER.
+The child is there!
+#KERSTI.
+What child?
+#MOTHER.
+Yours!
+#KERSTI.
+There is no such thing!
+#MOTHER.
+Will you swear?
+#KERSTI.
+I swear! May the Neck get me if I lie!
+#MOTHER.
+You shouldn't swear by the evil one.
+#KERSTI.
+I will swear by no one else!
+#MOTHER.
+There is talk in the village.
+#KERSTI.
+Indeed? queer sort of talk.
+#KERSTI.
+No, really?
+#MOTHER.
+They say that Mats is to have the mill.
+#KERSTI.
+Is it true?
+#MOTHER.
+As true as it is that rashness always gets into trouble.
+#KERSTI.
+So Mats gets the mill? Then he will marry, I guess?
+#MOTHER.
+They talk of that, too.
+#KERSTI.
+Whom do you think?
+#MOTHER.
+Whoever it be that his fancy will take - the crown she must surely be able to wear.
+#KERSTI.
+Oh!
+#MOTHER.
+Oh, indeed! - There is gold on your finger.
+#KERSTI.
+There is.
+#MOTHER.
+Are you pledged?
+#KERSTI.
+I am.
+#MOTHER.
+And the crown? Have you lost it?
+#KERSTI.
+You know, it was foretold that I should wear a crown.
+#MOTHER.
+Stuff and nonsense! A virgin's crown is more beautiful than a queen's. And happy is she who wears it with honour!
+#KERSTI.
+Oh!
+#MOTHER.
+And oh, indeed! - Little we had. Wrong we suffered. Badly we fared. Alas the day!
+#KERSTI.
+Little we had, but shall have plenty! Luck is near!
+#MOTHER.
+Race against race, hating and hated; fire and water: now it's coming to a boil.
+#KERSTI.
+Water may cool what the fire has heated. All will be well!
+#MOTHER.
+"The joy that was mine has been turned into woe." There is a wreath floating on the water - where's the crown?
+#KERSTI.
+It will come, it will come!
+#NECK.
+"I am hoping, I am hoping that my Redeemer still liveth."
+#KERSTI.
+There is no redeemer for you, I can tell you!
+#KERSTI.
+If you'll keep quiet I'll let you play at my wedding.
+#MIDWIFE.
+Good evening, my dear. I hope my visit is not inconvenient.
+#KERSTI.
+You are the midwife - Mrs. Larsson - are you not?
+#MIDWIFE.
+Of course, I am. It was I that helped you, my dear....
+#KERSTI.
+Oh, yes; but you promised never to speak of it.
+#MIDWIFE.
+And we won't! How - is the little one doing?
+#KERSTI.
+Oh, well enough!
+#MIDWIFE.
+Better not be too impatient, dear....
+#KERSTI.
+Who says I am?
+#MIDWIFE.
+The snappy voice and the tap of the little foot! But now there is gold on your finger, I see. Then I shall be asked to a wedding shortly, I think.
+#KERSTI.
+You?
+#MIDWIFE.
+I am always at the baptism, but can never get to a wedding - and I think it would be such fun!
+#KERSTI.
+No doubt it would!
+#MIDWIFE.
+Of all human virtues, there is one I value above the rest....
+#KERSTI.
+I don't suppose it is chastity.
+#MIDWIFE.
+What no one has, is beyond value. That which I put value on is gratitude.
+#KERSTI.
+You were paid, were you not?
+#MIDWIFE.
+There are services that money can't pay.
+#KERSTI.
+And people you cannot get rid of.
+#MIDWIFE.
+Exactly, my dear, and of those I am one....
+#KERSTI.
+So I find.
+#MIDWIFE.
+And there is another,
+#KERSTI.
+Who can that be?
+#MIDWIFE.
+The Sheriff!
+#KERSTI.
+The Sheriff?
+#MIDWIFE.
+Yes, the Sheriff. He is a very remarkable man, and I have heard of no one who knows the law as he does, from cover to cover.... You and I could never get all that into our heads, but - there is one chapter I have to know by heart, being a midwife.... And a most remarkable chapter it is, with a most remarkable number of paragraphs.... What's the matter?
+#KERSTI.
+Tell me what you know.
+#MIDWIFE.
+Nothing at all I am nothing but a poor old woman who has come here to get lodging for the night....
+#KERSTI.
+Lodging here?
+#MIDWIFE.
+Right here.
+#KERSTI.
+Begone!
+#MIDWIFE.
+I can't be walking the woods in the dark of the night.
+#KERSTI.
+If you won't walk, I'll make you run.
+#MIDWIFE.
+Have we got that far now? You had better leave the stick alone, or....
+#KERSTI.
+Or what?
+#MIDWIFE.
+The Sheriff, of course, and that chapter I spoke of....
+#KERSTI.
+Go to the devil, you cursed witch!
+#MIDWIFE.
+Ha - ha! Ha - ha!
+#KERSTI.
+In the name of Christ and His Passion, get thee gone!
+#MIDWIFE.
+We'll meet at the wedding, bid or unbid! And the Sheriff, too! Ad - zee! Ad - zee! Ad - zee!
+#MIDWIFE.
+Perhaps I shall be more welcome this time. Does the fair maiden care to see the midwife now?
+#KERSTI.
+What do you bring?
+#MIDWIFE.
+This!
+#KERSTI.
+What do you take?
+#MIDWIFE.
+"You see it, I see it, the whole world sees it, and yet it is not there."
+#KERSTI.
+Take it, then!
+#MIDWIFE.
+I have it. Can I come to the wedding now?
+#KERSTI.
+Yes, come.
+#MIDWIFE.
+You must say that I'll be welcome.
+#KERSTI.
+That would be a lie.
+#MIDWIFE.
+You must practise....
+#KERSTI.
+Welcome, then - if you'll only leave me now!
+#MATS.
+"Come, cosset, cosset, cosset; come, cosset, cosset!"
+#KERSTI.
+Did you see anybody?
+#MATS.
+I did! - Now for the wedding! Let the kettle boil over - I am boiling, too.
+#KERSTI.
+Was it your father?
+#MATS.
+Father and mother. And I get the mill!
+#KERSTI.
+Do you see what I...?
+#MATS.
+Where did you get it?
+#KERSTI.
+Mother brought it for me.
+#MATS.
+Has she been here?
+#KERSTI.
+Happy as anything!
+#MATS.
+But the baby, the baby!
+#KERSTI.
+Sit down, Mats! Sit down! You know I can always find a way!
+#MATS.
+But the baby!
+#KERSTI.
+There now! - Listen! Now, when trouble is on the wane and life is smiling, don't you think a little patience might carry us very far....
+#MATS.
+If only the course be straight....
+#KERSTI.
+Of course, straight and short.
+#MATS.
+What are you after?
+#KERSTI.
+If the big fish is to be hooked, the small ones must be overlooked.
+#MATS.
+Can't you talk plainly?
+#KERSTI.
+Wait a little!
+#MATS.
+I am waiting.
+#KERSTI.
+The old folks make conditions.
+#MATS.
+Yes, I know.
+#KERSTI.
+They want a croton bride. What does that mean if not a bride that wears a crown?
+#MATS.
+And wears it with honour!
+#KERSTI.
+With or without! What no one sees and no one knows does not exist.
+#MATS.
+Let me think. All right! And furthermore?
+#KERSTI.
+To hook what's big, you must overlook what's less.
+#MATS.
+Which does not mean the little one!
+#KERSTI.
+Do you mean to prove false?
+#MATS.
+I don't! Not to you, Kersti!
+#KERSTI.
+Suppose now - the banns have been read, the wedding is under way, but the little one sleeps in the forest. Who will haste to the house, and milk the cows, and see that baby lacks nothing? Who, I ask?
+#MATS.
+Well may you ask! If we only dared.... What was that you said?
+#KERSTI.
+Not a word.
+#MATS.
+It seems to me.... If we only dared....
+#KERSTI.
+What? Say it!
+#MATS.
+Say it yourself!
+#KERSTI.
+No, it's for you!
+#MATS.
+Somebody must take care of the little one.
+#KERSTI.
+Who?
+#MATS.
+There is only one.
+#KERSTI.
+Then it's easy to guess who!
+#MATS.
+Tell whom you mean.
+#KERSTI.
+No, you must tell.
+#MATS.
+Beside ourselves, there is only one who knows about the baby.
+#KERSTI.
+Who is that?
+#MATS.
+If you know, why don't you tell?
+#KERSTI.
+Because I want you to tell.
+#MATS.
+It's the midwife. Was that what you said?
+#KERSTI.
+I said nothing, but you did - and, as you know, I do what you say.
+#MATS.
+I have my doubts.
+#KERSTI.
+But what you said I have done already. The baby can't stay in the woods. It must have shelter when the nights grow cold. And if anything should happen, then comes - the Sheriff!
+#MATS.
+The Sheriff, you say? Yes, so he does!
+#KERSTI.
+Is he coming, you say?
+#MATS.
+Yes, if something should happen.... Well, where's the midwife to be found?
+#KERSTI.
+Would you like to call her?
+#MATS.
+I wish she were here!
+#KERSTI.
+And what do you want her to do?
+#MATS.
+Give the baby a home.
+#KERSTI.
+With whom?
+#MATS.
+With herself.
+#KERSTI.
+For how long?
+#MATS.
+Till the wedding is over.
+#KERSTI.
+But if he were taken sick while with her?
+#MATS.
+Better than have him freeze in the woods - better than have him freeze to death! Take a look at the cradle. I think I heard him!
+#KERSTI.
+No, he's asleep....
+#MATS.
+Hush - I heard him.
+#KERSTI.
+No, you didn't!
+#MATS.
+Yes, I did.
+#KERSTI.
+Don't you wake him! If he should cry, somebody might hear.
+#MATS.
+Oh.... Do you think any one has - that your mother may have heard him? Oh, Kersti, we should never have done what we have!
+#KERSTI.
+Undone were better!
+#MATS.
+We must take him to the midwife to - night. I must go to the village.
+#KERSTI.
+I'll take him!
+#MATS.
+Do!
+#KERSTI.
+But don't wake him!
+#MATS.
+Can't I bid him good night?
+#KERSTI.
+Don't touch him!
+#MATS.
+Think if I should never see him again!
+#KERSTI.
+Then it would be the will of Him whose will we cannot change.
+#MATS.
+His will be done!
+#KERSTI.
+Now you have said it!
+#MATS.
+What have I said that could please you like that?
+#KERSTI.
+That - that - you submit to the will of Him that performeth all things.
+#MATS.
+Yes, whatever may happen is His will, of course.
+#KERSTI.
+Of course!
+#MATS.
+Good night, then, Kersti dear, and good night, baby!
+#KERSTI.
+Good night, Mats.
+#BRITA.
+Where did you get the doll?
+#LIT-KAREN.
+Kersti gave it to me.
+#BRITA.
+Away with it! Where did you get your doll?
+#LIT-MATS.
+Kersti gave it to me.
+#BRITA.
+Out with it!
+#FATHER.
+Hush! Hush! Grandfather is thinking.
+#MOTHER.
+What are you doing? watch - chain, but there is hardly hair enough.
+#MOTHER.
+Where can you get any?
+#BRITA.
+I know where it ought to be pulled.
+#MOTHER.
+Horses pull.
+#BRITA.
+Hens are picked, pigs give bristles, and maidens are combed. - Combed hair is good, but cut is better.
+#FATHER.
+Hush, hush, grandfather is thinking.
+#ANNA.
+What is he thinking of?
+#BRITA.
+You'll hear by and by. And all will have to swallow.
+#ANNA.
+Is it about Mats? And Kersti? Will there be a wedding?
+#FATHER.
+Hush, hush, grandfather is thinking.
+#ANNA.
+I'll give you some of my hair.
+#BRITA.
+Not the right colour.
+#ANNA.
+Who's got it? Is it Kersti you mean?
+#BRITA.
+Don't mention her.
+#GRANDMOTHER.
+Have you thought it out?
+#GRANDFATHER.
+I have! It is No. 278, the fourth verse: "All at birth and death." Let us have it!
+#GRANDFATHER.
+It is settled! "He that hath an ear, let him hear." - Is it settled?
+#GRANDMOTHER.
+Not yet.
+#FATHER.
+Not quite.
+#MOTHER.
+The Lord beholdeth!
+#BRITA.
+What does the Scripture, say?
+#ANNA.
+"Doth God pervert judgment, or doth the Almighty pervert justice?"
+#LIT-KAREN.
+What do you want me to say?
+#GRANDFATHER.
+You must give us your advice, child, although we may not take it. Out of the mouth of babes may come the truth.... Shall Kersti have Mats?
+#LIT-KAREN.
+If they want each other.
+#GRANDFATHER.
+Well spoken! And you, Lit - Mats?
+#LIT-MATS.
+I want my doll!
+#GRANDFATHER.
+And Mats wants his. Shall he have her?
+#LIT-MATS.
+If it is Kersti, he may, for she gave me the doll.
+#BRITA.
+Listen to him!
+#GRANDFATHER.
+Let us search the Scripture. Genesis, thirty - fourth chapter and eighth verse. "And Hamor communed with them, saying, The soul of my son Shechem longeth for your daughter: I pray you give her him to wife." Is that enough?
+#GRANDMOTHER.
+Enough and to spare!
+#FATHER.
+There wasn't anything about the mill.
+#MOTHER.
+Let His will be done!
+#BRITA.
+Amen.
+#ANNA.
+Verily, it shall be done!
+#LIT-KAREN.
+I like Kersti because she's nice.
+#LIT-MATS.
+Me, too!
+#FATHER.
+Hush, hush, grandfather is thinking.
+#GRANDFATHER.
+Ask your brother - in - law to come in.
+#GRANDFATHER.
+Let him come!
+#FATHER.
+Come in, Stig Matsson.
+#SHERIFF.
+The peace of God be with you!
+#ALL.
+And his blessing on you!
+#GRANDFATHER.
+It is I who have called you, Stig Matsson, and you know the reason. Kersti Margaret Hansdaughter - is to become the wife of Mats Anders Larsson, my grandson. The two families have fought and fumed at each other for a long time - all too long! At this late hour I have come to feel that an end should be put to all strife and ill will before my eyes are closed and I am carried to my last rest. Take a look at these papers. They are legal documents, deeds, wills, receipts, authorisations - belonging to suits that have been settled or are still unsettled. Have you looked them over?
+#SHERIFF.
+I have.
+#GRANDFATHER.
+All right! Then I shall throw them into the fire. There is a time to hate and a time to love. The time of hatred must come to an end I am longing for peace. Therefore, I beg you, my next of kin, to regard all that has happened in the past as if it had not happened at all - and I ask you: Will you forget everything, and will you meet your new relatives without grudge or guile, and greet them as friends? Answer me!
+#ALL.
+We will!
+#GRANDFATHER.
+Then I shall let the fire consume what is left of past evils. Let us be seated!
+#ANNA.
+Do you hear it sing?
+#BRITA.
+No, it moans. And within me it's aching!
+#GRANDFATHER.
+Bring them in!
+#GRANDFATHER.
+May God bless you! And be seated, please!
+#GRANDFATHER.
+When is the wedding to be?
+#MATS.
+In a fortnight, as soon as the banns have been read the third time.
+#GRANDFATHER.
+What is the hurry?
+#MATS.
+Haven't we waited long enough?
+#GRANDFATHER.
+Maybe you have!
+#MATS.
+Have you no word to say to Kersti? Not one of you?
+#SHERIFF.
+Let us welcome the new child!
+#SHERIFF.
+You are not afraid of me, are you? - Oh, no! - Look me in the face, Kersti. I have dandled you on my knees when you were a little child, and I have held your pretty head in my hands.... Yes, you have a very pretty head, and a forehead that makes me think of a bull. That's why you are having your own way now, I suppose.
+#GRANDFATHER.
+Let us leave the young ones alone!
+#MATS.
+Fie yourself!
+#MATS.
+I hope you will feel at home with me, Kersti!
+#KERSTI.
+With you, yes!
+#MATS.
+What have you to do with the others?
+#KERSTI.
+That's the question.
+#MATS.
+You are not marrying the family.
+#KERSTI.
+But into it.
+#MATS.
+Of course, we are not very soft or cuddlesome.
+#KERSTI.
+That's plain.... Is this the place where we are to live?
+#MATS.
+Yes, what do you think of it?
+#KERSTI.
+Everything is white....
+#MATS.
+It's the flour, you see. Do you object?
+#KERSTI.
+And damp....
+#MATS.
+It's the mill - race....
+#KERSTI.
+And cold, too....
+#MATS.
+It's the water....
+#KERSTI.
+Shall we have new furniture?
+#MATS.
+There will be nothing new. Everything is handed down from one generation to another.
+#KERSTI.
+But we can sweep, can't we?
+#MATS.
+No, we can't! The dust in a mill is like the coating in a pipe. Mustn't be touched!
+#KERSTI.
+Is that the wheel?
+#MATS.
+That's the wheel.
+#KERSTI.
+Ugh! Have we to listen to that noise?
+#MATS.
+It's ours! And we should be thankful as long as we hear it, because that means we have grist for the mill.
+#KERSTI.
+And the sun never gets here?
+#MATS.
+Never! How could it?
+#KERSTI.
+And nothing grows here - except that green stuff on the wheel.
+#MATS.
+But we catch eels here and lampreys.
+#KERSTI.
+Ugh! I like it better in the pasture, where the wind is blowing....
+#MATS.
+And the birches rock....
+#KERSTI.
+Must I live in a place like this, beneath the water, at the bottom of the sea?
+#MATS.
+I was born here.
+#KERSTI.
+And here we are to die - O!
+#MATS.
+Why "O"?
+#KERSTI.
+Stop the wheel at least.
+#MATS.
+Well, if you can't get along with the wheel, then....
+#KERSTI.
+What's down here?
+#MATS.
+The river.
+#KERSTI.
+Please stop that wheel!
+#MATS.
+Well! There must be mischief abroad! - It won't stop!
+#KERSTI.
+I shall die here!
+#MATS.
+I must go outside to stop it! There is mischief abroad, I tell you!
+#KERSTI.
+And at home?
+#MATS.
+Oh, dear!
+#KERSTI.
+"Meow, said the cat."
+#MATS.
+What is the matter?
+#KERSTI.
+Merely that I have got what I wanted.
+#MATS.
+And it was not worth having? Christ Jesus, help! The wheel is turning backward!
+#MIDWIFE.
+"If you come back, it's all off, and if you don't, it's all on!" Now that's done! And I shall dance at the wedding!
+#KERSTI.
+Is that you, grandfather?
+#VERGER.
+Yes, girl, I forgot something.
+#KERSTI.
+What have you there?
+#VERGER.
+I come from the sacristy, and I am taking home the numbers to be polished.
+#KERSTI.
+What numbers?
+#VERGER.
+Those that show the hymns you are to sing, don't you know?
+#KERSTI.
+Let me see!
+#VERGER.
+Here you can see.... What's the matter, sweetheart?
+#KERSTI.
+I don't know, grandfather, but I think I should never have come here....
+#VERGER.
+What talk is that, child?
+#KERSTI.
+There is mischief astir in this house....
+#VERGER.
+Oh, mercy, no...; No, my dear....
+#KERSTI.
+Oh, oh, oh! Everything has grown so strange all of a sudden....
+#VERGER.
+But how is this going to end, Kersti?
+#KERSTI.
+Yes, tell me, tell me!
+#VERGER.
+I must go now, child. I must go back to the church and get the crown so I can send it to a goldsmith. It has to be cleaned with cream of tartar....
+#KERSTI.
+All right, grandfather....
+#VERGER.
+It is for your sake the crown is to be cleaned - for your own sake, don't you know?...
+#KERSTI.
+Is that you, father?
+#SOLDIER.
+Yes, it's only me. I want my chaco, which I left in here.
+#KERSTI.
+Oh, father, father, I am so unhappy....
+#SOLDIER.
+What has happened?
+#KERSTI.
+Nothing!
+#SOLDIER.
+Why should you be unhappy, then?
+#KERSTI.
+You don't understand!
+#SOLDIER.
+Come to your senses, child!
+#KERSTI.
+Don't go, father!
+#SOLDIER.
+The sorrows of love pass quickly - Come to your senses is my advice. Do come to your senses!
+#KERSTI.
+And what have you forgotten?
+#BRITA.
+I never forget anything.
+#KERSTI.
+What are you looking for?
+#BRITA.
+You!
+#KERSTI.
+How kindly!
+#BRITA.
+Yes, is it not?
+#KERSTI.
+You hateful thing!
+#BRITA.
+You hussy!
+#KERSTI.
+You - sister - in - law!
+#BRITA.
+Who knows?
+#KERSTI.
+Are you telling my fortune, you witch?
+#BRITA.
+Yes - a rope!
+#KERSTI.
+Should not be mentioned in the house of a hanged man!
+#BRITA.
+Now I shall tell your fortune! You get the mill, and the grist will be accordingly. witch you are, indeed!
+#BRITA.
+Yes, and one who can find buried treasures! Perhaps you will let me find a little treasure for you?
+#KERSTI.
+Take care, you witch! Have you no shame? It's mortal sin you are practising now! You should be burned by fire, for I am sure you would float if thrown in the water!
+#BRITA.
+To the dust I wed you, and a crown of dirt shall you wear, so that your shame may find you out!
+#KERSTI.
+Fie on you! Fie!
+#HANK.
+Fie!
+#KERSTI.
+Who was that?
+#HANK.
+Who was that?
+#BRITA.
+Guess! - That was the Mocker!
+#KERSTI.
+Who is the Mocker?
+#HANK.
+The Mocker!
+#BRITA.
+The Mocker is the Mocker. Don't you know the Mewler?
+#KERSTI.
+The Mewler, you say? What have I got to do with that one?
+#HANK.
+With that one!
+#BRITA.
+The wages of sin is death!
+#KERSTI.
+Mats!
+#HANK.
+Mats!
+#KERSTI.
+Oh! Oh! Let me die! Let me die!
+#BRITA.
+You shall have your wish!
+#KERSTI.
+Hang me to a tree!
+#HANK.
+To a tree!
+#BRITA.
+Not I!
+#MATS.
+"Kersti dear, is baby asleep?"
+#BRITA.
+"Far in the forest!" Fie on you!
+#MATS.
+"Far, far, in the forest!" Guess who it is!
+#KERSTI.
+Oh, you hurt me!
+#KERSTI.
+Let go!
+#MATS.
+Now I have you! Now you are my prisoner, my dove, my goat that I bought for a groat! My little white kid! My little pet cow! "Come, cosset, cosset, cosset! Come, cosset, cosset!"
+#KERSTI.
+Yes, you can be happy, Mats!
+#MATS.
+I am, and guess why?
+#KERSTI.
+Can't any longer!
+#MATS.
+Because I met the midwife, and she brought word of the little one.
+#KERSTI.
+Did she?
+#MATS.
+She did! He's sleeping, she said, so quietly, so quietly.
+#KERSTI.
+Oh!
+#MATS.
+Far in the forest! - What's that in your hair?
+#KERSTI.
+Mould.
+#MATS.
+Have you been buried?
+#KERSTI.
+Yes, already!
+#MATS.
+Ugh! Who did that?
+#KERSTI.
+Can't you tell?
+#MATS.
+Brita with the evil eye?
+#KERSTI.
+Can't you blind it?
+#MATS.
+Not I! The only one who can is Jesus Christ!
+#KERSTI.
+Fray for me!
+#MATS.
+One must do that for oneself.
+#KERSTI.
+But suppose you can't?
+#MATS.
+You can if your conscience is clear.
+#KERSTI.
+But when is it?
+#MATS.
+Do you hear the even - song bell?
+#KERSTI.
+No!
+#MATS.
+But I do; so you must hear it, too.
+#KERSTI.
+I don't, I don't! Alas the day!
+#MATS.
+Can you hear the rapids?
+#KERSTI.
+The roar of the rapids, the beat of the flail, the tinkle of cowbells - but of holy bells not a sound!
+#MATS.
+That's a bad sign! I remember when the bells were rung at the burial of our former sheriff - we could see them move, but not a sound was heard. A bad sign!
+#KERSTI.
+Brita put a spell on me!
+#MATS.
+It will be worst for herself.
+#KERSTI.
+Come to the pasture! I must see the sun!
+#MATS.
+I will - Kersti dear!
+#KERSTI.
+Oh!
+#MATS.
+Oh! Part of an old saw, the rest of which reads as follows: "when it was spanked for licking up the cream."
+#MOTHER.
+We - ell?
+#SOLDIER.
+Was it three quarters we got off the place last year?
+#MOTHER.
+Yes, that's right.
+#VERGER.
+Haven't the girls come out of the bath yet?
+#MOTHER.
+No.... This business of the wedding takes a lot of people.... We should be bringing in the oats.... And it will soon be time to pick berries....
+#VERGER.
+Yes, the dog - days are most over. You can see it on the flies; they're kind of drowsy.... Will there be a lot of berries this year?
+#MOTHER.
+Yes.
+#SOLDIER.
+Will those girls never come back?
+#MOTHER.
+I don't know what can be keeping them so long.
+#SOLDIER.
+It's hot.
+#VERGER.
+It must be bad in camp.
+#SOLDIER.
+Well, it isn't so very hard on the infantry....
+#VERGER.
+You were lucky to get leave.
+#SOLDIER.
+I guess I was!
+#MOTHER.
+Now they are coming.
+#SOLDIER.
+Did you see that they had something to eat and drink?
+#MOTHER.
+Yes, right in the bath, and plenty of it.
+#MOTHER.
+Give me the mirror.
+#KERSTI.
+Don't! I don't want any mirror.
+#BRITA.
+You ought to look at yourself, as you won't let anybody else see you.
+#KERSTI.
+What do you mean?
+#BRITA.
+Hard to tell, isn't it? - Nice hair you've got. Can I have it, if it should come off?
+#KERSTI.
+No, you can't!
+#MOTHER.
+What would you do with it?
+#BRITA.
+Watch - chain for Mats.
+#MOTHER.
+Won't you let Mats have it?
+#KERSTI.
+No, I won't!
+#BRITA.
+I'll never be able to match the colour.
+#KERSTI.
+You can have it when I am dead.
+#BRITA.
+That's a promise, but will you keep it?
+#KERSTI.
+I will!
+#SOLDIER.
+Say, Mother.... Please keep quiet a while, children.... Do you know if the sergeant has been asked?
+#MOTHER.
+Vesterlund? Of course!
+#SOLDIER.
+It's to be at four o'clock in the church, isn't it?
+#MOTHER.
+That's right.
+#SOLDIER.
+Then I'll go and see the Pastor now.... And I'll go right on to the sexton.... Hm - hm! That was that! Hm - hm!
+#VERGER.
+Now, my dears, I hope you won't touch anything.
+#LIT-KAREN.
+I'll look after Lit - Mats and see that he doesn't.
+#VERGER.
+So you're going to look after him, are you?
+#MOTHER.
+Where are you going, father?
+#VERGER.
+To the store to get the crown, which should be back from the city by this time.
+#BRITA.
+Oh - the crown!
+#VERGER.
+The goldsmith has had it, you know - to clean it with cream of tartar. That's what you do with silver: you boil it in cream of tartar.
+#BRITA.
+Ha - ha!
+#MOTHER.
+Wait a moment, and I'll go along to the store.
+#VERGER.
+Is it safe to leave the children alone?
+#BRITA.
+What do you fear might happen?
+#MOTHER.
+Why, they are grown - up people!
+#BRITA.
+And Kersti likes to be alone for that matter. She can't stand having anybody look at her....
+#MOTHER.
+Now, now!
+#BRITA.
+When she is bathing, she doesn't want any company at all. But, of course, she's grown - up, so she doesn't have to be afraid....
+#MOTHER.
+Keep still, girl!
+#BRITA.
+No, she's no longer any child. She's outgrown that, and a lot more. Perhaps the crown won't fit her even? Have you tried it on?
+#VERGER.
+That's what we are going to do in a little while.
+#BRITA.
+A merry wedding eve, isn't it?
+#KERSTI.
+Do you want to play games?
+#BRITA.
+We might play "papa and mamma and the children."
+#KERSTI.
+Would you like to guess riddles?
+#BRITA.
+I have already guessed....
+#KERSTI.
+Or sing?
+#BRITA.
+"Hush - a - bye, baby," I suppose you mean?... No, let us read the Bible.
+#KERSTI.
+The Bible, you say?
+#BRITA.
+Yes - Genesis, thirty - fourth and eight.
+#KERSTI.
+About Shechem, you mean?
+#BRITA.
+Exactly, and about Dinah, for whom his heart was longing.... Do you know who Dinah was?
+#KERSTI.
+She was the daughter of Jacob and Leah.
+#BRITA.
+That's right. And do you know what she was?
+#KERSTI.
+Is that a riddle?
+#BRITA.
+Not at all. Do you know what she was?
+#KERSTI.
+No.
+#BRITA.
+She was a little - spoiled!
+#KERSTI.
+Is that a play on words?
+#BRITA.
+More than that!
+#BRITA.
+Do you understand? Is Mrs. Larsson the only one you have asked?
+#KERSTI.
+Have I asked?... The midwife, you say?
+#BRITA.
+Well, so she says.
+#KERSTI.
+Then she is lying!
+#BRITA.
+As midwife she has been sworn, although I couldn't tell whether her oath be false or fair. Just now she swears that she doesn't lie.
+#BRITA.
+Hold up your head! Can't you look people in the face?
+#KERSTI.
+Say something, girls!
+#BRITA.
+It's hard to say anything when one has seen nothing. But nevertheless - one knows what one knows!
+#SHERIFF.
+I am making free.... It won't matter if an old fellow like me gets in to the girls - although the boys have to keep out!
+#BRITA.
+But you'll never wear the crown!
+#KERSTI.
+You don't say!
+#SHERIFF.
+What sort of a bride is this, looking so sad when she is getting her heart's desire? What is the matter?
+#KERSTI.
+With what?
+#SHERIFF.
+Is that the way to answer an old friend who will be a kinsman by this hour to - morrow? There is more than one lass who envies you, and who would like to get to the altar ahead of you to - morrow.
+#KERSTI.
+Maybe there is.
+#SHERIFF.
+And there is the new life ahead of you, in mill and kitchen. No more running about in the woods, where "birches nod in the blowing breeze." No more dancing in the barns on Saturday nights. You'll be busy 'tending your pots, and watching the cradle, and having the meals on the table when Mats comes home, and - keeping an even temper when the dark days arrive - for after sunshine there is sure to be a little rain. Does it scare you to find life so serious, dear? It isn't as bad as it looks. It merely helps to make life kind of solemn.
+#KERSTI.
+Oh!
+#SHERIFF.
+What are you oh - ing about, girl? - There seems to be something in the air that has no place in the thoughts of a young girl - something amiss. Now, my dear, let me see if I can't straighten it out. The guardian of the law knows how to get the truth out of all sorts of people. What's on your mind, dear? Has Mats been nasty to you?
+#KERSTI.
+Oh, mercy!
+#SHERIFF.
+Has the family been playing the high - and - mighty? What have you to do with the family anyhow?
+#SHERIFF.
+Look at that little chap now! He likes his sister - in - law, and that's a good sign. Children always know their real friends. Are you fond of children, Kersti?
+#KERSTI.
+Why do you ask?
+#SHERIFF.
+That's not the right kind of an answer!... Don't you think it's nice to have a little thing like that - to hold it on your lap and feel how it trusts you - just as if there could never be any harm or deceit in the bosom that shelters it.... I think he's falling asleep. Helpless as he is, he's not afraid of trusting his sleep to a stranger - who means nothing but well by him, I am sure.
+#KERSTI.
+Have you seen anything of Mats?
+#SHERIFF.
+He was busy with the boys making the mill ready for the dance to - morrow. It's some time since we saw a crown bride in this place.
+#KERSTI.
+Is that so?
+#SHERIFF.
+Yes, indeed. The old ways are gone, and new ones have come in - from the cities and the camps....
+#KERSTI.
+They used to blame the fellows who came to buy the timber.
+#SHERIFF.
+Yes, but if it hadn't been for them, there would have been no mill....
+#KERSTI.
+They are always putting the blame on somebody else....
+#SHERIFF.
+You are getting a nice husband, Kersti....
+#KERSTI.
+Yes, he's fine - too fine for me!
+#SHERIFF.
+That's a bitter answer to a kind word!
+#KERSTI.
+There was nothing bitter about it - nothing but the truth....
+#SHERIFF.
+Why should it be so hard for us to understand each other? It looks almost as if you didn't want us to be friends?
+#KERSTI.
+Why do you think so?
+#SHERIFF.
+What is well meant, you take badly, and the other way around. Well - that happens frequently when there is something amiss.
+#KERSTI.
+What's amiss?
+#SHERIFF.
+I don't know.
+#KERSTI.
+Neither do I, but it isn't customary to say things like that to a young girl.
+#SHERIFF.
+Now, now! - Where there's no sick conscience, you don't have to walk in your stocking feet - but, but, but....
+#KERSTI.
+Has the examination begun already?
+#SHERIFF.
+I didn't mean....
+#KERSTI.
+The - "guardian of the law" doesn't know how to talk to ladies.
+#SHERIFF.
+Kersti!
+#KERSTI.
+What is it?
+#SHERIFF.
+What do you mean? KERSTI. What do you mean yourself?
+#SHERIFF.
+Lo and behold! That's just the kind of questions asked by my ladies when they want to find out whether I know anything.
+#KERSTI.
+What could there be to know?
+#SHERIFF.
+Whew - is the wind in that corner? Well, well! Well - I guess I'll be going! Yes, I had better be going!
+#MATS.
+Hey!
+#KERSTI.
+Mats! Oh, come here!
+#MATS.
+I mustn't come in - I have promised.
+#KERSTI.
+Yes, do!
+#MATS.
+No, no! - Is the little one asleep?
+#KERSTI.
+This one - yes! - Hush! Hush!
+#KERSTI.
+Are they hunting again?
+#MATS.
+No, who would be hunting at this time of day?
+#KERSTI.
+What is it? soldier's daughter you are, and don't know!
+#KERSTI.
+Tell me!
+#MATS.
+That's at the camp, you know. They are calling them to evening prayers.
+#KERSTI.
+Of course - but everything seems strange and confused!
+#MATS.
+Come to the window, Kersti.
+#KERSTI.
+I think.... I'll just put the little one away.
+#MATS.
+The little one, you say?
+#KERSTI.
+Hushaby, hushaby!
+#MATS.
+There is something nice about children, isn't there?
+#KERSTI.
+Yes - yes!
+#MATS.
+Are you alone?
+#KERSTI.
+Yes, they left! Hating me - all of them!
+#MATS.
+To - morrow is our wedding - day!
+#KERSTI.
+Yes - think of it!
+#MATS.
+Yes, think of it - to - morrow is our wedding - day!
+#KERSTI.
+And I shall be living in the mill!
+#MATS.
+In the mill with me!
+#KERSTI.
+Till death us do part!
+#MATS.
+Which won't be soon!
+#KERSTI.
+Oh!
+#NECK.
+"I am hoping, I am hoping, that my Redeemer still liveth."
+#MATS.
+Now the worst is over, Kersti.
+#BRITA.
+You have got the crown - see that you keep it!
+#KERSTI'S MOTHER.
+Keep your back straight and your head high, girl!
+#SOLDIER.
+God bless you!
+#VERGER.
+And protect you!
+#MATS'S GRANDFATHER.
+Comely you are as I am homely!
+#MATS'S MOTHER.
+Your new family bids you welcome!
+#MATS'S FATHER.
+My daughter now - the old ties have been loosed!
+#SHERIFF.
+Why so pale? What draws all the blood to your heart? What is weighing on it?
+#KERSTI.
+Nothing!
+#SHERIFF.
+So little is a lot!
+#KERSTI.
+Go!
+#SHERIFF.
+When you ride, I'll go ahead of you - but we won't be headed for the same place. When you kneel, I shall be standing, but the cold steel you'll taste won't be in my hands.
+#KERSTI.
+Oh, I wish you'd break your neck!
+#SHERIFF.
+Take care of your own!
+#FIDDLERS.
+Who is cutting in?
+#ALL.
+Who is cutting in?
+#KERSTI.
+Jesus Christ!
+#MATS.
+We must look for it!
+#ALL.
+We must look for it!
+#PASTOR.
+God help us and protect us!
+#ALL.
+God help us and protect us!
+#SHERIFF.
+Let us look for it!
+#ALL.
+Let us look for it!
+#MATS.
+Yes, let's look!
+#MOCKER.
+Cold is the river; warm is my mother's bosom. Nothing you gave me in life: in death I take what is mine!
+#KERSTI.
+Oh, help! Save me!
+#MIDWIFE.
+Here I am! Here I am! Mustn't take on like that! I know how to handle little ones! I help them into the world and out of it.... And I got to the wedding after all!
+#MIDWIFE.
+The Neck was also asked, I understand. Did he come?
+#KERSTI.
+What will you take to get out of here?
+#MIDWIFE.
+What you have lost!
+#KERSTI.
+You mean the crown?
+#MIDWIFE.
+Not exactly.... Hush!... I think I heard somebody! Then I'll hide in the fireplace for a while.... I got here after all, as you see!
+#BRITA.
+Now it's you or me!
+#KERSTI.
+You, then! present is waiting for you.
+#KERSTI.
+Let's see!
+#BRITA.
+Bracelets - but not from me! Bracelets of steel! Now my foot is on your head and on your heart! Now I shall stamp your secret out of the earth, or the water, or the fire - wherever it may be! Now I shall have your hair for my watch - chain, which is not what it seems. Where is the Midwife? Where is the guest of honour at this virginal wedding? You stole the crown, and the Neck stole it from you. You have stolen the mill, but it will be returned. Shechem's Dinah has proved not only spoiled, but soiled! The little one is asleep, not in the forest, but in the river! You have put my brother to shame, and our whole family, and the name that we bear! And now you shall die!
+#KERSTI.
+I am dead! I have been dying for days.... Are you satisfied now?
+#BRITA.
+No, you shall go on dying for days to come! You shall die for perjury, falsehood, murder, theft, slander, deceit! You shall die six times over! And when you really die the seventh time, it will seem so only! You shall not rest in consecrated ground! You shall have no black coffin with stars of silver on it! You shall have no spruce strewn and no bells rung....
+#KERSTI.
+I suppose not!
+#BRITA.
+Therefore.... Do you hear those steps? Count them! One, two, three, four, five, six....
+#SHERIFF.
+It's here, you say?
+#BRITA.
+Not the crown, I guess!
+#SHERIFF.
+Something else, then! No, it is not the crown! Poor Kersti! Did you put it there?
+#KERSTI.
+I did not!
+#SHERIFF.
+No? - Tell the truth!
+#KERSTI.
+I did not put it there!
+#BRITA.
+The truth!
+#KERSTI.
+I did not put it there!
+#BRITA.
+On with the bracelets!
+#SHERIFF.
+Born executioner - that's what you are! God have mercy on us!
+#PASTOR.
+Has it been found?
+#SHERIFF.
+Not that, but....
+#PASTOR.
+Say no more! I know.... God have mercy on us!
+#SOLDIER.
+Have you found the crown?
+#SHERIFF.
+Not that, but....
+#SOLDIER.
+Enough! I know....
+#KERSTI'S MOTHER.
+Have you found the crown?
+#SHERIFF.
+No, no!
+#MOTHER.
+Oh!
+#MOTHER.
+Oh!
+#MATS.
+Who is that?
+#BRITA.
+Look well!
+#MATS.
+She reminds me of somebody!
+#BRITA.
+Look well!
+#MATS.
+I don't know her.
+#BRITA.
+Grant God you never had!
+#MATS.
+The eyes are different.... But the mouth - that sweet mouth - and the little chin.... No, it is not she! What's that? You are standing here as if it were a grave....
+#BRITA.
+It is a grave!
+#MATS.
+Of what?
+#BRITA.
+Of everything - everything that made your life worth while!
+#MATS.
+That means the little one! - Who did it?
+#BRITA.
+She, and she, and she!
+#MATS.
+It is not true!
+#BRITA.
+It is true!
+#MATS.
+You liar!
+#SOLDIER.
+You liar born of liars!
+#MATS'S RELATIVES.
+You liar born of thieves and liars! That's you!
+#KERSTI'S RELATIVES.
+No, that's you!
+#PASTOR.
+Peace! Peace! In the name of the Lord!
+#ALL.
+Peace.
+#SHERIFF.
+No one must be condemned untried!
+#ALL.
+Let us hear!
+#SHERIFF.
+Who brings the charge?
+#ALL.
+Who brings the charge?
+#BRITA.
+I, Brita Lisa Larsson.
+#ALL.
+Brita Lisa Larsson brings the charge. Against whom?
+#BRITA.
+Against Kersti Margaret Hansdaughter.
+#ALL.
+Against Kersti Margaret Hansdaughter! - What is the charge?
+#BRITA.
+If bride be spoiled, the crown is forfeit!
+#KERSTI'S RELATIVES.
+And your evidence?
+#BRITA.
+Two witnesses make valid evidence.
+#MATS'S RELATIVES.
+Two witnesses make valid evidence!
+#KERSTI'S RELATIVES.
+We challenge them!
+#SHERIFF.
+No challenging without good cause!
+#BRITA.
+"If unmarried woman puts away child that comes to its death, the life of the mother shall be forfeit!"
+#MATS'S RELATIVES.
+Her life is forfeit!
+#KERSTI'S RELATIVES.
+"Empty - headed men and meanly tempered never know that they are far from faultless." - The fault is Mats's!
+#MATS'S RELATIVES.
+The fault is not Mats's!
+#KERSTI'S RELATIVES.
+The fault is his who did the deed!
+#MATS'S RELATIVES.
+What deed? You had better ask Kersti!
+#KERSTI'S RELATIVES.
+Ask her!
+#SHERIFF.
+Did you kill the child?
+#KERSTI.
+I did!
+#MATS'S RELATIVES.
+There you hear!
+#KERSTI'S RELATIVES.
+God have mercy!
+#MATS'S RELATIVES.
+Now you can hear!
+#PASTOR.
+May the Lord bless you and protect you!
+#ALL.
+Amen!
+#NECK.
+"I am hoping, I am hoping that thy Redeemer still liveth."
+#MATS'S RELATIVES.
+Look out, Mewlings!
+#KERSTI'S RELATIVES.
+Look out, millers!
+#MATS'S RELATIVES.
+Look out!
+#KERSTI'S RELATIVES.
+Look out!
+#MATS'S RELATIVES.
+Can you match us with eight pairs?
+#KERSTI'S RELATIVES.
+With sixteen, if needs be! Come on!
+#MATS'S RELATIVES.
+At 'em! At 'em!
+#PASTOR.
+Peace! Peace in the name of the Lord Jesus Christ!
+#KERSTI'S RELATIVES.
+Peace!
+#MATS'S RELATIVES.
+War! War on life and death!
+#PASTOR.
+Peace!
+#MATS'S RELATIVES.
+War!
+#MATS.
+Here is the little one now. He's so light - as light as the mind of a bad woman. He's asleep - and soon you will be sleeping, too.
+#KERSTI.
+O! Mats. "O," indeed! It's the end, while A is the beginning. Between those two lie many letters, but the last one of all is O. Cry "O" again - the last time of all - so that the little one may hear it. He will tell the Lord and the Saviour, and ask them to forgive you! No? Well, kiss his white coffin then - kiss it where his small feet are resting - the small, small feet that never had a chance to tread this sinful earth! That's right! Now we'll take him into the church and play and sing and toll the bells over him - but no clergyman can read him into his grave - because of you! I will speak the words myself when we get to the grave. We'll plant him in the sod like a seed in order that he may sprout and grow into a winged blossom. Some day, perhaps, he will spread his wings and fly to heaven - lifted by the wind when the midsummer sun is shining!
+#PASTOR.
+That's enough, Mats! Come now!
+#MATS.
+I am coming.
+#SOLDIER.
+Well.... Well....
+#KERSTI'S MOTHER.
+Yes, here we are now! - Was it bad in the Castle?
+#MOTHER.
+Is there anything you want? To eat or drink - you can have it now, you know.... Did they give you any tobacco while you were in the Castle?
+#MOTHER.
+Keep your head high, Kersti, and don't let the mill - folk put us to shame. Don't weep so much either. Your father is a man of war, you know, and he can't stand that kind of thing. Take this book - and read where I have put the mark. And look at the mark - I got it from some one - some one who is thinking of you in your moment of need. And it is a sure cure against the shakes Farther than this I won't keep you company, Kersti.... I can't - I really can't, being as old as I am....
+#KERSTI.
+Do what you feel like, mother. I have found my comforter! I know that my Redeemer still liveth!
+#MOTHER.
+It's all right, then, child. That's all I wanted to know.... And you don't want me to go with you?
+#KERSTI.
+No, mother, you must spare yourself.... You have had enough trouble on my account as it is.
+#MOTHER.
+Then I'll take your word for it, so that the mill - folk won't have anything to talk about. I take your word for it, so that I can tell them: "Kersti didn't want it - it was her own will, and of course her last will was as good as law to me!" And that's just what it is!
+#BRITA.
+queen you were, and a crown you wore: there's your throne now, with heaven above and hell beneath! - Now you would be glad enough to be milking cows! Now you wouldn't mind picking wood, and scouring pots, and cleaning shoes, and rocking the cradle - now, when you have brought shame on my family and your own, on our parish and our province, so that the whole country is talking of it! Fie on you!
+#BRITA.
+My brother must carry your brat to the grave - my brother! But I shall keep you company to the block when you get spanked! I shall be your bridesmaid when you're wedded to the axe! "There's a corpse that isn't dead, and a babe that wasn't bred, and a bride without a wedding!"
+#LIT-MATS.
+Hush up, Brita! Kersti is nice!
+#BRITA.
+Indeed!
+#LIT-MATS.
+Yes, she is! But I don't like her to have on that ugly cloak.... That would be right for you, Brita! Oh, Kersti, why are you lying here? Are you waiting for Communion? And why did you run away from the wedding? Who is lying in the white box? Is all this a fairy - tale? Do you know that I lost my doll - the one you gave me?... Oh, Kersti dear, why are you so sorry?
+#KERSTI.
+Oh, Lit - Mats, Lit - Mats!
+#BRITA.
+Is that allowed?
+#BRITA.
+Come on now!
+#KERSTI.
+Go with your sister, Lit - Mats! And you had better keep away from me!
+#BRITA.
+Shall I tell him?
+#KERSTI.
+For God's sake, don't tell the child!
+#BRITA.
+For the child's sake, I won't!
+#KERSTI.
+Thank you, Brita - for the child's sake!
+#KERSTI.
+Christ Jesus, Saviour of the world, help me for the sake of Thy passion and death!
+#MIDWIFE.
+Listen, my dear man.... If it comes off, would you mind my getting quite close to it?... I need a little of that red stuff, you know - for a sick person - one who has the falling sickness....
+#MIDWIFE.
+Oh, he is of the kind that won't listen. Ah, there you are, my dear....
+#KERSTI.
+Begone!
+#MIDWIFE.
+Wait a little! Wait a little! Listen now, my dear! I can do what others can't! The hour is near, and the black one is waiting!
+#KERSTI.
+In the name of Christ Jesus, begone!
+#MIDWIFE.
+Listen! I can do what others can't! I can set you free!
+#KERSTI.
+I have found my Saviour! His name is Christ Jesus!
+#MIDWIFE.
+I can make the judge as soft as wax....
+#KERSTI.
+He who shall judge the quick and the dead; He who is the resurrection and the life: He has sentenced me to death in the flesh, and to - life everlasting.
+#MIDWIFE.
+Look at the soldiers! They have gone to sleep! Take my cloak and run!
+#KERSTI.
+Are the soldiers asleep?
+#MIDWIFE.
+Their eyes are closed! - Run, run, run!
+#MIDWIFE.
+Run, run, run!
+#KERSTI.
+No, much better is it to fall into the hands of the living God! - Depart from me!
+#MIDWIFE.
+Shall we meet a Thursday night at the crossroads?
+#KERSTI.
+On the path to the cross I shall meet with my Redeemer, but not with you! Depart!
+#MIDWIFE.
+There is a boat down at the shore - horse and carriage are waiting on the other side Mats is there, but the Sheriff not.... Run, run, run!
+#KERSTI.
+O Lord, lead us not into temptation, but deliver us from evil!
+#MIDWIFE.
+Shash - ash - ash - ash! Horse and carriage!
+#MIDWIFE.
+Ad - zee! Ad - zee! Ad - zee!
+#KERSTI.
+Who are you, child - you who come when the evil one departs?
+#KERSTI.
+White as snow, and white as linen.... Why are you so white?
+#CHILD IN WHITE.
+Thy faith has saved thee! Out of faith has sprung hope!
+#KERSTI.
+Please, dear, don't step on the ant!
+#CHILD IN WHITE.
+But the greatest of these be love - love of all living things, great or small! Now I shall send this ant into the woods to tell the king of all the ants, so that the little people may come here and gnaw the ropes to pieces, and you will be set free.
+#KERSTI.
+No, no! Don't talk like that!
+#CHILD IN WHITE.
+Doubt not - but believe! Believe, Kersti! - Believe!
+#KERSTI.
+How can I?
+#CHILD IN WHITE.
+Believe!
+#NECK.
+"I am hoping, I am hoping, that thy Redeemer still liveth!"
+#KERSTI.
+He sings of my Redeemer! He brings hope to me, who denied it to him!
+#SHERIFF.
+Kersti!
+#SHERIFF.
+Behold the Sheriff! - You are only scared by him! - Do you think everybody feels like that? Suppose that the Sheriff has been summoned to help some one in a moment of dire need. Do you think he will be welcome then? Of course, he will!... Did you ever see such a lot of ants, Kersti?
+#SHERIFF.
+Look at them! Files of them, and whole hosts! Look! - Do you know what that means? It is a good omen! But, of course, you never expect anything good to come from me. You wouldn't believe it that time either - and that's what led to your exposure! Look at those ants! Look at them! They are making straight for you, Kersti. Are you not afraid of them?
+#KERSTI.
+I used to be, but I am not.
+#SHERIFF.
+Big wood - ants, and I think the ant - king himself is with them. Do you know what can be done by the King, and by no other authority? Do you know that? All other authorities can pass judgment - all of them can do that - harshly or mercifully; but there is only one that can grant pardon. That's the King! - Shall we ask the antking if he will grant pardon? Would your Majesty be willing to pardon her - that is, in regard to the worst part?... Did you hear what he answered? I thought he said yes. But I may have been mistaken.... And being the Sheriff, I can't go by hearsays, but must have everything in writing. Let us ask the ant - king to write it down. He has plenty of pens - sharp as needles - and he has ink of his own, that burns. If we could only find a piece of paper! Oh, here we are! Look at this! The King has written it with his own hand. Do you see? C - A - R - L, which makes Carl. You haven't seen such big letters since you went to school, Kersti. And look at the red seal - that smelled like resin in the woods when the sealing - wax still was warm. And look at the silken cords, yellow and blue - and all these lions and crowns.... That's royal, every bit of it!... Read it yourself, Kersti, while I give my orders to the soldiers.
+#SHERIFF.
+Are you glad, Kersti?
+#KERSTI.
+I am thankful that my family and yours will be spared the greatest shame of all. I cannot be glad, for eternal life is better than a life in fetters.
+#SHERIFF.
+Regard it as a time of preparation.
+#KERSTI.
+I will!
+#SHERIFF.
+Are you still afraid of me?
+#KERSTI.
+Having looked death in the face, I fear nothing else.
+#SHERIFF.
+Come with me, then.
+#KERSTI.
+You must set me free first.
+#MIDWIFE.
+How dare you fish on Easter Sunday?
+#FISHERMAN.
+I am not fishing - I'm just looking.
+#MIDWIFE.
+Perhaps you, who are so clever, can also tell a poor, strayed old woman where she is?
+#FISHERMAN.
+If you give me a light.
+#MIDWIFE.
+If you have flint and steel.
+#FISHERMAN.
+Here they are.
+#MIDWIFE.
+Ice? Well, water is fire, and fire is water!
+#FISHERMAN.
+Oh, you are that kind? Then I know where I am.
+#MIDWIFE.
+But where am I?
+#FISHERMAN.
+In the middle of Krummedikke's lake, and over there you see his castle. He was a king who lived long, long ago, and, like Herod, he caused all male babes to be slain because he was afraid for his crown. But now his castle holds all the girls who have not been afraid for theirs.
+#MIDWIFE.
+What are they doing in there?
+#FISHERMAN.
+Spinning flax.
+#MIDWIFE.
+That's the jail, then?
+#FISHERMAN.
+That's what it is.
+#MIDWIFE.
+And the lake?
+#FISHERMAN.
+Oh, it's a good one! There used to be dry land where the lake is now, and on that piece of land stood a church, and that church started a feud. It was a question of pews, you see. The mill - folk, who thought themselves above the rest, wanted to sit next to the altar, but the Mewlings were the stronger. One Easter Sunday it broke loose, right in the nave, and blood was shed. The church was profaned so that it could never be cleansed again. Instead it was closed up and deserted, and by and by it sank into the earth, and now there are fifty feet of water above the weathercock on the spire. By this time the lake has been washing it and washing it these many hundred years, but as long as mill - folk and Mewlings keep on fighting, the temple will never be cleansed.
+#MIDWIFE.
+Why are they called Mewlings?
+#FISHERMAN.
+Because they are descended from Krummedikke, who slew the infants.
+#MIDWIFE.
+And they are still fighting?
+#FISHERMAN.
+Still fighting, and still slaying.... You remember, don't you, Kersti, the soldier's daughter?
+#MIDWIFE.
+Of course, I do.
+#FISHERMAN.
+She is in the Castle, but to - day she will be out to do her yearly public penance at the church.
+#MIDWIFE.
+Is that so?
+#FISHERMAN.
+The Mewlings are coming to bring her over, and the mill - folk are coming to look on.
+#MIDWIFE.
+Do you hear the ice tuning up?
+#FISHERMAN.
+I do.
+#MIDWIFE.
+Does it mean thaw?
+#FISHERMAN.
+Maybe.
+#MIDWIFE.
+Then the ice will begin to break from the shore?
+#FISHERMAN.
+Quite likely. But if the water should rise, the rapids down there will carry it off.
+#MIDWIFE.
+Are the rapids far from here?
+#FISHERMAN.
+Naw! You can hear the Neck quite plainly. To - day he will be up betimes, as he is expecting something.
+#MIDWIFE.
+What can he be expecting?
+#FISHERMAN.
+Oh, you know!
+#MIDWIFE.
+No, I don't. Please tell me.
+#FISHERMAN.
+This is what they tell: Every Easter Sunday morning, at the hour when the Saviour ascended from his grave, the church of Krummedikke rises out of the lake. And he who gets a look at it has peace in his soul for the rest of the year.
+#MIDWIFE.
+Ad - zee! Ad - zee! Ad - zee!
+#FISHERMAN.
+That was a bad meeting.... I got you!
+#FISHERMAN.
+Dumb, but not deaf! "What roars more loudly than a crane? What is whiter by far than a swan?"
+#CHILD IN WHITE.
+The thunder of heaven roars more loudly than the crane, and he who does no evil is whiter than the swan.
+#FISHERMAN.
+Who read my riddle?
+#CHILD IN WHITE.
+Who can free the prisoner from his bonds and set the tongue of the fish talking?
+#FISHERMAN.
+No one!
+#CHILD IN WHITE.
+No man by man begotten, but one born of the all - creative God.... He who has built the bridge of glass can break it, too!... Beware!
+#MATS.
+Where is the winter road?
+#FISHERMAN.
+Do you mean the road of the fish in the water?
+#MATS.
+No, the road of the horse on the snow.
+#FISHERMAN.
+Does it lead to court or church?
+#MILL-FOLK.
+To church.
+#FISHERMAN.
+For the man who has lost his way, all roads lead to the rapids. The roof is cracking!
+#MILL-FOLK.
+Where is the road to the church?
+#FISHERMAN.
+Everywhere!
+#MILL-FOLK.
+Where is the church?
+#FISHERMAN.
+You are standing on it, and walking over it, and soon it will be here.
+#MILL-FOLK.
+Is this Krummedikke's lake?
+#FISHERMAN.
+It's Krummedikke's castle and Krummedikke's lake; it's Krummedikke's church, and soon it will break.
+#MILL-FOLK.
+Lord have mercy!
+#MEWLINGS.
+Is this the road to the church?
+#FISHERMAN.
+This is the road to the rapids! Turn back!
+#MEWLINGS.
+Ridges and open water everywhere! The floe is breaking loose!
+#FISHERMAN.
+Go eastward! The sun is tarrying.
+#MEWLINGS.
+Let's go eastward!
+#FISHERMAN.
+Turn back! The floe has broken loose down that way!
+#MILL-FOLK.
+And eastward, too! Let's turn northward!
+#FISHERMAN.
+There's the river!
+#MILL-FOLK.
+Southward, then!
+#FISHERMAN.
+There are the rapids!
+#MILL-FOLK.
+God have mercy on us!
+#MATS.
+The Mewlings put us on the wrong track.
+#BRITA.
+As they have always done!
+#FATHER.
+And they'll be first at church!
+#GRANDFATHER.
+Never mind! But I can't help regretting the day when I burned the papers.
+#MOTHER.
+Will there ever be peace?
+#GRANDMOTHER.
+"Men who are mild and gentle live in peace and know but little sorrow."
+#MILL-FOLK.
+The Mewlings!
+#MEWLINGS.
+Will you bide now, mill - folk? You put us on the wrong track!
+#MILL-FOLK.
+You liars!
+#MEWLINGS.
+The same to you!
+#MILL-FOLK.
+Quibblers!
+#MEWLINGS.
+And what are you?
+#FISHERMAN.
+Peace in the name of Christ Jesus! The water is rising!
+#ALL.
+The water is rising!
+#MATS'S GRANDFATHER.
+The ice is sinking. Stay where you are!
+#MATS'S GRANDMOTHER.
+To - day we must die, and then comes the day of judgment!
+#MATS'S MOTHER.
+For the sake of your foolish fondness, we must die!
+#KERSTI'S MOTHER.
+"Another's love should by no one be blamed: wise men are often snared by beauty, but fools never."
+#SOLDIER.
+"This fault of his should by no one be blamed: love, in its might, will often turn the sons of men from wisdom to folly."
+#MATS.
+Thank you for those words! You are the man I named father for a brief while!
+#SOLDIER.
+"All at birth and death are equals."
+#MATS'S FATHER.
+There you took the word away from me! Your hand!
+#SOLDIER.
+Here it is! We are all Christians, and this is the great day of atonement. Let not the sun rise on our wrath!
+#MEWLINGS.
+Let us have peace!
+#MILL-FOLK.
+Yes, let us have peace!
+#MATS'S GRANDFATHER.
+Parted in life and parted in death!
+#MATS'S GRANDMOTHER.
+The bridge has broken under the burden of crime.
+#MATS'S MOTHER.
+Where is Kersti?
+#MILL-FOLK.
+Where is Kersti?
+#MEWLINGS.
+Where is Kersti?
+#SOLDIER.
+"And lo, it was expedient that one should die for the people."
+#MATS'S GRANDFATHER.
+"Then said they unto him: What shall we do unto thee, that the sea may be calm unto us?"
+#KERSTI'S MOTHER.
+"Take me up, and cast me forth into the sea: for I know that for my sake this great tempest is upon you."
+#MATS'S GRANDMOTHER.
+Is it settled?
+#ALL.
+It is settled!
+#KERSTI'S MOTHER.
+"Behold the fire and the wood: but where is the lamb for a burnt offering?"
+#MEWLINGS.
+Where is Kersti?
+#MILL-FOLK.
+Where is Kersti?
+#PASTOR.
+"And the Lord said: Lay not thine hand upon the child, for now I know that thou fearest God, seeing thou hast not withheld thine only child from me."
+#ALL.
+Save us!
+#PASTOR.
+"There is but one God, the Saviour!" Let us pray!
+#PASTOR.
+"Out of the depths I cry unto thee, O Lord!"
+#ALL.
+"Lord, hear my voice!"
+#PASTOR.
+O Lord, have mercy!
+#ALL.
+Christ, have mercy!
+#PASTOR.
+Whom are you bringing with you?
+#SHERIFF.
+We are bringing the crown bride - Kersti!
+#PASTOR.
+Is she alive?
+#SHERIFF.
+She is dead. The waters took her!
+#PASTOR.
+May the Lord take her soul!
+#SOLDIER.
+O Lord, have respect unto our offering, as thou hast given thyself for us an offering.
+#PASTOR.
+"For God so loved the world, that he gave his only begotten Son!"
+#BRITA.
+The water is falling!
+#ALL.
+The water is falling!
+#PASTOR.
+Will there be peace after this?
+#ALL.
+Peace and reconciliation!
+#NECK.
+"I am hoping, I am hoping, that my Redeemer still liveth."
+#PASTOR.
+Let us give praise and thanks unto the Lord!
+#ALL.
+We thank and praise thee, O Lord! and BRITA kneel beside the body of KERSTI. All the rest kneel around them and sing No. 6 from the "Old" Swedish Hymn - Book "O God, we give thee praise! O Lord, we give thee thanks! Eternal Father, whom the whole world worships! Thy praise is sung by angels and all the heavenly powers; By Cherubim and Seraphim thy praise is sung incessantly: Holy, holy, holy, Lord God of Sabaoth!"

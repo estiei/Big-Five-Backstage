@@ -1,0 +1,434 @@
+#SARAH.
+Who's theer?
+#EMMA.
+It's me, Mrs. Ormerod, Emma Brierley.
+#SARAH.
+Eh, coom in, Emma, lass.
+#SARAH.
+Tha's kindly welcoom. It's good o' thee to think o' coomin' to see an ould woman like me.
+#EMMA.
+Nought o' th' sort, Mrs. Ormerod. Th' mill's just loosed and A thowt A'd step in as A were passin' and see 'ow tha was feeling like.
+#SARAH.
+Oh, nicely, nicely, thankee. It's only my 'ands as is gone paralytic, tha knaws, an' a weaver's no manner o' good to nobody without th' use o' 'er'ands. A'm all reeght in masel'. That's worst of it.
+#EMMA.
+Well, while A'm 'ere, Mrs. Ormerod, is theer nought as A can do for thee? dunno as theer is, thankee, Emma.
+#EMMA.
+Well, A knaws better. What wert doin' when coom in? Packin' yon box?
+#SARAH.
+Aye. Tha sees theer's a two three things as A canna bear thowt o' parting from. A don't reeghtly knaw if they'll let me tak' 'em into workus wi' me, but A canna have 'em sold wi' rest of stuff.
+#EMMA.
+Let me help yo'.
+#SARAH.
+Tha's a good lass, Emma. A'd tak' it kindly of thee.
+#EMMA.
+They'd do wi' packin' a bit closer. A dunno as they'd carry safe that road. know. It's my 'ands, tha sees, as mak's it difficult for me.
+#EMMA.
+Aye. A'll soon settle 'em a bit tighter.
+#SARAH.
+But what's 'appened to thy looms, lass? They'll not weave by 'emselves while thee's 'ere, tha knows.
+#EMMA.
+Eh, looms is all reeght. Factory's stopped. It's Saturday afternoon.
+#SARAH.
+So 't is. A'd clean forgot. A do forget time o' th' week sittin' 'ere day arter day wi' nought to do.
+#EMMA.
+So that's all reeght. Tha's no need to worry about me. Tha's got trouble enough of thy own.
+#SARAH.
+Aye, th' art reeght theer, lass. Theer's none on us likes to think o' goin' to workus when we're ould.
+#EMMA.
+'Appen it'll be all reeght after all. Parson's coomin' to see thee.
+#SARAH.
+Aye, A knaw 'e is. A dunno, but A'm in 'opes 'e'll do summat for me. Tha can't never tell what them folks can do.
+#EMMA.
+Tha keep thy pecker oop, Mrs. Ormerod. That's what my moother says to me when A tould 'er A were coomin' in to thee. Keep 'er pecker oop, she says. It's not as if she'd been lazy or a wastrel, she says; Sal Ormerod's bin a 'ard worker in 'er day, she says. It's not as if it were thy fault. Tha can't 'elp tha 'ands goin' paralytic.
+#SARAH.
+Naw. It's not my fault. God knaws A'm game enough for work, ould as A am. A allays knawed as A'd 'ave to work for my living all th' days o' my life. A never was a savin' sort.
+#EMMA.
+Theer's nowt against thee for that. Theer's soom as can be careful o' theer brass an' soom as can't. It's not a virtue, it's a gift. That's what my moother allays says.
+#SARAH.
+She's reeght an' all. We never 'ad the gift o' savin', my man and me. An' when Tom Ormerod took an' died, the club money as drew all went on 'is funeral an' 'is gravestone. A warn't goin' to 'ave it said as 'e warn't buried proper.
+#EMMA.
+It were a beautiful funeral, Mrs. Ormerod.
+#SARAH.
+Aye. will say that, beautiful it were. A never seen a better, an' A goes to all as A can. A dotes on buryin's. Are these the next?
+#SARAH.
+Aye
+#SARAH.
+A've been a 'ouseproud woman all my life, Emma, an' A've took pride in 'avin' my bits o' sticks as good as another's. Even th' manager's missus oop to factory 'ouse theer, she never 'ad a better show o' furniture nor me, though A says it as shouldn't. An' it tak's brass to keep a decent 'ouse over your yead. An' we allays 'ad our full week's 'ollydayin' at Blackpool reg'lar at Wakes time. Us didn't 'ave no childer o' our own to spend it on, an' us spent it on ourselves. A allays 'ad a plenty o' good food in th' 'ouse an' never stinted nobody, an' Tom 'e liked 'is beer an' 'is baccy. 'E were a pigeon - fancier, too, in 'is day, were my Tom, an' pigeon - fancying runs away wi' a mint o' money. No. Soom'ow theer never was no brass to put in th' bank. We was allays spent oop coom wages neeght. knaw, Mrs. Ormerod. May be A'm young, but A knaw 'ow 't is. We works cruel 'ard in th' mill, an' when us plays, us plays as 'ard too , an' small blame to us either. It's our own we're spendin'.
+#SARAH.
+Aye. It's a 'ard life, the factory 'and's. A can mind me many an' many's the time when th' warnin' bell went on th' factory lodge at ha'f past five of a winter's mornin' as A've craved for another ha'f hour in my bed, but Tom 'e got me oop an' we was never after six passin' through factory gates all th' years we were wed. There's not many as can say they were never late. "Work or clem," that were what Tom allays tould me th' ould bell were sayin'. An' 'e were reeght, Emma. "Work or clem" is God's truth. An' now th' time's coom when A can't work no more. But Parson's a good man, 'e'll mak' it all reeght. Eh, it were good o' thee to coom in, lass. A bit o' coompany do mak' a world o' difference. A'm twice as cheerful as A were.
+#EMMA.
+A'm glad to 'ear tha say so, Mrs. Ormerod. Is theer owt else? were thinkin' A'd like to tak' my black silk as A've worn o' Sundays this many a year, but A canna think it's reeght thing for workus.
+#EMMA.
+Oh, thee tak' it, Mrs. Ormerod.
+#SARAH.
+A'd dearly love to. Tha sees A'm noan in debt, nobbut what chairs an table 'ull payfor, and A doan't like thowt o' leaving owt as A'm greatly fond of.
+#EMMA.
+Yo doan't, Mrs. Ormerod. Thee tak' it. Wheer is it? A'll put un in. Theer's lots o'room on top. A'll see un's noan crushed.
+#SARAH.
+It's hanging theer behind door. A got un out to show Parson. A thowt A'd ask un if it were proper to tak' it if A've to go. My best bonnet's with it, an' all.
+#EMMA.
+A'll put un in.
+#SARAH.
+A'm being a lot o' trouble to thee, lass.
+#EMMA.
+That's nowt; neighbors mun be neighborly.
+#SARAH.
+Place doan't look much, an' that's a fact. Th' furniture's bin goin' bit by bit, and theer ain't much left to part wi' now.
+#EMMA.
+Never mind; it 'ull be all reeght now Parson's takken thee oop.
+#SARAH.
+A'm hopin' so. A am hopin' so. A never could abide th' thowt o' th' workus - me as 'as bin an 'ard - workin' woman. A couldn't fancy sleepin' in a strange bed wi' strange folk round me, an' when th' Matron said, "Do that," A'd 'ave to do it, an' when she said, "Go theer," A'd 'ave to a' gone wheer she tould me - me as 'as allays 'eld my yead 'igh an' gone the way A pleased masel'. Eh, it's a terrible thowt, the workus.
+#EMMA.
+Now tha's sure that's all?
+#SARAH.
+Eh, if A havna forgot my neeghtcaps. A suppose they'll let me wear un in yonder. A doan't reeghtly think as A'd get my rest proper wi'out my neeghtcaps.
+#EMMA.
+Oh, they'll let thee wear un all reeght.
+#SARAH.
+A'll go an' get un. That's all now.
+#EMMA.
+Yo' never 'ad no childer, did yo', Mrs. Ormerod?
+#SARAH.
+No, Emma, no - maybe that's as broad as's long. Yo' never knaw 'ow they go. Soom on 'em turn again yo' when they're growed, or they get wed themselves an' forget all as yo' 've done for 'em, like a many A could name, and they're allays a worrit to yo' when they're young.
+#EMMA.
+A'm gettin' wed masel' soon, Mrs. Ormerod.
+#SARAH.
+Are yo', now, Emma? Well, tha art not one o' them graceless good - for - nowts. Tha'll never forget thy moother, A knaw, nor what she's done for thee. Who's tha keepin' coompany with?
+#EMMA.
+It's Joe Hindle as goes wi' me, Mrs. Ormerod.
+#SARAH.
+'Indle, 'Indle? What, not son to Robert 'Indle, 'im as used to be overlooker in th' factory till 'e went to foreign parts to learn them Roossians 'ow to weave?
+#EMMA.
+Aye, that's 'im.
+#SARAH.
+Well, A dunno aught about th' lad. 'Is faither were a fine man. A minds 'im well. But A'll tell thee this, Emma, an' A'll tell it thee to thy faice, 'e's doin' well for 'isself, is young Joe 'Indle.
+#EMMA.
+Thankee, Mrs. Ormerod.
+#SARAH.
+Gettin' wed! Think o' that. Why, it seems as 't were only t'other day as tha was runnin' about in short frocks, an' now tha's growed up and gettin' thasel' wed! Time do run on. Sithee, Emma, tha's a good lass, A've gotten an ould teapot in yonder as my moother give me when A was wed. A weren't for packing it in box because o' risk o' breaking it. A were going to carry it in my 'and. A'd a mind to keep it till A died, but A reckon A'll 'ave no use for it in workus.
+#EMMA.
+Tha's not gone theer yet.
+#SARAH.
+Never mind that. A'm going to give it thee, lass, for a weddin' gift. Tha'll tak' care of it, A knaw, and when thy eye catches it, 'appen tha'll spare me a thowt.
+#EMMA.
+Oh, no, Mrs. Ormerod, A couldn't think o' takkin' it.
+#SARAH.
+Art too proud to tak' a gift from me?
+#EMMA.
+No. Tha knaws A'm not.
+#SARAH.
+Then hold thy hush. A'll be back in a minute. Happen A'd best tidy masel' up too against Parson cooms.
+#EMMA.
+Can A help thee, Mrs. Ormerod?
+#SARAH.
+No, lass, no. A can do a bit for masel'. My 'ands isn't that bad; A canna weave wi' 'em, but A can do all as A need do.
+#EMMA.
+Well, A'll do box up.
+#SARAH.
+Aye.
+#EMMA.
+All reeght. Who's theer?
+#SAMUEL JENKINS.
+It's me, Sam Horrocks. May A coom in?
+#EMMA.
+What dost want?
+#SAMUEL JENKINS.
+A want a word wi' thee, Emma Brierley. A followed thee oop from factory and A've bin waitin' out theer till A'm tired o' waitin'.
+#EMMA.
+Well, tha'd better coom in. A 'aven't time to talk wi' thee at door.
+#SAMUEL JENKINS.
+Wheer's Mrs. Ormerod?
+#EMMA.
+What's that to do wi' thee?
+#SAMUEL JENKINS.
+A were only askin'. Tha needn't be short wi' a chap.
+#EMMA.
+She's in scullery washin' 'er, if tha wants to knaw.
+#SAMUEL JENKINS.
+Oh!
+#EMMA.
+Doan't tha tak' thy cap off in 'ouse, Sam Horrocks?
+#SAMUEL JENKINS.
+Naw.
+#EMMA.
+Well, tha can tak' it off in this 'ouse or get t' t'other side o' door.
+#SAMUEL JENKINS.
+Yes, Emma.
+#EMMA.
+Well, what dost want?
+#SAMUEL JENKINS.
+Nought. - Eh, but tha art a gradely wench.
+#EMMA.
+What's that to do wi' thee?
+#SAMUEL JENKINS.
+Nought.
+#EMMA.
+Then just tha mind thy own business, an' doan't pass compliments behind folks' backs. didn't mean no 'arm.
+#EMMA.
+Well?
+#SAMUEL JENKINS.
+It's a fine day, isn't it? For th' time o' th' year?
+#EMMA.
+Aye. very fine day.
+#EMMA.
+Aye.
+#SAMUEL JENKINS.
+It's a damned fine day.
+#EMMA.
+Aye.
+#SAMUEL JENKINS.
+Dost know my 'ouse, Emma?
+#EMMA.
+Aye.
+#SAMUEL JENKINS.
+Wert ever in it?
+#EMMA.
+Not sin' tha moother died.
+#SAMUEL JENKINS.
+Naw. A suppose not. Not sin' ma moother died. She were a fine woman, ma moother, for all she were bed - ridden.
+#EMMA.
+She were better than 'er son, though that's not saying much neither.
+#SAMUEL JENKINS.
+Naw, but tha does mind ma 'ouse, Emma, as it were when she were alive?
+#EMMA.
+Aye. 've done a bit at it sin' them days. Got a new quilt on bed from Co - op. Red un, it is, wi' blue stripes down 'er.
+#EMMA.
+Aye.
+#SAMUEL JENKINS.
+Well, Emma?
+#EMMA.
+Well, what? What's thy 'ouse an' thy quilt to do wi' me?
+#SAMUEL JENKINS.
+Oh, nought. - Tha doesn't 'elp a feller much, neither.
+#EMMA.
+What's tha gettin' at, Sam Horrocks? Tha's got a tongue in thy faice, hasn't tha? suppose so. A doan't use it much though.
+#EMMA.
+No. Tha's not much better than a tongue - tied idiot, Sam Horrocks, allays mooning about in th' engine - house in daytime an' sulkin' at 'ome neeghttime.
+#SAMUEL JENKINS.
+Aye, A'm lonely sin' ma moother died. She did 'ave a way wi' 'er, ma moother. Th' 'ould plaice 'as not bin t' same to me sin' she went. Daytime, tha knaws, A'm all reeght. Tha sees, them engines, them an' me's pals. They talks to me an' A understands their ways. A doan't some'ow seem to understand th' ways o' folks like as A does th' ways o' them engines.
+#EMMA.
+Tha doesn't try. T' other lads goes rattin' or dog - feeghtin' on a Sunday or to a football match of a Saturday afternoon. Tha stays moonin' about th' 'ouse. Tha's not likely to understand folks. Tha's not sociable.
+#SAMUEL JENKINS.
+Naw. That's reeght enough. A nobbut get laughed at when A tries to be sociable an' stand my corner down at th' pub wi' th' rest o' th' lads. It's no use ma tryin' to soop ale; A can't carry th' drink like t' others. A knaws A've ways o' ma own.
+#EMMA.
+Tha has that.
+#SAMUEL JENKINS.
+A'm terrible lonesome, Emma. That theer 'ouse o' mine, it do want a wench about th' plaice. Th' engines is all reeght for days, but th' neeghts is that lonesome - like tha wouldn't believe.
+#EMMA.
+Tha's only thasel' to blame. It's nought to do wi' me, choosehow.
+#SAMUEL JENKINS.
+Naw? A'd - A'd 'oped as 'ow it might 'ave, Emma.
+#EMMA.
+Sam Horrocks, if tha doan't tell me proper what tha means A 'll give tha such a slap in th' mouth.
+#SAMUEL JENKINS.
+Tha does fluster a feller, Emma. Just like ma moother. wish A 'ad bin. A'd 'ave knocked some sense into thy silly yead.
+#SAMUEL JENKINS.
+Wilt tha 'ave me, Emma? A mak' good money in th'engine - house.
+#EMMA.
+Get oop, tha great fool. If tha didn't keep thasel' so close wi' tha moonin' about in th' engine - 'ouse an' never speakin' a word to nobody, tha'd knaw A were keepin' coompany wi' Joe Hindle.
+#SAMUEL JENKINS.
+Is that a fact, Emma?
+#EMMA.
+Of course it's a fact. Banns 'ull be oop come Sunday fortneeght. We've not 'idden it neither. It's just like the great blind idiot that tha art not to 'a' seen it long enough sin'. wer'n't aware. By gum, A 'ad so 'oped as tha'd 'ave me, Emma.
+#EMMA.
+A'm sorry if A've 'urt thee, Sam.
+#SAMUEL JENKINS.
+Aye. It were ma fault. Eh, well, A think mebbe A'd best be goin'.
+#EMMA.
+Aye. Parson's coomin' to see Mrs. Ormerod in a minute.
+#SAMUEL JENKINS.
+A knaw all about that, anyhow.
+#EMMA.
+She'm in a bad way. A dunno masel' as Parson can do much for 'er.
+#SAMUEL JENKINS.
+It's 'ard lines on an ould un. Well, yo' 'll not want me'ere. A 'll be movin' on. No offense, Emma, A 'ope. A'd 'ave asked thee first if A'd knawn as 'e were after thee. A've bin tryin' for long enough.
+#EMMA.
+No. Theer's no offense, Sam. Tha's a good lad if tha art a fool, an' mebbe tha's not to blame for that. Good - bye.
+#SAMUEL JENKINS.
+Good - bye, Emma. An' - An' A 'ope 'e'll mak' thee 'appy. A'd dearly like to coom to th' weddin' an' shake 'is 'and.
+#EMMA.
+A'll see tha's asked. Theer's Mrs. Ormerod stirrin'. Tha'd best be gettin'.
+#SAMUEL JENKINS.
+All reeght. Good - bye, Emma.
+#EMMA.
+Good - bye, Sam.
+#SARAH.
+Was anybody 'ere, Emma? A thowt A yeard someun talkin', only my yearin' isn't what it used to be, an' A warn't sure.
+#EMMA.
+It were Sam Horrocks, Mrs. Ormerod.
+#SARAH.
+Yon lad of ould Sal Horrocks as died last year? 'Im as isn't reeght in 'is yead?
+#EMMA.
+Aye. 'E's bin askin' me to wed 'im.
+#SARAH.
+In my 'ouse? Theer's imperence for thee, an' tha promised to another lad, an' all. A'd 'ave set about 'im wi' a stick, Emma.
+#EMMA.
+'E didn't knaw about Joe. It made me feel cruel like to 'ave to tell 'im.
+#SARAH.
+'E'll get ower it. Soom lass 'll tak' 'im. suppose so.
+#SARAH.
+Well, theer's teapot.
+#EMMA.
+It's beautiful. Beautiful, it is, Mrs. Ormerod.
+#SARAH.
+Aye, it's a bit o' real china is that. Tha'll tak' care on't, lass, won't thee? will an' all.
+#SARAH.
+Aye. A knaw it's safe wi' thee. Mebbe safer than it would be in workus. A can't think well on yon plaice. A goa cold all ower at thowt of it.
+#EMMA.
+That'll be Parson.
+#SARAH.
+Goa an' look through window first, an' see who 't is.
+#EMMA.
+It is not th' ould Parson. It's one o' them young curate chaps.
+#SARAH.
+Well, coom away from window an' sit thee down. It won't do to seem too eager. Let un knock again if it's not th' ould Parson.
+#SARAH.
+Coom in so who tha art. Door's on latch.
+#ALLEYNE.
+Good afternoon, Mrs. Ormerod.
+#SARAH.
+Good day to thee.
+#ALLEYNE.
+I'm sorry to say Mr. Blundell has had to go to a missionary meeting, but he asked me to come and see you in his stead.
+#SARAH.
+Tha's welcoom, lad. Sit thee doon.
+#ALLEYNE.
+Thank you; no, I won't sit; I cannot stay long.
+#SARAH.
+Just as tha likes. It's all same to me.
+#ALLEYNE.
+How is it with you, Mrs. Ormerod?
+#SARAH.
+It might be worse. A've lost th' use o' my 'ands, and they're takin' me to workus, but A'm not dead yet, and that's summat to be thankul for.
+#ALLEYNE.
+Oh, yes, yes, Mrs. Ormerod. The - er - message I am to deliver is, I fear, not quite what Mr. Blundell led you to hope for. His efforts on your behalf have - er - unfortunately failed. He finds himself obliged to give up all hope of aiding you to a livelihood. In fact - er - I understand that the arrangements made for your removal to the workhouse this afternoon must be carried out. It seems there is no alternative. I am grieved to be the bearer of bad tidings, but I am sure you will find a comfortable home awaiting you, Mrs. - er - Ormerod.
+#SARAH.
+'Appen A shall an' 'appen A shan't. Theer's no tellin' 'ow you'll favor a thing till you've tried it.
+#ALLEYNE.
+You must resign yourself to the will of Providence. The consolations of religion are always with us. Shall I pray with you? never were much at prayin' when A were well off, an' A doubt the Lord ud tak' it kind o' selfish o' me if A coom cryin' to 'im now A'm 'urt.
+#ALLEYNE.
+He will understand. Can I do nothing for you? dunno as tha can, thankin' thee all same.
+#ALLEYNE.
+I am privileged with Mr. Blundell's permission to bring a little gift to you, Mrs. Ormerod. Allow me to present you with this Testament, and may it help you to bear your Cross with resignation. Ah, yes, of course - your poor hands - I understand.
+#SARAH.
+Thankee kindly. Readin' don't coom easy to me, an' my eyes aren't what they were, but A'll mak' most of it.
+#ALLEYNE.
+You will never read that in vain. And now, dear sister, I must go. I will pray for strength for you. All will be well. Good day.
+#SARAH.
+Good day to thee.
+#EMMA.
+Tha doesn't look so pleased wi' tha gift, Mrs. Ormerod.
+#SARAH.
+It's not square thing of th' ould Parson, Emma. 'E should 'a' coom an' tould me 'isself. Looks like 'e were feart to do it. never could abide them curate lads. We doan't want no grand Lunnon gentlemen down 'ere. 'E doan't understand us no more than we understand 'im. 'E means all reeght, poor lad. Sithee, Emma, A've bin a church - goin' woman all my days. A was browt oop to church, an' many's th' bit o' brass they've 'ad out o' me in my time. An' in th' end they send me a fine curate with a tuppenny Testament. That's all th' good yo' get out o' they folks.
+#EMMA.
+We'm chapel to our 'ouse, an' 'e didn't forget to let me see 'e knaw'd it, but A doan't say as it's ony different wi' chapels, neither. They get what they can outer yo', but yo' mustn't look for nothin' back, when th' pinch cooms. Sakes alive, theer's clock goin' three. My dinner 'ull be nice an' cold.
+#SARAH.
+Eh, what's that, lass? Dost mean to tell me tha's bin clemmin' all this time? coom 'ere straight from factory.
+#SARAH.
+Then tha doesn't move till tha's 'ad summat to eat.
+#EMMA.
+My dinner's ready for me at whoam, Mrs. Ormerod.
+#SARAH.
+Then just look sharp an' get it, tha silly lass. Tha 's no reeght to go wi'out thy baggin'.
+#EMMA.
+All reeght. A'm off.
+#SARAH.
+Tha's bin a world o' coomfort to me, Emma. It'll be 'arder to bear when tha's gone. Th' thowt's too much for me. Eh, lass, A'm feart o' yon great gaunt building wi' th' drear windows.
+#EMMA.
+'Appen ma moother 'ull coom in. Tha'll do wi' a bit o' coompany. A 'll ask her to coom an' fetch thee a coop o' tea bye - an' - bye.
+#SARAH.
+Who's theer?
+#SAMUEL JENKINS.
+It's only me, Mrs. Ormerod. do declare it's that Sam Horrocks again.
+#SARAH.
+Sam Horrocks! What can th'lad be after now? Hast tha wiped thy boots on scraper?
+#SAMUEL JENKINS.
+Yes, Mrs. Ormerod.
+#SARAH.
+Coom in then. Tak' thy cap off.
+#SAMUEL JENKINS.
+Yes, Mrs. Ormerod.
+#SARAH.
+What dost want?
+#SAMUEL JENKINS.
+A've soom business 'ere. A thowt A'd find thee by thysel'. A'll coom again
+#SARAH.
+Let that door be. Dost say tha's got business 'ere?
+#SAMUEL JENKINS.
+Aye, wi' thee. A'd like a word wi' thee private.
+#SARAH.
+All reeght. Emma's just goin' to 'er dinner.
+#EMMA.
+A'll ask my moother to step hi later on, Mrs. Ormerod, and thank thee very much for th' teapot.
+#SARAH.
+A'll be thankful if she'll coom. Now, Sam Horrocks, what's the matter wi' thee?
+#SAMUEL JENKINS.
+It's a fine day for th' time o' th' year.
+#SARAH.
+Didst want to see me private to tell me that, lad?
+#SAMUEL JENKINS.
+Naw, not exactly.
+#SARAH.
+Well, what is it then? Coom, lad, A'm waitin' on thee. Art tongue - tied? Can't tha quit mawlin' yon bit o' waste an' tell me what 'tis tha wants?
+#SAMUEL JENKINS.
+Mebbe it'll not be so fine in th' mornin'.
+#SARAH.
+A'll tell thee what A'd do to thee if A 'ad the use o' my 'ands, my lad. A'd coom aside thee and A'd box thy ears. If tha's got business wi' me, tha'd best state it sharp or A 'll be showin' thee the shape o' my door.
+#SAMUEL JENKINS.
+Tha do fluster a feller so as A doan't knaw wheer A am. A've not been nagged like that theer sin' my ould moother died.
+#SARAH.
+A've 'eerd folk say Sal Horrocks were a slick un wi' 'er tongue.
+#SAMUEL JENKINS.
+She were that. Rare talker she were. She'd lie theer in 'er bed all day as it might be in yon corner, an' call me all th' names she could put her tongue to, till A couldn't tell ma reeght 'and from ma left. Wonnerful sperrit, she 'ad, considerin' she were bed - ridden so long. She were only a little un an' cripple an' all, but by gum, she could sling it at a feller if 'er tea weren't brewed to 'er taste. Talk! She'd talk a donkey's yead off, she would.
+#SARAH.
+An' A'll talk thy silly yead off an' all if tha doan't get sharp to tellin' me what tha wants after in my 'ouse, tha great mazed idiot.
+#SAMUEL JENKINS.
+Eh, but she were a rare un.
+#SARAH.
+The lad's daft aboot his moother.
+#SAMUEL JENKINS.
+Wunnerful breeght the sky is, to - day.
+#SARAH.
+Tha great 'ulkin' fool. A'd tak' a broomstick to thee if - if A'd the use o' my 'ands.
+#SAMUEL JENKINS.
+Now, if that isn't just what ma moother used to say.
+#SARAH.
+Dang thy moother. An' A doan't mean no disrepect to 'er neither. She's bin in 'er grave this year an' more, poor woman. canna 'elp thinkin' to 'er all same. Eh, but she were wunnerful.
+#SARAH.
+An' A'd be wunnerful too. A'd talk to thee. A'd call thee if A were thy moother an' A'd to live aside o' thee neeght an' day.
+#SAMUEL JENKINS.
+Eh, by gum, but A wish tha would.
+#SARAH.
+Would what?
+#SAMUEL JENKINS.
+Would coom an' live along wi' me.
+#SARAH.
+Tha great fool, what does mean? Art askin' me to wed thee? didn't mean to offend thee, Mrs. Ormerod. A'm sorry A spoke. A allays do wrong thing. But A did so 'ope as tha might coom. Tha sees A got used to moother. A got used to 'earin' 'er cuss me. A got used to doin' for 'er an' A've nought to do in th' evenings now. It's terrible lonesome in th' neeghttime. An' when notion coom to me, A thowt as A'd mention un to thee casual.
+#SARAH.
+Dost mean it, Sam Horrocks? Dost tha know what tha's sayin', or is tha foolin' me? course A mean it. Tha sees A'm not a marryin' sort. Th' lasses won't look at me. A'm silly Sam to them, A knaws it. A've a slate loose; A shan't never get wed. A thowt A'd mebbe a chance wi' yon lass as were 'ere wi' thee, but hoo towld me A were too late. A allays were slow. A left askin' too long an' A 've missed 'er. A gets good money, Mrs. Ormerod, but A canna talk to a young wench. They mak's me go 'ot and cowld all over. An' when curate towld me as tha was to go to workus, A thowt A'd a chance wi' thee. A knaw'd it weren't a big chance, because my plaice ain't much cop after what tha's bin used to 'ere. A've got no fine fixin's nor big chairs an' things like as tha used to 'ave. Eh, but A would 'ave loved to do for thee as A used to do for ma moother, an' when A yeerd thee talkin' now an' callin' me a fool an' th' rest, by gum, A just yearned to 'ave thee for allays. Tha'd fill 'er plaice wunnerful well. A'd just a' loved to adopt thee.
+#SARAH.
+To adopt me?
+#SAMUEL JENKINS.
+Ay, for a moother. A'm sorry tha can't see thy way to let me. A didn't mean no offence
+#SARAH.
+'Ere, lad, tha tell me this. If A'd said tha might tak' me for thy moother, what wouldst ha' done?
+#SAMUEL JENKINS.
+Why, kissed thee, an' takken thee oop in ma arms whoam to thy bed. It's standin' ready in yonder wi' clean sheets an' all, an' a new quilt from Co - op. A 'opes you'll pardon th' liberty o' mentioning it. new quilt, Sam? What's color?
+#SAMUEL JENKINS.
+Red, wi' blue stripes down 'er.
+#SARAH.
+A'm not a light weight, tha knows.
+#SAMUEL JENKINS.
+A'd carry thee easy - "Strong in th' arm and weak in th' yead." It's an ould sayin', but it's a good un, an' it fits.
+#SARAH.
+Wilt tha try, Sam Horrocks? God bless thee, wilt tha try, lad?
+#SAMUEL JENKINS.
+Dost mean it, Mrs. Ormerod? Dost mean tha'll coom? Tha's not coddin' a feller, art tha?
+#SARAH.
+No, A'm not coddin'. Kiss me, Sam, my son.
+#SAMUEL JENKINS.
+By gum, but that were good. A'll coom back fur thy box.
+#SARAH.
+Carry me careful, tha great luny. A'm not a sack o' flour.
+#SAMUEL JENKINS.
+Eh, but A likes to year thee talk. Yon was real mootherly, it were.
