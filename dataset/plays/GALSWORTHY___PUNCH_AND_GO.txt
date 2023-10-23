@@ -1,0 +1,384 @@
+#VANE.
+Mr Foreson?
+#FORESON.
+Sir?
+#VANE.
+We'll do that lighting again. Mr Foreson! Mr Foreson.
+#VANE.
+For goodness sake, stand by! We'll do that lighting again. Check your floats.
+#FORESON.
+Electrics!
+#VOICE OF ELECTRICS.
+Hallo!
+#FORESON.
+Give it us again. Check your floats.
+#VANE.
+Great Scott! What the blazes! Mr Foreson! Mr Foreson!
+#FORESON.
+Sir?
+#VANE.
+Tell Miller to come down.
+#FORESON.
+Electrics! Mr Blewitt Vane wants to speak to you. Come down!
+#VANE.
+Tell Herbert to sit in that chair. Mr Foreson!
+#FORESON.
+Sir?
+#VANE.
+Don't go off the stage.
+#ELECTRICS.
+Yes, Mr Vane?
+#VANE.
+Look!
+#ELECTRICS.
+That's what I'd got marked, Mr Vane.
+#VANE.
+Once for all, what I want is the orchard in full moonlight, and the room dark except for the reading lamp. Cut off your front battens. Mr Foreson!
+#FORESON.
+Sir?
+#VANE.
+See this marked right. Now, come on with it! I want to get some beauty into this!
+#FORESON.
+Here you are, then, Mr Vane. Herbert, sit in that chair.
+#VANE.
+Now! Great Scott! Mr Foreson.
+#FORESON.
+Sir?
+#VANE.
+Look - at - that - shade! On his face, on his face!
+#FORESON.
+Is that what you want, Mr Vane?
+#VANE.
+Yes. Now, mark that!
+#FORESON.
+Electrics!
+#ELECTRICS.
+Hallo!
+#FORESON.
+Mark that!
+#VANE.
+My God! Mr Foreson.
+#FORESON.
+Sir?
+#VANE.
+Ask him if he's got that?
+#FORESON.
+Have you got that?
+#ELECTRICS.
+Yes.
+#VANE.
+Now pass to the change. Take your floats off altogether.
+#FORESON.
+Floats out.
+#VANE.
+Cut off that lamp. Put a little amber in your back batten. Mark that! Now pass to the end. Mr Foreson!
+#FORESON.
+Sir?
+#VANE.
+Black out
+#FORESON.
+Black out!
+#VANE.
+Give us your first lighting - lamp on. And then the two changes. Quick as you can. Put some pep into it. Mr Foreson!
+#FORESON.
+Sir?
+#VANE.
+Stand for me where Miss Hellgrove comes in. FORESON crosses to the window. No, no! - by the curtain. Good! Leave it at that. We'll begin. Mr Foreson, send up to Mr Frust.
+#FORESON.
+Herb! Call the boss, and tell beginners to stand by. Sharp, now!
+#VANE.
+Mr Foreson.
+#FORESON.
+Sir?
+#VANE.
+I want "Props."
+#FORESON.
+"Props!"
+#VANE.
+Is that boulder firm?
+#PROPS.
+If, you don't put too much weight on it, sir.
+#VANE.
+It won't creak?
+#PROPS.
+Nao.
+#VANE.
+Make that right. Let me see that lute.
+#PROPS.
+The Boss, Sir.
+#VANE.
+That'll do, then.
+#VANE.
+Now, sir, we're all ready for rehearsal of "Orpheus with his Lute."
+#FRUST.
+"Orphoos with his loot!" That his loot, Mr Vane? Why didn't he pinch something more precious? Has this high - brow curtain - raiser of yours got any "pep" in it?
+#VANE.
+It has charm.
+#FRUST.
+I'd thought of "Pop goes the Weasel" with little Miggs. We kind of want a cock - tail before "Louisa loses," Mr Vane.
+#VANE.
+Well, sir, you'll see.
+#FRUST.
+This your lighting? It's a bit on the spiritool side. I've left my glass. Guess I'll sit in the front row. Ha'f a minute. Who plays this Orphoos?
+#VANE.
+George Fleetway.
+#FRUST.
+Has he got punch?
+#VANE.
+It's a very small part.
+#FRUST.
+Who are the others?
+#VANE.
+Guy Toone plays the Professor; Vanessa Hellgrove his wife; Maude Hopkins the faun.
+#FRUST.
+H'm! Names don't draw.
+#VANE.
+They're not expensive, any of them. Miss Hellgrove's a find, I think.
+#FRUST.
+Pretty?
+#VANE.
+Quite.
+#FRUST.
+Arty?
+#VANE.
+No. Look here, Mr FRUST, it's no use your expecting another "Pop goes the Weasel."
+#FRUST.
+We - ell, if it's got punch and go, that'll be enough for me. Let's get to it!
+#VANE.
+Mr Foreson?
+#FORESON.
+Sir?
+#VANE.
+Beginners. Take your curtain down.
+#FRUST.
+Some voice!
+#PROFESSOR.
+"Orpheus symbolized the voice of Beauty, the call of life, luring us mortals with his song back from the graves we dig for ourselves. Probably the ancients realized this neither more nor less than we moderns. Mankind has not changed. The civilized being still hides the faun and the dryad within its broadcloth and its silk. And yet" - Go on, my dear! It helps the atmosphere.
+#THE WIFE.
+God! What beauty!
+#PROFESSOR.
+Umm?
+#THE WIFE.
+I said: God! What beauty!
+#PROFESSOR.
+Aha!
+#THE WIFE.
+Do you know that I have to repeat everything to you nowadays?
+#PROFESSOR.
+What?
+#THE WIFE.
+That I have to repeat -
+#PROFESSOR.
+Yes; I heard. I'm sorry. I get absorbed.
+#THE WIFE.
+In all but me.
+#PROFESSOR.
+My dear, your song was helping me like anything to get the mood. This paper is the very deuce - to balance between the historical and the natural.
+#THE WIFE.
+Who wants the natural?
+#PROFESSOR.
+Umm! Wish I thought that! Modern taste! History may go hang; they're all for tuppence - coloured sentiment nowadays.
+#THE WIFE.
+Is the Spring sentiment?
+#PROFESSOR.
+I beg your pardon, my dear; I didn't catch.
+#THE WIFE.
+Beauty, beauty!
+#PROFESSOR.
+That's what I'm trying to say here. The Orpheus legend symbolizes to this day the call of Beauty! Dash it! I get so sleepy; I wish you'd tell them to make the after - dinner coffee twice as strong.
+#THE WIFE.
+I will.
+#PROFESSOR.
+How does this strike you? "Many Renaissance pictures, especially those of Botticelli, Francesca and Piero di Cosimo were inspired by such legends as that of Orpheus, and we owe a tiny gem - like Raphael 'Apollo and Marsyas' to the same Pagan inspiration."
+#THE WIFE.
+We owe it more than that - rebellion against the dry - as - dust.
+#PROFESSOR.
+Quite. I might develop that: "We owe it our revolt against the academic; or our disgust at 'big business,' and all the grossness of commercial success. We owe - ".
+#THE WIFE.
+It - love.
+#PROFESSOR.
+Eh!
+#THE WIFE.
+I said: We owe it love.
+#PROFESSOR.
+Possibly. But - er I mustn't say that here - hardly!
+#THE WIFE.
+Orpheus with his lute!
+#PROFESSOR.
+Most people think a lute is a sort of flute. My dear, if you're not going to sing again, d'you mind sitting down? I want to concentrate.
+#THE WIFE.
+I'm going out.
+#PROFESSOR.
+Mind the dew!
+#THE WIFE.
+The Christian virtues and the dew.
+#PROFESSOR.
+Not bad! Not bad! The Christian virtues and the dew. "How far we can trace the modern resurgence against the Christian virtues to the symbolic figures of Orpheus, Pan, Apollo, and Bacchus might be difficult to estimate, but - "
+#PROFESSOR.
+She'll get her throat bad. Sounds queer at night - H'm!
+#FRUST.
+What's that girl's name?
+#VANE.
+Vanessa Hellgrove.
+#FRUST.
+Aha!
+#FRUST.
+Gee!
+#PROFESSOR.
+Phew! Beastly dream! Boof! H'm! Blanche! Blanche! Made trees - made trees! Blanche! WIFE's VOICE. Yes.
+#PROFESSOR.
+Where are you?
+#THE WIFE.
+Here!
+#PROFESSOR.
+I say - I - I've been asleep - had a dream. Come in. I'll tell you.
+#PROFESSOR.
+I dreamed I saw a - faun on that boulder blowing on a pipe. With two damned little rabbits and a fox sitting up and listening. And then from out there came our friend Orpheus playing on his confounded lute, till he actually turned that tree there into you. And gradually he - he drew you like a snake till you - er - put your arms round his neck and - er - kissed him. Boof! I woke up. Most unpleasant. Why! Your hair's down!
+#THE WIFE.
+Yes.
+#PROFESSOR.
+Why?
+#THE WIFE.
+It was no dream. He was bringing me to life.
+#PROFESSOR.
+What on earth?
+#THE WIFE.
+Do you suppose I am alive? I'm as dead as Euridice.
+#PROFESSOR.
+Good heavens, Blanche, what's the matter with you to - night?
+#THE WIFE.
+Why don't we live, instead of writing of it? What do we get out of life? Money, fame, fashion, talk, learning? Yes. And what good are they? I want to live!
+#PROFESSOR.
+My dear, I really don't know what you mean.
+#THE WIFE.
+Look! Orpheus with his lute, and nobody can see him. Beauty, beauty, beauty - we let it go. Beauty, love, the spring. They should be in us, and they're all outside.
+#PROFESSOR.
+My dear, this is - this is - awful.
+#THE WIFE.
+Oh! Go on with your writing!
+#PROFESSOR.
+I'm - I'm upset. I've never known you so - so -
+#THE WIFE.
+Hysterical? Well! It's over. I'll go and sing.
+#PROFESSOR.
+There, there! I'm sorry, darling; I really am. You're kipped - you're kipped. Better? All right, now?
+#THE WIFE.
+Quite!
+#PROFESSOR.
+Well, I'll try and finish this to - night; then, to - morrow we might have a jaunt. How about a theatre? There's a thing - they say - called "Chinese Chops," that's been running years.
+#THE WIFE.
+Oh! God!
+#PROFESSOR.
+Very queer the power suggestion has over the mind. Very queer! There's nothing really in animism, you know, except the curious shapes rocks, trees and things take in certain lights - effect they have on our imagination. What's the matter now?
+#THE WIFE.
+Nothing! Nothing!
+#PROFESSOR.
+"The Orpheus legend is the - er - apotheosis of animism. Can we accept - "
+#FRUST.
+Fine! Fine!
+#VANE.
+Take up the curtain. Mr Foreson?
+#FORESON.
+Sir?
+#VANE.
+Everybody on.
+#VANE.
+Give us some light.
+#FORESON.
+Electrics! Turn up your floats!
+#FRUST.
+I'd like to meet Miss Hellgrove. Miss Hellgrove, I want to say I thought that fine - fine. Fine. It quite got my soft spots. Emotional. Fine!
+#MISS HOPPENHOER.
+Oh! Mr Frust; it means so much to me. Thank you!
+#FRUST.
+Er - fine! Where's Mr Flatway?
+#VANE.
+Fleetway.
+#FRUST.
+Mr Fleetway, I want to say I thought your Orphoos very remarkable. Fine.
+#FLEETWAY.
+Thank you, sir, indeed - so glad you liked it.
+#FRUST.
+There wasn't much to it, but what there was was fine. Mr Toone. Mr Toone, I was very pleased with your Professor - quite a character - study. Yes, sir! I thought it fine. Who plays the goat?
+#MISS HOPKINS.
+I play the faun, Mr Frost.
+#FORESON.
+Miss Maude 'Opkins.
+#FRUST.
+Miss Hopkins, I guess your fawn was fine.
+#MISS HOPKINS.
+Oh! Thank you, Mr Frost. How nice of you to say so. I do so enjoy playing him.
+#FRUST.
+Mr Foreson, I thought the way you fixed that tree was very cunning; I certainly did. Got a match?
+#MISS HOPPENHOER.
+Oh! Mr Vane - do you think? He seemed quite - Oh! Mr Vane If only -
+#VANE.
+Yes, yes. All right - you were splendid. He liked it. He quite -
+#MISS HOPPENHOER.
+How wonderful Oh, Mr Vane, thank you!
+#VANE.
+That lighting's just right now, Miller. Got it marked carefully?
+#ELECTRICS.
+Yes, Mr Vane.
+#VANE.
+Good. Well, sir? So glad -
+#FRUST.
+Mr Vane, we got little Miggs on contract?
+#VANE.
+Yes.
+#FRUST.
+Well, I liked that little pocket piece fine. But I'm blamed if I know what it's all about.
+#VANE.
+Why! Of course it's a little allegory. The tragedy of civilization - all real feeling for Beauty and Nature kept out, or pent up even in the cultured.
+#FRUST.
+Ye - ep. Little Miggs'd be fine in "Pop goes the Weasel."
+#VANE.
+Yes, he'd be all right, but -
+#FRUST.
+Get him on the 'phone, and put it into rehearsal right now.
+#VANE.
+What! But this piece - I - I - !
+#FRUST.
+Guess we can't take liberties with our public, Mr Vane. They want pep.
+#VANE.
+But it'll break that girl's heart. I - really - I can't -
+#FRUST.
+Give her the part of the 'tweeny in "Pop goes".
+#VANE.
+Mr Frust, I - I beg. I've taken a lot of trouble with this little play. It's good. It's that girl's chance - and I -
+#FRUST.
+We - ell! I certainly thought she was fine. Now, you 'phone up Miggs, and get right along with it. I've only one rule, sir! Give the Public what it wants; and what the Public wants is punch and go. They've got no use for Beauty, Allegory, all that high - brow racket. I know 'em as I know my hand.
+#VANE.
+Mr Frost, the Public would take this, I'm sure they would; I'm convinced of it. You underrate them.
+#FRUST.
+Now, see here, Mr Blewitt Vane, is this my theatre? I tell you, I can't afford luxuries.
+#VANE.
+But it - it moved you, sir; I saw it. I was watching.
+#FRUST.
+Mr Vane, I judge I'm not the average man. Before "Louisa Loses" the Public'll want a stimulant. "Pop goes the Weasel" will suit us fine. So - get right along with it. I'll go get some lunch.
+#VANE.
+Damnation!
+#FORESON.
+Sir?
+#VANE.
+"Punch and go!" That superstition!
+#VANE.
+Mr Foreson!
+#FORESON.
+Sir?
+#VANE.
+This is scrapped. Tell 'em to set the first act of "Louisa Loses," and put some pep into it.
+#FORESON.
+Electrics!
+#ELECTRICS.
+Hallo!
+#FORESON.
+Where's Charlie?
+#ELECTRICS.
+Gone to his dinner.
+#FORESON.
+Anybody on the curtain?
+#A VOICE.
+Yes, Mr Foreson.
+#FORESON.
+Put your curtain down.

@@ -1,0 +1,732 @@
+#HELENA.
+There's no doubt about it.
+#TSUMU.
+Analytikos says there is much doubt about all things.
+#HELENA.
+Never mind what he says. I envy you your complexion.
+#TSUMU.
+Whom the Queen envies should beware.
+#HELENA.
+Get up, Tsumu. You make me nervous tumbling about like that.
+#TSUMU.
+Why does the great Queen envy Tsumu?
+#HELENA.
+Get up, you silly. I envy you because you can run about and never worry about getting sunburnt.
+#TSUMU.
+The radiant beauty of the Queen is unspoilable.
+#HELENA.
+That's just what's worrying me, Tsumu. When beauty is so perfect the slightest jar may mean a jolt. I can't see myself as well as I would like to. The King's shield is tarnished. Menelaus has been too long out of battle.
+#TSUMU.
+The Gods will keep Sparta free from strife.
+#HELENA.
+I'll have you beaten if you assume that prophetic tone with me. There's one thing I can't stand, and that's a know - all.
+#TSUMU.
+Gods grant you haven't bent it.
+#HELENA.
+These little mirrors are useless. His shield is the only thing in which I can see myself full - length. If he only went to war, he'd have to have it cleaned.
+#TSUMU.
+The King is a lover of peace.
+#HELENA.
+The King is a lover of comfort. Have you noticed that he spends more time than he used to in the library?
+#TSUMU.
+He is busy with questions of State.
+#HELENA.
+You know perfectly well that when anything's the matter with the Government it's always straightened out at the other end of the palace. Finish my shoulder. I doubt if there is a finer skin than this in Sparta.
+#HELENA.
+That touch of deep carmine right here in the center of my lips was quite an idea.
+#TSUMU.
+An inspiration of the Gods!
+#HELENA.
+The Gods have nothing to do with it. I copied it from a low woman I saw at the circus. I can't understand how these bad women have such good ideas.
+#TSUMU.
+If your majesty doesn't sit still, I may pinch you.
+#HELENA.
+None of your tricks, you ebony fiend!
+#TSUMU.
+Descendant of paradise, forgive me.
+#HELENA.
+If you bruise my perfect flesh, the King will kill you. My beauty is his religion. He can sit for hours, as if at prayer, just examining the arch of my foot. Tsumu, you may kiss my foot.
+#TSUMU.
+May the Gods make me worthy of your kindness!
+#HELENA.
+That's enough. Tsumu, are you married?
+#TSUMU.
+I've been so busy having babies I never had time to get married.
+#HELENA.
+It's a great disillusionment.
+#TSUMU.
+What!
+#HELENA.
+I'm not complaining. Moo Moo is the best of husbands, but sometimes being adored too much is trying. I think I'll wear my heliotrope this afternoon.
+#TSUMU.
+They are changing the guards at the gates of the palace. It's almost time for your bath.
+#HELENA.
+You're as careful with that ointment as Moo Moo is with me.
+#TSUMU.
+Precious things need precious guarding.
+#HELENA.
+It's very short - sighted on Moo Moo's part to send everybody to the galleys who dares lift a head when I pass by - and all these nice - looking soldiers! Why - the only men I ever see besides Moo Moo are Analytikos and a lot of useless eunuchs.
+#TSUMU.
+Oh, those eunuchs!
+#HELENA.
+I wish, I wish -
+#TSUMU.
+You have but to speak your desire to the King.
+#HELENA.
+Tsumu! How can you think of such a thing? I'm not a bad woman.
+#TSUMU.
+He would die for you.
+#HELENA.
+Ah! Do you think so, Tsumu?
+#TSUMU.
+All Sparta knows that His Majesty is a lover of peace, and yet he would rush into battle to save you.
+#HELENA.
+I should love to have men fighting for me.
+#TSUMU.
+May Zeus turn a deaf ear to your voice.
+#HELENA.
+Don't be impertinent, Tsumu. I've got to have some sort of amusement.
+#TSUMU.
+You've only to wait till next week, and you can see another of the priestesses sacrificed to Diana.
+#HELENA.
+That doesn't interest me any longer. The girls are positively beginning to like it. No! My mind is set on war.
+#TSUMU.
+I have five fathers of my children to lose.
+#HELENA.
+War, or - or -
+#TSUMU.
+Have I been so long your slave that I no longer know your wish?
+#HELENA.
+Well, I should like to have a lover.
+#TSUMU.
+Gods grant they didn't hear you.
+#HELENA.
+Don't be alarmed, Tsumu. Analytikos is over eighty.
+#MENELAUS.
+I wish you wouldn't make so much noise in here. A King might at least expect quiet in his own palace.
+#HELENA.
+Tsumu, see if my bath is ready. You used not speak like that to me, Moo Moo.
+#MENELAUS.
+How many times must I tell you that my name is Menelaus and that it isn't "Moo Moo"?
+#HELENA.
+I'll never do it again, Moo Moo.
+#MENELAUS.
+Your laugh gets on my nerves. It's louder than it used to be.
+#HELENA.
+If you wish it, I'll never, never laugh again.
+#MENELAUS.
+You've promised that too often.
+#HELENA.
+Things are not as they used to be.
+#MENELAUS.
+Are you going to start that again?
+#HELENA.
+I suppose you'd like me to be still and sad.
+#MENELAUS.
+Is it too much to hope that you might be still and happy?
+#HELENA.
+Don't treat me cruelly, Moo Moo. You don't understand me. No man ever really understands a woman. There are terrible depths to my nature. I had a long talk with Dr. Æsculapius only last week, and he told me I'm too introspective. It's the curse of us emotional women. I'm really quite worried, but much you care, much you care. I'm sure you don't love me any more, Moo Moo. No! No! Don't answer me! If you did you couldn't speak to me the way you do. I've never wronged you in deed or in thought. No, never - never. I've given up my hopes and aspirations, because I knew you wanted me around you. And now, NOW - Because I have neglected my beauty and because I am old and ugly, you regret that Ulysses or Agamemnon didn't marry me when you all wanted me, and I know you curse the day you ever saw me.
+#MENELAUS.
+Well! Have you done?
+#HELENA.
+No. I could say a great deal more, but I'm not a talkative woman.
+#ANALYTIKOS.
+Your Majesty, are we to read no longer to - day?
+#HELENA.
+I have something to say to the King.
+#MENELAUS.
+No. Stay here. You are a wise man and well understand the wisdom of the Queen.
+#ANALYTIKOS.
+Helena is wise as she is beautiful.
+#MENELAUS.
+She is attempting to prove to me in a thousand words that she's a silent woman.
+#ANALYTIKOS.
+Women are seldom silent. Their beauty is forever speaking for them.
+#HELENA.
+The years have, indeed, taught you wisdom.
+#TSUMU.
+The almond water awaits your majesty.
+#HELENA.
+I hope you haven't forgotten the chiropodist.
+#TSUMU.
+He has been commanded but he's always late. He's so busy.
+#HELENA.
+Moo Moo.
+#HELENA.
+I think after all I'll wear my Sicily blue.
+#ANALYTIKOS.
+Shall we go back to the library?
+#MENELAUS.
+My mind is unhinged again - that woman with her endless protestations.
+#ANALYTIKOS.
+I am sorry the poets no longer divert you. little poetry is always too much.
+#ANALYTIKOS.
+To - morrow we will try the historians.
+#MENELAUS.
+No! Not the historians. I want the truth for a change.
+#ANALYTIKOS.
+The truth!
+#MENELAUS.
+Where in books can I find escape from the grim reality of being hitched for life to such a wife? Bah!
+#ANALYTIKOS.
+Philosophy teaches -
+#MENELAUS.
+Why have the Gods made woman necessary to man, and made them fools?
+#ANALYTIKOS.
+For seventy years I have been resolving the problem of woman and even at my age -
+#MENELAUS.
+Give it up, old man. The answer is - don't.
+#ANALYTIKOS.
+Such endless variety, and yet -
+#MENELAUS.
+There are only two sorts of women! Those who are failures and those who realize it.
+#ANALYTIKOS.
+Is not Penelope, the model wife of your cousin Ulysses, an exception?
+#MENELAUS.
+Duty is the refuge of the unbeautiful. She is as commonplace as she is ugly. Why didn't he marry Helen when we all wanted her? He was too wise for that. He is the only man I've ever known who seems able to direct destiny.
+#ANALYTIKOS.
+You should not blame the Gods for a lack of will.
+#MENELAUS.
+Will! Heaven knows I do not lack the will to rid myself of this painted puppet, but where is the instrument ready to my hand?
+#ANALYTIKOS.
+Who are you?
+#PARIS.
+An adventurer.
+#ANALYTIKOS.
+Then you have reached the end of your story. In a moment you will die.
+#PARIS.
+I have no faith in prophets.
+#ANALYTIKOS.
+The soldiers of the King will give you faith. Don't you know that it means death for any man to enter the apartments of the Queen?
+#PARIS.
+Oh! So you're a couple of eunuchs.
+#PARIS.
+Thanks.
+#ANALYTIKOS.
+You thank me for telling you your doom?
+#PARIS.
+No - for convincing me that I'm where I want to be. It's taken me a long while, but I knew I'd get here. Where's the Queen?
+#MENELAUS.
+Where do you come from?
+#PARIS.
+From the hills. I had come down into the market - place to sell my sheep. I had my hood filled with apples. They were golden - red like a thousand sunsets.
+#MENELAUS.
+You might skip those bucolic details.
+#PARIS.
+At the fair I met three ancient gypsies.
+#MENELAUS.
+What have they to do with you coming here?
+#PARIS.
+You don't seem very patient. Can't I tell my story in my own way? They asked me for the apple I was eating and I asked them what they'd give for it.
+#MENELAUS.
+I'm not interested in market quotations.
+#PARIS.
+You take everything so literally. I'm sure you're easily bored.
+#MENELAUS.
+I am.
+#PARIS.
+The first was to give me all the money she could beg, and the second was to tell me all the truth she could learn by listening, and the third promised me a pretty girl. So I chose -
+#ANALYTIKOS.
+You cannot escape by spinning out your tale.
+#PARIS.
+Death is the end of one story and the beginning of another.
+#MENELAUS.
+Well! Well! Come to the point. Which did you choose?
+#PARIS.
+Well, you see I'd been in the hills for a long while, so I picked the girl.
+#ANALYTIKOS.
+It would have been better for you if you had chosen wisdom.
+#PARIS.
+I knew you'd say that.
+#ANALYTIKOS.
+I have spoken truly. In a moment you will die.
+#PARIS.
+It is because the old have forgotten life that they preach wisdom.
+#MENELAUS.
+So you chose the girl? Well, go on.
+#PARIS.
+This made the other cronies angry, and when I tossed her the apple one of the others yelped at me: "You may as well seek the Queen of Sparta: she is the fairest of women." And as I turned away I heard their laughter, but the words had set my heart aflame and though it cost me my life, I'll follow the adventure.
+#ANALYTIKOS.
+Haven't we heard enough of this?
+#MENELAUS.
+No! I want to hear how the story ends. It may amuse the King.
+#PARIS.
+And on the ship at night I looked long at the stars and dreamed of possessing Helen.
+#PARIS.
+Desire has been my guiding Mercury; the Fates are with me, and here I am.
+#ANALYTIKOS.
+The wrath of the King will show you no mercy.
+#PARIS.
+I'm not afraid of the King. He's fat, and - a fool.
+#ANALYTIKOS.
+Shall I call the guards?
+#MENELAUS.
+So you would give your life for a glimpse of the Queen?
+#PARIS.
+Yes! My immortal soul, and if the fables tell the truth, the sight will be worth the forfeit.
+#MENELAUS.
+It shall be as you wish!
+#PARIS.
+Venus has smiled on me.
+#MENELAUS.
+In there beyond the library you will find a room with a bath. Wait there till I call you.
+#PARIS.
+Is this some trick to catch me? Spartan cannot lie.
+#PARIS.
+What will happen to you if the King hears of this?
+#MENELAUS.
+I will answer for the king. Go.
+#ANALYTIKOS.
+Shall I order the boiling oil?
+#MENELAUS.
+Oil?
+#ANALYTIKOS.
+Now that he is being cleaned for the sacrifice.
+#MENELAUS.
+His torture will be greater than being boiled alive.
+#ANALYTIKOS.
+You'll have him hurled from the wall of the palace to a forest of waiting spears below?
+#MENELAUS.
+None is so blind as he who sees too much.
+#ANALYTIKOS.
+Your majesty is subtle in his cruelty.
+#MENELAUS.
+Haven't the years taught you the cheapness of revenge?
+#ANALYTIKOS.
+You do not intend to alter destiny.
+#MENELAUS.
+Never before has destiny been so clear to me.
+#ANALYTIKOS.
+Then the boy must die.
+#MENELAUS.
+No! He has been sent by the Gods to save me!
+#ANALYTIKOS.
+Your majesty!
+#MENELAUS.
+Helena must elope with him!
+#ANALYTIKOS.
+Ye Gods!
+#MENELAUS.
+I couldn't divorce the Queen. That would set a bad example.
+#ANALYTIKOS.
+Yes, very.
+#MENELAUS.
+I couldn't desert her. That would be beneath my honor.
+#ANALYTIKOS.
+Was there no other way?
+#MENELAUS.
+The King can do no wrong, and besides I hate the smell of blood. Are you a prophet as well as a scholar? Will she go?
+#ANALYTIKOS.
+To - night I will read the stars.
+#MENELAUS.
+By to - night I'll not need you to tell me. Well?
+#ANALYTIKOS.
+Ethics cite no precedent.
+#MENELAUS.
+Do you mean to say I'm not justified?
+#ANALYTIKOS.
+Who can establish the punctilious ratio between necessity and desire?
+#MENELAUS.
+This is no time for language. Just put yourself in my place.
+#ANALYTIKOS.
+Being you, how can I judge as I?
+#MENELAUS.
+May you choke on your dialectics! Zeus himself could have stood it no longer.
+#ANALYTIKOS.
+Have you given her soul a chance to grow?
+#MENELAUS.
+Her soul, indeed! It's shut in her rouge pot. "The perfect hip, its development and permanence." Bah! I've done what I had to do, and Gods grant the bait may be sweet enough to catch the Queen.
+#ANALYTIKOS.
+If you had diverted yourself with a war or two you might have forgotten your troubles at home.
+#MENELAUS.
+I detest dissension of any kind - my dream was perpetual peace in comfortable domesticity with a womanly woman to warm my sandals.
+#ANALYTIKOS.
+Is not the Queen - ?
+#MENELAUS.
+No! No! The whole world is but her mirror. And I'm expected to face that woman every morning at breakfast for the rest of my life, and by Venus that's more than even a King can bear!
+#ANALYTIKOS.
+Even a King cannot alter destiny. I warn you, whom the Gods have joined together -
+#MENELAUS.
+Is for man to break asunder!
+#ANALYTIKOS.
+You talk like an atheist.
+#MENELAUS.
+I never allow religion to interfere with life. Go call the victim and see that he be left alone with the Queen.
+#PARIS.
+I found this in there. It looks rather well, doesn't it? Ah! So you're alone. I suppose that stupid friend of yours has gone to tell the King. When do I see the Queen?
+#ANALYTIKOS.
+At once.
+#PARIS.
+I thought the Queen was a blonde!
+#ANALYTIKOS.
+Tell Her Majesty a stranger awaits her here. You should thank the Gods for this moment.
+#PARIS.
+You do it for me. I can never remember all their names.
+#PARIS.
+I have the most strange sensation of having seen you before. Something I can't explain -
+#HELENA.
+Please don't bother about all sorts of fine distinctions. Under the influence of Analytikos and my husband, life has become a mess of indecision. I'm a simple, direct woman and I expect you to say just what you think.
+#PARIS.
+Do you? Very well, then - Fate is impelling me toward you.
+#HELENA.
+Yes. That's much better. So you're a fatalist. It's very Greek. I don't see what our dramatists would do without it.
+#PARIS.
+In my country there are no dramatists. We are too busy with reality.
+#HELENA.
+Your people must be uncivilized barbarians.
+#PARIS.
+My people are a genuine people. There is but one thing we worship.
+#HELENA.
+Don't tell me it's money.
+#PARIS.
+It's -
+#HELENA.
+Analytikos says if there weren't any money, there wouldn't be any of those ridiculous socialists.
+#PARIS.
+It isn't money. It's sincerity.
+#HELENA.
+I, too, believe in sincerity. It's the loveliest thing in the world.
+#PARIS.
+And the most dangerous.
+#HELENA.
+The truth is never dangerous.
+#PARIS.
+Except when told.
+#HELENA.
+You mustn't say wicked things to me.
+#PARIS.
+Can your theories survive a test?
+#HELENA.
+Truth is eternal and survives all tests.
+#PARIS.
+No. Perhaps, after all, your soul is not ready for the supremest heights.
+#HELENA.
+Do you mean to say I'm not religious? Religion teaches the meaning of love.
+#PARIS.
+Has it taught you to love your husband?
+#HELENA.
+How dare you speak to me like that?
+#PARIS.
+You see. I was right.
+#HELENA.
+Whatever made you think so?
+#PARIS.
+I've heard people talk of the King. You could never love a man like that.
+#HELENA.
+A woman's first duty is to love her husband.
+#PARIS.
+There is a higher right than duty.
+#HELENA.
+Right is right.
+#PARIS.
+The world has libeled you.
+#HELENA.
+Me! The Queen?
+#PARIS.
+You are as wise as you are beautiful.
+#HELENA.
+Why, you hardly know me.
+#PARIS.
+I know you! I, better than all men.
+#HELENA.
+You?
+#PARIS.
+Human law has given you to Menelaus, but divine law makes you mine.
+#HELENA.
+What!
+#PARIS.
+I alone appreciate your beauty. I alone can reach your soul.
+#HELENA.
+Ah!
+#PARIS.
+You hate your husband!
+#HELENA.
+Why do you look at me like that?
+#PARIS.
+To see if there's one woman in the world who dares tell the truth.
+#HELENA.
+My husband doesn't understand me.
+#PARIS.
+I knew you detested him.
+#HELENA.
+He never listens to my aspirations.
+#PARIS.
+Egoist.
+#HELENA.
+I'm tired of being only lovely. He doesn't realize the meaning of spiritual intercourse, of soul communion.
+#PARIS.
+Fool!
+#HELENA.
+You dare call Moo Moo a fool?
+#PARIS.
+Has he not been too blind to see that your soul outshines your beauty? You're stifling!
+#HELENA.
+I - I -
+#PARIS.
+He has made you sit upon your wings. You are groping in the darkness.
+#HELENA.
+Don't be silly. It's very light in here.
+#PARIS.
+You are stumbling, and I have come to lead you.
+#HELENA.
+Stop right there! No man but the King can come within ten feet of me. It's a court tradition.
+#PARIS.
+Necessity knows no tradition. I shall come close to you, though the flame of your beauty consume me.
+#HELENA.
+You'd better be careful what you say to me. Remember I'm the Queen.
+#PARIS.
+No man weighs his words who has but a moment to live.
+#HELENA.
+You said that exactly like an actor. What are you doing now?
+#PARIS.
+I am looking into you. You are the clear glass in which I read the secret of the universe.
+#HELENA.
+The secret of the universe. Ah! Perhaps you could understand me.
+#PARIS.
+First you must understand yourself.
+#HELENA.
+How?
+#PARIS.
+You must break with all this prose.
+#HELENA.
+The ointment!
+#PARIS.
+And climb to infinite poesie!
+#HELENA.
+There is nothing in the world like poetry.
+#PARIS.
+Have you ever heard the poignant breathing of the stars?
+#HELENA.
+No. I don't believe in astrology.
+#PARIS.
+Have you ever smelt the powdery mists of the sun?
+#HELENA.
+I should sneeze myself to death.
+#PARIS.
+Have you ever listened to the sapphire soul of the sea?
+#HELENA.
+Has the sea a soul? But please don't stop talking. You do it so beautifully.
+#PARIS.
+Deeds are sweeter than words. Shall we go hand in hand to meet eternity?
+#HELENA.
+That's very pretty. Say it again.
+#PARIS.
+There's but a moment of life left me. I shall stifle it in ecstasy. Helena, Helena, I adore you!
+#HELENA.
+You're not making love to me, you naughty boy?
+#PARIS.
+Helena.
+#HELENA.
+You've spoken to me so little, and already you dare to do that.
+#PARIS.
+I am a lover of life. I skip the inessentials.
+#HELENA.
+Remember who I am.
+#PARIS.
+I have not forgotten, Daughter of Heaven. Listen!
+#HELENA.
+Shhh! That's the King and Analytikos in the library.
+#PARIS.
+No! No! Don't you hear the flutter of wings?
+#HELENA.
+Wings?
+#PARIS.
+Venus, mother of Love!
+#HELENA.
+What is it?
+#PARIS.
+She has sent her messenger. I hear the patter of little feet.
+#HELENA.
+Those little feet are the soldiers below in the courtyard.
+#PARIS.
+In a moment I shall be killed.
+#HELENA.
+Killed?
+#PARIS.
+Save me and save yourself!
+#HELENA.
+Myself?
+#PARIS.
+I shall rescue you and lead you on to life.
+#HELENA.
+No one has even spoken to me like that before.
+#PARIS.
+This is the first time your ears have heard the truth.
+#HELENA.
+Was it of you I've been dreaming?
+#PARIS.
+Your dream was but your unrealized desire.
+#HELENA.
+Menelaus has never made me feel like this. Oh! I'm a wicked woman!
+#PARIS.
+No! No!
+#HELENA.
+For years I've been living with a man I didn't love.
+#PARIS.
+Yes! Yes!
+#HELENA.
+I'm lost!
+#PARIS.
+No! Yes! Yes! No!
+#HELENA.
+It was a profanation of the most holy.
+#PARIS.
+The holiest awaits you, Helena! Our love will lighten the Plutonian realms.
+#HELENA.
+Menelaus never spoke to me like that.
+#PARIS.
+'Tis but the first whisper of my adoration.
+#HELENA.
+I can't face him every morning at breakfast for the rest of my life. That's even more than a Queen can bear.
+#PARIS.
+I am waiting to release you.
+#HELENA.
+I've stood it for seven years.
+#PARIS.
+I've been coming to you since the beginning of time.
+#HELENA.
+There is something urging me to go with you, something I do not understand.
+#PARIS.
+Quick! There is but a moment left us.
+#TSUMU.
+The chiropodist has come.
+#HELENA.
+Bring me my outer garment and my purse.
+#PARIS.
+Helena! Helena! last word to the King. No, this won't do; I shall have to take this with me.
+#PARIS.
+What is it?
+#HELENA.
+Maskanda's discourse on the hip.
+#PARIS.
+Leave it - or your hip may cost me my head. We haven't a minute to spare. Hurry! Hurry!
+#PARIS.
+You are the fairest of all fair women and your name will blaze as a symbol throughout eternity.
+#HELENA.
+Here, we may need this.
+#PARIS.
+This for your silence, daughter of darkness. A prince has no need of purses.
+#TSUMU.
+A prince!
+#HELENA.
+My prince of poetry. My deliverer!
+#PARIS.
+My queen of love!
+#TSUMU.
+Analytikos.
+#ANALYTIKOS.
+Has the Queen summoned me?
+#TSUMU.
+A terrible thing has happened.
+#ANALYTIKOS.
+What's the matter?
+#TSUMU.
+Where's the King?
+#ANALYTIKOS.
+In the library.
+#TSUMU.
+I have news more precious than the gold of Midas.
+#ANALYTIKOS.
+Well! What is it?
+#TSUMU.
+The Queen has deserted Menelaus.
+#ANALYTIKOS.
+Swift are the ways of Nature. The Gods have smiled upon him.
+#TSUMU.
+The Gods have forsaken the King to smile upon a prince.
+#ANALYTIKOS.
+What?
+#TSUMU.
+He was a prince.
+#ANALYTIKOS.
+Why do you say that?
+#TSUMU.
+I have a good reason to know. Oh, King, in thy bottomless agony blame not a blameless negress. The Queen has fled!
+#MENELAUS.
+Is it true?
+#TSUMU.
+Woe! Woe is me!
+#MENELAUS.
+Out of my sight, you eyeless Argus!
+#ANALYTIKOS.
+Quick, send a messenger. Find out who he was.
+#MENELAUS.
+Ye Gods, I thank ye. Peace and a happy life at last.
+#ANALYTIKOS.
+The news has spread through the palace.
+#MENELAUS.
+No one would dare stop the progress of the Queen.
+#TSUMU.
+Woe is me! They have gone by the road to the harbor.
+#MENELAUS.
+Yes! Yes!
+#TSUMU.
+By the King's orders no man has dared gaze upon Her Majesty. They all fell prostrate before her.
+#MENELAUS.
+Good! Good! Go! Go! You garrulous dog.
+#MENELAUS.
+"I am not a bad woman. I did what I had to do." How Greek to blame fate for what one wants to do.
+#TSUMU.
+A rumor flies through the city. He - he -
+#ANALYTIKOS.
+Well? Well?
+#TSUMU.
+He - he -
+#MENELAUS.
+Rid me of this croaking raven.
+#TSUMU.
+Evil has fallen on Sparta. He -
+#ANALYTIKOS.
+Yes - yes -
+#MENELAUS.
+Out of my sight, perfidious Nubian.
+#TSUMU.
+He was Paris, Prince of Troy!
+#ANALYTIKOS.
+Who can read the secret of the Fates?
+#MENELAUS.
+What do you mean?
+#ANALYTIKOS.
+He is the son of Priam, King of Troy.
+#TSUMU.
+And of Hecuba, Queen of the Trojans.
+#ANALYTIKOS.
+That makes the matter international.
+#MENELAUS.
+But we have treaties with Troy.
+#ANALYTIKOS.
+Circumstances alter treaties. They will mean nothing.
+#MENELAUS.
+Nothing?
+#ANALYTIKOS.
+No more than a scrap of papyrus. Sparta will fight to regain her Queen.
+#MENELAUS.
+But I don't want her back.
+#ANALYTIKOS.
+Can you tell that to Sparta? Remember, the King can do no wrong. Last night I dreamed of war.
+#MENELAUS.
+No! No! Don't say that. After the scandal I can't be expected to fight to get her back.
+#ANALYTIKOS.
+Sparta will see with the eyes of chivalry.
+#MENELAUS.
+But I don't believe in war.
+#ANALYTIKOS.
+Have you forgotten the oath pledged of old, with Ulysses and Agamemnon? They have sworn, if ever the time came, to fight and defend the Queen.
+#MENELAUS.
+I didn't think of the triple alliance.
+#ANALYTIKOS.
+Can Sparta ask less of her King?
+#MENELAUS.
+Let's hear the other side. We can perhaps arbitrate. Peace at any price.
+#ANALYTIKOS.
+Some bargains are too cheap.
+#MENELAUS.
+But I am a pacifist.
+#ANALYTIKOS.
+You are Menelaus of Sparta, and Sparta's a nation of soldiers.
+#MENELAUS.
+I am too proud to fight!
+#ANALYTIKOS.
+Here, put on your shield. People of Sparta, this calamity has been forced upon us. We are a peaceful people. But thanks to our unparalleled efficiency, the military system of Sparta is the most powerful in all Greece and we can mobilize in half an hour.
+#ANALYTIKOS.
+In the midst of connubial and communal peace the thunderbolt has fallen on the King. Broken in spirit as he is, he is already pawing the ground like a battle steed. Never will we lay down our arms! We and Jupiter! Never until the Queen is restored to Menelaus. Never, even if it takes ten years. Even now the King is buckling on his shield. One hate we have and one alone! Hate by water and hate by land, Hate of the head and hate of the hand, Hate of Paris and hate of Troy That has broken the Queen for a moment's toy. Zeus' thunder will shatter the Trojan throne. We have one hate and one alone! We have one hate and one alone. Troy! Troy! Curtain falls.]

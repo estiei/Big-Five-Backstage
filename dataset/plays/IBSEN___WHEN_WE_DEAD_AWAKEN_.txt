@@ -1,0 +1,1900 @@
+#MAIA.
+Oh dear, dear, dear - !
+#PROFESSOR RUBEK.
+Well, Maia? What is the matter with you?
+#MAIA.
+Just listen how silent it is here.
+#PROFESSOR RUBEK.
+And you can hear that?
+#MAIA.
+What?
+#PROFESSOR RUBEK.
+The silence?
+#MAIA.
+Yes, indeed I can.
+#PROFESSOR RUBEK.
+Well, perhaps you are right, mein Kind. One can really hear the silence.
+#MAIA.
+Heaven knows you can - when it's so absolutely overpowering as it is here -
+#PROFESSOR RUBEK.
+Here at the Baths, you mean?
+#MAIA.
+Wherever you go at home here, it seems to me. Of course there was noise and bustle enough in the town. But I don't know how it is - even the noise and bustle seemed to have something dead about it.
+#PROFESSOR RUBEK.
+You don't seem particularly glad to be at home again, Maia?
+#MAIA.
+Are you glad?
+#PROFESSOR RUBEK.
+I - ?
+#MAIA.
+Yes, you, who have been so much, much further away than I. Are you entirely happy, now that you are at home again?
+#PROFESSOR RUBEK.
+No - to be quite candid - perhaps not entirely happy -
+#MAIA.
+There, you see! Didn't I know it!
+#PROFESSOR RUBEK.
+I have been too long abroad. I have drifted quite away from all this - this home life.
+#MAIA.
+There, you see, Rubek! We had much better get away again! As quickly as ever we can.
+#PROFESSOR RUBEK.
+Well, well, that is what we intend to do, my dear Maia. You know that.
+#MAIA.
+But why not now - at once? Only think how cozy and comfortable we could be down there, in our lovely new house -
+#PROFESSOR RUBEK.
+We ought by rights to say: our lovely new home.
+#MAIA.
+I prefer to say house - let us keep to that.
+#PROFESSOR RUBEK.
+You are really a strange little person.
+#MAIA.
+Am I so strange?
+#PROFESSOR RUBEK.
+Yes, I think so.
+#MAIA.
+But why, pray? Perhaps because I'm not desperately in love with mooning about up here - ?
+#PROFESSOR RUBEK.
+Which of us was it that was absolutely bent on our coming north this summer?
+#MAIA.
+I admit, it was I.
+#PROFESSOR RUBEK.
+It was certainly not I, at any rate.
+#MAIA.
+But good heavens, who could have dreamt that everything would have altered so terribly at home here? And in so short a time, too! Why, it is only just four years since I went away -
+#PROFESSOR RUBEK.
+Since you were married, yes.
+#MAIA.
+Married? What has that to do with the matter?
+#PROFESSOR RUBEK.
+- since you became the Frau Professor, and found yourself mistress of a charming home - I beg your pardon - a very handsome house, I ought to say. And a villa on the Lake of Taunitz, just at the point that has become most fashionable, too - In fact it is all very handsome and distinguished, Maia, there's no denying that. And spacious too. We need not always be getting in each other's way -
+#MAIA.
+No, no, no - there's certainly no lack of house - room, and that sort of thing -
+#PROFESSOR RUBEK.
+Remember, too, that you have been living in altogether more spacious and distinguished surroundings - in more polished society than you were accustomed to at home.
+#MAIA.
+Ah, so you think it is I that have changed?
+#PROFESSOR RUBEK.
+Indeed I do, Maia.
+#MAIA.
+I alone? Not the people here?
+#PROFESSOR RUBEK.
+Oh yes, they too - a little, perhaps. And not at all in the direction of amiability. That I readily admit.
+#MAIA.
+I should think you must admit it, indeed.
+#PROFESSOR RUBEK.
+Do you know how it affects me when I look at the life of the people around us here?
+#MAIA.
+No. Tell me.
+#PROFESSOR RUBEK.
+It makes me think of that night we spent in the train, when we were coming up here -
+#MAIA.
+Why, you were sound asleep all the time.
+#PROFESSOR RUBEK.
+Not quite. I noticed how silent it became at all the little roadside stations. I heard the silence - like you, Maia -
+#MAIA.
+H'm, - like me, yes.
+#PROFESSOR RUBEK.
+- and that assured me that we had crossed the frontier - that we were really at home. For the train stopped at all the little stations - although there was nothing doing at all.
+#MAIA.
+Then why did it stop - though there was nothing to be done?
+#PROFESSOR RUBEK.
+Can't say. No one got out or in; but all the same the train stopped a long, endless time. And at every station I could make out that there were two railway men walking up and down the platform - one with a lantern in his hand - and they said things to each other in the night, low, and toneless, and meaningless.
+#MAIA.
+Yes, that is quite true. There are always two men walking up and down, and talking -
+#PROFESSOR RUBEK.
+- of nothing. But just wait till to - morrow. Then we shall have the great luxurious steamer lying in the harbour. We'll go on board her, and sail all round the coast - northward ho! - right to the polar sea.
+#MAIA.
+Yes, but then you will see nothing of the country - and of the people. And that was what you particularly wanted.
+#PROFESSOR RUBEK.
+I have seen more than enough.
+#MAIA.
+Do you think a sea voyage will be better for you?
+#PROFESSOR RUBEK.
+It is always a change.
+#MAIA.
+Well, well, if only it is the right thing for you -
+#PROFESSOR RUBEK.
+For me? The right thing? There is nothing in the world the matter with me.
+#MAIA.
+Yes, there is, Rubek. I am sure you must feel it yourself.
+#PROFESSOR RUBEK.
+Why my dearest Maia - what should be amiss with me?
+#MAIA.
+That you must tell me. You have begun to wander about without a moment's peace. You cannot rest anywhere - neither at home nor abroad. You have become quite misanthropic of late.
+#PROFESSOR RUBEK.
+Dear me - have you noticed that?
+#MAIA.
+No one that knows you can help noticing it. And then it seems to me so sad that you have lost all pleasure in your work.
+#PROFESSOR RUBEK.
+That too, eh?
+#MAIA.
+You that used to be so indefatigable - working from morning to night!
+#PROFESSOR RUBEK.
+Used to be, yes -
+#MAIA.
+But ever since you got your great masterpiece out of hand -
+#PROFESSOR RUBEK.
+"The Resurrection Day" -
+#MAIA.
+- the masterpiece that has gone round the whole world, and made you so famous -
+#PROFESSOR RUBEK.
+Perhaps that is just the misfortune, Maia.
+#MAIA.
+How so?
+#PROFESSOR RUBEK.
+When I had finished this masterpiece of mine - for "The Resurrection Day" is a masterpiece! Or was one in the beginning. No, it is one still. It must, must, must be a masterpiece!
+#MAIA.
+Why, Rubek - all the world knows that.
+#PROFESSOR RUBEK.
+All the world knows nothing! Understands nothing!
+#MAIA.
+Well, at any rate it can divine something -
+#PROFESSOR RUBEK.
+Something that isn't there at all, yes. Something that never was in my mind. Ah yes, that they can all go into ecstasies over! What is the good of working oneself to death for the mob and the masses - for "all the world"!
+#MAIA.
+Do you think it is better, then - do you think it is worthy of you, to do nothing at all but portrait - bust now and then?
+#PROFESSOR RUBEK.
+They are not exactly portrait - busts that I turn out, Maia.
+#MAIA.
+Yes, indeed they are - for the last two or three years - ever since you finished your great group and got it out of the house -
+#PROFESSOR RUBEK.
+All the same, they are no mere portrait - busts, I assure you.
+#MAIA.
+What are they, then?
+#PROFESSOR RUBEK.
+There is something equivocal, something cryptic, lurking in and behind these busts - a secret something, that the people themselves cannot see -
+#MAIA.
+Indeed?
+#PROFESSOR RUBEK.
+I alone can see it. And it amuses me unspeakably. - On the surface I give them the "striking likeness," as they call it, that they all stand and gape at in astonishment - but at bottom they are all respectable, pompous horse - faces, and self - opinionated donkey - muzzles, and lop - eared, low - browed dog - skulls, and fatted swine - snouts - and sometimes dull, brutal bull - fronts as well -
+#MAIA.
+All the dear domestic animals, in fact.
+#PROFESSOR RUBEK.
+Simply the dear domestic animals, Maia. All the animals which men have bedevilled in their own image - and which have bedevilled men in return. And it is these double - faced works of art that our excellent plutocrats come and order of me. And pay for in all good faith - and in good round figures too - almost their weight in gold, as the saying goes.
+#MAIA.
+Come, Rubek! Drink and be happy.
+#PROFESSOR RUBEK.
+I am happy, Maia. Really happy - in a way. For after all there is a certain happiness in feeling oneself free and independent on every hand - in having at ones command everything one can possibly wish for - all outward things, that is to say. Do you not agree with me, Maia?
+#MAIA.
+Oh yes, I agree. All that is well enough in its way. But do you remember what you promised me the day we came to an understanding on - on that troublesome point -
+#PROFESSOR RUBEK.
+- on the subject of our marriage, yes. It was no easy matter for you, Maia.
+#MAIA.
+- and agreed that I was to go abroad with you, and live there for good and all - and enjoy myself. - Do you remember what you promised me that day?
+#PROFESSOR RUBEK.
+No, I can't say that I do. Well, what did I promise?
+#MAIA.
+You said you would take me up to a high mountain and show me all the glory of the world.
+#PROFESSOR RUBEK.
+Did I promise you that, too?
+#MAIA.
+Me too? Who else, pray?
+#PROFESSOR RUBEK.
+No, no, I only meant did I promise to show you - ?
+#MAIA.
+- all the glory of the world? Yes, you did. And all that glory should be mine, you said.
+#PROFESSOR RUBEK.
+That is sort of figure of speech that I was in the habit of using once upon a time.
+#MAIA.
+Only a figure of speech?
+#PROFESSOR RUBEK.
+Yes, a schoolboy phrase - the sort of thing I used to say when I wanted to lure the neighbours' children out to play with me, in the woods and on the mountains.
+#MAIA.
+Perhaps you only wanted to lure me out to play, as well?
+#PROFESSOR RUBEK.
+Well, has it not been a tolerable amusing game, Maia?
+#MAIA.
+I did not go with you only to play.
+#PROFESSOR RUBEK.
+No, no, I daresay not.
+#MAIA.
+And you never took me up with you to any high mountain, or showed me -
+#PROFESSOR RUBEK.
+- all the glory of the world? No, I did not. For, let me tell you something: you are not really born to be a mountain - climber, little Maia.
+#MAIA.
+Yet at one time you seemed to think I was.
+#PROFESSOR RUBEK.
+Four or five years ago, yes. Four or five years - it's a long, long time, Maia.
+#MAIA.
+Has the time seemed so very long to you, Rubek?
+#PROFESSOR RUBEK.
+I am beginning now to find it a trifle long. Now and then, you know.
+#MAIA.
+I shall not bore you any longer.
+#PROFESSOR RUBEK.
+Is the Frau Professor offended?
+#MAIA.
+No, not at all.
+#THE INSPECTOR.
+I have the honour to wish you good morning, Mrs. Rubek. - Good morning, Professor Rubek.
+#PROFESSOR RUBEK.
+Good morning, good morning Inspector.
+#THE INSPECTOR.
+May I venture to ask if you have slept well?
+#MAIA.
+Yes, thank you; excellently - for my part. I always sleep like a stone.
+#THE INSPECTOR.
+I am delighted to hear it. The first night in a strange place is often rather trying. - And the Professor - ?
+#PROFESSOR RUBEK.
+Oh, my night's rest is never much to boast of - especially of late.
+#THE INSPECTOR.
+Oh - that is a pity. But after a few weeks' stay at the Baths - you will quite get over that.
+#PROFESSOR RUBEK.
+Tell me, Inspector - are any of your patients in the habit of taking baths during the night?
+#THE INSPECTOR.
+During the night? No, I have never heard of such a thing.
+#PROFESSOR RUBEK.
+Have you not?
+#THE INSPECTOR.
+No, I don't know of any one so ill as to require such treatment.
+#PROFESSOR RUBEK.
+Well, at any rate there is some one who is in the habit of walking about the park by night?
+#THE INSPECTOR.
+No, Professor - that would be against the rules.
+#MAIA.
+Good Heavens, Rubek, I told you so this morning - you must have dreamt it.
+#PROFESSOR RUBEK.
+Indeed? Must I? Thank you! The fact is, I got up last night - I couldn't sleep - and I wanted to see what sort of night it was -
+#THE INSPECTOR.
+To be sure - and then - ?
+#PROFESSOR RUBEK.
+I looked out at the window - and caught sight of a white figure in there among the trees.
+#MAIA.
+And the Professor declares that the figure was dressed in a bathing costume -
+#PROFESSOR RUBEK.
+- or something like it, I said. Couldn't distinguish very clearly. But I am sure it was something white.
+#THE INSPECTOR.
+Most remarkable. Was it a gentleman or a lady?
+#PROFESSOR RUBEK.
+I could almost have sworn it was a lady. But then after it came another figure. And that one was quite dark - like a shadow -
+#THE INSPECTOR.
+A dark one? Quite black, perhaps?
+#PROFESSOR RUBEK.
+Yes, I should almost have said so.
+#THE INSPECTOR.
+And behind the white figure? Following close upon her - ?
+#PROFESSOR RUBEK.
+Yes - at a little distance -
+#THE INSPECTOR.
+Aha! Then I think I can explain the mystery, Professor.
+#PROFESSOR RUBEK.
+Well, what was it then?
+#MAIA.
+Was the professor really not dreaming?
+#THE INSPECTOR.
+Hush, if you please! Look there - don't speak loud for a moment.
+#PROFESSOR RUBEK.
+Who was that lady?
+#THE INSPECTOR.
+She is a stranger who has rented the little pavilion there. foreigner?
+#THE INSPECTOR.
+Presumably. At any rate they both came from abroad - about a week ago. They have never been here before.
+#PROFESSOR RUBEK.
+It was she I saw in the park last night.
+#THE INSPECTOR.
+No doubt it must have been. I thought so from the first.
+#PROFESSOR RUBEK.
+What is this lady's name, Inspector?
+#THE INSPECTOR.
+She has registered herself as "Madame de Satow, with companion." We know nothing more.
+#PROFESSOR RUBEK.
+Satow? Satow - ?
+#MAIA.
+Do you know any one of that name, Rubek? Eh?
+#PROFESSOR RUBEK.
+No, no one. - Satow? It sounds Russian - or in all events Slavonic. What language does she speak?
+#THE INSPECTOR.
+When the two ladies talk to each other, it is in a language I cannot make out at all. But at other times she speaks Norwegian like a native.
+#PROFESSOR RUBEK.
+Norwegian? You are sure you are not mistaken?
+#THE INSPECTOR.
+No, how could I be mistaken in that?
+#PROFESSOR RUBEK.
+You have heard her yourself?
+#THE INSPECTOR.
+Yes. I myself have spoken to her - several times. - Only a few words, however; she is far from communicative. But -
+#PROFESSOR RUBEK.
+But Norwegian it was?
+#THE INSPECTOR.
+Thoroughly good Norwegian - perhaps with a little north - country accent.
+#PROFESSOR RUBEK.
+That too?
+#MAIA.
+Perhaps this lady has been one of your models, Rubek? Search your memory.
+#PROFESSOR RUBEK.
+My models?
+#MAIA.
+In your younger days, I mean. You are said to have had innumerable models - long ago, of course.
+#PROFESSOR RUBEK.
+Oh no, little Frau Maia. I have in reality had only one single model. One and only one - for everything I have done.
+#THE INSPECTOR.
+If you'll excuse me, I think I will take my leave. I see some one coming whom it is not particularly agreeable to meet. Especially in the presence of ladies.
+#PROFESSOR RUBEK.
+That sportsman there? Who is it?
+#THE INSPECTOR.
+It is a certain Mr. Ulfheim, from -
+#PROFESSOR RUBEK.
+Oh, Mr. Ulfheim -
+#THE INSPECTOR.
+- the bear - killer, as they call him -
+#PROFESSOR RUBEK.
+I know him.
+#THE INSPECTOR.
+Who does not know him?
+#PROFESSOR RUBEK.
+Very slightly, however. Is he on your list of patients - at last?
+#THE INSPECTOR.
+No, strangely enough - not as yet. He comes here only once a year - on his way up to his hunting - grounds. - Excuse me for the moment - ULFHEIM's VOICE. Stop a moment, man! Devil take it all, can't you stop? Why do you always scuttle away from me?
+#THE INSPECTOR.
+I am not scuttling at all, Mr. Ulfheim.
+#ULFHEIM.
+Is this a way to receive strangers, hey? You scamper away with your tail between your legs - as if you had the devil at your heels.
+#THE INSPECTOR.
+Has Mr. Ulfheim arrived by the steamer?
+#ULFHEIM.
+Haven't had the honour of seeing any steamer. Don't you know that I sail my own cutter? Look well after your fellow - creatures, Lars. But take care you keep them ravenous, all the same. Fresh meat - bones - but not too much meat on them, do you hear? And be sure it's reeking raw, and bloody. And get something in your own belly while you're about it. Now then, go to hell with you!
+#THE INSPECTOR.
+Would not Mr. Ulfheim like to go into the dining - room in the meantime?
+#ULFHEIM.
+In among all the half - dead flies and people? No, thank you a thousand times, Mr. Inspector.
+#THE INSPECTOR.
+Well, well, as you please.
+#ULFHEIM.
+But get the housekeeper to prepare a hamper for me as usual. There must be plenty of provender in it - and lots of brandy - ! You can tell her that I or Lars will come and play Old Harry with her if she doesn't -
+#THE INSPECTOR.
+We know your ways of old. Can I give the waiter any orders, Professor? Can I send Mrs. Rubek anything?
+#PROFESSOR RUBEK.
+No thank you; nothing for me.
+#MAIA.
+Nor for me.
+#ULFHEIM.
+Why, blast me if here isn't a country tyke that has strayed into regular tip - top society.
+#PROFESSOR RUBEK.
+What do you mean by that, Mr. Ulfheim?
+#ULFHEIM.
+I believe I have the honour of addressing no less a person than the great Sculptor Rubek.
+#PROFESSOR RUBEK.
+I remember meeting you once or twice - the autumn when I was last at home.
+#ULFHEIM.
+That's many years ago, now. And then you weren't so illustrious as I hear you've since become. At that time even a dirty bear - hunter might venture to come near you.
+#PROFESSOR RUBEK.
+I don't bite even now.
+#MAIA.
+Are you really and truly a bear - hunter?
+#ULFHEIM.
+A bear - hunter when I have the chance, madam. But I make the best of any sort of game that comes in my way - eagles, and wolves, and women, and elks, and reindeer - if only it's fresh and juicy and has plenty of blood in it.
+#MAIA.
+But you like bear - hunting best?
+#ULFHEIM.
+I like it best, yes. For then one can have the knife handy at a pinch. We both work in a hard material, madam - both your husband and I. He struggles with his marble blocks, I daresay; and I struggle with tense and quivering bear - sinews. And we both of us win the fight in the end - subdue and master our material. We never rest till we've got the upper hand of it, though it fight never so hard.
+#PROFESSOR RUBEK.
+There's a great deal of truth in what you say.
+#ULFHEIM.
+Yes, for I take it the stone has something to fight for too. It is dead, and determined by no manner of means to let itself be hammered into life. Just like the bear when you come and prod him up in his lair.
+#MAIA.
+Are you going up into the forests now to hunt?
+#ULFHEIM.
+I am going right up into the high mountain. - I suppose you have never been in the high mountain, madam?
+#MAIA.
+No, never.
+#ULFHEIM.
+Confound it all then, you must be sure and come up there this very summer! I'll take you with me - both you and the Professor, with pleasure.
+#MAIA.
+Thanks. But Rubek is thinking of taking a sea trip this summer.
+#PROFESSOR RUBEK.
+Round the coast - through the island channels.
+#ULFHEIM.
+Ugh - what the devil would you do in those damnable sickly gutters - floundering about in the brackish ditchwater? Dishwater I should rather call it.
+#MAIA.
+There, you hear, Rubek!
+#ULFHEIM.
+No, much better come up with me to the mountain - away, clean away, from the trail and taint of men. You cant' think what that means for me. But such a little lady -
+#ULFHEIM.
+Just look at her, do! That night - crow there! - Who is it that's to be buried?
+#PROFESSOR RUBEK.
+I have not heard of any one -
+#ULFHEIM.
+Well, there's some one on the point of giving up the ghost, then - in on corner or another. - People that are sickly and rickety should have the goodness to see about getting themselves buried - the sooner the better.
+#MAIA.
+Have you ever been ill yourself, Mr. Ulfheim.
+#ULFHEIM.
+Never. If I had, I shouldn't be here. - But my nearest friends - they have been ill, poor things.
+#MAIA.
+And what did you do for your nearest friends?
+#ULFHEIM.
+Shot them, of course.
+#PROFESSOR RUBEK.
+Shot them?
+#MAIA.
+Shot them dead?
+#ULFHEIM.
+I never miss, madam.
+#MAIA.
+But how can you possibly shoot people!
+#ULFHEIM.
+I am not speaking of people -
+#MAIA.
+You said your nearest friends -
+#ULFHEIM.
+Well, who should they be but my dogs?
+#MAIA.
+Are your dogs your nearest friends?
+#ULFHEIM.
+I have none nearer. My honest, trusty, absolutely loyal comrades - When one of them turns sick and miserable - bang! - and there's my friend sent packing - to the other world.
+#ULFHEIM.
+That stuff there - is that what you call food for human beings! Milk and water and soft, clammy bread. Ah, you should see my comrades feeding. Should you like to see it?
+#MAIA.
+Yes, very much.
+#ULFHEIM.
+Spoken like a woman of spirit, madam! Come with me, then! They swallow whole great thumping meat - bones - gulp them up and then gulp them down again. Oh, it's a regular treat to see them. Come along and I'll show you - and while we're about it, we can talk over this trip to the mountains -
+#PROFESSOR RUBEK.
+I know you quite well, Irene.
+#THE LADY.
+You can guess who I am, Arnold?
+#PROFESSOR RUBEK.
+And you recognise me, too, I see.
+#THE LADY.
+With you it is quite another matter.
+#PROFESSOR RUBEK.
+With me? - How so?
+#THE LADY.
+Oh, you are still alive.
+#PROFESSOR RUBEK.
+Alive - ?
+#THE LADY.
+Who was the other? The woman you had with you - there at the table?
+#PROFESSOR RUBEK.
+She? That was my - my wife.
+#THE LADY.
+Indeed. That is well, Arnold. Some one, then, who does not concern me -
+#PROFESSOR RUBEK.
+No, of course not -
+#THE LADY.
+- one whom you have taken to you after my lifetime.
+#PROFESSOR RUBEK.
+After your - ? What do you mean by that, Irene?
+#IRENE.
+And the child? I hear the child is prospering too. Our child survives me - and has come to honour and glory.
+#PROFESSOR RUBEK.
+Our child? Yes, we called it so - then.
+#IRENE.
+In my lifetime, yes.
+#PROFESSOR RUBEK.
+Yes, Irene. - I can assure you "our child" has become famous all the wide world over. I suppose you have read about it.
+#IRENE.
+And has made its father famous too. - That was your dream.
+#PROFESSOR RUBEK.
+It is to you I owe everything, everything, Irene - and I thank you.
+#IRENE.
+If I had then done what I had a right to do, Arnold -
+#PROFESSOR RUBEK.
+Well? What then?
+#IRENE.
+I should have killed that child.
+#PROFESSOR RUBEK.
+Killed it, you say?
+#IRENE.
+Killed it - before I went away from you. Crushed it - crushed it to dust.
+#PROFESSOR RUBEK.
+You would never have been able to, Irene. You had not the heart to do it.
+#IRENE.
+No, in those days I had not that sort of heart.
+#PROFESSOR RUBEK.
+But since then? Afterwards?
+#IRENE.
+Since then I have killed it innumerable times. By daylight and in the dark. Killed it in hatred - and in revenge - and in anguish.
+#PROFESSOR RUBEK.
+Irene - tell me now at last - after all these years - why did you go away from me? You disappeared so utterly - left not a trace behind -
+#IRENE.
+Oh Arnold - why should I tell you that now - from the world beyond the grave.
+#PROFESSOR RUBEK.
+Was there some one else whom you had come to love?
+#IRENE.
+There was one who had no longer any use for my love - any use for my life.
+#PROFESSOR RUBEK.
+H'm - don't let us talk any more of the past -
+#IRENE.
+No, no - by all means let us not talk of what is beyond the grave - what is now beyond the grave for me.
+#PROFESSOR RUBEK.
+Where have you been, Irene? All my inquiries were fruitless - you seemed to have vanished away.
+#IRENE.
+I went into the darkness - when the child stood transfigured in the light.
+#PROFESSOR RUBEK.
+Have you travelled much about the world?
+#IRENE.
+Yes. Travelled in many lands.
+#PROFESSOR RUBEK.
+And what have you found to do, Irene?
+#IRENE.
+Wait a moment; let me see - Yes, now I have it. I have posed on the turntable in variety - shows. Posed as a naked statue in living pictures. Raked in heaps of money. That was more than I could do with you; for you had none. - And then I turned the heads of all sorts of men. That too, was more than I could do with you, Arnold. You kept yourself better in hand.
+#PROFESSOR RUBEK.
+And then you have married, too?
+#IRENE.
+Yes; I married one of them.
+#PROFESSOR RUBEK.
+Who is your husband?
+#IRENE.
+He was a South American. A distinguished diplomatist. Him I managed to drive quite out of his mind; mad - incurably mad; inexorably mad. - It was great sport, I can tell you - while it was in the doing. I could have laughed within me all the time - if I had anything within me.
+#PROFESSOR RUBEK.
+And where is he now?
+#IRENE.
+Oh, in a churchyard somewhere or other. With a fine handsome monument over him. And with a bullet rattling in his skull.
+#PROFESSOR RUBEK.
+Did he kill himself?
+#IRENE.
+Yes, he was good enough to take that off my hands.
+#PROFESSOR RUBEK.
+Do you not lament his loss, Irene?
+#IRENE.
+Lament? What loss?
+#PROFESSOR RUBEK.
+Why, the loss of Herr von Satow, of course.
+#IRENE.
+His name was not Satow.
+#PROFESSOR RUBEK.
+Was it not?
+#IRENE.
+My second husband is called Satow. He is a Russian -
+#PROFESSOR RUBEK.
+And where is he?
+#IRENE.
+Far away in the Ural Mountains. Among all his gold - mines.
+#PROFESSOR RUBEK.
+So he lives there?
+#IRENE.
+Lives? Lives? In reality I have killed him -
+#PROFESSOR RUBEK.
+Killed - !
+#IRENE.
+Killed him with a fine sharp dagger which I always have with me in bed -
+#PROFESSOR RUBEK.
+I don't believe you, Irene!
+#IRENE.
+Indeed you may believe it, Arnold.
+#PROFESSOR RUBEK.
+Have you never had a child?
+#IRENE.
+Yes, I have had many children.
+#PROFESSOR RUBEK.
+And where are your children now?
+#IRENE.
+I killed them.
+#PROFESSOR RUBEK.
+Now you are telling me lies again!
+#IRENE.
+I have killed them, I tell you - murdered them pitilessly. As soon as ever they came into the world. Oh, long, long before. One after the other.
+#PROFESSOR RUBEK.
+There is something hidden behind everything you say.
+#IRENE.
+How can I help that? Every word I say is whispered into my ear.
+#PROFESSOR RUBEK.
+I believe I am the only one that can divine your meaning.
+#IRENE.
+Surely you ought to be the only one.
+#PROFESSOR RUBEK.
+Some of the strings of your nature have broken.
+#IRENE.
+Does not that always happen when a young warm - blooded woman dies?
+#PROFESSOR RUBEK.
+Oh Irene, have done with these wild imaginings - ! You are living! Living - living!
+#IRENE.
+I was dead for many years. They came and bound me - laced my arms together behind my back - Then they lowered me into a grave - vault, with iron bars before the loop - hole. And with padded walls - so that no one on the earth above could hear the grave - shrieks - But now I am beginning, in a way, to rise from the dead.
+#PROFESSOR RUBEK.
+In all this, do you hold me guilty?
+#IRENE.
+Yes.
+#PROFESSOR RUBEK.
+Guilty of that - your death, as you call it.
+#IRENE.
+Guilty of the fact that I had to die. Why don't you sit down, Arnold?
+#PROFESSOR RUBEK.
+May I?
+#IRENE.
+Yes. - You need not be afraid of being frozen. I don't think I am quite turned to ice yet.
+#PROFESSOR RUBEK.
+There, Irene. Now we two are sitting together as in the old days. little way apart from each other - also as in the old days.
+#PROFESSOR RUBEK.
+It had to be so, then.
+#IRENE.
+Had it?
+#PROFESSOR RUBEK.
+There had to be a distance between us -
+#IRENE.
+Was it absolutely necessary, Arnold?
+#PROFESSOR RUBEK.
+Do you remember what you answered when I asked if you would go with me out into the wide world?
+#IRENE.
+I held up three fingers in the air and swore that I would go with you to the world's end and to the end of life. And that I would serve you in all things -
+#PROFESSOR RUBEK.
+As the model for my art -
+#IRENE.
+- in frank, utter nakedness -
+#PROFESSOR RUBEK.
+And you did serve me, Irene - so bravely - so gladly and ungrudgingly.
+#IRENE.
+Yes, with all the pulsing blood of my youth, I served you!
+#PROFESSOR RUBEK.
+That you have every right to say.
+#IRENE.
+I fell down at your feet and served you, Arnold! But you, you, - you - !
+#PROFESSOR RUBEK.
+I never did you any wrong! Never, Irene!
+#IRENE.
+Yes, you did! You did wrong to my innermost, inborn nature -
+#PROFESSOR RUBEK.
+I - !
+#IRENE.
+Yes, you! I exposed myself wholly and unreservedly to your gaze - And never once did you touch me.
+#PROFESSOR RUBEK.
+Irene, did you not understand that many a time I was almost beside myself under the spell of all your loveliness?
+#IRENE.
+And yet - if you had touched me, I think I should have killed you on the spot. For I had a sharp needle always upon me - hidden in my hair - But after all - after all - that you could -
+#PROFESSOR RUBEK.
+I was an artist, Irene.
+#IRENE.
+That is just it. That is just it.
+#PROFESSOR RUBEK.
+An artist first of all. And I was sick with the desire to achieve the great work of my life. It was to be called "The Resurrection Day" - figured in the likeness of a young woman, awakening from the sleep of death -
+#IRENE.
+Our child, yes -
+#PROFESSOR RUBEK.
+It was to be the awakening of the noblest, purest, most ideal woman the world ever saw. Then I found you. You were what I required in every respect. And you consented so willingly - so gladly. You renounced home and kindred - and went with me.
+#IRENE.
+To go with you meant for me the resurrection of my childhood.
+#PROFESSOR RUBEK.
+That was just why I found in you all that I required - in you and in no one else. I came to look on you as a thing hallowed, not to be touched save in adoring thoughts. In those days I was still young, Irene. And the superstition took hold of me that if I touched you, if I desired you with my senses, my soul would be profaned, so that I should be unable to accomplish what I was striving for. - And I still think there was some truth in that.
+#IRENE.
+The work of art first - then the human being.
+#PROFESSOR RUBEK.
+You must judge me as you will; but at that time I was utterly dominated by my great task - and exultantly happy in it.
+#IRENE.
+And you achieved your great task, Arnold.
+#PROFESSOR RUBEK.
+Thanks and praise be to you, I achieved my great task. I wanted to embody the pure woman as I saw her awakening on the Resurrection Day. Not marvelling at anything new and unknown and undivined; but filled with a sacred joy at finding herself unchanged - she, the woman of earth - in the higher, freer, happier region - after the long, dreamless sleep of death. Thus did I fashion her. - I fashioned her in your image, Irene.
+#IRENE.
+And then you were done with me -
+#PROFESSOR RUBEK.
+Irene!
+#IRENE.
+You had no longer any use for me -
+#PROFESSOR RUBEK.
+How can you say that!
+#IRENE.
+- and began to look about you for other ideals -
+#PROFESSOR RUBEK.
+I found none, none after you.
+#IRENE.
+And no other models, Arnold?
+#PROFESSOR RUBEK.
+You were no model to me. You were the fountainhead of my achievement.
+#IRENE.
+What poems have you made since? In marble I mean. Since the day I left you.
+#PROFESSOR RUBEK.
+I have made no poems since that day - only frittered away my life in modelling.
+#IRENE.
+And that woman, whom you are now living with - ?
+#PROFESSOR RUBEK.
+Do not speak of her now! It makes me tingle with shame.
+#IRENE.
+Where are you thinking of going with her?
+#PROFESSOR RUBEK.
+Oh, on a tedious coasting - voyage to the North, I suppose.
+#IRENE.
+You should rather go high up into the mountains. As high as ever you can. Higher, higher, - always higher, Arnold.
+#PROFESSOR RUBEK.
+Are you going up there?
+#IRENE.
+Have you the courage to meet me once again?
+#PROFESSOR RUBEK.
+If we could - oh, if only we could - !
+#IRENE.
+Why can we not do what we will? Come, come, Arnold! Oh, come up to me - !
+#MAIA.
+Oh, you may say what you please, Rubek, but - Oh, I beg your pardon - I see you have made an acquaintance.
+#PROFESSOR RUBEK.
+Renewed an acquaintance. What was it you wanted with me?
+#MAIA.
+I only wanted to say this: you may do whatever you please, but I am not going with you on that disgusting steamboat.
+#PROFESSOR RUBEK.
+Why not?
+#MAIA.
+Because I want to go up on the mountains and into the forests - that's what I want. Oh, you must let me do it, Rubek. - I shall be so good, so good afterwards!
+#PROFESSOR RUBEK.
+Who is it that has put these ideas into your head?
+#MAIA.
+Why he - that horrid bear - killer. Oh you cannot conceive all the marvelous things he has to tell about the mountains. And about life up there! They're ugly, horrid, repulsive, most of the yarns he spins - for I almost believe he's lying - but wonderfully alluring all the same. Oh, won't you let me go with him? Only to see if what he says is true, you understand. May I, Rubek?
+#PROFESSOR RUBEK.
+Yes, I have not the slightest objection. Off you go to the mountains - as far and as long as you please. I shall perhaps be going the same way myself.
+#MAIA.
+No, no, no, you needn't do that! Not on my account!
+#PROFESSOR RUBEK.
+I want to go to the mountains. I have made up my mind to go.
+#MAIA.
+Oh thanks, thanks! May I tell the bear - killer at once?
+#PROFESSOR RUBEK.
+Tell the bear - killer whatever you please.
+#MAIA.
+Oh thanks, thanks, thanks! Oh, how dear and good you are to - day, Rubek!
+#PROFESSOR RUBEK.
+Shall we meet up there then?
+#IRENE.
+Yes, we shall certainly meet. - I have sought for you so long.
+#PROFESSOR RUBEK.
+When did you begin to seek for me, Irene?
+#IRENE.
+From the moment I realised that I had given away to you something rather indispensable, Arnold. Something one ought never to part with.
+#PROFESSOR RUBEK.
+Yes, that is bitterly true. You gave me three or four years of your youth.
+#IRENE.
+More, more than that I gave you - spend - thrift as I then was.
+#PROFESSOR RUBEK.
+Yes, you were prodigal, Irene. You gave me all your naked loveliness -
+#IRENE.
+- to gaze upon -
+#PROFESSOR RUBEK.
+- and to glorify -
+#IRENE.
+Yes, for your own glorification. - And the child's.
+#PROFESSOR RUBEK.
+And yours too, Irene.
+#IRENE.
+But you have forgotten the most precious gift.
+#PROFESSOR RUBEK.
+The most precious - ? What gift was that?
+#IRENE.
+I gave you my young, living soul. And that gift left me empty within - soulless. It was that I died of, Arnold.
+#PROFESSOR RUBEK.
+Irene!
+#MAIA.
+Hallo!
+#MAIA.
+Oh, how I have been rushing around looking for you, Rubek.
+#PROFESSOR RUBEK.
+Have you just come from the hotel?
+#MAIA.
+Yes, that was the last place I tried - that fly - trap.
+#PROFESSOR RUBEK.
+I noticed that you were not at the dinner - table.
+#MAIA.
+No, we had our dinner in the open air, we two.
+#PROFESSOR RUBEK.
+"We two"? What two?
+#MAIA.
+Why, I and that horrid bear - killer, of course.
+#PROFESSOR RUBEK.
+Oh, he.
+#MAIA.
+Yes. And first thing to - morrow morning we are going off again.
+#PROFESSOR RUBEK.
+After bears?
+#MAIA.
+Yes. Off to kill a brown - boy.
+#PROFESSOR RUBEK.
+Have you found the tracks of any?
+#MAIA.
+You don't suppose that bears are to be found in the naked mountains, do you?
+#PROFESSOR RUBEK.
+Where, then?
+#MAIA.
+Far beneath. On the lower slopes; in the thickest parts of the forest. Places your ordinary town - folk could never get through -
+#PROFESSOR RUBEK.
+And you two are going down there to - morrow?
+#MAIA.
+Yes, so we have arranged. - Or perhaps we may start this evening. - If you have no objection, that's to say? Far be it from me to -
+#MAIA.
+Of course Lars goes with us - with the dogs.
+#PROFESSOR RUBEK.
+I feel no curiosity as to the movements of Mr. Lars and his dogs. Would you not rather sit properly on the seat?
+#MAIA.
+No, thank you. I'm lying so delightfully in the soft heather.
+#PROFESSOR RUBEK.
+I can see that you are tired.
+#MAIA.
+I almost think I'm beginning to feel tired.
+#PROFESSOR RUBEK.
+You don't notice it till afterwards - when the excitement is over -
+#MAIA.
+Just so. I will lie and close my eyes.
+#MAIA.
+Ugh, Rubek - how can you endure to sit there listening to these children's screams! And to watch all the capers they are cutting, too!
+#PROFESSOR RUBEK.
+There is something harmonious - almost like music - in their movements, now and then; amid all the clumsiness. And it amuses me to sit and watch for these isolated moments - when they come.
+#MAIA.
+Yes, you are always, always an artist.
+#PROFESSOR RUBEK.
+And I propose to remain one.
+#MAIA.
+There's not a bit of the artist about him.
+#PROFESSOR RUBEK.
+Who is it that's not an artist?
+#MAIA.
+Why, he - the other one, of course.
+#PROFESSOR RUBEK.
+The bear - hunter, you mean?
+#MAIA.
+Yes. There's not a bit of the artist about him - not the least little bit.
+#PROFESSOR RUBEK.
+No, I believe there's no doubt about that.
+#MAIA.
+And so ugly as he is! So ugly, so ugly! Isch!
+#PROFESSOR RUBEK.
+Is that why you are so ready to set off with him - out into the wilds?
+#MAIA.
+I don't know. You are ugly, too, Rubek.
+#PROFESSOR RUBEK.
+Have you only just discovered it?
+#MAIA.
+No, I have seen it for long.
+#PROFESSOR RUBEK.
+One doesn't grow younger. One doesn't grow younger, Frau Maia.
+#MAIA.
+It's not that sort of ugliness that I mean at all. But there has come to be such an expression of fatigue, of utter weariness, in your eyes - when you deign, once in a while, to cast a glance at me.
+#PROFESSOR RUBEK.
+Have you noticed that?
+#MAIA.
+Little by little this evil look has come into your eyes. It seems almost as though you were nursing some dark plot against me.
+#PROFESSOR RUBEK.
+Indeed? Come here and sit beside me, Maia; and let us talk a little.
+#MAIA.
+Then will you let me sit upon your knee? As I used to in the early days?
+#PROFESSOR RUBEK.
+No, you mustn't - people can see us from the hotel. But you can sit here on the bench - at my side.
+#MAIA.
+No, thank you; in that case I'd rather lie here, where I am. I can hear you quite well here. Well, what is it you want to say to me?
+#PROFESSOR RUBEK.
+What do you think was my real reason for agreeing to make this tour?
+#MAIA.
+Well - I remember you declared, among other things, that it was going to do me such a tremendous lot of good. But - but -
+#PROFESSOR RUBEK.
+But - ?
+#MAIA.
+But now I don't believe the least little bit that that was the reason -
+#PROFESSOR RUBEK.
+Then what is your theory about it now?
+#MAIA.
+I think now that it was on account of that pale lady.
+#PROFESSOR RUBEK.
+Madame von Satow - !
+#MAIA.
+Yes, she who is always hanging at our heels. Yesterday evening she made her appearance up here too.
+#PROFESSOR RUBEK.
+But what in all the world - !
+#MAIA.
+Oh, I know you knew her very well indeed - long before you knew me.
+#PROFESSOR RUBEK.
+And had forgotten her, too - long before I knew you.
+#MAIA.
+Can you forget so easily, Rubek?
+#PROFESSOR RUBEK.
+Yes, very easily indeed. When I want to forget.
+#MAIA.
+Even a woman who has been a model to you?
+#PROFESSOR RUBEK.
+When I have no more use for her -
+#MAIA.
+One who has stood to you undressed?
+#PROFESSOR RUBEK.
+That means nothing - nothing for us artists. And then - may I venture to ask - how was I to guess that she was in this country?
+#MAIA.
+Oh, you might have seen her name in a Visitor's List - in one of the newspapers.
+#PROFESSOR RUBEK.
+But I had no idea of the name she now goes by. I had never heard of any Herr von Satow.
+#MAIA.
+Oh well then, I suppose it must have been for some other reason that you were so set upon this journey.
+#PROFESSOR RUBEK.
+Yes, Maia - it was for another reason. A quite different reason. And that is what we must sooner or later have a clear explanation about.
+#MAIA.
+Heavens, how solemn you look!
+#PROFESSOR RUBEK.
+Yes, perhaps a little more solemn than necessary.
+#MAIA.
+How so - ?
+#PROFESSOR RUBEK.
+And that is a very good thing for us both.
+#MAIA.
+You begin to make me feel curious, Rubek.
+#PROFESSOR RUBEK.
+Only curious? Not a little bit uneasy.
+#MAIA.
+Not in the least.
+#PROFESSOR RUBEK.
+Good. Then listen. - You said that day down at the Baths that it seemed to you I had become very nervous of late -
+#MAIA.
+Yes, and you really have.
+#PROFESSOR RUBEK.
+And what do you think can be the reason of that?
+#MAIA.
+How can I tell - ? Perhaps you have grown weary of this constant companionship with me.
+#PROFESSOR RUBEK.
+Constant - ? Why not say "everlasting"?
+#MAIA.
+Daily companionship, then. Here have we two solitary people lived down there for four or five mortal years, and scarcely have an hour away from each other. - We two all by ourselves.
+#PROFESSOR RUBEK.
+Well? And then - ?
+#MAIA.
+You are not a particularly sociable man, Rubek. You like to keep to yourself and think your own thoughts. And of course I can't talk properly to you about your affairs. I know nothing about art and that sort of thing - And care very little either, for that matter!
+#PROFESSOR RUBEK.
+Well, well; and that's why we generally sit by the fireside, and chat about your affairs.
+#MAIA.
+Oh, good gracious - I have no affairs to chat about.
+#PROFESSOR RUBEK.
+Well, they are trifles, perhaps; but at any rate the time passes for us in that way as well as another, Maia.
+#MAIA.
+Yes, you are right. Time passes. It is passing away from you, Rubek. - And I suppose it is really that that makes you so uneasy -
+#PROFESSOR RUBEK.
+And so restless! No, I shall soon not be able to endure this pitiful life any longer.
+#MAIA.
+If you want to get rid of me, you have only to say so.
+#PROFESSOR RUBEK.
+Why will you use such phrases? Get rid of you?
+#MAIA.
+Yes, if you want to have done with me, please say so right out. And I will go that instant.
+#PROFESSOR RUBEK.
+Do you intend that as a threat, Maia?
+#MAIA.
+There can be no threat for you in what I said.
+#PROFESSOR RUBEK.
+No, I confess you are right there. You and I cannot possibly go on living together like this -
+#MAIA.
+Well? And then - ?
+#PROFESSOR RUBEK.
+There is no "then" about it. Because we two cannot go on living together alone - it does not necessarily follow that we must part.
+#MAIA.
+Only draw away from each other a little, you mean?
+#PROFESSOR RUBEK.
+Even that is not necessary.
+#MAIA.
+Well then? Come out with what you want to do with me.
+#PROFESSOR RUBEK.
+What I now feel so keenly - and so painfully - that I require, is to have some one about me who really and truly stands close to me -
+#MAIA.
+Don't I do that, Rubek?
+#PROFESSOR RUBEK.
+Not in that sense. What I need is the companionship of another person who can, as it were, complete me - supply what is wanting in me - be one with me in all my striving.
+#MAIA.
+It's true that things like that are a great deal too hard for me.
+#PROFESSOR RUBEK.
+Oh no, they are not at all in your line, Maia.
+#MAIA.
+And heaven knows I don't want them to be, either!
+#PROFESSOR RUBEK.
+I know that very well. - And it was with no idea of finding any such help in my life - work that I married you.
+#MAIA.
+I can see in your face that you are thinking of some one else.
+#PROFESSOR RUBEK.
+Indeed? I have never noticed before that you were a thought - reader. But you can see that, can you?
+#MAIA.
+Yes, I can. Oh, I know you so well, so well, Rubek.
+#PROFESSOR RUBEK.
+Then perhaps you can also see who it is I am thinking of?
+#MAIA.
+Yes, indeed I can.
+#PROFESSOR RUBEK.
+Well? Have the goodness to - ?
+#MAIA.
+You are thinking of that - that model you once used for - Do you know, the people down at the hotel think she's mad.
+#PROFESSOR RUBEK.
+Indeed? And pray what do the people down at the hotel think of you and the bear - killer?
+#MAIA.
+That has nothing to do with the matter. But it was this pale lady you were thinking of.
+#PROFESSOR RUBEK.
+Precisely, of her. - When I had no more use for her - and when, besides, she went away from me - vanished without a word -
+#MAIA.
+Then you accepted me as a sort of makeshift, I suppose?
+#PROFESSOR RUBEK.
+Something of the sort, to tell the truth, little Maia. For a year or a year and a half I had lived there lonely and brooding, and had put the last touch - the very last touch, to my work. "The Resurrection Day" went out over the world and brought me fame - and everything else that heart could desire. But I no longer loved my own work. Men's laurels and incense nauseated me, till I could have rushed away in despair and hidden myself in the depths of the woods. You, who are a thought - reader - can you guess what then occurred to me?
+#MAIA.
+Yes, it occurred to you to make portrait - busts of gentlemen and ladies.
+#PROFESSOR RUBEK.
+To order, yes. With animals' faces behind the masks. Those I threw in gratis - into the bargain, you understand. But that was not precisely what I had in my mind.
+#MAIA.
+What, then?
+#PROFESSOR RUBEK.
+It was this, that all the talk about the artist's vocation and the artist's mission, and so forth, began to strike me as being very empty, and hollow, and meaningless at bottom.
+#MAIA.
+Then what would you put in its place?
+#PROFESSOR RUBEK.
+Life, Maia.
+#MAIA.
+Life?
+#PROFESSOR RUBEK.
+Yes, is not life in sunshine and in beauty a hundred times better worth while than to hang about to the end of your days in a raw, damp hole, and wear yourself out in a perpetual struggle with lumps of clay and blocks of stone?
+#MAIA.
+Yes, I have always thought so, certainly.
+#PROFESSOR RUBEK.
+And then I had become rich enough to live in luxury and in indolent, quivering sunshine. I was able to build myself the villa on the Lake of Taunitz, and the palazzo in the capital, - and all the rest of it.
+#MAIA.
+And last but not least, you could afford to treat yourself to me, too. And you gave me leave to share in all your treasures.
+#PROFESSOR RUBEK.
+Did I not promise to take you up to a high enough mountain and show you all the glory of the world?
+#MAIA.
+You have perhaps taken me up with you to a high enough mountain, Rubek - but you have not shown me all the glory of the world.
+#PROFESSOR RUBEK.
+How insatiable you are, Maia.! Absolutely insatiable! But do you know what is the most hopeless thing of all, Maia? Can you guess that?
+#MAIA.
+Yes, I suppose it is that you have gone and tied yourself to me - for life.
+#PROFESSOR RUBEK.
+I would not have expressed myself so heartlessly.
+#MAIA.
+But you would have meant it just as heartlessly.
+#PROFESSOR RUBEK.
+You have no clear idea of the inner workings of an artist's nature.
+#MAIA.
+Good heavens, I haven't even a clear idea of the inner workings of my own nature.
+#PROFESSOR RUBEK.
+I live at such high speed, Maia. We live so, we artists. I, for my part, have lived through a whole lifetime in the few years we two have known each other. I have come to realise that I am not at all adapted for seeking happiness in indolent enjoyment. Life does not shape itself that way for me and those like me. I must go on working - producing one work after another - right up to my dying day. That is why I cannot get on with you any longer, Maia - not with you alone.
+#MAIA.
+Does that mean, in plain language, that you have grown tired of me?
+#PROFESSOR RUBEK.
+Yes, that is what it means! I have grown tired - intolerably tired and fretted and unstrung - in this life with you! Now you know it. These are hard, ugly words I am using. I know that very well. And you are not at all to blame in this matter; - that I willingly admit. It is simply and solely I myself, who have once more undergone a revolution - and awakening to my real life.
+#MAIA.
+Why in all the world should we not part then?
+#PROFESSOR RUBEK.
+Should you be willing to?
+#MAIA.
+Oh yes - if there's nothing else for it, then -
+#PROFESSOR RUBEK.
+But there is something else for it. There is an alternative -
+#MAIA.
+Now you are thinking of the pale lady again!
+#PROFESSOR RUBEK.
+Yes, to tell the truth, I cannot help constantly thinking of her. Ever since I met her again. For now I will tell you a secret, Maia.
+#MAIA.
+Well?
+#PROFESSOR RUBEK.
+In here, you see - in here I have a little bramah - locked casket. And in that casket all my sculptor's visions are stored up. But when she disappeared and left no trace, the lock of the casket snapped to. And she had the key - and she took it away with her. - You, little Maia, you had no key; so all that the casket contains must lie unused. And the years pass! And I have no means of getting at the treasure.
+#MAIA.
+Then get her to open the casket for you again -
+#PROFESSOR RUBEK.
+Maia - ?
+#MAIA.
+- for here she is, you see. And no doubt it's on account of this casket that she has come.
+#PROFESSOR RUBEK.
+I have not said a single word to her on this subject!
+#MAIA.
+My dear Rubek - is it worth while to make all this fuss and commotion about so simple a matter?
+#PROFESSOR RUBEK.
+Do you think this matter is so absolutely simple?
+#MAIA.
+Yes, certainly I think so. Do you attach yourself to whoever you most require. I shall always manage to find a place for myself.
+#PROFESSOR RUBEK.
+Where do you mean?
+#MAIA.
+Well - I need only take myself off to the villa, if it should be necessary. But it won't be; for in town - in all that great house of ours - there must surely, with a little good will, be room enough for three.
+#PROFESSOR RUBEK.
+And do you think that would work in the long run?
+#MAIA.
+Very well, then - if it won't work, it won't. It is no good talking about it.
+#PROFESSOR RUBEK.
+And what shall we do then, Maia - if it does not work?
+#MAIA.
+Then we two will simply get out of each other's way - part entirely. I shall always find something new for myself, somewhere in the world. Something free! Free! Free! - No need to be anxious about that, Professor Rubek! Look there! There we have her.
+#PROFESSOR RUBEK.
+Where?
+#MAIA.
+Out on the plain. Striding - like a marble stature. She is coming this way.
+#PROFESSOR RUBEK.
+Does not she look like the Resurrection incarnate? And her I could displace - and move into the shade! Remodel her - Fool that I was!
+#MAIA.
+What do you mean by that?
+#PROFESSOR RUBEK.
+Nothing. Nothing that you would understand.
+#MAIA.
+Go down and speak to her alone, Rubek.
+#PROFESSOR RUBEK.
+And where will you go in the meantime?
+#MAIA.
+Henceforth I shall go my own ways.
+#MAIA.
+Professor Rubek is up there, waiting for you, madam.
+#IRENE.
+What does he want?
+#MAIA.
+He wants you to help him to open a casket that has snapped to.
+#IRENE.
+Can I help him in that?
+#MAIA.
+He says you are the only person that can.
+#IRENE.
+Then I must try.
+#MAIA.
+Yes, you really must, madam.
+#IRENE.
+She - the other one - said that you had been waiting for me.
+#PROFESSOR RUBEK.
+I have waited for you year after year - without myself knowing it.
+#IRENE.
+I could not come to you, Arnold. I was lying down there, sleeping the long, deep, dreamful sleep.
+#PROFESSOR RUBEK.
+But now you have awakened, Irene!
+#IRENE.
+I have the heavy, deep sleep still in my eyes.
+#PROFESSOR RUBEK.
+You shall see that day will dawn and lighten for us both.
+#IRENE.
+Do not believe that.
+#PROFESSOR RUBEK.
+I do believe it! And I know it! Now that I have found you again -
+#IRENE.
+Risen from the grave.
+#PROFESSOR RUBEK.
+Transfigured!
+#IRENE.
+Only risen, Arnold. Not transfigured.
+#PROFESSOR RUBEK.
+Where have you been all day, Irene?
+#IRENE.
+Far, far over there, on the great dead waste -
+#PROFESSOR RUBEK.
+You have not your - your friend with you to - day, I see.
+#IRENE.
+My friend is keeping a close watch on me, none the less.
+#PROFESSOR RUBEK.
+Can she?
+#IRENE.
+You may be sure she can - wherever I may go. She never loses sight of me - Until, one fine sunny morning, I shall kill her.
+#PROFESSOR RUBEK.
+Would you do that?
+#IRENE.
+With the utmost delight - if only I could manage it.
+#PROFESSOR RUBEK.
+Why do you want to?
+#IRENE.
+Because she deals in witchcraft. Only think, Arnold - she has changed herself into my shadow.
+#PROFESSOR RUBEK.
+Well, well, well - a shadow we must all have.
+#IRENE.
+I am my own shadow. Do you not understand that!
+#PROFESSOR RUBEK.
+Yes, yes, Irene, I understand.
+#IRENE.
+Why do you sit there turning your eyes away from me?
+#PROFESSOR RUBEK.
+I dare not - I dare not look at you.
+#IRENE.
+Why dare you not look at me any more?
+#PROFESSOR RUBEK.
+You have a shadow that tortures me. And I have the crushing weight of my conscience.
+#IRENE.
+At last!
+#PROFESSOR RUBEK.
+Irene - what is it!
+#IRENE.
+Keep still, still, still! There! Now they let me go. For this time. - Now we can sit down and talk as we used to - when I was alive.
+#PROFESSOR RUBEK.
+Oh, if only we could talk as we used to.
+#IRENE.
+Sit there, where you were sitting. I will sit here beside you.
+#IRENE.
+Now I have come back to you from the uttermost regions, Arnold.
+#PROFESSOR RUBEK.
+Aye, truly, from an endless journey.
+#IRENE.
+Come home to my lord and master -
+#PROFESSOR RUBEK.
+To our home; - to our own home, Irene.
+#IRENE.
+Have you looked for my coming every single day?
+#PROFESSOR RUBEK.
+How dared I look for you?
+#IRENE.
+No, I suppose you dared not. For you understood nothing.
+#PROFESSOR RUBEK.
+Was it really not for the sake of some one else that you all of a sudden disappeared from me in that way?
+#IRENE.
+Might it not quite well be for your sake, Arnold?
+#PROFESSOR RUBEK.
+I don't understand you - ?
+#IRENE.
+When I had served you with my soul and with my body - when the statue stood there finished - our child as you called it - then I laid at your feet the most precious sacrifice of all - by effacing myself for all time.
+#PROFESSOR RUBEK.
+And laying my life waste.
+#IRENE.
+It was just that I wanted! Never, never should you create anything again - after you had created that only child of ours.
+#PROFESSOR RUBEK.
+Was it jealously that moved you, then?
+#IRENE.
+I think it was rather hatred.
+#PROFESSOR RUBEK.
+Hatred? Hatred for me?
+#IRENE.
+Yes, for you - for the artist who had so lightly and carelessly taken a warm - blooded body, a young human life, and worn the soul out of it - because you needed it for a work of art.
+#PROFESSOR RUBEK.
+And you can say that - you who threw yourself into my work with such saint - like passion and such ardent joy? - that work for which we two met together every morning, as for an act of worship.
+#IRENE.
+I will tell you one thing, Arnold.
+#PROFESSOR RUBEK.
+Well?
+#IRENE.
+I never loved your art, before I met you. - Nor after either.
+#PROFESSOR RUBEK.
+But the artist, Irene?
+#IRENE.
+The artist I hate.
+#PROFESSOR RUBEK.
+The artist in me too?
+#IRENE.
+In you most of all. When I unclothed myself and stood for you, then I hated you, Arnold -
+#PROFESSOR RUBEK.
+That you did not, Irene! That is not true!
+#IRENE.
+I hated you, because you could stand there so unmoved -
+#PROFESSOR RUBEK.
+Unmoved? Do you think so?
+#IRENE.
+- at any rate so intolerably self - controlled. And because you were an artist and an artist only - not a man! But that statue in the wet, living clay, that I loved - as it rose up, a vital human creature, out of those raw, shapeless masses - for that was our creation, our child. Mine and yours.
+#PROFESSOR RUBEK.
+It was so in spirit and in truth.
+#IRENE.
+Let me tell you, Arnold - it is for the sake of this child of ours that I have undertaken this long pilgrimage.
+#PROFESSOR RUBEK.
+For the statue's - ?
+#IRENE.
+Call it what you will. I call it our child.
+#PROFESSOR RUBEK.
+And now you want to see it? Finished? In marble, which you always thought so cold? You do not know, perhaps, that it is installed in a great museum somewhere - far out in the world?
+#IRENE.
+I have heard a sort of legend about it.
+#PROFESSOR RUBEK.
+And museums were always a horror to you. You called them grave - vaults -
+#IRENE.
+I will make a pilgrimage to the place where my soul and my child's soul lie buried.
+#PROFESSOR RUBEK.
+You must never see that statue again! Do you hear, Irene! I implore you - ! Never, never see it again!
+#IRENE.
+Perhaps you think it would mean death to me a second time?
+#PROFESSOR RUBEK.
+Oh, I don't know what I think. - But how could I ever imagine that you would fix your mind so immovably on that statue? You, who went away from me - before it was completed.
+#IRENE.
+It was completed. That was why I could go away from you - and leave you alone.
+#PROFESSOR RUBEK.
+It was not what it afterwards became.
+#IRENE.
+Arnold - have you done any evil to our child?
+#PROFESSOR RUBEK.
+Any evil? - How can I be sure what you would call it?
+#IRENE.
+Tell me at once: what have you done to the child?
+#PROFESSOR RUBEK.
+I will tell you, if you will sit and listen quietly to what I say.
+#IRENE.
+I will listen as quietly as a mother can when she -
+#PROFESSOR RUBEK.
+And you must not look at me while I am telling you.
+#IRENE.
+I will sit here, behind you. - Now tell me.
+#IRENE.
+"The Resurrection Day" you called your life - work. - I call it "our child."
+#PROFESSOR RUBEK.
+I was young then - with no knowledge of life. The Resurrection, I thought, would be most beautifully and exquisitely figured as a young unsullied woman - with none of our earth - life's experiences - awakening to light and glory without having to put away from her anything ugly and impure.
+#IRENE.
+Yes - and so I stand there now, in our work?
+#PROFESSOR RUBEK.
+Not absolutely and entirely so, Irene.
+#IRENE.
+Not absolutely - ? Do I not stand as I always stood for you?
+#PROFESSOR RUBEK.
+I learned worldly wisdom in the years that followed, Irene. "The Resurrection Day" became in my mind's eye something more and something - something more complex. The little round plinth on which your figure stood erect and solitary - it no longer afforded room for all the imagery I now wanted to add -
+#IRENE.
+What imagery did you add then? Tell me!
+#PROFESSOR RUBEK.
+I imagined that which I saw with my eyes around me in the world. I had to include it - I could not help it, Irene. I expanded the plinth - made it wide and spacious. And on it I placed a segment of the curving, bursting earth. And up from the fissures of the soil there now swarm men and women with dimly - suggested animal - faces. Women and men - as I knew them in real life.
+#IRENE.
+But in the middle of the rout there stands the young woman radiant with the joy of light? - Do I not stand so, Arnold?
+#PROFESSOR RUBEK.
+Not quite in the middle. I had unfortunately to move that figure a little back. For the sake of the general effect, you understand. Otherwise it would have dominated the whole too much.
+#IRENE.
+But the joy in the light still transfigures my face?
+#PROFESSOR RUBEK.
+Yes, it does, Irene - in a way. A little subdued perhaps - as my altered idea required.
+#IRENE.
+That design expresses the life you now see, Arnold.
+#PROFESSOR RUBEK.
+Yes, I suppose it does.
+#IRENE.
+And in that design you have shifted me back, a little toned down - to serve as a background - figure - in a group.
+#PROFESSOR RUBEK.
+Not a background - figure. Let us say, at most, a figure not quite in the foreground - or something of that sort.
+#IRENE.
+There you uttered your own doom.
+#PROFESSOR RUBEK.
+Doom?
+#IRENE.
+My whole soul - you and I - we, we, we and our child were in that solitary figure.
+#PROFESSOR RUBEK.
+Yes, but let me tell you, too, how I have placed myself in the group. In front, beside a fountain - as it were here - sits a man weighed down with guilt, who cannot quite free himself from the earth - crust. I call him remorse for a forfeited life. He sits there and dips his fingers in the purling stream - to wash them clean - and he is gnawed and tortured by the thought that never, never will he succeed. Never in all eternity will he attain to freedom and the new life. He will remain for ever prisoned in his hell.
+#IRENE.
+Poet!
+#PROFESSOR RUBEK.
+Why poet?
+#IRENE.
+Because you are nerveless and sluggish and full of forgiveness for all the sins of your life, in thought and in act. You have killed my soul - so you model yourself in remorse, and self - accusation, and penance - - and with that you think your account is cleared.
+#PROFESSOR RUBEK.
+I am an artist, Irene. And I take no shame to myself for the frailties that perhaps cling to me. For I was born to be an artist, you see. And, do what I may, I shall never be anything else.
+#IRENE.
+You are a poet, Arnold. You dear, great, middle - aged child, - is it possible that you cannot see that!
+#PROFESSOR RUBEK.
+Why do you keep on calling me a poet?
+#IRENE.
+Because there is something apologetic in the word, my friend. Something that suggests forgiveness of sins - and spreads a cloak over all frailty. But I was a human being - then! And I, too, had a life to live, - and a human destiny to fulfil. And all that, look you, I let slip - gave it all up in order to make myself your bondwoman. - Oh, it was self - murder - a deadly sin against myself! And that sin I can never expiate!
+#IRENE.
+I should have borne children in the world - many children - real children - not such children as are hidden away in grave - vaults. That was my vocation. I ought never to have served you - poet.
+#PROFESSOR RUBEK.
+Yet those were beautiful days, Irene. Marvellously beautiful days - as I now look back upon them -
+#IRENE.
+Can you remember a little word that you said - when you had finished - finished with me and with our child? Can you remember that little word, Arnold?
+#PROFESSOR RUBEK.
+Did I say a little word then, which you still remember?
+#IRENE.
+Yes, you did. Can you not recall it?
+#PROFESSOR RUBEK.
+No, I can't say that I do. Not at the present moment, at any rate.
+#IRENE.
+You took both my hands and pressed them warmly. And I stood there in breathless expectation. And then you said: "So now, Irene, I thank you from my heart. This," you said, "has been a priceless episode for me."
+#PROFESSOR RUBEK.
+Did I say "episode"? It is not a word I am in the habit of using.
+#IRENE.
+You said "episode."
+#PROFESSOR RUBEK.
+Well, well - after all, it was in reality an episode.
+#IRENE.
+At that word I left you.
+#PROFESSOR RUBEK.
+You take everything so painfully to heart, Irene.
+#IRENE.
+Perhaps you are right. Let us shake off all the hard things that go to the heart. Look there, Arnold. There are our birds swimming.
+#PROFESSOR RUBEK.
+What birds are they?
+#IRENE.
+Can you not see? Of course they are flamingoes. Are they not rose - red?
+#PROFESSOR RUBEK.
+Flamingoes do not swim. They only wade.
+#IRENE.
+Then they are not flamingoes. They are sea - gulls.
+#PROFESSOR RUBEK.
+They may be sea - gulls with red bills, yes. Now I send out my ships after them.
+#IRENE.
+But there must be no harpoon - men on board.
+#PROFESSOR RUBEK.
+No, there shall be no harpoon - men. Can you remember the summer when we used to sit like this outside the little peasant hut on the Lake of Taunitz?
+#IRENE.
+On Saturday evenings, yes, - when we had finished our week's work -
+#PROFESSOR RUBEK.
+- And taken the train out to the lake - to stay there over Sunday -
+#IRENE.
+It was an episode, Arnold.
+#PROFESSOR RUBEK.
+Then, too, you used to set birds swimming in the brook. They were water - lilies which you -
+#IRENE.
+They were white swans.
+#PROFESSOR RUBEK.
+I meant swans, yes. And I remember that I fastened a great furry leaf to one of the swans. It looked like a burdock - leaf -
+#IRENE.
+And then it turned into Lohengrin's boat - with the swan yoked to it.
+#PROFESSOR RUBEK.
+How fond you were of that game, Irene.
+#IRENE.
+We played it over and over again.
+#PROFESSOR RUBEK.
+Every single Saturday, I believe, - all the summer through.
+#IRENE.
+You said I was the swan that drew your boat.
+#PROFESSOR RUBEK.
+Did I say so? Yes, I daresay I did. Just see how the sea - gulls are swimming down the stream!
+#IRENE.
+And all your ships have run ashore.
+#PROFESSOR RUBEK.
+I have ships enough in reserve. Irene, - I have bought the little peasant hut beside the Lake of Taunitz.
+#IRENE.
+Have you bought it? You often said you would, if you could afford it.
+#PROFESSOR RUBEK.
+The day came when I could afford it easily enough; and so I bought it.
+#IRENE.
+Then do you live out there now - in our old house?
+#PROFESSOR RUBEK.
+No, I have had it pulled down long ago. And I have built myself a great, handsome, comfortable villa on the site - with a park around it. It is there that we - - there that I usually live during the summer.
+#IRENE.
+So you and - and the other one live out there now?
+#PROFESSOR RUBEK.
+Yes. When my wife and I are not travelling - as we are this year.
+#IRENE.
+Life was beautiful, beautiful by the Lake of Taunitz.
+#PROFESSOR RUBEK.
+And yet, Irene -
+#IRENE.
+- yet we two let slip all that life and its beauty.
+#PROFESSOR RUBEK.
+Does repentance come too late, now?
+#IRENE.
+Look there, Arnold, - now the sun is going down behind the peaks. See what a red glow the level rays cast over all the heathery knolls out yonder.
+#PROFESSOR RUBEK.
+It is long since I have seen a sunset in the mountains.
+#IRENE.
+Or a sunrise? sunrise I don't think I have ever seen.
+#IRENE.
+I once saw a marvellously lovely sunrise.
+#PROFESSOR RUBEK.
+Did you? Where was that?
+#IRENE.
+High, high up on a dizzy mountain - top. - You beguiled me up there by promising that I should see all the glory of the world if only I -
+#PROFESSOR RUBEK.
+If only you - ? Well?
+#IRENE.
+I did as you told me - went with you up to the heights. And there I fell upon my knees and worshipped you, and served you. Then I saw the sunrise.
+#PROFESSOR RUBEK.
+With you - and the other woman?
+#PROFESSOR RUBEK.
+With me - as in our days of creation. You could open all that is locked up in me. Can you not find it in your heart, Irene?
+#IRENE.
+I have no longer the key to you, Arnold.
+#PROFESSOR RUBEK.
+You have the key! You and you alone possess it! Help me - that I may be able to live my life over again!
+#IRENE.
+Empty dreams! Idle - dead dreams. For the life you and I led there is no resurrection.
+#PROFESSOR RUBEK.
+Then let us go on playing.
+#IRENE.
+Yes, playing, playing - only playing!
+#PROFESSOR RUBEK.
+Ah! There is little Maia, going out with the bear - hunter.
+#IRENE.
+Your lady, yes.
+#PROFESSOR RUBEK.
+Or the other's.
+#MAIA.
+Good - night, Professor! Dream of me. Now I am going off on my adventures!
+#PROFESSOR RUBEK.
+What sort of an adventure is this to be?
+#MAIA.
+I am going to let life take the place of all the rest.
+#PROFESSOR RUBEK.
+Aha! So you too are going to do that, little Maia?
+#MAIA.
+Yes. And I've made a verse about it, and this is how it goes:
+#PROFESSOR RUBEK.
+It almost seems so.
+#MAIA.
+Oh - how divinely light one feels on waking!
+#PROFESSOR RUBEK.
+Good - night, Frau Maia - and good luck to -
+#ULFHEIM.
+Hush, hush! - for the devil's sake let's have none of your wizard wishes. Don't you see that we are going out to shoot -
+#PROFESSOR RUBEK.
+What will you bring me home from the hunting, Maia?
+#MAIA.
+You shall have a bird of prey to model. I shall wing one for you.
+#PROFESSOR RUBEK.
+Yes, to wing things - without knowing what you are doing - that has long been quite in your way.
+#MAIA.
+Oh, just let me take care of myself for the future, and I wish you then - ! Good - bye - and a good, peaceful summer night on the upland!
+#PROFESSOR RUBEK.
+Thanks! And all the ill - luck in the world over you and your hunting!
+#ULFHEIM.
+There now, that is a wish worth having!
+#MAIA.
+Thanks, thanks, thanks, Professor!
+#PROFESSOR RUBEK.
+A summer night on the upland! Yes, that would have been life!
+#IRENE.
+Will you spend a summer night on the upland - with me?
+#PROFESSOR RUBEK.
+Yes, yes, - come!
+#IRENE.
+My adored lord and master!
+#PROFESSOR RUBEK.
+Oh, Irene!
+#IRENE.
+It will be only an episode - Hush! - do not look round, Arnold!
+#PROFESSOR RUBEK.
+What is it? face that is staring at me.
+#PROFESSOR RUBEK.
+Where! Ah - !
+#IRENE.
+We must part then. No, you must remain sitting. Do you hear? You must not go with me. Till we meet again - to - night - on the upland.
+#PROFESSOR RUBEK.
+And you will come, Irene?
+#IRENE.
+Yes, surely I will come. Wait for me here.
+#PROFESSOR RUBEK.
+Summer night on the upland. With you. With you. Oh, Irene - that might have been our life. - And that we have forfeited - we two.
+#IRENE.
+We see the irretrievable only when -
+#PROFESSOR RUBEK.
+When - ?
+#IRENE.
+When we dead awaken.
+#PROFESSOR RUBEK.
+What do we really see then?
+#IRENE.
+We see that we have never lived.
+#MAIA.
+Let me go! Let me go, I say!
+#ULFHEIM.
+Come, Come! are you going to bite now? You're as snappish as a wolf.
+#MAIA.
+Let me, I tell you? And be quiet!
+#ULFHEIM.
+No, confound me if I will!
+#MAIA.
+Then I will not go another step with you. Do you hear? - not a single step!
+#ULFHEIM.
+Ho, ho! How can you get away from me, here, on the wild mountain - side?
+#MAIA.
+I will jump over the precipice yonder, if need be -
+#ULFHEIM.
+And mangle and mash yourself up into dogs' - meat! A juicy morsel! As you please. Jump over the precipice if you want to. It's a dizzy drop. There's only one narrow footpath down it, and that's almost impassable.
+#MAIA.
+Well, you are a nice one to go hunting with!
+#ULFHEIM.
+Say rather, sporting.
+#MAIA.
+Oh! So you call this sport, do you?
+#ULFHEIM.
+Yes, I venture to take that liberty. It is the sort of sport I like best of all.
+#MAIA.
+Well - I must say! Why did you let the dogs loose up there?
+#ULFHEIM.
+So that they too might do a little hunting on their own account, don't you see?
+#MAIA.
+There's not a word of truth in that! It wasn't for the dogs' sake that you let them go.
+#ULFHEIM.
+Well, why did I let them go then? Let us hear.
+#MAIA.
+You let them go because you wanted to get rid of Lars. He was to run after them and bring them in again, you said. And in the meant - time - Oh, it was a pretty way to behave!
+#ULFHEIM.
+In the meantime?
+#MAIA.
+No matter!
+#ULFHEIM.
+Lars won't find them. You may safely swear to that. He won't come with them before the time's up.
+#MAIA.
+No, I daresay not.
+#ULFHEIM.
+For Lars - he knows my - my methods of sport, you see.
+#MAIA.
+Do you know what you look like, Mr. Ulfheim?
+#ULFHEIM.
+I should think I'm probably most like myself.
+#MAIA.
+Yes, there you're exactly right. For you're the living image of a faun. faun?
+#MAIA.
+Yes, precisely; a faun. faun! Isn't that a sort of monster? Or a kind of a wood demon, as you might call it?
+#MAIA.
+Yes, just the sort of creature you are. A thing with a goat's beard and goat - legs. Yes, and the faun has horns too!
+#ULFHEIM.
+So, so! - has he horns too? pair of ugly horns, just like yours, yes.
+#ULFHEIM.
+Can you see the poor little horns I have?
+#MAIA.
+Yes, I seem to see them quite plainly.
+#ULFHEIM.
+Then I had better see about tying you.
+#MAIA.
+Have you gone quite mad? Would you tie me?
+#ULFHEIM.
+If I am a demon, let me be a demon! So that's the way of it! You can see the horns, can you?
+#MAIA.
+There, there, there! Now try to behave nicely, Mr. Ulfheim. But what has become of that hunting - castle of yours, that you boasted so much of? You said it lay somewhere hereabouts.
+#ULFHEIM.
+There you have it, before your very eyes.
+#MAIA.
+That old pig - stye!
+#ULFHEIM.
+It has harboured more than one king's daughter, I can tell you.
+#MAIA.
+Was it there that that horrid man you told me about came to the king's daughter in the form of a bear?
+#ULFHEIM.
+Yes, my fair companion of the chase - this is the scene. If you would deign to enter -
+#MAIA.
+Isch! If ever I set foot in it - ! Isch!
+#ULFHEIM.
+Oh, two people can doze away a summer night in there comfortably enough. Or a whole summer, if it comes to that!
+#MAIA.
+Thanks! One would need to have a pretty strong taste for that kind of thing. But now I am tired both of you and the hunting expedition. Now I am going down to the hotel - before people awaken down there.
+#ULFHEIM.
+How do you propose to get down from here?
+#MAIA.
+That's your affair. There must be a way down somewhere or other, I suppose.
+#ULFHEIM.
+Oh, certainly! There is a sort of way - right down the face of the precipice yonder -
+#MAIA.
+There, you see. With a little goodwill -
+#ULFHEIM.
+- but just you try if you dare go that way.
+#MAIA.
+Do you think I can't?
+#ULFHEIM.
+Never in this world - if you don't let me help you.
+#MAIA.
+Why, then come and help me! What else are you here for?
+#ULFHEIM.
+Would you rather I should take you on my back - ?
+#MAIA.
+Nonsense!
+#ULFHEIM.
+- or carry you in my arms?
+#MAIA.
+Now do stop talking that rubbish!
+#ULFHEIM.
+I once took a young girl - lifted her up from the mire of the streets and carried her in my arms. Next my heart I carried her. So I would have borne her all through life - lest haply she should dash her foot against a stone. For her shoes were worn very thin when I found her -
+#MAIA.
+And yet you took her up and carried her next your heart?
+#ULFHEIM.
+Took her up out of the gutter and carried her as high and as carefully as I could. And do you know what I got for my reward?
+#MAIA.
+No. What did you get?
+#ULFHEIM.
+I got the horns! The horns that you can see so plainly. Is not that a comical story, madam bear - murderess?
+#MAIA.
+Oh yes, comical enough! But I know another story that is still more comical.
+#ULFHEIM.
+How does that story go?
+#MAIA.
+This is how it goes. There was once a stupid girl, who had both a father and a mother - but a rather poverty - stricken home. Then there came a high and mighty seigneur into the midst of all this poverty. And he took the girl in his arms - as you did - and travelled far, far away with her -
+#ULFHEIM.
+Was she so anxious to be with him?
+#MAIA.
+Yes, for she was stupid, you see.
+#ULFHEIM.
+And he, no doubt, was a brilliant and beautiful personage?
+#MAIA.
+Oh, no, he wasn't so superlatively beautiful either. But he pretended that he would take her with him to the top of the highest of mountains, where there were light and sunshine without end.
+#ULFHEIM.
+So he was a mountaineer, was he, that man?
+#MAIA.
+Yes, he was - in his way.
+#ULFHEIM.
+And then he took the girl up with him - ?
+#MAIA.
+Took her up with him finely, you may be sure! Oh no! he beguiled her into a cold, clammy cage, where - as it seemed to her - there was neither sunlight nor fresh air, but only gilding and great petrified ghosts of people all around the walls.
+#ULFHEIM.
+Devil take me, but it served her right!
+#MAIA.
+Yes, but don't you think it's quite a comical story, all the same?
+#ULFHEIM.
+Now listen to me, my good companion of the chase -
+#MAIA.
+Well, what it is now?
+#ULFHEIM.
+Should not we two tack our poor shreds of life together?
+#MAIA.
+Is his worship inclined to set up as a patching - tailor?
+#ULFHEIM.
+Yes, indeed he is. Might not we two try to draw the rags together here and there - so as to make some sort of a human life out of them?
+#MAIA.
+And when the poor tatters were quite worn out - what then?
+#ULFHEIM.
+Then there we shall stand, free and serene - as the man and woman we really are!
+#MAIA.
+You with your goat - legs yes!
+#ULFHEIM.
+And you with your - Well, let that pass.
+#MAIA.
+Yes, come - let us pass - on.
+#ULFHEIM.
+Stop! Whither away, comrade?
+#MAIA.
+Down to the hotel, of course.
+#ULFHEIM.
+And afterward?
+#MAIA.
+Then we'll take a polite leave of each other, with thanks for pleasant company.
+#ULFHEIM.
+Can we part, we two? Do you think we can?
+#MAIA.
+Yes, you didn't manage to tie me up, you know.
+#ULFHEIM.
+I have a castle to offer you -
+#MAIA.
+A fellow to that one?
+#ULFHEIM.
+It has not fallen to ruin yet.
+#MAIA.
+And all the glory of the world, perhaps? castle, I tell you -
+#MAIA.
+Thanks! I have had enough of castles.
+#ULFHEIM.
+- with splendid hunting - grounds stretching for miles around it.
+#MAIA.
+Are there works of art too in this castle?
+#ULFHEIM.
+Well, no - it's true there are no works of art; but -
+#MAIA.
+Ah! that's one good thing, at any rate!
+#ULFHEIM.
+Will you go with me, then - as far and as long as I want you?
+#MAIA.
+There is a tame bird of prey keeping watch upon me.
+#ULFHEIM.
+We'll put a bullet in his wing, Maia!
+#MAIA.
+Come then, and carry me down into the depths.
+#ULFHEIM.
+It is high time! The mist is upon us!
+#MAIA.
+Is the way down terribly dangerous?
+#ULFHEIM.
+The mountain is more dangerous still.
+#ULFHEIM.
+What? Does it make you a little giddy?
+#MAIA.
+Yes, that too. But go and look over. Those two, coming up -
+#ULFHEIM.
+It's only your bird of prey - and his strange lady.
+#MAIA.
+Can't we get past them - without their seeing us?
+#ULFHEIM.
+Impossible! The path is far too narrow. And there's no other way down.
+#MAIA.
+Well, well - let us face them here, then!
+#ULFHEIM.
+Spoken like a true bear - killer, comrade!
+#PROFESSOR RUBEK.
+What, Maia! So we two meet once again?
+#MAIA.
+At your service. Won't you come up?
+#PROFESSOR RUBEK.
+So you, too, have been all night on the mountain, - as we have?
+#MAIA.
+I have been hunting - yes. You gave me permission, you know.
+#ULFHEIM.
+Have you come up that path there?
+#PROFESSOR RUBEK.
+As you saw.
+#ULFHEIM.
+And the strange lady too?
+#PROFESSOR RUBEK.
+Yes, of course. Henceforth the strange lady and I do not intend our ways to part.
+#ULFHEIM.
+Don't you know, then, that it is a deadly dangerous way you have come?
+#PROFESSOR RUBEK.
+We thought we would try it, nevertheless. For it did not seem particularly hard at first.
+#ULFHEIM.
+No, at first nothing seems hard. But presently you may come to a tight place where you can neither get forward nor back. And then you stick fast, Professor! Mountain - fast, as we hunters call it.
+#PROFESSOR RUBEK.
+Am I to take these as oracular utterances, Mr. Ulfheim?
+#ULFHEIM.
+Lord preserve me from playing the oracle! But don't you see that the storm is upon us? Don't you hear the blasts of wind?
+#PROFESSOR RUBEK.
+They sound like the prelude to the Resurrection Day.
+#ULFHEIM.
+They are storm - blasts form the peaks, man! Just look how the clouds are rolling and sinking - soon they'll be all around us like a winding - sheet!
+#IRENE.
+I know that sheet!
+#MAIA.
+Let us make haste and get down.
+#ULFHEIM.
+I cannot help more than one. Take refuge in the hut in the mean - time - while the storm lasts. Then I shall send people up to fetch the two of you away.
+#IRENE.
+To fetch us away! No, no!
+#ULFHEIM.
+To take you by force if necessary - for it's a matter of life and death here. Now, you know it. Come, then - and don't fear to trust yourself in your comrade's hands.
+#MAIA.
+Oh, how I shall rejoice and sing, if I get down with a whole skin!
+#ULFHEIM.
+You'll wait, then, in the hut, till the men come with ropes, and fetch you away.
+#IRENE.
+Did you hear that, Arnold? - men are coming up to fetch me away! Many men will come up here -
+#PROFESSOR RUBEK.
+Do not be alarmed, Irene!
+#IRENE.
+And she, the woman in black - she will come too. For she must have missed me long ago. And then she will seize me, Arnold! And put me in the strait - waistcoat. Oh, she has it with her, in her box. I have seen it with my own eyes -
+#PROFESSOR RUBEK.
+Not a soul shall be suffered to touch you.
+#IRENE.
+Oh no - I myself have a resource against that.
+#PROFESSOR RUBEK.
+What resource do you mean?
+#IRENE.
+This!
+#PROFESSOR RUBEK.
+Have you a knife?
+#IRENE.
+Always, always - both day and night - in bed as well!
+#PROFESSOR RUBEK.
+Give me that knife, Irene!
+#IRENE.
+You shall not have it. I may very likely find a use for it myself.
+#PROFESSOR RUBEK.
+What use can you have for it, here?
+#IRENE.
+It was intended for you, Arnold.
+#PROFESSOR RUBEK.
+For me!
+#IRENE.
+As we were sitting by the Lake of Taunitz last evening -
+#PROFESSOR RUBEK.
+By the Lake of -
+#IRENE.
+- outside the peasant's hut - and playing with swans and water - lilies -
+#PROFESSOR RUBEK.
+What then - what then?
+#IRENE.
+- and when I heard you say with such deathly, icy coldness - that I was nothing but an episode in your life -
+#PROFESSOR RUBEK.
+It was you that said that, Irene, not I.
+#IRENE.
+- then I had my knife out. I wanted to stab you in the back with it.
+#PROFESSOR RUBEK.
+And why did you hold your hand?
+#IRENE.
+Because it flashed upon me with a sudden horror that you were dead already - long ago.
+#PROFESSOR RUBEK.
+Dead?
+#IRENE.
+Dead. Dead, you as well as I. We sat there by the Lake of Taunitz, we two clay - cold bodies - and played with each other.
+#PROFESSOR RUBEK.
+I do not call that being dead. But you do not understand me.
+#IRENE.
+Then where is the burning desire for me that you fought and battled against when I stood freely forth before you as the woman arisen from the dead?
+#PROFESSOR RUBEK.
+Our love is assuredly not dead, Irene.
+#IRENE.
+The love that belongs to the life of earth - the beautiful, miraculous earth - life - the inscrutable earth - life - that is dead in both of us.
+#PROFESSOR RUBEK.
+And do you know that just that love - it is burning and seething in me as hotly as ever before?
+#IRENE.
+And I? Have you forgotten who I now am?
+#PROFESSOR RUBEK.
+Be who or what you please, for aught I care! For me, you are the woman I see in my dreams of you.
+#IRENE.
+I have stood on the turn - table - naked - and made a show of myself to many hundreds of men - after you.
+#PROFESSOR RUBEK.
+It was I that drove you to the turn - table - blind as I then was - I, who placed the dead clay - image above the happiness of life - of love.
+#IRENE.
+Too late - too late!
+#PROFESSOR RUBEK.
+Not by a hairsbreadth has all that has passed in the interval lowered you in my eyes.
+#IRENE.
+Nor in my own!
+#PROFESSOR RUBEK.
+Well, what then! Then we are free - and there is still time for us to live our life, Irene.
+#IRENE.
+The desire for life is dead in me, Arnold. Now I have arisen. And I look for you. And I find you. - And then I see that you and life lie dead - as I have lain.
+#PROFESSOR RUBEK.
+Oh, how utterly you are astray! Both in us and around us life is fermenting and throbbing as fiercely as ever!
+#IRENE.
+The young woman of your Resurrection Day can see all life lying on its bier.
+#PROFESSOR RUBEK.
+Then let two of the dead - us two - for once live life to its uttermost - before we go down to our graves again!
+#IRENE.
+Arnold!
+#PROFESSOR RUBEK.
+But not here in the half darkness! Not here with this hideous dank shroud flapping around us -
+#IRENE.
+No, no - up in the light, and in all the glittering glory! Up to the Peak of Promise!
+#PROFESSOR RUBEK.
+There we will hold our marriage - feast, Irene - oh, my beloved!
+#IRENE.
+The sun may freely look on us, Arnold.
+#PROFESSOR RUBEK.
+All the powers of light may freely look on us - and all the powers of darkness too. Will you then follow me, oh my grace - given bride?
+#IRENE.
+I follow you, freely and gladly, my lord and master!
+#PROFESSOR RUBEK.
+We must first pass through the mists, Irene, and then -
+#IRENE.
+Yes, through all the mists, and then right up to the summit of the tower that shines in the sunrise.
+#MAIA.
+I am free! I am free! I am free!
+#THE SISTER OF MERCY.
+Irene! Pax vobiscum!

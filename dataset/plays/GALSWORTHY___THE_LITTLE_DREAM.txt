@@ -1,0 +1,470 @@
+#LAMOND.
+Good evening!
+#SEELCHEN.
+Good evening, gentle Sir!
+#LAMOND.
+My name is Lamond. I'm very late I fear.
+#SEELCHEN.
+Do you wish to sleep here?
+#LAMOND.
+Please.
+#SEELCHEN.
+All the beds are full - it is a pity. I will call Mother.
+#LAMOND.
+I've come to go up the Great Horn at sunrise.
+#SEELCHEN.
+The Great Horn! But he is impossible.
+#LAMOND.
+I am going to try that.
+#SEELCHEN.
+There is the Wine Horn, and the Cow Horn.
+#LAMOND.
+I have climbed them.
+#SEELCHEN.
+But he is so dangerous - it is perhaps - death.
+#LAMOND.
+Oh! that's all right! One must take one's chance.
+#SEELCHEN.
+And father has hurt his foot. For guide, there is only Mans Felsman.
+#LAMOND.
+The celebrated Felsman?
+#SEELCHEN.
+Are you that Herr Lamond who has climbed all our little mountains this year?
+#LAMOND.
+All but that big fellow.
+#SEELCHEN.
+We have heard of you. Will you not wait a day for father's foot?
+#LAMOND.
+Ah! no. I must go back home to - morrow.
+#SEELCHEN.
+The gracious Sir is in a hurry.
+#LAMOND.
+Alas!
+#SEELCHEN.
+Are you from London? Is it very big?
+#LAMOND.
+Six million souls.
+#SEELCHEN.
+Oh! I have seen Cortina twice.
+#LAMOND.
+Do you live here all the year?
+#SEELCHEN.
+In winter in the valley.
+#LAMOND.
+And don't you want to see the world?
+#SEELCHEN.
+Sometimes. Hans! There are seven German gentlemen asleep in there!
+#LAMOND.
+Oh God!
+#SEELCHEN.
+Please? They are here to see the sunrise. I have read several books.
+#LAMOND.
+This is by the great English poet. Do you never make poetry here, and dream dreams, among your mountains?
+#SEELCHEN.
+See! It is the full moon.
+#SEELCHEN.
+Hans!
+#FELSMAN.
+The gentleman wishes me?
+#SEELCHEN.
+The Great Horn for to - morrow! It is the celebrated London one.
+#FELSMAN.
+The Great Horn is not possible.
+#LAMOND.
+You say that? And you're the famous Felsman?
+#FELSMAN.
+We start at dawn.
+#SEELCHEN.
+It is the first time for years!
+#LAMOND.
+Can I sleep here?
+#SEELCHEN.
+I will see; perhaps -
+#FELSMAN.
+So!
+#SEELCHEN.
+There is still one bed. This is too hard for you.
+#LAMOND.
+Oh! thanks; but that's all right.
+#SEELCHEN.
+To please me!
+#LAMOND.
+May I ask your name?
+#SEELCHEN.
+Seelchen.
+#LAMOND.
+Little soul, that means - doesn't it? To please you I would sleep with seven German gentlemen.
+#SEELCHEN.
+Oh! no; it is not necessary.
+#LAMOND.
+At your service, then.
+#SEELCHEN.
+Is it very nice in towns, in the World, where you come from?
+#LAMOND.
+When I'm there I would be here; but when I'm here I would be there.
+#SEELCHEN.
+That is like me but I am always here.
+#LAMOND.
+Ah! yes; there is no one like you in towns.
+#SEELCHEN.
+In two places one cannot be. In the towns there are theatres, and there is beautiful fine work, and - dancing, and - churches - and trains - and all the things in books - and -
+#LAMOND.
+Misery.
+#SEELCHEN.
+But there is life.
+#LAMOND.
+And there is death.
+#SEELCHEN.
+To - morrow, when you have climbed - will you not come back?
+#LAMOND.
+No.
+#SEELCHEN.
+You have all the world; and I have nothing.
+#LAMOND.
+Except Felsman, and the mountains.
+#SEELCHEN.
+It is not good to eat only bread.
+#LAMOND.
+I would like to eat you!
+#SEELCHEN.
+But I am not nice; I am full of big wants - like the cheese with holes.
+#LAMOND.
+I shall come again.
+#SEELCHEN.
+There will be no more hard mountains left to climb. And if it is not exciting, you do not care.
+#LAMOND.
+O wise little soul!
+#SEELCHEN.
+No. I am not wise. In here it is always aching.
+#LAMOND.
+For the moon?
+#SEELCHEN.
+Yes. From the big world you will remember?
+#LAMOND.
+There is nothing in the big world so sweet as this.
+#SEELCHEN.
+But there is the big world itself.
+#LAMOND.
+May I kiss you, for good - night?
+#LAMOND.
+I am sorry, little soul.
+#SEELCHEN.
+That's all right!
+#LAMOND.
+Dream well! Goodnight!
+#SEELCHEN.
+Good - night!
+#FELSMAN.
+It is cold - it will be fine.
+#SEELCHEN.
+It was hard for him here. I thought.
+#SEELCHEN.
+Art thou angry?
+#SEELCHEN.
+They kissed me - both.
+#SEELCHEN.
+Oh! They have faces! All around the peaks there is nothing but blue sky.
+#EDELWEISS.
+Would you? Would you? Would you? Ah! ha! GENTIAN, M. DANDELION, ALPENROSE Oo - oo - oo!
+#THE COW HORN.
+Amongst kine and my black - brown sheep I Live; I am silence, and monotony; I am the solemn hills. I am fierceness, and the mountain wind; clean pasture, and wild rest. Look in my eyes. love me alone!
+#SEELCHEN.
+The Cow Horn! He is speaking for Felsman and the mountains. It is the half of my heart!
+#THE COW HORN.
+I stalk the eternal hills - I drink the mountain snows. My eyes are the colour of burned wine; in them lives melancholy. The lowing of the kine, the wind, the sound of falling rocks, the running of the torrents; no other talk know I. Thoughts simple, and blood hot, strength huge - the cloak of gravity.
+#SEELCHEN.
+Yes, yes! I want him. He is strong!
+#THE COW HORN.
+Little soul! Hold to me! Love me! Live with me under the stars!
+#SEELCHEN.
+I am afraid.
+#THE WINE HORN.
+I am the will o' the wisp that dances thro' the streets; I am the cooing dove of Towns, from the plane trees and the chestnuts' shade. From day to day all changes, where I burn my incense to my thousand little gods. In white palaces I dwell, and passionate dark alleys. The life of men in crowds is mine - of lamplight in the streets at dawn. I have a thousand loves. and never one too long; for I am nimbler than your heifers playing in the sunshine.
+#THE WINE HORN.
+I hear the rustlings of the birth and death of pleasure; and the rattling of swift wheels. I hear the hungry oaths of men; and love kisses in the airless night. Without me, little soul, you starve and die,
+#SEELCHEN.
+He is speaking for the gentle Sir, and the big world of the Town. It pulls my heart.
+#THE WINE HORN.
+My thoughts surpass in number the flowers in your meadows; they fly more swiftly than your eagles on the wind. I drink the wine of aspiration, and the drug of disillusion. Thus am I never dull!
+#THE WINE HORN.
+Love me, little soul! I paint life fifty colours. I make a thousand pretty things! I twine about your heart!
+#SEELCHEN.
+He is honey!
+#THE COW HORN.
+Stay with me, Seelchen! I wake thee with the crystal air.
+#THE WINE HORN.
+Come with me, Seelchen! My fan, Variety, shall wake you!
+#SEELCHEN.
+My heart! It is torn!
+#THE WINE HORN.
+With me, little soul, you shall race in the streets. and peep at all secrets. We will hold hands, and fly like the thistle - down.
+#MOUNTAIN DANDELION.
+My puff - balls fly faster!
+#THE WINE HORN.
+I will show you the sea.
+#GENTIAN.
+My blue is deeper!
+#THE WINE HORN.
+I will shower on you blushes.
+#ALPENROSE.
+I can blush redder!
+#THE WINE HORN.
+Little soul, listen! My Jewels! Silk! Velvet!
+#EDELWEISS.
+I am softer than velvet!
+#THE WINE HORN.
+My wonderful rags!
+#THE FLOWERS.
+Of those we have none.
+#SEELCHEN.
+He has all things.
+#THE COW HORN.
+Mine are the clouds with the dark silvered wings; mine are the rocks on fire with the sun; and the dewdrops cooler than pearls. Away from my breath of snow and sweet grass, thou wilt droop, little soul.
+#THE WINE HORN.
+The dark Clove is my fragrance!
+#SEELCHEN.
+Oh! it is hard!
+#THE COW HORN.
+I will never desert thee. hundred times I will desert you, a hundred times come back, and kiss you.
+#SEELCHEN.
+Peace for my heart!
+#THE COW HORN.
+With me thou shalt lie on the warm wild thyme.
+#THE WINE HORN.
+With me you shall lie on a bed of dove's feathers.
+#THE WINE HORN.
+I will give you old wine.
+#THE COW HORN.
+I will give thee new milk.
+#THE WINE HORN.
+Hear my song!
+#SEELCHEN.
+My heart - it is leaving me!
+#THE COW HORN.
+Hear my song!
+#SEELCHEN.
+The piping! Ah!
+#THE COW HORN.
+Stay with me, Seelchen!
+#THE WINE HORN.
+Come with me, Seelchen!
+#THE COW HORN.
+I give thee certainty!
+#THE WINE HORN.
+I give you chance!
+#THE COW HORN.
+I give thee peace.
+#THE WINE HORN.
+I give you change.
+#THE COW HORN.
+I give thee stillness.
+#THE WINE HORN.
+I give you voice.
+#THE COW HORN.
+I give thee one love.
+#THE WINE HORN.
+I give you many.
+#SEELCHEN.
+Both, both - I will love!
+#THE GREAT HORN.
+And both thou shalt love, little soul! Thou shalt lie on the hills with Silence; and dance in the cities with Knowledge. Both shall possess thee! The sun and the moon on the mountains shall burn thee; the lamps of the town singe thy wings. small Moth! Each shall seem all the world to thee, each shall seem as thy grave! Thy heart is a feather blown from one mouth to the other. But be not afraid! For the life of a man is for all loves in turn. 'Tis a little raft moored, then sailing out into the blue; a tune caught in a hush, then whispering on; a new - born babe, half courage and half sleep. There is a hidden rhythm. Change. Quietude. Chance. Certainty. The One. The Many. Burn on - thou pretty flame, trying to eat the world! Thou shaft come to me at last, my little soul!
+#SEELCHEN.
+They are dancing!
+#SEELCHEN.
+They are real! Their wings are windy.
+#SEELCHEN.
+It is you!
+#LAMOND.
+Without my little soul I am cold. Come!
+#SEELCHEN.
+Shall I be safe?
+#LAMOND.
+What is safety? Are you safe in your mountains?
+#SEELCHEN.
+Where am I, here?
+#LAMOND.
+The Town.
+#SEELCHEN.
+In the mountains all dance together. Do they never change partners?
+#LAMOND.
+How could they, little one? Those are rich, these poor. But see!
+#SEELCHEN.
+Shall I one day dance like that?
+#SEELCHEN.
+Ah! What I do not like, he will not let me see.
+#LAMOND.
+Will you not come, then, little soul?
+#SEELCHEN.
+Always to dance? Not so!
+#SEELCHEN.
+How sad they look - all! What are they making?
+#SEELCHEN.
+It is beautiful. What is it?
+#LAMOND.
+Luxury.
+#SEELCHEN.
+What is it standing on? I cannot see.
+#LAMOND.
+For that do not look, little soul.
+#SEELCHEN.
+Can it not walk? Is that all they make here with their sadness?
+#LAMOND.
+What is it, then, you would have? Is it learning? There are books here, that, piled on each other, would reach to the stars! There is religion so deep that no man knows what it means. There is religion so shallow, you may have it by turning a handle. We have everything.
+#SEELCHEN.
+Is God here?
+#LAMOND.
+Who knows? Is God with your goats? What then do you want?
+#SEELCHEN.
+Life.
+#LAMOND.
+There is but one road to life.
+#SEELCHEN.
+Ah! but I do not love.
+#LAMOND.
+When a feather dies, is it not loving the wind - the unknown? When the day brings not new things, we are children of sorrow. If darkness and light did not change, could we breathe? Child! To live is to love, to love is to live - seeking for wonder. See! To love is to peer over the edge, and, spying the little grey flower, to climb down! It has wings; it has flown - again you must climb; it shivers, 'tis but air in your hand - you must crawl, you must cling, you must leap, and still it is there and not there - for the grey flower flits like a moth, and the wind of its wings is all you shall catch. But your eyes shall be shining, your cheeks shall be burning, your breast shall be panting - Ah! little heart! And when the night comes - there it is still, thistledown blown on the dark, and your white hands will reach for it, and your honey breath waft it, and never, never, shall you grasp that wanton thing - but life shall be lovely.
+#SEELCHEN.
+I will come.
+#LAMOND.
+Love me!
+#SEELCHEN.
+I love!
+#SEELCHEN.
+My heart is old.
+#LAMOND.
+Little soul!
+#SEELCHEN.
+You! Always you!
+#LAMOND.
+I have new wonders.
+#SEELCHEN.
+No.
+#LAMOND.
+I swear it! You have not tired of me, that am never the same? It cannot be.
+#SEELCHEN.
+Listen!
+#LAMOND.
+The music' of dull sleep! Has life, then, with me been sorrow?
+#SEELCHEN.
+I do not regret.
+#LAMOND.
+Come!
+#SEELCHEN.
+The bird is tired with flying. The flowers have no dew.
+#LAMOND.
+Would you leave me?
+#SEELCHEN.
+See!
+#LAMOND.
+What is it?
+#SEELCHEN.
+He!
+#LAMOND.
+There is nothing. I have shown you the marvels of my town - the gay, the bitter wonders. We have known life. If with you I may no longer live, then let us die! See! Here are sweet Deaths by Slumber and by Drowning! The mandolin twangs out, and from the dim doorway of the Inn come forth the shadowy forms. DEATH BY SLUMBER, and DEATH BY DROWNING. who to a ghostly twanging of mandolins dance slowly towards SEELCHEN. stand smiling at her, and as slowly dance away.
+#SEELCHEN.
+Yes. They are good and sweet.
+#SEELCHEN.
+I come.
+#LAMOND.
+Little soul! Must I then die, like a gnat when the sun goes down? Without you I am nothing.
+#SEELCHEN.
+Poor heart - I am gone!
+#LAMOND.
+It is dark.
+#SEELCHEN.
+The dew! Goatherd!
+#SEELCHEN.
+Gone! Thou!
+#FELSMAN.
+So thou hast come - like a sick heifer to be healed. Was it good in the Town - that kept thee so long?
+#SEELCHEN.
+I do not regret.
+#FELSMAN.
+Why then return?
+#SEELCHEN.
+I was tired.
+#FELSMAN.
+Never again shalt thou go from me!
+#SEELCHEN.
+With what wilt thou keep me?
+#FELSMAN.
+Thus.
+#SEELCHEN.
+I have known Change - I am no timid maid.
+#FELSMAN.
+Aye, thou art different. Thine eyes are hollow - thou art white - faced.
+#SEELCHEN.
+Then what hast thou here that shall keep me?
+#FELSMAN.
+The sun.
+#SEELCHEN.
+To burn me.
+#FELSMAN.
+The air.
+#SEELCHEN.
+To freeze me.
+#FELSMAN.
+The silence.
+#SEELCHEN.
+Yes, it is lonely.
+#FELSMAN.
+Wait! And the flowers shall dance to thee.
+#SEELCHEN.
+See! Even they grow sleepy here!
+#FELSMAN.
+I will call the goats to wake them.
+#FELSMAN.
+Love me!
+#SEELCHEN.
+Thou art rude!
+#FELSMAN.
+Love me!
+#SEELCHEN.
+Thou art grim!
+#FELSMAN.
+Aye. I have no silver tongue. Listen! This is my voice. It is quiet. From dawn to the first star all is fast. And the wings of the birds shall be still.
+#SEELCHEN.
+Thine eyes are fierce. In them I see the wild beasts crouching. In them I see the distance. Are they always fierce?
+#FELSMAN.
+Never - to look on thee, my flower.
+#SEELCHEN.
+Thy hands are rough to pluck flowers. See! Nothing moves! The very day stands still. Boy! He is lost in the blue. Boy! He will not answer me. No one will answer me here.
+#FELSMAN.
+Am I then no one?
+#SEELCHEN.
+Thou? See! Sleep has stolen the day! It is night already.
+#SEELCHEN.
+Are you Sleep? Dear Sleep!
+#SEELCHEN.
+Years, years I have slept. My spirit is hungry. I know thee now - Life of the earth - the smell of thee, the sight of thee, the taste of thee, and all thy music. I have passed thee and gone by.
+#FELSMAN.
+Where wouldst thou go?
+#SEELCHEN.
+To the edge of the world.
+#FELSMAN.
+Thou shalt not leave me!
+#SEELCHEN.
+Friend! The time is on me.
+#FELSMAN.
+Were my kisses, then, too rude? Was I too dull?
+#SEELCHEN.
+I do not regret.
+#FELSMAN.
+The cursed music of the Town! Is it back to him thou wilt go? I cannot see.
+#SEELCHEN.
+Fear not! I go ever onward.
+#FELSMAN.
+Do not leave me to the wind in the rocks! Without thee love is dead, and I must die.
+#SEELCHEN.
+Poor heart! I am gone.
+#FELSMAN.
+It is cold.
+#SEELCHEN.
+Companions. I must go. In a moment it will be dawn.
+#SEELCHEN.
+Great One! I come!
+#FELSMAN.
+In a moment it will be dawn.
+#LAMOND.
+Let her sleep. She's dreaming.
+#SEELCHEN.
+Great One. I come! My little dream!

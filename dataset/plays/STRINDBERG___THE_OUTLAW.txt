@@ -1,0 +1,884 @@
+#VALGERD.
+Close the window - hole.
+#VALGERD.
+Gunlöd!
+#GUNLÖD.
+Did you speak, mother?
+#VALGERD.
+What are you doing?
+#GUNLÖD.
+I am watching the sea.
+#VALGERD.
+When will you learn to forget?
+#GUNLÖD.
+Take everything away from me but memories!
+#VALGERD.
+Look forward - not back.
+#GUNLÖD.
+Who reproaches the strong viking who looks back when he is quitting his native strand?
+#VALGERD.
+You have had three winters to make your farewell.
+#GUNLÖD.
+You speak truly - three winters! For here never came a summer!
+#VALGERD.
+When the floating ice melts, then shall spring be here.
+#GUNLÖD.
+The Northern Lights melt no ice.
+#VALGERD.
+Nor your tears.
+#GUNLÖD.
+You never saw me weep.
+#VALGERD.
+But I have heard you. As long as you do that, you are a child.
+#GUNLÖD.
+I am not a child.
+#VALGERD.
+If you would be a woman, suffer in silence.
+#GUNLÖD.
+I'll cast sorrow from me, mother.
+#VALGERD.
+No, no - bury it, as your deepest treasure. The seed must not lie on top of the earth if it would sprout and ripen. You have a deep sorrow. It should bear great gladness - and great peace.
+#GUNLÖD.
+I shall forget.
+#VALGERD.
+Everything?
+#GUNLÖD.
+I shall try.
+#VALGERD.
+Can you forget your father's hardness?
+#GUNLÖD.
+That I have forgotten.
+#VALGERD.
+Can you forget that there was a time when your fore - fathers' dwelling stood on Brövikens' strand? Where the south wind sang in the oak wood when the ice - bound seas ran free - where the hemlocks gave forth their fragrance and the finches twittered among the linden trees - and Balder, the God of spring and joy, lulled you to sleep on the green meadows? Can you forget all this, while you listen to the sea gulls' plaints on these bare rocks and cliffs, and the cold storms out of the north howl through the stunted birches?
+#GUNLÖD.
+Yes!
+#VALGERD.
+Can you forget the friend of your childhood from whom your father tore you to save you from the white Christ?
+#GUNLÖD.
+Yes, yes!
+#VALGERD.
+You are weeping.
+#GUNLÖD.
+Some one is walking out there. Perhaps father is coming home.
+#VALGERD.
+Will you bear in mind every day without tears that we now dwell in the land of ice - fugitives from the kingdom of Svea and hated here by the Christ - men? But we have suffered no loss of greatness, although we have not been baptized and kissed the bishop's hand. Have you ever spoken to any of the Christians since we have been here?
+#GUNLÖD.
+No. Tell me, mother, is it true that father is to be Erl here in Iceland, too?
+#VALGERD.
+Don't let that trouble you, child.
+#GUNLÖD.
+Then I'm afraid he will fare badly with the Christians.
+#VALGERD.
+You fear that?
+#GUNLÖD.
+Some one is out there.
+#VALGERD.
+Did you see the ship lying in the inlet this morning?
+#GUNLÖD.
+With heart - felt gladness!
+#VALGERD.
+Bore it the figure - head of Thorfinn?
+#GUNLÖD.
+That I could not make out.
+#VALGERD.
+Have a care, girl.
+#GUNLÖD.
+Is it tonight that I may go out?
+#VALGERD.
+Tomorrow - that you know well. Mother!
+#VALGERD.
+Mind the fire.
+#GUNLÖD.
+Christ, Christ, forgive me the lie I told. No, I cannot pray before these wicked images. Holy St. Olof, holy - oh, I can't remember how the bishop named her! God! God! Cast me not into purgatory for this sin! I will repeat the whole long prayer of the monks - credo, credo - in patrem - oh, I have forgotten that too. I shall give five tall candles for the altar of the mother of God the next time I go to the chapel - Credo, in patrem omnipotentem -
+#GUNNAR.
+Gunlöd! You are afraid of me? What is it, Gunlöd?
+#GUNLÖD.
+You never took me in your arms before!
+#GUNNAR.
+We were children then! You are right - we were children then. What means that silver falcon on your shield? I saw it on your ship's bow this morning, too.
+#GUNNAR.
+You saw my ship - you knew my song, and you would have barred the door against me! What am I to understand, Gunlöd?
+#GUNLÖD.
+Oh, ask me nothing! I am so unquiet of spirit but sit and let me talk to you.
+#GUNNAR.
+You are silent.
+#GUNLÖD.
+You are silent, too.
+#GUNNAR.
+Gunlöd, Gunlöd - has the snow fallen so heavily that memories have been chilled even the mountains here burst forth with fire - and you are cold as a snow wind - but speak - speak! Why are you here in Iceland - and what has happened?
+#GUNLÖD.
+Terrible things - and more may follow if you stay here longer. - Go, before my father comes.
+#GUNNAR.
+Do you think I would leave you now - I, who have sought you for long years? When I could not find you in the home land I went to the wars against the Saracens to seek you the other side of the grave. But my time had not yet come; when the fourth spring came, I heard through wandering merchants that you were to be found here. Now I have found you - and you wish me to leave you in this heathen darkness.
+#GUNLÖD.
+I am not alone!
+#GUNNAR.
+Your father does not love you - your mother does not understand you, and they are both heathen.
+#GUNLÖD.
+I have friends among the Christians.
+#GUNNAR.
+Then you have become a Christian, Gunlöd! - the holy virgin has heard my prayer.
+#GUNLÖD.
+Yes, yes! Oh, let me kiss the cross you bear on your shoulder - that you got at the holy sepulchre!
+#GUNNAR.
+Now I give you a brother Christian's kiss - the first, Gunlöd, you have from me.
+#GUNLÖD.
+You must never kiss me again.
+#GUNNAR.
+But tell me, how did you become a Christian?
+#GUNLÖD.
+First I believed in my father - he was so strong; then I believed in my mother - she was so good; last I believed in you - you were so strong and good - and so beautiful; and when you went away - I stood alone - myself I could never believe in - I was so weak; then I thought of your God, whom you so often begged me to love - and I prayed to Him.
+#GUNNAR.
+And the old gods -
+#GUNLÖD.
+I have never been able to believe in them - although my father commanded me to do so - they are wicked.
+#GUNNAR.
+Who has taught you to pray? Who gave you the crucifix?
+#GUNLÖD.
+The bishop.
+#GUNNAR.
+And that no one knows?
+#GUNLÖD.
+No - I have had to lie to my mother and that troubles me.
+#GUNNAR.
+And your father hid you here so that the Christians should not get you?
+#GUNLÖD.
+Yes - and now he is expected home from Norway with followers as he is to be Erl of the island.
+#GUNNAR.
+God forbid!
+#GUNLÖD.
+Yes - yes - but you must not delay. He is expected home tonight.
+#GUNNAR.
+Good - there beyond Hjärleif's headland lies my ship. - Out to sea! There is a land wind, and before the first cock's crow we shall be beyond pursuit.
+#GUNLÖD.
+Yes! Yes!
+#GUNNAR.
+Soon we should be at Ostergötland - where the summer is still green - and there you shall live in my castle which I have built where your father's house stood.
+#GUNLÖD.
+Does not that still stand?
+#GUNNAR.
+No - it was burned.
+#GUNLÖD.
+By the Christians?
+#GUNNAR.
+You are so passionate, Gunlöd!
+#GUNLÖD.
+I suffer to say I would rather be a heathen.
+#GUNNAR.
+What are you saying, girl!
+#GUNLÖD.
+Forgive me, forgive me - I am in such a wild mood - and when I see the Christians, who should be examples, commit such deeds -
+#GUNNAR.
+Crush out that thought, Gunlöd - it is ungodly. Do you see this wreath?
+#GUNLÖD.
+Where did you gather it?
+#GUNNAR.
+You recognize the flowers, Gunlöd?
+#GUNLÖD.
+They grew in my father's garden - may I keep them?
+#GUNNAR.
+Gladly - but, why do you care to have them when we are going to journey there ourselves?
+#GUNLÖD.
+I shall look at them the long winter through - the hemlock shall remind me of the green woods and the anemones of the blue sky.
+#GUNNAR.
+And when they are withered -
+#GUNLÖD.
+Of that I do not think.
+#GUNNAR.
+Then go with me from this drear land - far away, and there where our childhood was spent we will live as free as the birds among the flowers and sunshine. There you shall not go in stealth to the temple of the Lord when the bells tell you of the Sabbath. Oh, you shall see the new chapel with its vaulted roof and high pillared aisles. And hear the acolytes singing when the bishop lights the incense on the high altar. There shall you solemnize the God service with those of Christ and you shall feel you heart cleansed of sin.
+#GUNLÖD.
+Shall I fly - leave my mother?
+#GUNNAR.
+She will forgive you some time.
+#GUNLÖD.
+But my father would call me cowardly and that I would never allow.
+#GUNNAR.
+That you must endure for the sake of your belief.
+#GUNLÖD.
+Thorfinn's daughter was never cowardly.
+#GUNNAR.
+Your father does not love you, and he will hate you when he knows of your conversion.
+#GUNLÖD.
+That he may do - but he shall never despise me.
+#GUNNAR.
+You surrender your love, Gunlöd.
+#GUNLÖD.
+Love! - I remember - there was a maiden - she had a friend who went away - after, she was never again glad - she only sat sewing silk and gold - what she was making no one knew - and when they asked her she would only weep. And when they asked her why she wept, she never answered - only wept. She grew pale of cheek and her mother made ready her shroud. - Then there came an old woman and she said it was love. Gunnar, - I never wept when you went away as father says it is weak to shed tears; I never sewed silk and gold for that my mother has never taught me to do - then had I not love?
+#GUNNAR.
+You have often thought of me during these years?
+#GUNLÖD.
+I have dreamed so often of you, and this morning when I stood by the window where I linger so willingly and, gazing over the sea, I saw your ship come up out of the east, I became unquiet although I did not know it was your ship.
+#GUNNAR.
+Why do you gaze so willingly over the sea?
+#GUNLÖD.
+You ask many questions!
+#GUNNAR.
+Why did you want to close the door against me?
+#GUNNAR.
+Why didn't you close it?
+#GUNNAR.
+Why are you silent?
+#GUNNAR.
+You weep, Gunlöd, and you know why? I know, - you love!
+#GUNLÖD.
+You must not kiss me! Go!
+#GUNNAR.
+Yes - and you shall go with me.
+#GUNLÖD.
+I do not care to be commanded by you - and I shall not obey.
+#GUNNAR.
+The volcano gives forth fire - and burns itself out!
+#GUNLÖD.
+You have destroyed my peace - forever! Go and let me forget you.
+#GUNNAR.
+Do you know what the silver falcon with the ribbon stands for? It is the symbol of the wild girl I shall tame.
+#GUNLÖD.
+You! Go before I hate you! - No one yet has bent my will!
+#GUNNAR.
+The wild fire of the viking's blood still burns in your veins, but it shall be quenched. A day and a night shall I wait for you. And you will come - mild as a dove seeking shelter, although you now would fly above the clouds like a wild falcon. But I still hold the ribbon in my hand - that is your love, which you cannot tear away. When twilight falls again you will come. Till then, farewell.
+#GUNNAR.
+Farewell.
+#GUNLÖD.
+We shall see, proud knight, who comes first. When this garland shall bloom again, then shall I come. God! God! Soften my proud spirit! Oh, that he should leave me!
+#VALGERD.
+Why did you not tend the fire?
+#VALGERD.
+You have a secret!
+#GUNLÖD.
+Yes, mother, yes.
+#VALGERD.
+Hide it well.
+#GUNLÖD.
+Oh, I must speak - I can't bear it any longer.
+#VALGERD.
+When saw you a mother who did not know a daughter's secrets?
+#GUNLÖD.
+Who told you mine?
+#VALGERD.
+Dry your tears.
+#GUNLÖD.
+Oh, let me go out - on the mountains - on the strand. It is so stifling here.
+#VALGERD.
+Go up to the loft - and you can be alone. What would you?
+#THRALL.
+The Erl's trumpets are heard beyond the rocks and the storm is growing.
+#VALGERD.
+Has darkness fallen?
+#THRALL.
+Yes, and a terrible darkness it is.
+#GUNLÖD.
+Send out a boat - two - as many as can be found.
+#THRALL.
+All the boats are out for the hunt.
+#GUNLÖD.
+Light beacon fires.
+#THRALL.
+All the fuel is so rain - soaked that we haven't had so much as a twig on the hearth all the evening.
+#VALGERD.
+Away!
+#THRALL.
+How will it go with the Erl?
+#VALGERD.
+Does that concern you?
+#GUNLÖD.
+You have not forgotten your wrong!
+#VALGERD.
+Nor my revenge! One should not lay hands on the daughter of an Erl!
+#GUNLÖD.
+So be it. Now your moment has come - take your revenge - I'll show you how - like this. Put this torch in the window - hole on the right and you wreck him. Put it in the left and you save him -
+#VALGERD.
+Give me the torch and leave me.
+#GUNLÖD.
+There is a sacrifice which can pacify your god's. Sacrifice your revenge.
+#VALGERD.
+You struck me, Thorfinn - I swore revenge - I shall humble you with a kind deed.
+#GUNLÖD.
+Thanks, mother.
+#VALGERD.
+Haven't you gone -
+#GUNLÖD.
+Now I shall go.
+#VALGERD.
+You shout for help, you mighty man, who always helped yourself. Where is now your might - where is your kingdom - Oh, he will perish! What shall I do? Pray? To whom? Odin? Njard? Ogir? I have called to them for four times ten years, but never have they answered. I have sacrificed, but never have they helped. Thou, God, however you may be called - Thou mighty one, who bids the sun to rise and set, thou tremendous one who rules over the winds and water - to you will I pray, to you will I sacrifice my revenge if you will save him.
+#ORM.
+Good evening to you, Valgerd. Put on your cloak - the wind is sharp.
+#VALGERD.
+Welcome, Orm.
+#ORM.
+Thanks.
+#VALGERD.
+How is it with you, Orm?
+#ORM.
+Tolerable enough - when one gets near the big logs.
+#VALGERD.
+How went the journey I mean?
+#ORM.
+That is a long saga.
+#VALGERD.
+Make it short.
+#ORM.
+Well, as you know, we fared to Norway, seeking men and timber.
+#VALGERD.
+Orm!
+#ORM.
+Valgerd!
+#VALGERD.
+You have not spoken a word of the Erl.
+#ORM.
+Have you asked a word about your mate?
+#VALGERD.
+Where is he? Lives he?
+#ORM.
+I know not.
+#VALGERD.
+You know not! - you, his foster brother? Where did you part from him?
+#ORM.
+Far out in the gulf. It was merry out there you may believe. You should have seen him swimming with my lyre in his hand. The sea - weed was so tangled in his beard and hair that one was tempted to believe that it was Neptune himself. Just then came a wave as big as a house -
+#VALGERD.
+And then?
+#ORM.
+And then - I saw my lyre no more.
+#VALGERD.
+Orm! You jest while your lord and brother is perhaps perishing out there! I command you - go at once and seek him! Do you hear?
+#ORM.
+Why, what is the matter? You were never before so concerned about your mate! You might find time to give me a drink of ale before I go.
+#VALGERD.
+Warm your knees by the hearth. I shall go - and defy wind and storm.
+#ORM.
+Woman, woman - after all, you are a woman!
+#VALGERD.
+Let go my hand.
+#ORM.
+Now the Erl is saved!
+#VALGERD.
+Saved?
+#ORM.
+Yes, you have been given back to him - and that is his voice now.
+#VALGERD.
+The Erl comes - he laughs - that I have never heard before - oh, there is something terrible approaching!
+#THORFINN.
+That was a murderous sight -
+#ORM.
+Yes, I promise you!
+#VALGERD.
+Welcome home, mate.
+#THORFINN.
+Thanks, wife. Have you been out in the rain? Your eyes are wet.
+#VALGERD.
+You are so merry!
+#THORFINN.
+Merry? Yes - yes.
+#VALGERD.
+What became of your ships?
+#ORM.
+They went to the bottom - all but one.
+#VALGERD.
+And you can nevertheless be so gay?
+#THORFINN.
+Ho! Ho! Timber grows in plenty in the north!
+#ORM.
+Now perhaps we might have something life - giving.
+#THORFINN.
+Well said! Fetch some ale, wife, and let's be merry.
+#ORM.
+And we'll thank the gods who saved us.
+#THORFINN.
+When will you ever outgrow those sagas, Orm?
+#ORM.
+Why do you force your wife and daughter to believe in them?
+#THORFINN.
+Women folk should have gods.
+#ORM.
+Whom do you believe helped you out there in the storm?
+#THORFINN.
+I helped myself.
+#ORM.
+And yet you cried out to Ake - Thor when the big wave swallowed you.
+#THORFINN.
+There you lie.
+#ORM.
+Orm never lies.
+#THORFINN.
+Orm is a poet!
+#ORM.
+Thorfinn must have swallowed too much sea water when he cried for help to have such a bitter tongue.
+#THORFINN.
+Take care of your own tongue, Orm.
+#VALGERD.
+Here, foster brothers, I drink to your oath of friendship and better luck for your next voyage.
+#THORFINN.
+I forbid you to speak of that again. Where is the child?
+#VALGERD.
+She is in the loft.
+#THORFINN.
+Call her hither.
+#VALGERD.
+She's not well.
+#THORFINN.
+She shall - come!
+#VALGERD.
+You don't mean that.
+#THORFINN.
+Did you hear the word?
+#VALGERD.
+It is not your last. man has but one, though woman must always have the last.
+#VALGERD.
+You mock me.
+#THORFINN.
+You are angry I believe.
+#VALGERD.
+You laugh so much tonight.
+#THORFINN.
+Orm! A thought comes to me.
+#ORM.
+If it's a great one you had better hide it. Great thoughts are scarce these days.
+#THORFINN.
+Did you notice my wife?
+#ORM.
+I never notice other men's wives.
+#THORFINN.
+How kindly and mild she was.
+#ORM.
+She pitied you.
+#THORFINN.
+Pitied me?
+#ORM.
+Yes, because sorrow that laughs is the laughter of death, she thought.
+#THORFINN.
+Woman cannot think.
+#ORM.
+No, not with her head, but with her heart. That's why she has a smaller head but a bigger breast than we.
+#THORFINN.
+Forebodings of evil torture me.
+#ORM.
+Poor Thorfinn.
+#THORFINN.
+My child! Orm! When she comes do you bid her drink from the horn to Asa - Odin.
+#ORM.
+The fox scents against, the wind. I understand.
+#THORFINN.
+Be ready - they come.
+#ORM.
+Be not hard with the child, Thorfinn, or you will have me to reckon with.
+#GUNLÖD.
+Welcome home, father.
+#THORFINN.
+Do you speak truthfully?
+#THORFINN.
+You are ill, are you not?
+#GUNLÖD.
+I am not quite myself.
+#THORFINN.
+I fear so.
+#ORM.
+Come, Gunlöd, and empty this sacred horn to Odin who saved your father from shipwreck.
+#THORFINN.
+Drink, Gunlöd.
+#GUNLÖD.
+Hear me, father. I am a Christian. Do with me what you will - my soul you cannot destroy. God and the Saints will protect it.
+#GUNLÖD.
+No! I won't go. I must speak that you, my father, may not go to the grave with a lie - for your whole life has been a lie! I shall sacrifice the child's respect - love I have never felt - and prove to you what terrible guilt you have gathered on your head. Know then, you have taught me to hate - for when did you ever give me love - you taught me to fear the great Erl Thorfinn and you have succeeded, because I tremble before your harshness. I respect your many scars and great deeds, but you never taught me to love my father. You always thrust me away when I wanted to come to you - you poisoned my soul and now you see God's punishment. You have made me a criminal - for such I am at this moment, but it cannot be otherwise. Why do you hate my belief? Because it is love and yours is hate! Oh, father, father, I want to kiss the clouds from your brow. I wanted to caress your white locks and make you forget the sorrows that whitened them. I wanted to support you when your steps began to falter - Oh! forget what I have said - open your arms and take me to your heart. Look at me tenderly - just once before it is too late. Speak one word - Oh, your glance freezes me! You will not! I shall pray for power to love you.
+#THORFINN.
+Sing for me, Orm.
+#ORM.
+Orm sings nothing but lies.
+#THORFINN.
+Lie then.
+#ORM.
+Was the truth so bitter?
+#THORFINN.
+What do you say?
+#ORM.
+Never mind. You shall hear more from me later.
+#THORFINN.
+Orm, you are my friend!
+#ORM.
+H'm - of course!
+#THORFINN.
+I lack peace.
+#ORM.
+There are two ways to gain peace: one is never to do anything one regrets - the other never to regret anything one does!
+#THORFINN.
+But if one has already done what one regrets?
+#ORM.
+Thorfinn! That is to say, you regret your harshness toward your child?
+#THORFINN.
+I regret nothing. And as far as the child is concerned you had better hold your tongue!
+#ORM.
+Hear you, Thorfinn - have you ever thought about what your life has been?
+#THORFINN.
+Thinking is for old women - doing has been my life.
+#ORM.
+What do you intend to do now?
+#THORFINN.
+What do I intend to do now?
+#ORM.
+Yes.
+#ORM.
+You see how even a little thought struck you - think then if a big thought should come. Why don't you dare to look back? Because you are afraid of the sights you would see.
+#THORFINN.
+Let the past remain buried.
+#ORM.
+No, I shall tear the corpses from their graves and they shall stare at you with their empty orbits until you quake with anguish and fear - and you shall see that with all your strength you were not a man.
+#THORFINN.
+What are you saying, madman?
+#ORM.
+Yes, shout - you are still a boy. Yes, you - I have seen big, tall children with bushy beards and gray hairs and crooked backs as well.
+#THORFINN.
+Hold your tongue, Orm.
+#ORM.
+Shout until the hut trembles - the truth you cannot shout down.
+#THORFINN.
+Silence, before I strike you!
+#ORM.
+Strike! Strike me to death - tear the tongue out of my mouth - with copper trumpets shall the truth be blasted into your ears, "Your life has been a lie."
+#THORFINN.
+Orm, I beg of you - speak no more.
+#ORM.
+Yes, Thorfinn, I shall speak. Feel how the earth trembles under you. That means an earthquake! The whole earth trembles these days, for she is about to give birth. She is to bring forth in dire pain a glorious hero. Open your eyes and look. Do you see how the east wars with the west? It is love's first conflict - the new bride trembles under the elder's embraces, she struggles and suffers - but soon she shall rejoice, and thousands of torches shall be lighted and radiate peace and gladness, because he shall be born, the young, the strong, the beautiful princeling, who shall rule over all peoples and whose sceptre is called love and whose crown is called light and whose name is the new age! Thorfinn! do you remember the saga about Thor at Utgorda Loake? He lifted the cat so high that the trolls turned pale; he drank so deep from the horn that the trolls trembled - but when the old woman felled him to his knees then the trolls laughed. It was the age that vanquished him, and it is the age that you have warred against, and which has slain you - it is the lord of the age, it is God who has crushed you.
+#THORFINN.
+I have never known any god but my own strength, and that god I believe in!
+#ORM.
+You don't know him - you who have so long been lying at feud with him. It was he who drove you from your native land, and you thought you were escaping him. It was he who struck your ships to splinters and swallowed up your treasures and ended your power. It was he who tore your child from you - and you said you lacked peace! It was he -
+#MESSENGER.
+Are you the Erl Thorfinn.
+#THORFINN.
+I am.
+#MESSENGER.
+You committed the coast massacre at Reyd - fiord last spring?
+#THORFINN.
+I did.
+#MESSENGER.
+You plundered and burned Hallfred at Thorvalla?
+#THORFINN.
+Yes.
+#MESSENGER.
+And then you disappeared.
+#MESSENGER.
+The Allting has now declared you an outlaw and pronounced you a felon. Your house is to be burned to the ground, and whomsoever will may take your life. Your enemies are at hand, therefore fly while there is yet time - make your escape this night.
+#ORM.
+Do you know who that was?
+#THORFINN.
+You may well ask that.
+#ORM.
+It - was a messenger from that old woman who felled Thor - the age!
+#THORFINN.
+You talk like an old woman.
+#ORM.
+This age does not want to use force, but you have violated it and it strikes you.
+#THORFINN.
+This age cannot suffer strength, therefore it worships weakness.
+#ORM.
+When you came to this island you swore peace. You have broken your oath, you have violated your honor, therefore you must die like a felon.
+#THORFINN.
+Do you too call me a felon?
+#ORM.
+Yes.
+#THORFINN.
+Would you dare to break an oath? Would you dare to in called a felon?
+#THORFINN.
+Poor wretch! It is you who put shackles on me when I want to fly! Like a snake you coil yourself around my legs. Let go of me!
+#ORM.
+We have sworn the oath of foster - brothers.
+#THORFINN.
+I break it!
+#ORM.
+You cannot.
+#THORFINN.
+Then I'll kick you out of the way.
+#ORM.
+That will be our death.
+#THORFINN.
+Are you a man, Orm?
+#ORM.
+I've become a poet only.
+#THORFINN.
+Therefore you have become nothing.
+#ORM.
+I knew what I wanted, but I could not attain it. You could attain anything, but did not know what you wanted.
+#THORFINN.
+Thanks for your song. Farewell.
+#ORM.
+Who will sing your death song?
+#THORFINN.
+The ravens no doubt.
+#ORM.
+Do you dare to die, Thorfinn?
+#THORFINN.
+I dare more! I dare to be forgotten!
+#ORM.
+You were always stronger than I. Farewell. We'll meet again.
+#THORFINN.
+Alone! Alone! Alone! I remember one autumn when the equinoctial storm raged over England's sun my dragon ship was wrecked and I was tossed up on the rocks alone. Afterward everything grew calm. Oh, what long days and nights! Only the cloudless sky above and endlessly the deep blue sea around me. Not a sound of any living creature! Not even the gulls to wake me with their screeching! Not even a breeze stirred the waves to lap against the stones. It seemed as if I myself were dead! Loudly I talked and shouted, but the sound of my voice frightened me, and thirst bound my tongue. Only the even beat of my heart in my breast told me that I was alive! But after a moment's listening I heard it no longer and, trembling, I rose to my feet, and so it was each time until, senseless, I swooned. When at last I revived I heard the slow beats of a heart beside me and a deep breathing that was not mine, and courage revived in my soul. I looked about - it was a seal seeking rest; it gazed at me with its moist eyes as if filled with compassion for me. Now I was no longer alone! I stretched out my hand to caress its rough body; then it fled and I was doubly alone. Again I am on the rocks! What do I fear? Yes, loneliness! What is loneliness? It is I, myself! Who am I then to fear myself? Am I not Erl Thorfinn, the strong, who has bowed thousands of wills to his? Who never asked for friendship or love but himself bore his own sorrows! No! No! I am another! And therefore Thorfinn the strong fears Thorfinn the weak! Who stole my strength? Who struck me down? Was it the sea? Have I not vanquished the sea three times ten voyages? And it, has defeated me but once - but then to the death! It was the stronger. It was a God. But who subdued the sea that lately raged? Who? Who? Who? It was the stronger! Who are you then, the stronger! Oh, answer, that I may believe! He does not answer! - All is silent! - Again I hear my heart beating. Oh, help, help! I am cold, I freeze -
+#THRALL.
+You called, Master Erl?
+#THORFINN.
+You were mistaken.
+#THRALL.
+Yes, master.
+#THORFINN.
+How many men are we?
+#THRALL.
+Oh - half three score I think.
+#THORFINN.
+Are you afraid to die, thrall?
+#THRALL.
+How can I be when I believe that I shall be saved?
+#THORFINN.
+What does that mean?
+#THRALL.
+The bishop has taught us to do that.
+#THORFINN.
+I forgot that you are a Christian.
+#THRALL.
+Do you wish me to stay in your service when you are a heathen?
+#THORFINN.
+I want to prove how little I respect their belief. We must put double bolts on the north gate!
+#THRALL.
+Yes, Master, but the belief is stronger than a hundred bolts.
+#THORFINN.
+Who questioned you? What happened when you became Christians here on the island?
+#THRALL.
+Oh, it was easier than any one would think. They only poured water on us and the bishop read from a big book and then they gave us each a white shirt.
+#THORFINN.
+Tell the twelve strongest to take their new axes - do you hear?
+#THRALL.
+Yes, Master.
+#THORFINN.
+Wait. Do you remember what was written in that big book?
+#THRALL.
+I don't remember much of it, but there was something about two thieves who were hanged on crosses along with the Son of God. But one of them went to heaven.
+#THORFINN.
+Did they pour water on him, too?
+#THRALL.
+The bishop didn't say.
+#THORFINN.
+Do you know whether there are any horses in the stable?
+#THRALL.
+They must be out at pasture - but I'll see.
+#THORFINN.
+You mustn't leave me - Stay. Could you die in peace this night?
+#THRALL.
+Yes, if I only had time for a prayer first.
+#THORFINN.
+Does that bring peace to one?
+#THRALL.
+Oh, yes, Master.
+#THORFINN.
+This you shall have if you will pray for me.
+#THRALL.
+That's not enough.
+#THORFINN.
+You shall have ten, but if you ever tell of it - I'll take your life.
+#THRALL.
+It would not help even if you gave me a hundred. You must pray yourself.
+#THORFINN.
+I cannot, but I command you to pray.
+#THRALL.
+I will obey - but you will see that it does not help. Jesus Christ, have pity on this poor sinner who begs for mercy.
+#THORFINN.
+That's a lie. I never begged for anything!
+#THRALL.
+You see now that it doesn't help.
+#THORFINN.
+Give me my armor and help me buckle.
+#THRALL.
+You are not keeping still. I can't fasten the buckles.
+#THORFINN.
+Wretch!
+#THRALL.
+But your whole body is shaking.
+#THORFINN.
+That's a lie!
+#THRALL.
+May I go now?
+#THORFINN.
+Go.
+#VALGERD.
+You called me.
+#THORFINN.
+That's not true.
+#VALGERD.
+Your enemies are upon you.
+#THORFINN.
+What does that concern you?
+#VALGERD.
+Make ready. I have heard what has come to pass.
+#THORFINN.
+Then it is best that you hide yourselves in the cellar passage.
+#MESSENGER.
+Erl Thorfinn, we are here. Will you surrender to our superior strength?
+#MESSENGER.
+You do not answer. Let the women go as we shall burn your home. Your answer!
+#GUNLÖD.
+I give you your answer! Ill must Erl Thorfinn have brought up his daughter and little would his wife have loved him if they should desert him now. Here is your answer.
+#MESSENGER.
+You are stronger than I thought, Thorfinn. For your daughter's sake you shall have a chance to fall like a hero and not as a felon. Make ready for open conflict - out on the field.
+#THORFINN.
+Out on you, cowardly, faithless woman, to guard my treasure so ill! To make my child mine enemy.
+#GUNLÖD.
+O, my father, am I your enemy?
+#THORFINN.
+You are a Christian; but it is not too late yet. Will you deny the white Christ?
+#GUNLÖD.
+Never! But I will follow you to death.
+#VALGERD.
+Thorfinn, you call me cowardly. I can suffer that, but faithless - there you wrong me. I have not loved you as warmly as the southern women are said to love, yet have I been faithful to you throughout life and I have sworn to go with you in death - as is the ancient custom. Look, here have I prepared my grave, here would I die under these smoky beams that have witnessed my sorrows - and with those who guided us here. I want to go with the flames, and in the smoke shall my spirit rise to Ginde to receive charity and peace.
+#GUNLÖD.
+And I to be alone afterward! Oh, let me follow you.
+#VALGERD.
+No, child, you are young. You may yet flourish in a milder clime. But the old fir tree dies on its roots.
+#GUNLÖD.
+Father, father, you must not die. I will save you!
+#THORFINN.
+You?
+#GUNLÖD.
+Your kinsman Gunnar lies off Hjärleif's headland with his men. Send one of the thralls to him by a roundabout route and he will come.
+#THORFINN.
+So! It wax out of that well that you drew your courage. Keep your help and go if you will.
+#GUNLÖD.
+You shall not think me a coward. I go with you, mother. You cannot hinder me.
+#VALGERD.
+No! Stay, Thorfinn, and for once bare your big soul that I may read its dim runics.
+#THORFINN.
+If you cannot interpret them now then may this runic stone crumble to air unread.
+#VALGERD.
+You are not the hard stone you would seem. You have feelings. Show them. Let them flow forth and you shall know peace!
+#THORFINN.
+My feelings are my heart's blood. Would you see it?
+#VALGERD.
+Oh, stay and say a word of farewell!
+#THORFINN.
+Woman, you tear down my strength with your feelings. Let me go! The play has begun!
+#VALGERD.
+Say farewell, at least.
+#THORFINN.
+Farewell, child.
+#VALGERD.
+That man no one will bend.
+#GUNLÖD.
+God will!
+#VALGERD.
+His hardness is great.
+#GUNLÖD.
+God's mercy is greater!
+#VALGERD.
+Farewell, my child.
+#GUNLÖD.
+Do you dare leave me behind, alone?
+#VALGERD.
+Are you prepared?
+#GUNLÖD.
+The holy virgin prays for me.
+#VALGERD.
+I trust in the God of love.
+#GUNLÖD.
+And in the mother of God.
+#VALGERD.
+I know her not.
+#GUNLÖD.
+You must believe in her.
+#VALGERD.
+My belief is not your belief.
+#GUNLÖD.
+Forgive me.
+#VALGERD.
+Now to your place.
+#GUNLÖD.
+The strife is sharp.
+#VALGERD.
+Do you see the Erl?
+#GUNLÖD.
+He stands at the gate.
+#VALGERD.
+How fares he?
+#GUNLÖD.
+Everything falls before him.
+#VALGERD.
+Does he weary?
+#GUNLÖD.
+Still is he straight - - - See what terrible northern lights.
+#VALGERD.
+Have many fallen?
+#GUNLÖD.
+I cannot tell. They are drawing away from the threshing yard. Oh, the heavens are red as blood!
+#VALGERD.
+Speak! What do you see?
+#GUNLÖD.
+The silver falcon!
+#VALGERD.
+It's an ill - omen.
+#GUNLÖD.
+Father comes.
+#VALGERD.
+Is he wounded?
+#GUNLÖD.
+Oh, now he is falling!
+#VALGERD.
+Close the window - hole and trust in God.
+#GUNLÖD.
+No, not yet. A moment.
+#VALGERD.
+Are you afraid?
+#GUNLÖD.
+No! No!
+#THORFINN.
+Stay!
+#THORFINN.
+Come here.
+#THORFINN.
+Now you see my heart's blood.
+#VALGERD.
+Now is our parting over.
+#THORFINN.
+Stay and live with your child.
+#VALGERD.
+My oath!
+#THORFINN.
+My whole life has been a broken oath and yet I hope - - - It is better to live - - -
+#ORM.
+May I come?
+#THORFINN.
+Come.
+#ORM.
+Have you found peace now?
+#THORFINN.
+Soon, soon!
+#ORM.
+Then we are ready for the journey.
+#THORFINN.
+Not yet.
+#ORM.
+Hurry if you want company.
+#THORFINN.
+Orm, are you a Christian?
+#ORM.
+You may ask indeed.
+#THORFINN.
+What are you then, riddle?
+#ORM.
+I was everything. I was nothing. I was a poet.
+#THORFINN.
+Do you believe in anything?
+#ORM.
+I've come to have a belief.
+#THORFINN.
+What gave it to you?
+#ORM.
+Doubt, misfortune, sorrow.
+#THORFINN.
+Valgerd, give me your hand, so. Hold fast - tighter - you must not let go until - the end.
+#THORFINN.
+Who comes?
+#GUNNAR.
+You know me!
+#THORFINN.
+I know your voice, but my eyes see you not.
+#GUNNAR.
+I am your kinsman, Gunnar.
+#THORFINN.
+Step forth.
+#THORFINN.
+Is he here?
+#THORFINN.
+Eternal - - - Creating - - - God -

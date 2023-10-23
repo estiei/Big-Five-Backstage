@@ -1,0 +1,416 @@
+#OSWALD.
+See, Mother, it’s snowing.
+#SIGURD.
+Look, Mother - it’s snowing.
+#OSWALD.
+Don’t make such big flakes, Sigurd.
+#SIGURD.
+But I’m making it snow hard.
+#OSWALD.
+Oh, look, that fell on a candle.
+#OLGA.
+We need some more snow over here. Come down and make it snow on these branches.
+#OSWALD.
+But, Mother, we need some most on this side - like this.
+#SIGURD.
+Where is Father?
+#OLGA.
+He has gone out with Torstein in the sledge to gather green boughs to make the house look like Christmas.
+#SIGURD.
+It’ll soon be Christmas, Mother. When can we light the candles?
+#OLGA.
+When Father comes home. Have we used up all the snow, Oswald?
+#OSWALD.
+Yes, I will get some more. Oh!
+#OLGA.
+Why, Ruster!
+#RUSTER.
+I thought you might be having punch. My bones are frozen working up in that cold room. It would take a taste of hell - fire to warm me up.
+#OLGA.
+The punch has not been made yet, Ruster. Children, have you forgotten your Christmas cookies? Halla will help you make them if you run out to her.
+#OSWALD.
+Oh, I know what I want to make.
+#SIGURD.
+What, Oswald? - What?
+#OSWALD.
+I want a raisin in mine. Can I, Halla?
+#OLGA.
+If you are cold, Ruster, why not stay here by the fire and copy your music? Is there much more to do?
+#RUSTER.
+Liljekrona says there is no hurry. When will he be home?
+#OLGA.
+As soon as he has filled the sledge with boughs, for he knows we need him here on Christmas Eve. There they are, coming up the drive. We must have some place to put the branches. Well, what an armful you have!
+#LILJEKRONA.
+Tell the children I have brought home the whole forest for our Christmas.
+#OLGA.
+Put down your forest over here. Was it very cold?
+#LILJEKRONA.
+There has been a fine flurry all morning. But the fire feels good!
+#RUSTER.
+This is the warmest place in the house.
+#LILJEKRONA.
+How is it going? You haven’t forgotten how a page ought to look, have you, Ruster?
+#RUSTER.
+No, I can copy, but I cannot play. I have almost forgotten the sound of my flute. Nobody wants a flute - player nowadays! They do not care for music any more in Varmland and they do not want to learn.
+#LILJEKRONA.
+Yes, Varmland is not like Ekeby when we knew it.
+#RUSTER.
+It’s a pity we ever left there, Liljekrona! We have never had such playing since - you with your violin and I with my flute. Old Torwaldson waving his angry stick! By Heaven, he called the souls out of us!
+#LILJEKRONA.
+Yes, the violins sobbing - then the horns, the winds, the basses - each breaking over the other in thundering waves.
+#RUSTER.
+Holy Mother! - that was living!
+#LILJEKRONA.
+And from one patron off on the road to another, and along the way, what gay evenings in the tent and at the inn when a man was free from care!
+#RUSTER.
+How you could play then! Shall I forget that night in Olaf’s garden? You made your fiddle sing as though your heart were in tune with its strings. But now, Christ’s blood! you never play like that.
+#OLGA.
+He plays more beautifully now than he ever did at Ekeby.
+#LILJEKRONA.
+No, there is not so much time for practice here.
+#RUSTER.
+And the old spirit has gone out of you.
+#LILJEKRONA.
+I sometimes think so myself. It is hard to settle down after a life of wandering. Something wild keeps crying in my soul, bidding me be off again.
+#OLGA.
+Why is not home the place for music, Liljekrona? Surely those who love you most care most to hear. Must you seek your inspiration from strangers?
+#LILJEKRONA.
+No, Olga, you are more to me than a world of strangers. It is you alone who hold me here.
+#RUSTER.
+Yes - you have a warm fire and a full cellar to keep you at home. But what about the man who has not money enough to fill his flask? My horse, and carriole, and fur coat - they’re all gone! But still I have friends - lots of friends in Varmland, and they’re always glad to see me and give me a cup of cheer!
+#OLGA.
+Have you more copying to do still, Ruster?
+#RUSTER.
+The “Folksong” is almost finished. I was thinking, Liljekrona - that when that is done, there are two others you showed me yesterday, that would go well with this.
+#LILJEKRONA.
+It is better alone.
+#RUSTER.
+But those two shepherd songs. I took the book to my room. Wait till I bring it down.
+#OLGA.
+Liljekrona, don’t give him more copying, or we shall be obliged to keep him over Christmas.
+#LILJEKRONA.
+He must be somewhere.
+#OLGA.
+Our Christmas is spoiled if he stays. He is so dirty and he drinks so. And think how bad it is for the children.
+#LILJEKRONA.
+But he is an old friend.
+#OLGA.
+Yet on Christmas Eve - we have kept thinking how happy we should be, telling stories and dancing about the tree. And you would play our favorite tunes. But now all the pleasure is gone if Ruster stays!
+#LILJEKRONA.
+Formerly you were glad to see him.
+#OLGA.
+Yes - we all were. But not since he has become a drunkard. And, Liljekrona, I am afraid -
+#LILJEKRONA.
+Afraid of what, dear?
+#OLGA.
+Let him go somewhere else for Christmas.
+#LILJEKRONA.
+How can we send him away? It would be inhospitable. Nobody wants him any more than we do.
+#OLGA.
+But the children, Liljekrona.
+#RUSTER.
+Here it is.
+#LILJEKRONA.
+Yes, I remember.
+#RUSTER.
+Shall I copy them?
+#LILJEKRONA.
+No - I can play these from the book.
+#RUSTER.
+This is a poor transcription. It should be written in D instead of F.
+#LILJEKRONA.
+Well, I can transpose it.
+#RUSTER.
+I have not copied the words for the “Folksong.” Do you want it done?
+#LILJEKRONA.
+No, it will do as it is.
+#RUSTER.
+Well then, it is finished. I suppose I must be going.
+#LILJEKRONA.
+You had better stay where you are over Christmas.
+#RUSTER.
+What do you mean, Liljekrona, shall I stay here because I have nowhere else to go? Why, only think how they are standing and waiting for me in the big ironworks in the parish of Bro. The guest - room will be already in order and the glass of welcome filled. I must hurry. I only do not know to whom I should go first.
+#LILJEKRONA.
+Very well, you may go if you will.
+#RUSTER.
+Yes, I must go - at once.
+#OLGA.
+If you wish, Torstein will drive you down. Are the horses still harnessed, Torstein?
+#TORSTEIN.
+Yes, Ma’am.
+#OLGA.
+Then bring the sledge around.
+#RUSTER.
+And bring it at once. I have only to get my treasures and I am ready.
+#TORSTEIN.
+He’s not going to stay over Christmas?
+#OLGA.
+You must hurry back, Torstein. The snow is getting deep.
+#OLGA.
+You will slip in something for Christmas?
+#LILJEKRONA.
+Of course.
+#OLGA.
+Will you lend him your big coat? Torstein can bring it back. As long as he wishes to go himself, it is as well to let him.
+#LILJEKRONA.
+That is always poor payment for art, Ruster, but it may serve you, somehow.
+#RUSTER.
+Yes.
+#OLGA.
+Will you put on this coat, Ruster? You must keep warm, and watch that your hands and face are well covered. And tell Torstein where to take you in Bro.
+#RUSTER.
+I’ll be there in time for a glass of punch and the Christmas tree at Erickson’s - or Oscar’s - or -
+#OLGA.
+A happy Christmas to you!
+#LILJEKRONA.
+Good luck, Ruster.
+#RUSTER.
+Good - bye.
+#OLGA.
+Now as soon as the boughs are up, we shall be ready for our Christmas tree. Don’t you think some holly would be nice for the table, Liljekrona? Children, what are you doing? Come and bring your play in here.
+#SIGURD.
+Father! See my fat dough fingers.
+#LILJEKRONA.
+What are you making, Sigurd?
+#OSWALD.
+Christmas things for Halla to bake.
+#SIGURD.
+Then they will be brown and we can eat them just like the round cookies. See, Mother.
+#OSWALD.
+Only these aren’t round cookies, Mother.
+#SIGURD.
+No. There is a Christmas tree.
+#OSWALD.
+And I made a star.
+#SIGURD.
+And I’m going to make - what, dear?
+#OSWALD.
+A little Christ - Child we’re going to make. little bit of a baby Christ - Child.
+#OLGA.
+That will be a lovely Christmas task.
+#OSWALD.
+Look, Father! Look at my cookie! To - night I’ll eat it for supper.
+#LILJEKRONA.
+Yes. I wonder how many little boys will be eating their Christmas cookies to - night, and how many will be without a bite of Christmas dinner, hungry and cold.
+#OSWALD.
+Won’t they have any Christmas dinner, Father?
+#LILJEKRONA.
+Some won’t.
+#SIGURD.
+Why won’t those little boys have any Christmas dinner, Mother?
+#OLGA.
+Father meant, dear, that some children are too poor to buy any.
+#OSWALD.
+Where are the poor children?
+#OLGA.
+I’m afraid there are some in every village, Oswald.
+#SIGURD.
+In our valley, Mother?
+#OLGA.
+Yes, dear, I’m afraid there are.
+#OSWALD.
+Then, Mother, if Sigurd and I made some good cookies, could we take them down to those poor children?
+#OLGA.
+If only we knew just where we could find them, Oswald. It is hard sometimes to know where the lonely people are, and the hungry ones.
+#LILJEKRONA.
+And when they pass so close as to touch our sleeve on the way we do not see them, we do not stop them, but let them plod their path alone.
+#OLGA.
+It is a good thought, Oswald. Take them out to Halla now, so she can bake them before to - morrow.
+#SIGURD.
+I can’t make a Christ - Child, Mother. It doesn’t look like anything.
+#OSWALD.
+It looks like a star.
+#OLGA.
+Let me see, dear. I think Mother would know what that was. Take it to Halla and she will bake it. Then wash those sticky hands. It is time to light the tree. You will play for us to dance? - one of the old polkas, Liljekrona.
+#LILJEKRONA.
+My E string has snapped.
+#OLGA.
+Well, put on a new one. Quick, before the children come back.
+#OSWALD.
+Mother! Are you lighting the tree instead of Father?
+#OLGA.
+Yes. Do you want to help?
+#OSWALD.
+Oh, yes.
+#SIGURD.
+And I want to, too.
+#OLGA.
+You shall, dear. But first put the cakes on the table. Here, Sigurd, first the low ones - there. Now, Oswald. Can you do it, dear?
+#OSWALD.
+You light those, Mother.
+#OLGA.
+There.
+#SIGURD.
+The top one of all isn’t lit, Mother.
+#OLGA.
+No, Father is the only one who can reach that. We’ll have to leave it. Come, Halla.
+#OLGA.
+We’re all ready for a polka.
+#LILJEKRONA.
+I have no new string for my fiddle.
+#OLGA.
+But you can play on three strings.
+#LILJEKRONA.
+I can remember no polkas.
+#OLGA.
+Why, Liljekrona, can’t you play anything? Sha’n’t we be able to dance at all?
+#LILJEKRONA.
+Torstein is not back yet. He is the best dancer of all. Perhaps it was hard to find the house.
+#OLGA.
+Well then, we’ll wait our dancing for Torstein, and have our punch and cakes while they are hot.
+#LILJEKRONA.
+The sparrows are twittering about the window sill most miserably. Where is the pole with the sheaves for them?
+#OLGA.
+I did not think of it till now. Did you remember, Halla?
+#HALLA.
+No, I didn’t. Poor little things!
+#LILJEKRONA.
+How is it that you forgot on this day, of all days? Do old customs mean nothing to you? Or is it the heartlessness of those who shut their eyes to the meaning of old beliefs? At Ekeby no one ever forgot!
+#OLGA.
+No, my dear, we are not heartless. The sheaves shall be put out as soon as Torstein returns. Come, shall we have our punch and cakes? Children, are you hungry?
+#OSWALD.
+I am.
+#SIGURD.
+I want a cookie from my plate.
+#LILJEKRONA.
+And there are no candles in the windows. Nothing is done as it used to be.
+#OLGA.
+Oh, why - why, I had intended to light the candles. Come, children, before you have your cookies will you help Mother? Careful. Put them on the windowsills.
+#OSWALD.
+I want mine in this window. You put yours over there, Sigurd.
+#OLGA.
+Halla, take the punch to the table by the fire. Come, children. Sigurd, do you know why we put candles in the windows on Christmas Eve?
+#OSWALD.
+So that people can see where we live!
+#OLGA.
+Yes - dear; and there is a story that the little Christ - Child goes about on Christmas Eve looking for a welcome.
+#SIGURD.
+And if he sees our lights, Mother, will he come to our house?
+#OLGA.
+Yes, dear, and when you hear him say: “Behold I stand at the door and knock - ”
+#LILJEKRONA.
+“And if any man hear my voice and will open the door, I will come in and sup with him, and he with me.” Your candles are too late. The door is closed. The voice is gone.
+#OSWALD.
+Why did Father go away, Mother?
+#HALLA.
+Is it anything the matter with the punch, Ma’am?
+#OLGA.
+No, Halla, it’s not the punch - I think he’s not - very happy -
+#SIGURD.
+Won’t he come back, Mother? Who will tell us stories?
+#OLGA.
+He is playing. Why - he has not played like that since he came home. It is his great heart full of revolt from all that is small about us. “You thought to bind me,” he is saying, “you thought to make me as small - minded as yourselves.” Oh, I was wrong! I thought to shut out unhappiness, but with it I have shut out love. To - morrow he will be gone, if God does not work a miracle in the night.
+#HALLA.
+It must be Torstein come back again at last. No, there are two of them. And yet that’s Torstein. He’s getting out. He’s helping the other. Why, it must be Ruster with him!
+#OLGA.
+Ruster, did you say, Halla? Has Ruster come back again? Surely it is he! Ruster, you are welcome back to Lofdala.
+#TORSTEIN.
+I had to bring him back, Ma’am. At every house they were either going away over Christmas, or were crowded with company. They didn’t even ask him to get out of the sledge. And the snow was so thick I thought we’d both be frozen.
+#OLGA.
+You did well to bring him, Torstein. Halla, is the punch still hot?
+#HALLA.
+Yes, Ma’am.
+#OLGA.
+Then pour out a glass. It will warm him.
+#TORSTEIN.
+Um! That puts life into you! Well, I must drive the horses around, or they’ll be drifted in.
+#RUSTER.
+How did I come here again? It is strange, all strange to be in Liljekrona’s house - I thought - Why are you so kind to me? I am only an old broken - down instrument....
+#OLGA.
+We are glad to see you, Ruster! And I want you to think - you have never been away. Let me have your wet coat. Halla will dry it in the kitchen.
+#OLGA.
+Are you warmer now?
+#RUSTER.
+Yes - quite warm, thank you.
+#OSWALD.
+Here’s a cookie.
+#RUSTER.
+I can’t stay here! I am of no use - here - or anywhere!
+#OLGA.
+You are mistaken, Ruster. You may help, if you will. I must attend to setting the table for dinner and the children will be quite forsaken. Will you look after them a little?
+#RUSTER.
+I can’t do that! - Why, I - they -
+#OSWALD.
+How do you do that?
+#SIGURD.
+Why do you lift your fingers?
+#RUSTER.
+To make the notes.
+#SIGURD.
+Let me try!
+#OSWALD.
+Let me try! How do you do it?
+#RUSTER.
+I blow in here. And I keep the holes covered with my fingers. When I want to make a note, I lift up a finger, like this.
+#SIGURD.
+Blow another.
+#RUSTER.
+This is A and this is B. and B. You can’t play them. They’re letters.
+#RUSTER.
+Yes, and in music they are the names of the notes. This is the way they look.
+#SIGURD.
+Let me see.
+#OSWALD.
+No! That’s not right! That’s not what’s in our storybook! See - I’ll show you.
+#RUSTER.
+Can this boy spell his name?
+#SIGURD.
+Yes - S I G U R D!
+#OSWALD.
+See - look at our book. There isn’t any A and B like that! That is A and that is B.
+#RUSTER.
+Can you read that?
+#OSWALD.
+Yes, I can read it.
+#OSWALD.
+“Far away, in the deep forest there once grew - ”
+#BOTH CHILDREN.
+“A pretty Fir - Tree. The sun shone full upon him, the breeze played freely around him, and in the n - n - ”
+#RUSTER.
+“Neigh - bor - hood.”
+#OSWALD.
+“Neighborhood grew many Fir - Trees.”
+#BOTH CHILDREN.
+“Some older, some younger.”
+#OSWALD.
+Look - I’ll draw you a fir - tree.
+#SIGURD.
+“But the little Fir - Tree was not happy; he was always long - longing to be tall; he th - th - ”
+#OLGA.
+Ruster - Ruster! Don’t feel badly!
+#RUSTER.
+Yes - I am of no use any more.
+#OLGA.
+I know - I know. You cannot make a living by your music and you are destroying yourself with brandy. You have been turned away from every door where you have knocked. But, Ruster -
+#RUSTER.
+Yes, I am worn out. I ought to be thrown away! Nobody needs me.
+#OLGA.
+But don’t you see that to be with the children, as to - night, would be something for you? If you would teach children you would be welcomed everywhere. Look at them, Ruster! Look at them!
+#RUSTER.
+I dare not!
+#OLGA.
+Then you must accustom yourself to them, Ruster! Perhaps you could help them with their reading. They need a schoolmaster! How would you like that, children?
+#LILJEKRONA.
+Why are you laughing, Olga, what is it?
+#OLGA.
+Nothing - but that Ruster has come again!
+#LILJEKRONA.
+Ruster here again?
+#OLGA.
+Yes, and he is going to stay with us to teach our little boys.
+#LILJEKRONA.
+Ruster! You have asked him to teach - ?
+#OLGA.
+Yes, Oswald and Sigurd. He has been helping them this afternoon.
+#LILJEKRONA.
+But - has he promised to give up - ?
+#OLGA.
+He has promised nothing. But there is much about which he must be careful when he has to look little children in the eyes every day.
+#LILJEKRONA.
+You’re sure he can do it?
+#OLGA.
+If it had not been Christmas, perhaps I should not have ventured; but if our Lord dared to place His own son among us sinners, surely we can dare to let our children try to save a human soul.
+#LILJEKRONA.
+The children must come and kiss their Mother’s hand!
+#OLGA.
+Ruster, it is you who have made our Christmas happy.

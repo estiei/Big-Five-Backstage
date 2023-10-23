@@ -1,0 +1,582 @@
+#IDA.
+Now, isn’t that delightful?
+#EVA.
+Delightful! It’s positively bewitching. Bless that dear Monsieur Adonis. He deserves a crown of roses for introducing to his assembly the latest Terpsichorean novelty. O, we shall have a splendid time to - night!
+#IDA.
+Especially as those charming waltzers, Messrs. Richard Dasher and Lavender Kids, “the glass of fashion and the mould of form,” are to honor us with their presence.
+#EVA.
+Yes, indeed. What would the dance be without them?
+#IDA.
+Not worth the trouble of dressing. But don’t you think that Mr. Dasher is a little too attentive to Miss Eva Mulligrub,—eh, sister?
+#EVA.
+Not more attentive, certainly, than is Mr. Lavender Kids to her charming sister, Miss Ida Mulligrub.—Eh, sister?
+#IDA.
+But seriously, Eva, I begin to think that you are carrying this matter a little too far. Mr. Dasher might reasonably expect, from the partiality you unhesitatingly show for his society, and the smiles you bestow upon him, to be considered your lover.
+#EVA.
+You begin to think. Why, bless you, Ida, I’ve thought and thought and thought, for a long time, that were I Mr. Lavender Kids, I should pop the question at once, so undeniably entranced are you by his attentions.
+#IDA.
+Eva!
+#EVA.
+Ida!
+#IDA.
+You’re talking nonsense.
+#EVA.
+Well, you began it.
+#IDA.
+But you know you like Mr. Dasher.
+#EVA.
+To be sure I do. He’s the best waltzer in the city. Graceful, agreeable, and decidedly good - looking.
+#IDA.
+And you would marry him?
+#EVA.
+Not unless he asked me, and then—
+#IDA.
+And then—
+#EVA.
+I should remember that he is considered a fortune - hunter, that he is too fond of horses, that possibly he might have an eye on father’s bank - book, that I don’t want such a husband, and should very sweetly, calmly, but decidedly say, No, thank you, Mr. Dasher.
+#IDA.
+Exactly what I should say to Mr. Kids, without the sweetness and calmness.
+#EVA.
+I hope we shall not have the chance, for then, of course, we should lose their society—and they are such superb waltzers.
+#IDA.
+But what in the world could have possessed mother to have us come so early. Hurry, girls, hurry! And here we are before the hall is lighted.
+#EVA.
+I’m sure I don’t know. It’s one of her whims. One would hardly think that, at her age, she would care for dancing.
+#IDA.
+But she does. I caught her to - day attempting a waltz before the glass in her room; and such work as she did make of it!
+#EVA.
+She’s not very nimble with her weight of years and flesh, but she would come to - night, and without father, too.
+#IDA.
+Catch him in such a place! No doubt he’s already snoring at home in his easy - chair, speculating on corner lots in his dreams.
+#EVA.
+Better that than the old life, dragging a handcart through the streets, and shouting, “Cod! haddock! halibut! eel—eel—eel—eels!”
+#IDA.
+Why, Eva, don’t speak of that; and such a noise, too.
+#EVA.
+Who cares. Everybody knows what we once were, and I, for one, am not going to be ashamed of father’s old occupation. He has made money in an honest way: so let us have no false pride, Ida. “Cod! haddock! halibut! eel—eel—eel—eels!”
+#MRS. MERRY.
+Well, I never! Eva Mulligrub, I’m blushing with shame, petrified with mortification, and stunned with grief, to hear such words as those proceeding from your lips. I never heard such language before, never.
+#EVA.
+Why, mother! And I’ve heard father say those very words brought you to the window many a time when he passed; that they were the bait by which you were caught, and that you were the best catch he ever made.
+#MRS. MERRY.
+Fiddle - de - de! That’s his twaddle. We’re above such language now. But come, girls, fix me up! I’m all coming to pieces. Is that what’s - its - name behind all right, and this thingumbob on my neck, and the what - you - may - call - it on top of my head? Dear me, I’m all in a pucker.
+#IDA.
+Everything about your dress is charming, mother.
+#MRS. MERRY.
+Well, I’m glad on’t. Now girls, look here, I’ve made an assignment with Munseer What’s - his - name to - night. what?
+#IDA.
+Assignment? You mean an appointment.
+#MRS. MERRY.
+Well, it’s all the same. I’m going to learn to do that dipper thing, if I die for it.
+#EVA.
+I don’t understand.
+#IDA.
+She means The Boston Dip.
+#MRS. MERRY.
+That’s it—where you go tipping about, while the fiddlers play Struse’s Beautiful Blue Dan - u - by.
+#EVA.
+You, mother, learn to waltz!
+#MRS. MERRY.
+And why not? There’s Mrs. What’s - her - name gets through it, and she’s older and heavier than I. I’m going to learn it. What’s the use of having money if you can’t spin round like other folks. But don’t say a word to your father. Bless me, how he would roar! But he’s safe at home, snoozing in his chair by this time. I’ve arranged it all. I’ve engaged this drawing - room for my own party, and when you’re all dancing in the hall, Munseer A—A—what’s - his - name will slip in here, and practice the waltz with me, and nobody will know anything about it until I’m deficient.
+#IDA.
+Proficient, mother.
+#MRS. MERRY.
+Well, what’s the difference? It’s all arranged. I’m not going to make a fool of myself before folks when I can pay for private lessons.
+#MR. DASHER
+Eureka!
+#MRS. MERRY.
+Good gracious! You what?
+#MR. DASHER
+“Fortune favors the brave.” Like Cæsar, I came, I saw, and I’m overcome. May I come in?
+#MRS. MERRY.
+Certainly, Mr. Dasher. Your presence always adds a charm to our—what’s - its - name—circular.
+#IDA.
+Circle, mother.
+#MRS. MERRY.
+Well, what’s the odds?
+#MR. DASHER
+Thank you, Mrs. Mulligrub. You are arrayed like an empress; Miss Ida, your costume is only eclipsed by your charming face; Miss Eva—
+#EVA.
+“Last but not least in our dear love,” must of course be divine; so spare my blushes and your breath.
+#MR. DASHER
+Thank you. And now congratulate me. I threw down my pen, after a hard fight with figures, to seek the lonely recesses of my bachelor’s quarters, heartily sick of life, when it suddenly occurred to me that this evening Monsieur Adonis gives one of his charming assemblies. Perhaps, thought I, there I may find rest for my weary brain from the figures of the ledger, which are dancing in my head, in the figures of the dance. But did I dream of falling into such charming society? No; most emphatically and decidedly, no. Therefore, like Cæsar—
+#MRS. MERRY.
+And pray, Mr. Dasher, who is this Cæsar you’re making such a fuss about?
+#IDA.
+Why, mother!
+#MRS. MERRY.
+La, child, there’s nobody of that name I’m acquainted with.
+#IDA.
+You know, mother, Cæsar was the great Roman general, who—
+#MRS. MERRY.
+La, yes; Mr. Dasher was only speaking metagorically. Cæsar was the man who crossed the what’s - its - name, and was stabbed by a brute.
+#EVA.
+Never mind Cæsar. Here’s my card, Mr. Dasher. Of course your name will be the first I shall allow upon it.
+#MR. DASHER
+Am I to be so highly honored.
+#EVA.
+For a waltz, and only one.
+#MRS. MERRY.
+La, child, don’t be so unscrupulous. You’ll dance till you drop if you get a chance.
+#IDA.
+Hush, mother.
+#MRS. MERRY.
+Now what’s the matter with you? Mr. What’s - his - name will dance with you, too. Don’t be so anxious.
+#IDA.
+O, dear, was there ever such a torment.
+#MR. KIDS
+Now, weally! Have I stumbled into the bodwaw of a bevy of enchanting goddesses?—have I, weally?
+#IDA.
+O, Mr. Kids!
+#EVA.
+You have, weally, Mr. Kids.
+#MR. DASHER
+Lavender, my boy, how are you?
+#MR. KIDS
+And will the divine goddesses permit me to entaw, to disturb their tableaw of beauty with my horwid figgaw?
+#EVA.
+Yes, trot your horwid figgaw in, Mr. Kids.
+#MRS. MERRY.
+Eva, I’m astonished at such language as those. Mr. Kids, we are delighted to see you.
+#IDA.
+Yes, indeed, Mr. Kids. I’ve kept my card for you.
+#MR. KIDS
+Divine creachaw, you overpowaw me—you do, weally. Just one waltz?
+#EVA.
+As many as you please, Mr. Kids.
+#MRS. MERRY.
+Now that’s what I call generous. I wonder where Mr.—no, Munseer—Adonis can be.
+#EVA.
+Mr. Dasher, how can you tell such falsehoods, when you know, that I know, that you know, we were to be here to - night.
+#MR. DASHER
+What a knowing young lady. It’s one of the frailties of masculine nature, Miss Eva. I’m glad I was not George Washington, for I should certainly have spoiled that hatchet story by a lie. Now I am here, dear Miss Eva, overpowered with the burden of a weighty secret, I am going to disclose it. I—I—
+#MR. KIDS
+I say, Dashaw, I’ve had my bwains surveyed to - day.
+#MR. DASHER
+Have you? I didn’t know you had any.
+#MR. KIDS
+Yaas, several. Destwuctiveness, combativeness, idolitwy—
+#MR. DASHER
+Ideality.
+#MR. KIDS
+Yaas, it’s vewry wemarkable how those phwenological fellaws lay out your bwains, and name them just like—aw—stweets.
+#MR. DASHER
+They must have labeled some of yours “No Thoroughfare.”
+#EVA.
+O, don’t talk about brains, Mr. Kids. The discussion of such a subject might fly to your head.
+#MR. DASHER
+And so light is the material there, cause a conflagration.
+#MR. KIDS
+Yaas, yaas, like a Mansard woof. And, Dashaw, I’ve got a diwectory of my bwains, and it’s deucedly clevaw; for if an ideah gets into my bwains, I can trace it out in the diwectory, and tell just where it lies, you know, and know just where to find it. Deuced clevaw.
+#MR. DASHER
+’Twould die of starvation before you found it.
+#MRS. MERRY.
+Ah, here’s Munseer Adonis at last!
+#MONS. ADONIS
+Charmant, charmant, leedies and gentimen, I kees your hands. You do me proud. I feel ze glow of satisfaction in ze inermost inside of zis bosom, when you do me ze grande honneur to grace my salon wiz your presence. I feel ze glow all ovar.
+#MRS. MERRY.
+O, Munseer Adonis!
+#EVA.
+Politest of Frenchmen.
+#IDA.
+Paragon of dancing - masters.
+#MONS. ADONIS
+Pardon me, charmant medmoiselles and adorable madam, if ze modest blush of shame paint my cheek wiz ze hues of ze roses. I am ze humble instrument of ze divine art which gives ze grace to ze figure, and ze airy lightness to ze beautiful toes of madam and ze charmant medmoiselles.
+#EVA.
+Now, Munseer Adonis, we are all impatience. When will the dance begin?
+#MONS. ADONIS
+On ze instant. Ze company have assemble in ze grande salon. When madam and her friends make ze grande entrée, zen will ze music strike ze signal.
+#IDA.
+We are all ready.
+#MRS. MERRY.
+Munseer Adonis, one word with you.
+#MONS. ADONIS
+Wiz ze uttermost pleasure. Am I not ze slave of ze matchless madam and her money.
+#MR. DASHER
+Miss Eva, I must have an interview with you this evening. I have much to say. Meet me here in half an hour.
+#EVA.
+Certainly. I’ll slip away at the first opportunity.
+#MR. DASHER
+Thank you. The first dance is mine, you remember.
+#MR. KIDS
+Aw, Miss Ida, I must speak with you alone; I must, weally. There’s something on my bwain—no—on my bweast, that must be welieved. Don’t go. Stay behind with me.
+#IDA.
+And lose the first dance?—No, indeed.
+#MR. KIDS
+Weally, I couldn’t ask that. Couldn’t you contwive to meet me here alone?
+#IDA.
+At the first opportunity. I’ll do my best. Eva, one moment.
+#EVA.
+Well, dear?
+#IDA.
+Don’t you think, Mr. Kids wants me to meet him here alone.
+#EVA.
+Does he? The same thought must have wandered into his bwain that crept into Mr. Dasher’s, for he expects me to meet him here alone.
+#IDA.
+Do you know what it all means?
+#EVA.
+Certainly—proposals.
+#IDA.
+And will you permit Mr. Dasher—
+#EVA.
+No, indeed. Marry that fickle thing? Never!
+#IDA.
+Exactly my mind. Mr. Kid’s a fool.
+#EVA.
+But, like Mr. Dasher, a splendid waltzer. We cannot afford to lose them.
+#IDA.
+Indeed we cannot. Partners are so scarce.
+#EVA.
+They want father’s money.
+#IDA.
+But they must not have his daughters.
+#EVA.
+No, indeed. You watch me, and I’ll watch you, and there’ll be no proposals.
+#MRS. MERRY.
+And you got my note, Munseer Adonis?
+#MONS. ADONIS
+Ah, madam, I have it next my heart. “Meet me in the private drawing - room when ze company are waltzing. Do not fail me. Hannah Mulligrub.” Zat is all it say.
+#MRS. MERRY.
+But you know what it means. I am anxious to learn “The Boston Dip.” Were I to come to your school I should be laughed at, but here, while the company are waltzing, no one would know it, and the inspiring music would aid me. I don’t want to make a fool of myself, you understand.
+#MONS. ADONIS
+Certainly. All zat I shall remember. I have written on ze back of ze note “Boston Dip.” I put him in ze pocket wiz my handkerchief, so zat when I pull him out to wipe my face ze note will arrest my attention, and I shall fly to you, madam.
+#MRS. MERRY.
+O, you Frenchmen are so inveterate.
+#MR. DASHER
+Come, Monsieur Adonis, the dance, the dance! I’m all impatience for its end.
+#MR. KIDS
+Weally, the delay is vexatious; it is, weally. Meet me here, you know.
+#MONS. ADONIS
+Pardon me, I am all impatience. Charmant, madam, shall I have ze pleasure. Ze night is ver warm, ver warm.
+#MR. MULLIGRUB
+So, so, here we are, Mrs. Mulligrub, unexpectedly, and no doubt unwelcome. You imagine the old codger snoozing away at home, but here he is, and wide awake too. It’s about time the head of the house knew what is going on. And here’s where the money goes. Well, who cares? There’s lots of it, so let it fly. But I’ve a wonderful curiosity to know how my Hannah carries herself among all these fine snobs, so I’m bound to have a peep. Hallo! what’s this? a billy - deux? Where’s my specs? “Meet me”—ho, ho! here’s a nice little plot——“in the private drawing - room”—that’s here——“while the company are waltzing. Do not fail me. Hannah Mulligrub.” My wife! Ye gods and little fishes! my wife. “Do not fail me.” Is this the reward of my generosity? My wife! What does it mean? Who is the scoundrel that is tampering with the affections of Hannah, and the peace of Moses Mulligrub? “Boston Dip.” Who’s he? “Boston Dip.” There’s a name. I’ve heard of the “Manchester Pet,” and the “Dublin Baby,” but the “Boston Dip,”—confound him, let me get hold of him, and I’ll Christen him with a dip that will drown him. Here’s nice goings on! A respectable wife, and a mother, too, making an appointment with an individual bearing such a name as that—“Boston Dip.” He shall not fail you, Mrs. M., but he must meet me too. I’ll not stir from this place until I know what this means. This comes of letting women roam abroad when they should be kept at home. O, Mrs. Mulligrub! if I don’t cut down your pin money for this my name’s not Moses Mulligrub. I’ll not leave you a pin to stand on. “Boston Dip.” Gracious! he must be a sparrer, and that’s his fighting name. No matter, let him come on. The old man’s a little out of practice, but he’s game. If this little party does not end in a shindy, it won’t be my fault.
+#MR. DASHER
+Does she mean to come? I cannot attract her attention. Why don’t she come? I beg your pardon.
+#MR. MULLIGRUB
+Sir!
+#MR. DASHER
+I really beg your pardon. Did you break anything?
+#MR. MULLIGRUB
+No, sir; but I shall presently break the peace and your head.
+#MR. DASHER
+I beg you won’t do anything of the kind. It was an accident; and besides, you are trespassing here.
+#MR. MULLIGRUB
+O, I am! And pray, sir, will you be kind enough to explain the meaning of that remark?
+#MR. DASHER
+Certainly. This is Mrs. Mulligrub’s private drawing - room, where none but her friends are allowed to enter.
+#MR. MULLIGRUB
+Indeed! This must be “Dip.” Well, sir, I am one of her friends—a particular friend.
+#MR. DASHER
+I see: an old friend of the family. You’re just the man I want to see. Yes, sir, the moment I set eyes on you I said to myself, “There’s a man who can serve me.”
+#MR. MULLIGRUB
+Indeed— with a broken head.
+#MR. DASHER
+Yes, sir. You know old Mulligrub?
+#MR. MULLIGRUB
+Old Mulligrub! Intimately.
+#MR. DASHER
+Good. I’ve never seen him, but people say he’s immensely rich. What do you say? Will he cut up well?
+#MR. MULLIGRUB
+“Cut up!” Confound his impudence.
+#MR. DASHER
+I’ve particular reasons for wishing to know. I may say, I am very much attached to a member of his family, you understand. I’m not mercenary; but you know times are hard, and to make a respectable show in society, have a nice house, a half dozen fast horses, and all that sort of thing, requires money. Now, what I want to know is this, will the old man shell out?
+#MR. MULLIGRUB
+Shell out? Look here, young man, for coolness you certainly would take the premium at the largest display of frozen wares in Alaska. If I don’t answer your polite questions, it is because your audacity has so astounded me, that, hang me, if I know whether there is an old Mulligrub to “cut up” or “shell out” at all. It must certainly be “Dip.”
+#MR. DASHER
+O, you won’t tell. Hush! there’s somebody coming—somebody who I am particularly anxious to meet alone, you understand. Just step out of that door , that’s a good fellow.
+#MR. MULLIGRUB
+Sir, I shall do nothing of the kind.
+#MR. DASHER
+But you must—only for a moment, and then you shall return.
+#MR. MULLIGRUB
+Sir, do you know who I am?
+#MR. DASHER
+Certainly; a friend of the family; and, as a friend of the family, when the time comes you shall know all. Now go, that’s a good fellow.
+#MR. MULLIGRUB
+But, sir, I shall not. Stop. I’ll watch. Very well, sir; as I seem to be in the way, I will retire.
+#MR. DASHER
+I knew you would—you’re such a good fellow.
+#MR. MULLIGRUB
+Good fellow! Confound his impudence.
+#MR. DASHER
+Ha, ha! Got rid of him. Now for a tender interview with Miss Eva, ending in a proposal, which I know she will accept. I knew you would come.
+#EVA.
+Because I promised. O, Mr. Dasher, that waltz was delightful.
+#MR. DASHER
+Indeed! I am glad you enjoyed it. If it gave you pleasure I should be satisfied, though my heart is heavy, and the waltz had little inspiration for me.
+#EVA.
+Dear me, Mr. Dasher, you look as melancholy as an owl. What has gone wrong?
+#MR. DASHER
+Nothing—everything—Miss Eva. I am on the verge of a precipice, a frightful precipice.
+#MR. MULLIGRUB
+There’s “Dip” and—Eva, as I live!
+#EVA.
+I don’t understand you, Mr. Dasher.
+#MR. DASHER
+Upon the verge of a frightful precipice I totter. Beneath me are the whitened bones of many a mortal. If I fall not a tear will be shed for me.
+#MR. MULLIGRUB
+Nary a tear, young man.
+#MR. DASHER
+’Tis the valley of disappointed hopes.
+#MR. MULLIGRUB
+Dip’s getting grave.
+#MR. DASHER
+Into this must I fall, unless the succoring hand be stretched forth to me.
+#MR. MULLIGRUB
+The sucker!
+#MR. DASHER
+You, Miss Eva, you—admirable, divine, angelic—can stretch forth that hand to save Dasher from dashing himself into the valley.
+#EVA.
+Mr. Dasher, have you been drinking?
+#MR. DASHER
+Draughts of bliss from the fountain of love: basking in the sunshine of your presence. O, Miss Eva, will you save me?
+#EVA.
+Once again, Mr. Dasher, I tell you I do not understand you.
+#MR. MULLIGRUB
+’Twould puzzle a Dutchman.
+#MR. DASHER
+Have I then been mistaken? have those little delicate attentions which I fondly imagined were gaining for me a corner on your heart—ah, I mean in your heart—been wasted on the desert air?
+#MR. MULLIGRUB
+Dip’s getting airy.
+#MR. DASHER
+On the brink of a precipice I stand—
+#MR. MULLIGRUB
+On the rocks again, Dip.
+#MR. DASHER
+Can you see me rush headlong to ruin, angelic Eva.
+#MR. MULLIGRUB
+Dip’s getting high—
+#MR. DASHER
+You are the star of my destiny; you are the prize for which I strive, you are the divinity of my adoration. Here on my knees— I swear nothing shall part us.
+#IDA.
+O, quick, quick, Eva! I’ve got you such a partner! He’s all impatience. Quick! the music is just about to commence. I wouldn’t have you lose him for the world.
+#EVA.
+But Ida—
+#IDA.
+Don’t stop to talk. Come quick! quick!
+#MR. MULLIGRUB
+Ha, ha! Dip’s left on the brink again.
+#MR. DASHER
+Confound that girl! I’ve lost the chance. This comes of making a long story about a very short question. The precipice was a failure. I’ll go and pump the friend of the family.
+#MR. MULLIGRUB
+That can’t be Dip, after all. He’s after Eva. But he can’t have her. Thanks to his confidential assurance, I can send him over the precipice into the valley of disappointed hopes in short order.
+#MR. KIDS
+Now weally, I saw Miss Ida enter this woom, positively saw her, and now she’s gone. Hallo! an intrudaw. Sir, I have not the honow of your acquaintance. This woom is the wesort, the westing - place of a bevy of divine goddesses. No masculine mortals are allowed to entaw here.
+#MR. MULLIGRUB
+Show! then you are not a masculine mortal, I take it.
+#MR. KIDS
+Sir, you are impertinent. I am—I am a particular fwiend of the lady who is the lawful possessor of this wesort.
+#MR. MULLIGRUB
+Can this be Dip? Sir, I am a particular friend of the lady in question, being the brother of her husband’s brother.
+#MR. KIDS
+Weally, the bwover of her husband’s bwover. Pon honow, that’s a sort of cwoss - eyed welation.
+#MR. MULLIGRUB
+What do you mean by that? Do you doubt my right to be here?
+#MR. KIDS
+Hey? wight?—no, no. He must be a witch welation. Do you know Mr. Mulligwub?
+#MR. MULLIGRUB
+Intimately.
+#MR. KIDS
+I say, would it be a good inwestment to wun away with a membaw of his family?
+#MR. MULLIGRUB
+It must be Dip. Shall I mash him? No, no, the proof first. Splendid! Can I help you?
+#MR. KIDS
+Well, I don’t know. He’s a wough specimen, and he so vulgaw. Sold fish in a handcart, too. I detest fish, it’s on such a low scale. Now isn’t that good? It’s owiginal, too. I don’t like the odaw. Dreadful low people, but then, there’s lots of money. Yaas, I think I will sacwafice myself.
+#MR. MULLIGRUB
+I’ll sacrifice you, you monkey. But tell me, who is the favored member of the family?
+#MR. KIDS
+Hush! somebody’s coming. You must wetire.
+#MR. MULLIGRUB
+What, and lose the fun? No, I thank you.
+#MR. KIDS
+You must, weally. The lady is coming. It would shock her delicate nerves were you to be pwesent at the interview. So go, that’s a dear fellah.
+#MR. MULLIGRUB
+He calls me a good fellah. Shall I fell him on the spot? No, I’ll wait; vengeance can afford to wait.
+#MR. KIDS
+Do wetire, and, when it’s all ovaw, I will call you. Good fellah.
+#MR. MULLIGRUB
+You’ll call me when it’s all over. I’ll be on hand while it’s going on.
+#MR. KIDS
+There, the bwover of the husband’s bwover is excluded from the apartment of the wife of the bwover’s husband—no, that ain’t it, it’s the bwover’s wife’s husband—no, or— Here she comes, lovely as a poppy, because she’s got a rich poppy. That’s good—owiginal, too.
+#IDA.
+Here I am, Mr. Kids, to fulfill my promise.
+#MR. KIDS
+Yaas, Miss Ida, like the bounding fawn that—that—weally, I forget what the bounding fawn was doing—O, weally, bounding, of course. That’s very good—isn’t it?—owiginal, too. But where was the bounding fawn bound? that’s the question.
+#IDA.
+I wish I could answer your question, but, not being versed in natural history, I am unable to say.
+#MR. KIDS
+Weally. Well, never mind the fawn. Listen, O, listen! I’m a miserable wetch, I am.
+#IDA.
+Miserable? you?
+#MR. KIDS
+Yaas, weally. I’m standing—I’m standing,—where am I standing?—O, on the bwink of a howid pwecipice.
+#MR. MULLIGRUB
+Hallo! another brink, another precipice, and—Ida, as I live.
+#IDA.
+La, Mr. Kids, what a dangerous position.
+#MR. MULLIGRUB
+Kids; then it’s not Dip, that’s certain.
+#MR. KIDS
+O, dweadful, dweadful. But you can save me.
+#IDA.
+How, Mr. Kids?
+#MR. KIDS
+That’s the ideah, Miss Ida; for when a fellah is on the bwink of such a pwecipice, as the pwecipice I am on the bwink of, the best way to save him is to push him ovaw.
+#IDA.
+Well, that’s certainly an original idea.
+#MR. KIDS
+Yaas, it is an owiginal, idea—mine, too—I found it in my bwain, with the help of the diwectory. When a fellah’s on the bwink of matwimony, of course his safety and his happiness is secured by his being pushed into it. You see my ideah.
+#MR. MULLIGRUB
+Deuced clumsy one.
+#IDA.
+But how can I help you?
+#MR. KIDS
+By pushing me ovaw. Miss Ida, you are bewitching, you are lovely, you are divine, and on my knees I ask you to give me a push.
+#MR. MULLIGRUB
+Confounded jackass.
+#IDA.
+But, Mr. Kids, I don’t understand. You’re so—so— Where can Eva be? You say you are on the brink of a precipice.
+#MR. KIDS
+Howid, howid; and if you consent to be—
+#EVA.
+Quick, quick, Ida! mother’s fainted.
+#IDA.
+You don’t mean it?
+#EVA.
+Yes, yes, come quick! What are you waiting for?
+#IDA.
+But Mr. Kids is on the brink of a precipice.
+#EVA.
+Let him stay there. Come with me.
+#MR. MULLIGRUB
+Won’t somebody be kind enough to remove that precipice?
+#MR. KIDS
+Yaas, weally, that owiginal ideah will kill me, I know it will. I must go and bathe my head in Cologne, I must weally. Miss Ida didn’t push well; in fact, I don’t believe she’s fond of pushing fellah’s ovaw, I don’t, weally.
+#MR. MULLIGRUB
+I don’t think that’s Dip—I don’t, weally. Egad! those girls of mine are determined not to be caught by chaff. I wonder if I can say as much for the old lady. I wish she would make her appearance. This must be the room. Ah, here she comes. Now for something interesting.
+#MRS. MERRY.
+The fiddlers are tuning up for a waltz, and if Munseer Adonis is to keep his word now is the time. I wonder what Moses would say if he knew what I was about. But he can’t know. He’s safe at home, and there’s certainly no harm in obtaining a graceful inquisition to my other accomplishments. There they go. O, isn’t that splendid.
+#MR. MULLIGRUB
+What’s the matter with Hannah? She’s bobbing about the room like a turkey with’s its head off.
+#MONS. ADONIS
+Charmant, charmant! Madam, you are ze ecstasy of motion. You have ze grace of ze antelope, and ze step of ze fairy.
+#MRS. MERRY.
+O, don’t! You have come—
+#MONS. ADONIS
+Wiz ze “Boston Dip,” as I have promise.
+#MR. MULLIGRUB
+“Boston Dip.” That’s him—the scoundrel!
+#MRS. MERRY.
+O, I’m so nervous.
+#MR. MULLIGRUB
+You ought to be, you hypocrite.
+#MONS. ADONIS
+Zar is not ze least occasion. We are here alone.
+#MR. MULLIGRUB
+Not quite, Dip, not quite.
+#MONS. ADONIS
+No one will dare to enter here. Zar is none to look at you but I, and am I not discretion itself, madam?
+#MRS. MERRY.
+O, you are the soul of honor.
+#MR. MULLIGRUB
+Humbug!
+#MONS. ADONIS
+Now, zar is no time to lose. Permit me.
+#MR. MULLIGRUB
+Dip’s taking her hand. I shall choke!
+#MONS. ADONIS
+Put your left hand in mine—so.
+#MR. MULLIGRUB
+She obeys him. Ah, faithless Hannah!
+#MONS. ADONIS
+Zat is good. Do not tremble—zar is no danger.
+#MR. MULLIGRUB
+Don’t be so sure of that.
+#MONS. ADONIS
+Now, my arm around your waist—so.
+#MR. MULLIGRUB
+O, perfidious Hannah!
+#MONS. ADONIS
+Now let your head drop upon ze collar of my coat. Ah, zat is good, zat is exquisite.
+#MR. MULLIGRUB
+She presses his collar, and my cholar is rising. I shall choke with rage.
+#MONS. ADONIS
+All right. Now, one, two, three, and off we go.
+#MR. MULLIGRUB
+Stop!
+#MRS. MERRY.
+Ah!
+#MONS. ADONIS
+Sacre! Who calls so loud?
+#MR. MULLIGRUB
+An injured husband.
+#MRS. MERRY.
+O, it’s Moses!
+#MR. MULLIGRUB
+Yes, it is Moses! Moses the deluded; Moses the deceived; Moses the betrayed; Moses on the brink of a precipice.
+#MONS. ADONIS
+Moses!—Who be Moses?
+#MRS. MERRY.
+My husband.
+#MONS. ADONIS
+Monsieur Mulligrub! O, ze light break upon my head.
+#MR. MULLIGRUB
+Tremble, rascal! You’re discovered. Woman, begone! O, Hannah! can I believe my eyes. You—you make an appointment with such a miserable, contemptible, sneaking cur as that? But I’ll be revenged, rascal! Blaster of peaceful families , I’ll have your life!
+#MONS. ADONIS
+Help! help! I am choke all over too much! Help! help!
+#MRS. MERRY.
+O, Moses, spare him!
+#MR. MULLIGRUB
+Never! I’ll shake the life out of him. Rascal!
+#MONS. ADONIS
+Help! somebody, quick!
+#MR. MULLIGRUB
+Scoundrel!
+#MONS. ADONIS
+Help! help! He squeeze my windpipe all too much.
+#EVA.
+Father here?
+#IDA.
+And fighting?
+#MR. DASHER
+What is the meaning of this?
+#MR. KIDS
+Weally, a wow, a wiot, a wumpus!
+#MR. MULLIGRUB
+Meaning of it! Look at this miserable wretch!—this thing who answers to the name of “Boston Dip.”
+#ALL.
+“Boston Dip.”
+#MONS. ADONIS
+Sar, you insult me. My name is Monsieur Achilles Adonis.
+#EVA.
+And “Boston Dip” is the name given to the latest movement of the waltz.
+#MR. MULLIGRUB
+What, not the name of an individual? Then, what is the meaning of that?
+#MONS. ADONIS
+Zat is my note, monsieur.
+#MRS. MERRY.
+Yes, written by me to Monsieur Adonis, asking him to give me a private lesson here.
+#EVA.
+And father thought it a love affair? O, father! man with the name of “Boston Dip!” O, father!
+#MR. DASHER
+Friend of the family, you’ve made a mistake.
+#MR. KIDS
+Yaas, dipped into the wong man. Now isn’t that good—owiginal, too.
+#MR. MULLIGRUB
+Hannah, I’m on the brink of a frightful precipice. I’ve made a fool of myself. Forgive me, and let’s go home.
+#MRS. MERRY.
+I think you have, Moses.
+#MR. DASHER
+There’s not the least doubt of it.
+#MR. KIDS
+Yaas, Moses into the bull - wushes! That’s good—weally owiginal, too.
+#MR. MULLIGRUB
+Monsieur Adonis, I beg your pardon for my rudeness. I will make amends, ample reparation. Greenbacks shall shower upon your classic academy. To you, gentlemen, I need make no apologies. You see the old man has “cut up,” and perhaps may be made to “shell out.” I don’t think my girls will be able to assist you on that precipice. With your permission, I will retire.
+#EVA.
+Don’t go, father. Stay and enjoy yourself.
+#IDA.
+And see us waltz. We have splendid partners.
+#MONS. ADONIS
+Proficient in all ze elegancies of ze art.
+#MRS. MERRY.
+Moses, I’m ashamed of you. You’re really proficient in the usages of fashionable depravity; but I’ll forgive you, and make you acquainted with my new flame, one which you so grievously mistook, my harmless pet, “The Boston Dip.”

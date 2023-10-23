@@ -1,0 +1,1620 @@
+#ORNULF.
+Give place, Viking!
+#SIGURD.
+'Twere the first time if I did!
+#ORNULF.
+Thou shalt and must! I have need of the shelter for my stiff - frozen men.
+#SIGURD.
+Then must outlaws be highly prized in Helgeland!
+#ORNULF.
+Dearly shalt thou aby that word!
+#SIGURD.
+Now will it go ill with thee, old man!
+#DAGNY.
+Up, all Sigurd's men! My husband is fighting with a stranger!
+#ORNULF'S SONS.
+Help for Ornulf!
+#SIGURD.
+Hold! I can master him alone!
+#ORNULF.
+Let me fight in peace! I will see thy blood!
+#SIGURD.
+First see thine own! stout stroke, Viking!
+#SIGURD.
+Then were his shame his glory!
+#ORNULF'S SONS.
+Sigurd himself! Sigurd the Strong!
+#ORNULF.
+But sharper was thy stroke that night thou didst bear away Dagny, my daughter.
+#SIGURD AND HIS MEN.
+Ornulf of the Fiords!
+#DAGNY.
+My father and my brothers!
+#SIGURD.
+Stand thou behind me.
+#ORNULF.
+Nay, no need. I knew thy face as soon as I was ware of thee, and therefore I stirred the strife; I was fain to prove the fame that tells of thee as the stoutest man of his hands in Norway. Henceforth let peace be between us.
+#SIGURD.
+Best if so it could be.
+#ORNULF.
+Here is my hand. Thou art a warrior indeed; stouter strokes than these has old Ornulf never given or taken.
+#SIGURD.
+Let them be the last strokes given and taken between us two; and do thou thyself adjudge the matter between us. Art thou willing?
+#ORNULF.
+That am I, and straightway shall the quarrel be healed. Be the matter, then, known to all. Five winters ago came Sigurd and Gunnar Headman as vikings to Iceland; they lay in harbour close under my homestead. Then Gunnar, by force and craft, carried away my foster - daughter, Hiordis; but thou, Sigurd, didst take Dagny, my own child, and sailed with her over the sea. For that thou art now doomed to pay three hundred pieces of silver, and thereby shall thy misdeed be atoned.
+#SIGURD.
+Fair is thy judgment, Ornulf; the three hundred pieces will I pay, and add thereto a silken cloak fringed with gold. It is a gift from King AEthelstan of England, and better has no Icelander yet borne.
+#DAGNY.
+So be it, my brave husband; and my father, I thank thee. Now at last is my mind at ease.
+#ORNULF.
+Then thus stands the treaty between us; and from this day shall Dagny be to the full as honourably regarded as though she had been lawfully betrothed to thee, with the good will of her kin.
+#SIGURD.
+And in me canst thou trust, as in one of thine own blood.
+#ORNULF.
+That doubt I not; and see! I will forthwith prove thy friendship.
+#SIGURD.
+Ready shalt thou find me; say, what dost thou crave?
+#ORNULF.
+Thy help in rede and deed. I have sailed hither to Helgeland to seek out Gunnar Headman and draw him to reckoning for the carrying away of Hiordis.
+#SIGURD.
+Gunnar!
+#DAGNY.
+And Hiordis - where are they?
+#ORNULF.
+In Gunnar's homestead, I ween.
+#SIGURD.
+And it is - ?
+#ORNULF.
+Not many bow - shots hence; did ye not know?
+#SIGURD.
+No, truly. Small tidings have I had of Gunnar since we sailed from Iceland together. I have wandered far and wide and served many outland kings, while Gunnar sat at home. Hither we drive at day - dawn before the storm; I knew, indeed, that Gunnar's homestead lay here in the north, but -
+#DAGNY.
+So that errand has brought thee hither?
+#ORNULF.
+That and no other. Our meeting is the work of the Mighty Ones above; they willed it so. Had I wished to find thee, little knew I where to seek.
+#SIGURD.
+True, true! - But concerning Gunnar - tell me, Ornulf, art thou minded to go sharply to work, with all thy might, be it for good or ill?
+#ORNULF.
+That must I. Listen, Sigurd, for thus it stands: Last summer I rode to the Council where many honourable men were met. When the Council - days were over, I sat in the hall and drank with the men of my hundred, and the talk fell upon the carrying - away of the women; scornful words they gave me, because I had let that wrong rest unavenged. Then, in my wrath, I swore to sail to Norway, seek out Gunnar, and crave reckoning or revenge, and never again to set foot in Iceland till my claim was made good.
+#SIGURD.
+Ay, ay, since so it stands, I see well that if need be the matter must be pressed home.
+#ORNULF.
+It must; but I shall not crave over much, and Gunnar has the fame of an honourable man. Glad am I, too, that I set about this quest; the time lay heavy on me in Iceland; out upon the blue waters had I grown old and grey, and I longed to fare forth once again before well well - Bergthora, my good wife, was dead these many years; my eldest sons sailed on viking - ventures summer by summer; and since Thorolf was growing up -
+#DAGNY.
+Thorolf is with thee? Where is he?
+#ORNULF.
+On board the ship. Scarce shalt thou know the boy again, so stout and strong and fair has he grown. He will be a mighty warrior, Sigurd; one day he will equal thee.
+#DAGNY.
+I see it is now as ever; Thorolf stands nearest thy heart.
+#ORNULF.
+He is the youngest, and like his mother; therefore it is.
+#SIGURD.
+But tell me - thy errand to Gunnar - thinkest thou to - day - ?
+#ORNULF.
+Rather to - day than to - morrow. Fair amends will content me; if Gunnar says me nay, then must he take what comes.
+#KARE.
+Well met, Vikings!
+#ORNULF.
+Vikings are seldom well met.
+#KARE.
+If ye be honourable men, ye will grant me refuge among you; Gunnar Headman's house - carls are hunting me to slay me.
+#ORNULF.
+Gunnar's?
+#SIGURD.
+Then has thou done him some wrong!
+#KARE.
+I have done myself right. Our cattle fed together upon an island, hard by the coast; Gunnar's men carried off my best oxen, and one of them flouted me for a thrall. Then bare I arms against him and slew him.
+#ORNULF.
+That was a lawful deed.
+#KARE.
+But this morning his men came in wrath against me. By good hap I heard of their coming, and fled; but my foemen are on my tracks, and short shrift can I look for at their hands.
+#SIGURD.
+Ill can I believe thee, peasant! In bygone days I knew Gunnar as I know myself, and this I wot, that never did he wrong a peaceful man.
+#KARE.
+Gunnar has no part in this wrong - doing; he is in the south - land; nay, it is Hiordis his wife -
+#DAGNY.
+Hiordis!
+#ORNULF.
+Ay, ay, 'tis like her!
+#KARE.
+I offered Gunnar amends for the thrall, and he was willing; but then came Hiordis, and egged her husband on with scornful words, and hindered the peace. Since then has Gunnar gone to the south, and to - day -
+#SIGURD.
+Here come wayfarers northward. Is it not - ?
+#KARE.
+It is Gunnar himself!
+#ORNULF.
+Be of good heart; methinks I can make peace between you.
+#GUNNAR.
+Ornulf of the Fiords! Yes, it is - !
+#ORNULF.
+Thou seest aright.
+#GUNNAR.
+Then peace and welcome to thee in my land, if thou come in peace.
+#ORNULF.
+If thy will be as mine, there shall be no strife between us.
+#SIGURD.
+Well met, Gunnar!
+#GUNNAR.
+Sigurd - foster - brother! Now truly, since thou art here, I know that Ornulf comes in peace. Give me thy hand, greybeard! Thy errand here in the north is lightly guessed: it has to do with Hiordis, thy foster - daughter.
+#ORNULF.
+As thou sayest; great wrong was done me when thou didst bear her away from Iceland without my will.
+#GUNNAR.
+Thy claim is just; what youth has marred, the man must mend. Long have I looked for thee, Ornulf, for this cause; and if amends content thee, we shall soon be at one.
+#SIGURD.
+So deem I too. Ornulf will not press thee hard.
+#GUNNAR.
+Nay, Ornulf, didst thou crave her full worth, all my goods would not suffice.
+#ORNULF.
+I shall go by law and usage, be sure of that. But now another matter. Seest thou yonder man?
+#GUNNAR.
+Kare! Thou knowest, then, that there is a strife between us?
+#ORNULF.
+Thy men have stolen his cattle, and theft must be atoned.
+#GUNNAR.
+Murder no less; he has slain my thrall.
+#KARE.
+Because he flouted me.
+#GUNNAR.
+I have offered thee terms of peace.
+#KARE.
+But that had Hiordis no mind to, and this morning, whilst thou wert gone, she fell upon me and hunts me now to my death.
+#GUNNAR.
+Is it true what thou sayest? Has she - ?
+#KARE.
+True, every word.
+#ORNULF.
+Therefore the peasant besought me to stand by him, and that will I do.
+#GUNNAR.
+Honourably hast thou dealt with me, Ornulf; therefore is it fit that I should yield to thy will. Hear then, Kare: I am willing to let the slaying of the thrall and the wrongs done toward thee quit each other.
+#KARE.
+It is a good offer; I am content.
+#ORNULF.
+And he shall have peace for thee and thine?
+#GUNNAR.
+Peace shall he have, here and overall.
+#SIGURD.
+See yonder!
+#GUNNAR.
+It is Hiordis!
+#ORNULF.
+With armed men!
+#KARE.
+She is seeking me!
+#HIORDIS.
+A meeting of many, meseems.
+#DAGNY.
+Peace and joy to thee, Hiordis!
+#HIORDIS.
+Thanks. It was told me that thou wast not far off. Gunnar, and - Kare, my foeman - Ornulf and his sons and - Many I see here who are known to me - but little I know who is best minded towards me.
+#ORNULF.
+We are all well - minded towards thee.
+#HIORDIS.
+If so be, thou wilt not deny to give Kare into my husband's hands.
+#ORNULF.
+There is no need.
+#GUNNAR.
+There is peace and friendship between us.
+#HIORDIS.
+Friendship? Well well, I know thou art a wise man, Gunnar! Kare has met mighty friends, and well I woth thou deem'st it safest -
+#GUNNAR.
+Thy taunts avail not! Kare is at peace with us!
+#HIORDIS.
+Well and good; if thou hast sworn him peace, the vow must be held.
+#GUNNAR.
+It must and it shall.
+#ORNULF.
+Another pact had been well - nigh made ere thy coming.
+#HIORDIS.
+Between thee and Gunnar.
+#ORNULF.
+It had to do with thee.
+#HIORDIS.
+Well can I guess what it had to do with; but this I tell thee, foster - father, never shall it be said that Gunnar let himself be cowed because thou camest in arms to the isle. Hadst thou come alone, a single wayfarer, to our hall, the quarrel had more easily been healed.
+#GUNNAR.
+Ornulf and his sons come in peace.
+#HIORDIS.
+Mayhap; but otherwise will it sound in the mouths of men; and thou thyself, Gunnar, didst show scant trust in the peace yesterday, in sending our son Egil to the southland so soon as it was known that Ornulf's warship lay in the fiord.
+#SIGURD.
+Didst thou send thy sons to the south?
+#HIORDIS.
+Ay, that he might be in safety should Ornulf fall upon us.
+#ORNULF.
+Scoff not at that, Hiordis; what Gunnar has done may prove wise in the end, if so be thou hinderest the pact.
+#HIORDIS.
+Life must take its chance; come what will, I had liever die than save my life by a shameful pact.
+#DAGNY.
+Sigurd makes atonement, and will not be deemed the lesser man for that.
+#HIORDIS.
+Sigurd best knows what his own honour can bear.
+#SIGURD.
+On that score shall I never need reminding.
+#HIORDIS.
+Sigurd has done famous deeds, but the boldest deed of all was Gunnar's, when he slew the white bear that guarded my bower.
+#GUNNAR.
+Nay nay, no more of that!
+#ORNULF.
+In truth it was the boldest deed that e'er was seen in Iceland; and therefore -
+#SIGURD.
+The more easily can Gunnar yield, and not be deemed a coward.
+#HIORDIS.
+If amends are to be made, amends shall also be craved. Bethink thee, Gunnar, of thy vow!
+#GUNNAR.
+That vow was ill bethought; wilt thou hold me to it?
+#HIORDIS.
+That will I, if we two are to dwell under one roof after this day. Know then, Ornulf, that if atonement is to be made for the carrying away of thy foster - daughter, thou, too, must atone for the slaying of Jokul my father, and the seizure of his goods and gear.
+#ORNULF.
+Jokul was slain in fair fight; thy kinsmen did me a worse wrong when they sent thee to Iceland and entrapped me into adopting thee, unwitting who thou wast. viking times was to land the combatants on one of the rocky islets or "holms" that stud the Norwegian coast, and there let them fight it out. Hence "holmgang"=duel. an irrevocable form of adoption.
+#HIORDIS.
+Honour, and now wrong, befell thee in adopting Jokul's daughter.
+#ORNULF.
+Nought but strife hast thou brought me, that I know.
+#HIORDIS.
+Sterner strife may be at hand, if -
+#ORNULF.
+I came not hither to bandy words with women! - Gunnar, hear my last word: art willing to make atonement?
+#HIORDIS.
+Think of thy vow!
+#GUNNAR.
+Thou hearest, I have sworn a vow, and that must I -
+#ORNULF.
+Enough, enough! Never shall it be said that I made atonement for slaying in fair fight.
+#HIORDIS.
+Then we bid defiance to thee and thine.
+#ORNULF.
+And who has the right to crave atonement for Jokul? Where are his kinsmen? There is none alive! Where is his lawful avenger?
+#HIORDIS.
+That is Gunnar, on my behalf.
+#ORNULF.
+Gunnar! Ay, hadst thou been betrothed to him with thy foster - father's good - will, or had he made atonement for carrying thee away, then were he thy father's lawful avenger; but -
+#DAGNY.
+Father, father!
+#SIGURD.
+Do not speak it!
+#ORNULF.
+Nay, loudly shall it be spoken! A woman wedded by force has no lawful husband!
+#GUNNAR.
+Ornulf!
+#HIORDIS.
+Flouted and shamed! This - this shalt thou come to rue!
+#ORNULF.
+A woman wedded by force is lawfully no more than a leman! Wilt thou regain thine honour, then must thou -
+#HIORDIS.
+Nay, Ornulf, I know better what is fitting. If I am to be held as Gunnar's leman - well and good, then must he win me honour by his deeds - by deeds so mighty that my shame shall be shame no more! And thou, Ornulf, beware! Here our ways part, and from this day I shall make war upon thee and thine whensoever and wheresoever it may be; thou shalt know no safety, thou, or any whom thou - Kare! Ornulf has stood thy friend, forsooth, and there is peace between us; but I counsel thee not to seek thy home yet awhile; the man thou slewest has many avengers, and it well might befall - See, I have shown thee the danger; thou must e'en take what follows. Come, Gunnar, we must gird ourselves for the fight. A famous deed didst thou achieve in Iceland, but greater deeds must here be done, if thou wouldst not have thy - thy leman shrink with shame from thee and from herself!
+#GUNNAR.
+Curb thyself, Hiordis; it is unseemly to bear thee thus.
+#DAGNY.
+Stay, foster - sister - stay; I will appease my father.
+#HIORDIS.
+Homewards, homewards! Who could have foretold me that I should wear out my life as a worthless leman? But if I am to bear this life of shame, ay, even a single day longer, then must my husband do such a deed - such a deed as shall make his name more famous than all other names of men.
+#GUNNAR.
+Sigurd, this thou must promise me, that we shall have speech together ere thou leave the land.
+#ORNULF.
+Dearly shalt thou aby this day's work, foster - daughter!
+#DAGNY.
+Father, father! Surely thou wilt not harm her!
+#ORNULF.
+Let me be! Now, Sigurd, now can no amends avail between Gunnar and me.
+#SIGURD.
+What thinkest thou to do?
+#ORNULF.
+That I know not; but far and wide shall the tale be told how Ornulf of the Fiords came to Gunnar's hall.
+#SIGURD.
+That may be; but this I tell thee, Ornulf, that thou shalt never bear arms against him so long as I am alive.
+#ORNULF.
+So, so! And what if it be my will to?
+#SIGURD.
+It shall not be - let thy will be never so strong.
+#ORNULF.
+Go then; join thou with my foes; I can match the twain of you!
+#SIGURD.
+Hear me out, Ornulf; the day shall never dawn that shall see thee and me at strife. There is honourable peace between us, Dagny is dearer to me than weapons or gold, and never shall I forget that thou art her nearest kinsman.
+#ORNULF.
+There I know thee again, brave Sigurd!
+#SIGURD.
+But Gunnar is my foster - brother; faith and friendship have we sworn each other. Both in war and peace have we faced fortune together, and of all men he is dearest to me. Stout though he be, he loves not war; - but as for me, ye know, all of you, that I shrink not from strife; yet here I stand forth, Ornulf, and pray for peace on Gunnar's behalf. Let me have my will!
+#ORNULF.
+I cannot; I should be a scoff to all brave men, were I to fare empty - handed back to Iceland.
+#SIGURD.
+Empty - handed shalt thou not fare. Here in the cove my two long - ships are lying, with all the wealth I have won in my viking - ventures. There are many costly gifts from outland kings, good weapons by the chestful, and other priceless chattels. Take thou one of the ships; choose which thou wilt, and it shall be thine with all it contains - be that the atonement for Hiordis, and let Gunnar be at peace.
+#ORNULF.
+Brave Sigurd, wilt thou do this for Gunnar?
+#SIGURD.
+For a faithful friend, no man can do too much.
+#ORNULF.
+Give half thy goods and gear!
+#SIGURD.
+Take the whole, take both my ships, take all that is mine, and let me fare with thee to Iceland as the poorest man in thy train. What I give, I can win once more; but if thou and Gunnar come to strife, I shall never see a glad day again. Now Ornulf, thy answer?
+#ORNULF.
+Two good long - ships, weapons and other chattels - too much gear can no man have; but - no, no! - Hiordis has threatened me; I will not! It were shameful for me to take thy goods!
+#SIGURD.
+Yet listen -
+#ORNULF.
+No, I say! I must fight my own battle, be my fortune what it may.
+#KARE.
+Right friendly is Sigurd's rede, but if thou wilt indeed fight thine own battle with all thy might, I can counsel thee better. Dream not of atonement so long as Hiordis has aught to say; but revenge can be thine if thou wilt hearken to me.
+#ORNULF.
+Revenge? What dost thou counsel?
+#SIGURD.
+Evil, I can well see.
+#DAGNY.
+Oh, do not hear him!
+#KARE.
+Hiordis has declared me an outlaw; with cunning will she seek to take my life; do thou swear to see me scatheless, and this night will I burn Gunnar's hall and all within it. Is that to thy mind?
+#SIGURD.
+Dastard!
+#ORNULF.
+To my mind? Knowest thou, Kare, what were more to my mind? To hew off thy nose and ears, thou vile thrall. Little dost thou know old Ornulf if thou thinkest to have his help in such a deed of shame!
+#KARE.
+If thou fall not upon Gunnar he will surely fall upon thee.
+#ORNULF.
+Have I not weapons, and strength to wield them?
+#SIGURD.
+And now away with thee! Thy presence is a shame to honourable men!
+#KARE.
+Well well, I must shield myself as best I can. But this I tell you: if ye think to deal gently with Hiordis, ye will come to rue it; I know her - and I know where to strike her sorest!
+#DAGNY.
+He is plotting revenge. Sigurd, it must be hindered!
+#ORNULF.
+Nay, let him do as he will; she is worth no better!
+#DAGNY.
+That meanest thou not; bethink thee she is thy foster - child.
+#ORNULF.
+Woe worth the day when I took her under my roof! Jokul's words are coming true.
+#SIGURD.
+Jokul's?
+#ORNULF.
+Ay, her father's. When I gave him his death - wound he fell back upon the sward, and fixed his eyes on on me and sang: - When he had sung that, he was silent a while, and laughed; and thereupon he died.
+#SIGURD.
+Why should'st thou heed his words?
+#ORNULF.
+Who knows? The story goes, and many believe it, that Jokul gave his children a wolf's heart to eat, that they might be fierce and fell; and Hiordis has surely had her share, that one can well see. Gunnar! - Are we two to meet again!
+#GUNNAR.
+Ay, Ornulf, think of me what thou wilt, but I cannot part from thee as thy foe.
+#ORNULF.
+What is thy purpose?
+#GUNNAR.
+To hold out the hand of fellowship to thee ere thou depart. Hear me all of you: go with me to my homestead, and be my guests as long as ye will. We lack not meat or drink or sleeping - room, and there shall be no talk of our quarrel either to - day or to - morrow.
+#SIGURD.
+But Hiordis - ?
+#GUNNAR.
+Yields to my will; she changed her thought on the homeward way, and deemed, as I did, that we would soon be at one if ye would but be our guests.
+#DAGNY.
+Yes, yes; let it be so.
+#SIGURD.
+But I know not whether -
+#DAGNY.
+Gunnar is thy foster - brother; little I know thee if thou say him nay.
+#GUNNAR.
+Thou hast been my friend where'er we fared; thou wilt not stand against me now.
+#DAGNY.
+And to depart from the land, leaving Hiordis with hate in her heart - no, no, that must we not!
+#GUNNAR.
+I have done Ornulf a great wrong; until it is made good, I cannot be at peace with myself.
+#SIGURD.
+All else will I do for thee, Gunnar, but not stay here! I am in King AEthelstan's service, and I must be with him in England ere the winter is out.
+#DAGNY.
+But that thou canst be, nevertheless.
+#GUNNAR.
+No man can know what lot awaits him; mayhap this is our last meeting, Sigurd, and thou wilt repent that thou didst not stand by me to the end.
+#DAGNY.
+And long will it be ere thou see me glad again, if thou set sail to - day.
+#SIGURD.
+Well, be it so! It shall be as ye will, although - But no more of that; here is my hand; I will stay to feast with thee and Hiordis.
+#GUNNAR.
+Thanks, Sigurd, I never doubted thee. - And thou, Ornulf, dost thou say likewise?
+#ORNULF.
+I shall think upon it. Bitterly has Hiordis wounded me; - I will not answer to - day.
+#GUNNAR.
+It is well, old warrior; Sigurd and Dagny will know how to soothe thy brow. Now must I prepare the feast; peace be with you the while, and well met in my hall!
+#SIGURD.
+Hiordis has changed her thought, said he? Little he knows her; I rather deem that she is plotting - Come, follow me all to the ships; good gifts will I choose for Gunnar and his household.
+#DAGNY.
+Gifts of the best we have. And thou, father - thou shalt have no peace for me until thou yield thee.
+#ORNULF.
+Yield me? Ay, if there were no women - folk in Gunnar's house, then - Oh, if I but knew how to pierce her armour! - Thorolf, thou here!
+#THOROLF.
+As thou seest. Is it true that thou hast met with Gunnar?
+#ORNULF.
+Yes.
+#THOROLF.
+And art at enmity with him?
+#ORNULF.
+Hm - at least with Hiordis.
+#THOROLF.
+Then be of good cheer; soon shalt thou be avenged!
+#ORNULF.
+Avenged? Who shall avenge me?
+#THOROLF.
+Listen: as I stood on board the ship, there came a man running, with a staff in his hand, and called to me: "If thou be of Ornulf's shipfolk, then greet him from Kare the Peasant, and say that now am I avenging the twain of us." Thereupon he took a boat and rowed away, saying as he passed: "Twenty outlaws are at haven in the fiord; with them I fare southward, and ere eventide shall Hiordis be childless."
+#ORNULF.
+He said that! Ha, now I understand; Gunnar has sent his son away; Kare is at feud with him -
+#THOROLF.
+And now he is rowing southward to slay the boy!
+#ORNULF.
+Up all! That booty will we fight for!
+#THOROLF.
+What wilt thou do?
+#ORNULF.
+Ask me not; it shall be I, and not Kare, that will take revenge!
+#THOROLF.
+I will go with thee!
+#ORNULF.
+Nay, do thou follow with Sigurd and thy sister to Gunnar's hall.
+#THOROLF.
+Sigurd? Is he in the isle?
+#ORNULF.
+There may'st thou see his warships; we are at one - do thou go with him.
+#THOROLF.
+Among thy foes?
+#ORNULF.
+Go thou to the feast. Now shall Hiordis learn to know old Ornulf! But hark thee, Thorolf, to no one must thou speak of what I purpose; dost hear? to no one!
+#THOROLF.
+I promise.
+#ORNULF.
+Farewell then, my fair boy; bear thee in courtly wise at the feast - house, that I may have honour of thee. Beware of idle babbling; but what thou sayest, let it be keen as a sword. Be friendly to those that deal with thee in friendly wise; but if thou be taunted, hold not thy peace. Drink not more than thou canst bear; but put not the horn aside when it is offered thee in measure, lest thou be deemed womanish.
+#THOROLF.
+Nay, be at ease.
+#ORNULF.
+Then away to the feast at Gunnar's hall. I too will come to the feast, and that in the guise they least think of. Come, my wolf - cubs; be your fangs keen; - now shall ye have blood to drink.
+#THOROLF.
+Now fare they all forth to fight, and I must stay behind; it is hard to be the youngest of the house. - Dagny! all hail and greetings to thee, sister mine!
+#DAGNY.
+Thorolf! All good powers! - thou art a man, grown!
+#THOROLF.
+That may I well be, forsooth, in five years -
+#DAGNY.
+Ay, true, true.
+#SIGURD.
+In thee will Ornulf find a stout carl, or I mistake me.
+#THOROLF.
+Would he but prove me - !
+#DAGNY.
+He spares thee more than thou hast a mind to? Thou wast ever well - nigh too dear to him.
+#SIGURD.
+Whither has he gone?
+#THOROLF.
+Down to his ships; - he will return ere long.
+#SIGURD.
+I await my men; they are mooring my ships and bringing ashore wares.
+#THOROLF.
+There must I lend a hand!
+#SIGURD.
+Dagny, my wife, we are alone; I have that to tell thee which must no longer be hidden.
+#DAGNY.
+What meanest thou?
+#SIGURD.
+There may be danger in this faring to Gunnar's hall.
+#DAGNY.
+Danger? Thinkest thou that Gunnar - ?
+#SIGURD.
+Nay, Gunnar is brave and true - yet better had it been that I had sailed from the isle without crossing his threshold.
+#DAGNY.
+Thou makest me fear! Sigurd, what is amiss?
+#SIGURD.
+First answer me this: the golden ring that I gave thee, where hast thou it?
+#DAGNY.
+Here, on my arm; thou badest me wear it.
+#SIGURD.
+Cast it to the bottom of the sea, so deep that none may ever set eyes on it again; else may it be the bane of many men.
+#DAGNY.
+The ring!
+#SIGURD.
+That evening when we carried away thy father's daughters - dost remember it?
+#DAGNY.
+Do I remember it!
+#SIGURD.
+It is of that I would speak.
+#DAGNY.
+What is it? Say on!
+#SIGURD.
+Thou knowest there had been a feast; thou didst seek thy chamber betimes; but Hiordis still sat among the men in the feast - hall. The horn went busily round, and many a great vow was sworn. I swore to bear away a fair maid with me from Iceland; Gunnar swore the same as I, and passed the cup to Hiordis. She grasped it and stood up, and vowed this vow, that no warrior should have her to wife, save he who should go to her bower, slay the white bear that stood bound at the door, and carry her away in his arms.
+#DAGNY.
+Yes, yes; all this I know!
+#SIGURD.
+All men deemed that it might not be, for the bear was the fiercest of beasts; none but Hiordis might come near it, and it had the strength of twenty men.
+#DAGNY.
+But Gunnar slew it, and by that deed won fame throughout all lands.
+#SIGURD.
+He won the fame - but - I did the deed!
+#DAGNY.
+Thou!
+#SIGURD.
+When the men left the feast - hall, Gunnar prayed me to come with him alone to our sleeping - place. Then said he: "Hiordis is dearer to me than all women; without her I cannot live." I answered him: "Then go to her bower; thou knowest the vow she hath sworn." But he said: "Life is dear to him that loves; if I should assail the bear, the end were doubtful, and I am loath to lose my life, for then should I lose Hiordis too." Long did we talk, and the end was that Gunnar made ready his ship, while I drew my sword, donned Gunnar's harness, and went to the bower.
+#DAGNY.
+And thou - thou didst slay the bear!
+#SIGURD.
+I slew him. In the bower it was dark as under a raven's wing; Hiordis deemed it was Gunnar that sat by her - she was heated with the mead - she drew a ring from her arm and gave it to me - it is that thou wearest now.
+#DAGNY.
+And thou didst pass the night with Hiordis in her bower?
+#SIGURD.
+My sword lay drawn between us. Ere the dawn, I bore Hiordis to Gunnar's ship; she dreamed not or our wiles, and he sailed away with her. Then went I to thy sleeping - place and found thee there among thy women; - what followed, thou knowest; I sailed from Iceland with a fair maid, as I had sworn, and from that day hast thou stood faithfully at my side whithersoever I might wander.
+#DAGNY.
+My brave husband! And that great deed was thine! - Oh, I should have known it; none but thou would have dared! Hiordis, that proud and stately woman, couldst thou have won, yet didst choose me! Now wouldst thou be tenfold dearer to me, wert thou not already dearer than all the world.
+#SIGURD.
+Dagny, my sweet wife, now thou knowest all - that is needful. I could not but warn thee; for that ring - Hiordis must never set eyes on it! Wouldst thou do my will, then cast it from thee - into the depths of the sea.
+#DAGNY.
+Nay, Sigurd, it is too dear to me; is it not thy gift? But be thou at ease, I shall hide it from every eye, and never shall I breathe a word of what thou hast told me.
+#THOROLF.
+All is ready for the feast.
+#DAGNY.
+Come then, Sigurd - my brave, my noble warrior!
+#SIGURD.
+Beware, Dagny - beware! It rests with thee now whether this meeting shall end peacefully or in bloodshed. Away then, to the feast in Gunnar's hall!
+#DAGNY.
+Nay, Hiordis, I cannot understand thee. Thou hast shown me all the house; I know not what thing thou lackest, and all thou hast is fair and goodly; - then why bemoan thy lot?
+#HIORDIS.
+Cage an eagle and it will bite at the wires, be they of iron or of gold.
+#DAGNY.
+In one thing at least thou art richer than I; thou hast Egil, thy little son.
+#HIORDIS.
+Better no child, than one born in shame.
+#DAGNY.
+In shame?
+#HIORDIS.
+Dost thou forgot thy father's saying? Egil is the son of a leman; that was his word. word spoken in wrath - why wilt thou heed it?
+#HIORDIS.
+Nay, nay, Ornulf was right; Egil is weak; one can see he is no freeborn child.
+#DAGNY.
+Hiordis, how canst thou - ?
+#HIORDIS.
+Thus is shame sucked into the blood, like the venom of a snake - bite. Of another mettle are the freeborn sons of mighty men. I have heard of a queen that took her son and sewed his kirtle fast to his flesh, yet he never blinked an eye. Dagny, that will I try with Egil!
+#DAGNY.
+Hiordis, Hiordis!
+#HIORDIS.
+Ha - ha - ha! Dost thou think I meant my words? But, believe me or not as thou wilt, there are times when such deeds seem to lure me; it must run in the blood, - for I am of the race of the Jotuns, they say. - Come, sit thou here, Dagny. Far hast thou wandered in these five long years; tell me, thou hast ofttimes been a guest in the halls of kings?
+#DAGNY.
+Many a time - and chiefly with AEthelstan of England.
+#HIORDIS.
+And everywhere thou hast been held in honour, and hast sat in the highest seats at the board?
+#DAGNY.
+Doubtless. As Sigurd's wife -
+#HIORDIS.
+Ay, ay - a famous man is Sigurd - though Gunnar stands above him.
+#DAGNY.
+Gunnar?
+#HIORDIS.
+One deed did Gunnar do that Sigurd shrank from. But let that be! Tell me, when thou didst go a - viking with Sigurd, when thou didst hear the sword - blades sing in the fierce war - game, when the blood streamed red on the deck - came there not over thee an untameable longing to plunge into the strife? Didst thou not don harness and take up arms?
+#DAGNY.
+Never! How canst thou think it? I, a woman! woman, a woman, - who knows what a woman may do! - But one thing thou canst tell me, Dagny, for that thou surely knowest: when a man clasps to his breast the woman he loves - is it true that her blood burns, that her bosom throbs - that she swoons in a shuddering ecstasy?
+#DAGNY.
+Hiordis, how canst thou - !
+#HIORDIS.
+Come, tell me - !
+#DAGNY.
+Surely thou thyself hast known it.
+#HIORDIS.
+Ay once, and only once; it was that night when Gunnar sat with me in my bower; he crushed me in his arms till his byrnie burst, and then, then - !
+#DAGNY.
+What! Sigurd - !
+#HIORDIS.
+Sigurd? What of Sigurd? I spoke of Gunnar - that night when he bore me away -
+#DAGNY.
+Yes, yes, I remember - I know well -
+#HIORDIS.
+That was the only time; never, never again! I deemed I was bewitched; for that Gunnar could clasp a woman - What ails thee? Methinks thou turnest pale and red!
+#DAGNY.
+Nay, nay!
+#HIORDIS.
+The merry viking - raid should have been my lot; it had been better for me, and - mayhap for all of us. That were life, full and rich life! Dost thou not wonder, Dagny, to find me here alive? Art not afraid to be alone with me in the hall? Deem'st thou not that I must have died in all these years, and that it is my ghost that stands at thy side?
+#DAGNY.
+Come - let us go - to the others.
+#HIORDIS.
+No, stay! Seems it not strange to thee, Dagny, that any woman can yet live after five such nights?
+#DAGNY.
+Five nights?
+#HIORDIS.
+Here in the north each night is a whole winter long. Yet the place is fair enough, doubt it not! Thou shalt see sights here such as thou hast not seen in the halls of the English king. We shall be together as sisters whilst thou bidest with me; we shall go down to the sea when the storm begins once more; thou shalt see the billows rushing upon the land like wild, white - maned horses - and then the whales far out in the offing! They dash one against another like steel - clad knights! Ha, what joy to be a witching - wife and ride on the whale's back - to speed before the skiff, and wake the storm, and lure men to the deeps with lovely songs of sorcery!
+#DAGNY.
+Fie, Hiordis, how canst thou talk so!
+#HIORDIS.
+Canst thou sing sorceries, Dagny?
+#DAGNY.
+I!
+#HIORDIS.
+I trow thou canst; how else didst thou lure Sigurd to thee?
+#DAGNY.
+Thou speakest shameful things; let me go!
+#HIORDIS.
+Because I jest! Nay, hear me to the end! Think, Dagny, what it is to sit by the window in the eventide and hear the kelpie wailing in the boat - house; to sit waiting and listening for the dead men's ride to Valhal; for their way lies past us here in the north. They are the brave men that fell in fight, the strong women that did not drag out their lives tamely, like thee and me; they sweep through the storm - night on their black horses, with jangling bells! Ha, Dagny! think of riding the last ride on so rare a steed!
+#DAGNY.
+Hiordis, Hiordis! Let me go! I will not hear thee!
+#HIORDIS.
+Weak art thou of heart, and easily affrighted.
+#GUNNAR.
+Now, truly, are all things to my very mind! I have found thee again, Sigurd, my brave brother, as kind and true as of old. I have Ornulf's son under my roof, and the old man himself follows speedily after; is it not so?
+#THOROLF.
+So he promised.
+#GUNNAR.
+Then all I lack is that Egil should be here.
+#THOROLF.
+'Tis plain thou lovest the boy, thou namest him so oft.
+#GUNNAR.
+Truly I love him; he is my only child; and he is like to grow up fair and kindly.
+#HIORDIS.
+But no warrior.
+#GUNNAR.
+Nay - that thou must not say.
+#SIGURD.
+I marvel thou didst send him from thee -
+#GUNNAR.
+Would that I had not! But thou knowest, Sigurd, he who loves overmuch, takes not always the manliest part. I had few men in my house, and none could be sure of his life when it was known that Ornulf lay in the cove with a ship of war.
+#HIORDIS.
+One thing I know that ought first to be made safe, life afterwards.
+#THOROLF.
+And that is - ?
+#HIORDIS.
+Honour and fame among men.
+#GUNNAR.
+Hiordis!
+#SIGURD.
+It shall not be said of Gunnar that he has risked his honour by doing this.
+#GUNNAR.
+None shall make strife between me and Ornulf's kinsfolk!
+#HIORDIS.
+Hm; tell me, Sigurd - can thy ship sail with any wind?
+#SIGURD.
+Ay, when it is cunningly steered.
+#HIORDIS.
+Good! I too will steer my ship cunningly, and make my way whither I will.
+#DAGNY.
+Sigurd, let us hence - this very night!
+#SIGURD.
+It is too late now; it was thou that -
+#DAGNY.
+Then I held Hiordis dear; but now - ; I have heard her speak words I shudder to think of.
+#GUNNAR.
+Now to the board! My chief guest, Ornulf of the Fiords, comes later; so Thorolf promises.
+#HIORDIS.
+Pass ale and mead around, that hearts may wax merry and tongues may be loosened.
+#HIORDIS.
+It seldom chances that so many brave men are seated together, as I see to - night in our hall. It were fitting, then, that we should essay the old pastime: Let each man name his chief exploit, that all may judge which is the mightiest.
+#GUNNAR.
+That is an ill custom at a drinking - feast; it will oft breed strife.
+#HIORDIS.
+Little did I deem that Gunnar was afraid.
+#SIGURD.
+That no one deems; but it were long ere we came to an end, were we all to tell of our exploits, so many as we be. Do thou rather tell us, Gunnar, of thy journey to Biarmeland; 'tis no small exploit to fare so far to the north, and gladly would we hear of it.
+#HIORDIS.
+The journey to Biarmeland is chapman's work, and little worth to be named among warriors. Nay, do thou begin, Sigurd, if thou would'st not have me deem that thou shrinkest from hearing my husband's praise! Say on; name that one of thy deeds which thou dost prize the highest.
+#SIGURD.
+Well, since thou will have it so, so must it be. Let it be told, then, that I lay a - viking among the Orkneys; there came foemen against us, but we swept them from their ships, and I fought alone against eight men.
+#HIORDIS.
+Good was that deed; but wast thou fully armed?
+#SIGURD.
+Fully armed, with axe, spear, and sword.
+#HIORDIS.
+Still the deed was good. Now must thou, my husband, name that which thou deemest the greatest among thy exploits.
+#GUNNAR.
+I slew two berserkers who had seized a merchant - ship; and thereupon I sent the captive chapmen home, giving them there ship freely, without ransom. The King of England deemed well of that deed; he said that I had done hounourably, and gave me thanks and good gifts.
+#HIORDIS.
+Nay truly, Gunnar, a better deed than that couldst thou name.
+#GUNNAR.
+I will boast of no other deed! Since last I fared from Iceland I have lived at peace and traded in merchandise. No more word on this matter!
+#HIORDIS.
+If thou thyself wilt hide thy renown, thy wife shall speak.
+#GUNNAR.
+Peace, Hiordis - I command thee!
+#HIORDIS.
+Sigurd fought with eight men, being fully armed; Gunnar came to my bower in the black night, slew the bear that had twenty men's strength, and yet had but a short sword in his hand.
+#GUNNAR.
+Woman, not a word more!
+#DAGNY.
+Sigurd, wilt thou bear - ?
+#SIGURD.
+Be still!
+#HIORDIS.
+And now, ye brave men - which is the mightier, Sigurd or Gunnar?
+#GUNNAR.
+Silence!
+#HIORDIS.
+Speak out; I have the right to crave your judgement.
+#AN OLD MAN.
+If the truth be told, then is Gunnar's deed greater than all other deeds of men; Gunnar is the mightiest warrior, and Sigurd is second to him.
+#GUNNAR.
+Ah, Sigurd, Sigurd, didst thou but know - !
+#DAGNY.
+This is too much - even for a friend!
+#SIGURD.
+Peace, wife! Ay truly, Gunnar is the most honourable of all men; so would I esteem him to my dying day, even had he never done that deed; for that I hold more lightly than ye.
+#HIORDIS.
+There speaks thy envy, Sigurd Viking!
+#SIGURD.
+Mightily art thou mistaken. Hail, noble Gunnar; our friendship shall stand fast, whosoever may seek to break it.
+#HIORDIS.
+No one, that I wot of, has such a thought.
+#SIGURD.
+Say not that; I could almost find it in me to think that thou hadst bidden us hither to stir up strife.
+#HIORDIS.
+That is like thee, Sigurd; now art thou wroth that thou may'st not be held the mightiest man at the feast - board.
+#SIGURD.
+I have ever esteemed Gunnar more highly than myself.
+#HIORDIS.
+Well, well - second to Gunnar is still a good place, and - had Ornulf been here, he could have had the third seat.
+#THOROLF.
+Then would Jokul, thy father, find a low place indeed; for he fell before Ornulf.
+#HIORDIS.
+That shalt thou never say! Ornulf is a skald, and men whisper that he has praised himself for greater deeds than he has done.
+#THOROLF.
+Then woe to him who whispers so loudly that it comes to my ear!
+#HIORDIS.
+Wouldst thou avenge it?
+#THOROLF.
+Ay, so that my vengeance should be told of far and wide.
+#HIORDIS.
+Then here I pledge a cup to this, that thou may'st first have a beard on thy chin.
+#THOROLF.
+Even a beardless lad is too good to wrangle with women.
+#HIORDIS.
+But too weak to fight with men; therefore thy father let thee lie by the hearth at home in Iceland, whilst thy brothers went a - viking.
+#THOROLF.
+It had been well had he kept as good an eye on thee; for then hadst thou not left Iceland a dishonoured woman.
+#GUNNAR AND SIGURD.
+Thorolf!
+#DAGNY.
+Brother!
+#HIORDIS.
+Ha! wait - wait!
+#THOROLF.
+Be not wroth, Gunnar; evil words came to my tongue; but thy wife egged me!
+#DAGNY.
+Foster - sister, by any love thou hast ever borne me, stir not up strife!
+#HIORDIS.
+Jests must pass at the feast - board if the merriment is to thrive.
+#GUNNAR.
+Thou art a brave lad! Here, Thorolf, here is a good gift for thee. Wield it well, and let us be friends.
+#HIORDIS.
+Beware how thou givest away thy weapons, Gunnar; for men may say thou dost part with things thou canst not use!
+#THOROLF.
+Thanks for the gift, Gunnar; it shall never be drawn in an unworthy cause.
+#HIORDIS.
+If thou wilt keep that promise, then do thou never lend the sword to thy brothers.
+#GUNNAR.
+Hiordis!
+#HIORDIS.
+Neither let it hang on thy father's wall; for there it would hang with base men's weapons.
+#THOROLF.
+True enough, Hiordis - for there thy father's axe and shield have hung this many a year.
+#HIORDIS.
+That Ornulf slew my father, - that deed is ever on thy tongue; but if report speak true, it was scarce so honourable a deed as thou deemest.
+#THOROLF.
+Of what report dost thou speak?
+#HIORDIS.
+I dare not name it, for it would make thee wroth.
+#THOROLF.
+Then hold thy peace - I ask no better.
+#HIORDIS.
+Nay, why should I not tell it? Is it true, Thorolf, that for three nights thy father sat in woman's weed, doing sorceries with the witch of Smalserhorn, ere he dared face Jokul in fight. GUNNAR, SIGURD, AND DAGNY. Hiordis!
+#THOROLF.
+So base a lie has no man spoken of Ornulf of the Fiords! Thou thyself hast made it, for no one less venomous than thou could dream of such a thing. The blackest crime a man can do hast thou laid at my father's door. There, Gunnar, take thy gift again; I can take nought from the house wherein my father is reviled.
+#GUNNAR.
+Thorolf, hear me - !
+#THOROLF.
+Let me go! But beware both thou and Hiordis; for my father has now in his power one whom ye hold dearest of all!
+#HIORDIS.
+Thy father has - !
+#GUNNAR.
+What sayst thou!
+#SIGURD.
+Where is Ornulf?
+#THOROLF.
+Gone southward - with my brothers.
+#GUNNAR.
+Southward!
+#HIORDIS.
+Gunnar! Ornulf has slain Egil, our son.
+#GUNNAR.
+Slain! - Egil slain! Then woe to Ornulf and all his race! Thorolf, speak out; - is this true?
+#SIGURD.
+Gunnar, Gunnar - hear me!
+#GUNNAR.
+Speak out, if thou care for thy life!
+#THOROLF.
+Thou canst not fright me! Wait till my father comes; he shall plant a mark of shame over against Gunnar's house! And meanwhile, Hiordis, do thou cheer thee with these words I heard to - day: "Ere eventide shall Gunnar and his wife be childless."
+#GUNNAR.
+Slain - slain! My little Egil slain!
+#HIORDIS.
+And thou - dost thou let him go? Let Egil, thy child, lie unavenged! Then wert thou the dastard of dastards - !
+#GUNNAR.
+A sword - an axe! It is the last message he shall bring!
+#SIGURD.
+Gunnar, hold thy hand!
+#HIORDIS.
+Stay, stay! The men will part them; I know Gunnar!
+#SIGURD AND DAGNY.
+What is it?
+#A VOICE AMONG THE CROWD.
+Thorolf has fallen.
+#SIGURD.
+Thorolf! Ha, let me go!
+#DAGNY.
+My brother! Oh, my brother!
+#GUNNAR.
+Now it is done. Egil is avenged!
+#SIGURD.
+Well for thee if thy hand has not been too hasty.
+#GUNNAR.
+Mayhap, mayhap; but Egil, Egil, my sweet boy!
+#HIORDIS.
+Now must we arm us, and seek help among our friends; for Thorolf has many avengers.
+#GUNNAR.
+He will be his own worst avenger; he will haunt me night and day.
+#HIORDIS.
+Thorolf got his reward. Kinsmen must suffer for kinsmen's deeds.
+#GUNNAR.
+True, true; but this I know, my mind was lighter ere this befell.
+#HIORDIS.
+This first night is ever the worst; - Ornulf has sought his revenge by shameful wiles; he would not come against us in open strife; he feigned to be peacefully - minded; and then he falls upon our defenceless child! Ha, I saw more clearly than ye; well I deemed that Ornulf was evil - minded and false; I had good cause to egg thee on against him and all his faithless tribe!
+#GUNNAR.
+That hadst thou! My vengeance is poor beside Ornulf's crime. He has lost Thorolf, but he has six sons left - and I have none - none!
+#A HOUSE-CARL.
+Ornulf of the Fiords is at hand!
+#GUNNAR.
+Ornulf!
+#HIORDIS AND SEVERAL MEN.
+To arms! to arms!
+#DAGNY.
+My father!
+#SIGURD.
+Ornulf - ! Ah, Gunnar, Gunnar!
+#GUNNAR.
+Up all my men! Vengeance for Egil's death!
+#GUNNAR.
+Egil!
+#ORNULF.
+Here I bring thee little Egil.
+#ALL.
+Egil! Egil alive!
+#GUNNAR.
+Woe is me! what have I done?
+#DAGNY.
+Oh, Thorolf, my brother!
+#SIGURD.
+I knew it! I knew it!
+#ORNULF.
+There, Gunnar, hast thou thy pretty boy again.
+#EGIL.
+Father! Old Ornulf would not do me ill, as thou saidst when I went away.
+#ORNULF.
+Now have I atoned for thy father; now surely there may be peace between us.
+#HIORDIS.
+Mayhap!
+#GUNNAR.
+Is it a ghastly dream that maddens me! Thou - thou bringest Egil home!
+#ORNULF.
+As thou seest; but in truth he has been near his death.
+#GUNNAR.
+That I know.
+#ORNULF.
+And hast no more joy in his return?
+#GUNNAR.
+Had he come sooner, I had been glad indeed. But tell me all that has befallen!
+#ORNULF.
+That is soon done. Kare the Peasant was plotting evil against you; with other caitiffs he fared southward after Egil.
+#GUNNAR.
+Kare! Ha, now I understand Thorolf's words!
+#ORNULF.
+His purpose came to my ears; I needs must thwart so black a deed. I would not give atonement for Jokul, and, had things so befallen, I had willingly slain thee, Gunnar, in single combat - yet I could not but protect thy child. With my sons, I hasted after Kare.
+#SIGURD.
+An accursed deed has here been done.
+#ORNULF.
+When I came up with him, Egil's guards lay bound; thy son was already in thy foemen's hand, and they would not long have spared him. Hot was the fight! Seldom have I given and taken keener strokes; Kare and two men fled inland; the rest sleep safely, and will be hard to waken.
+#GUNNAR.
+But thou - thou, Ornulf - ?
+#ORNULF.
+Six sons followed me into the fight.
+#GUNNAR.
+But homewards - ?
+#ORNULF.
+None.
+#GUNNAR.
+None! And Thorolf, Thorolf!
+#ORNULF.
+It is hard for a many - branching pine to be stripped in a single storm. But men die and men live; - I will drink to my sons' memory. Hail to you where now ye ride, my bold sons! Close upon your heels shall the copper - gates not clang, for ye come to the hall with a great following. And now home to Iceland! Ornulf has fought his last fight; the old tree has but one green branch left, and it must be shielded warily. Where is Thorolf?
+#EGIL.
+Ay, show me Thorolf! Ornulf told me he would carve me a ship with many, many warriors on board.
+#ORNULF.
+I praise all good wights that Thorolf came not with us; for if he too - nay, strong though I be, that had been too heavy for me to bear. But why comes he not? He was ever the first to meet his father; for both of us it seemed we could not live without each other a single day.
+#GUNNAR.
+Ornulf, Ornulf!
+#ORNULF.
+Ye stand all silent, I mark it now. What ails you? Where is Thorolf?
+#DAGNY.
+Sigurd, Sigurd - this will be the direst blow to him!
+#GUNNAR.
+Old man! - No - - and yet, it cannot be hid -
+#ORNULF.
+My son! Where is he!
+#GUNNAR.
+Thorolf is slain!
+#ORNULF.
+Slain! Thorolf? Thorolf? Ha, thou liest!
+#GUNNAR.
+I would give my warmest heart - blood to know him alive!
+#HIORDIS.
+Thorolf was himself to blame for what befell; with dark sayings he gave us to wit that thou hadst fallen upon Egil and slain him; - we had parted half in wrath, and thou hast ere now brought death among my kindred. And moreover - Thorolf bore himself at the feast like a wanton boy; he brooked not our jesting, and spoke many evil things. Not till then did Gunnar wax wroth; not till then did he raise his hand upon thy son; and well I wot that he had good and lawful ground for that deed.
+#ORNULF.
+Well may we see that thou art a woman, for thou usest many words. To what end? If Thorolf is slain, then is his saga over.
+#EGIL.
+If Thorolf is slain, I shall have no warriors.
+#ORNULF.
+Nay, Egil - we have lost our warriors, but thou and I. Thy father sang: Well has thou wrought that his words should come true. Where got he his death - wound?
+#THE MAN.
+Right across his brow.
+#ORNULF.
+Hm; that is an honourable spot; he did not turn his back. But fell he sideways, or in towards Gunnar's feet?
+#THE MAN.
+Half sideways and half towards Gunnar.
+#ORNULF.
+That bodes but half vengeance; well well, - we shall see!
+#GUNNAR.
+Ornulf, I know well that all my goods were naught against thy loss; but crave of me what thou wilt -
+#ORNULF.
+Give me Thorolf's body, and let me go! Where lies he?
+#ORNULF.
+Stay! Think ye Ornulf will be followed by a train of mourners, like a whimpering woman? Stay, I say! - I can bear my Thorolf alone. Sonless I go; but none shall say that he saw me bowed.
+#HIORDIS.
+Ay, let him go as he will; we shall scarce need many men to face him should he come with strife again! Now, Dagny - I wot it is the last time thy father shall sail from Iceland on such a quest!
+#SIGURD.
+Oh, shame!
+#DAGNY.
+And thou canst scoff at him - scoff at him, after all that has befallen? deed once done, 'tis wise to praise it. This morning I swore hate and vengeance against Ornulf; - the slaying of Jokul I might have forgotten - all, save that he cast shame upon my lot. He called me a leman; if it be so, it shames me not; for Gunnar is mightier now than thy father; he is greater and more famous than Sigurd, thine own husband!
+#DAGNY.
+There thou errest, Hiordis - and even now shall all men know that thou dwellest under a weakling's roof!
+#SIGURD.
+Dagny, beware! weakling!
+#DAGNY.
+It shall no longer be hidden; I held my peace till thou didst scoff at my father and my dead brothers; I held my peace while Ornulf was here, lest he should learn that Thorolf fell by a dastard's hand. But now - praise Gunnar nevermore for that deed in Iceland; for Gunnar is a weakling! The sword that lay drawn between thee and the bear - slayer hangs at my husband's side - and the ring thou didst take from thy arm thou gavest to Sigurd. Behold it!
+#HIORDIS.
+Sigurd!
+#THE CROWD.
+Sigurd! Sigurd did the deed!
+#HIORDIS.
+He! he! - Gunnar, is this true?
+#GUNNAR.
+It is all true save only that I am a weakling; I am neither a weakling nor a coward.
+#SIGURD.
+That art thou not, Gunnar! That hast thou never been! Away, my men! Away from here!
+#DAGNY.
+Who is now the mightiest man at the board - my husband or thine?
+#HIORDIS.
+Now have I but one thing left to do - but one deed to brood upon: Sigurd or I must die!
+#HIORDIS.
+It is tough and strong; the shaft is both keen and well - weighted - but where is the hand that - ! Befooled, befooled by him - by Sigurd! I must hate him more than others, that can I well mark; but ere many days have passed I will - Ay, but the arm, the arm that shall do the deed - ?
+#HIORDIS.
+How goes it with thee, my husband?
+#GUNNAR.
+Ill, Hiordis; I cannot away with that deed of yesterday; it lies heavy on my heart.
+#HIORDIS.
+Do as I do; get thee some work to busy thee.
+#GUNNAR.
+Doubtless I must.
+#GUNNAR.
+What dost thou there?
+#HIORDIS.
+I am weaving a bow - string; canst thou not see? bow - string - of thine own hair?
+#HIORDIS.
+Great deeds are born with every hour in these times; yesterday thou didst slay my foster - brother, and I have woven this since day - break.
+#GUNNAR.
+Hiordis, Hiordis!
+#HIORDIS.
+What is amiss?
+#GUNNAR.
+Where wast thou last night?
+#HIORDIS.
+Last night?
+#GUNNAR.
+Thou wast not in the sleeping - room.
+#HIORDIS.
+Know'st thou that?
+#GUNNAR.
+I could not sleep; I tossed in restless dreams of that - that which befell Thorolf. I dreamt that he came - No matter; I awakened. Then meseemed I heard a strange, fair song through all the house; I arose; I stole hither to the door; here I saw thee sitting by the log - fire - it burned blue and red - fixing arrow - heads, and singing sorceries over them.
+#HIORDIS.
+The work was not wasted; for strong is the breast that must be pierced this day.
+#GUNNAR.
+I understand thee well; thou wouldst have Sigurd slain.
+#HIORDIS.
+Hm, mayhap.
+#GUNNAR.
+Thou shalt never have thy will. I shall keep peace with Sigurd, howe'er thou goad me.
+#HIORDIS.
+Dost think so?
+#SIGURD.
+I know it!
+#HIORDIS.
+Tell me, Gunnar - canst loose this knot?
+#GUNNAR.
+Nay it is too cunningly and firmly woven.
+#HIORDIS.
+The Norns weave yet more cunningly; their web is still harder to unravel.
+#GUNNAR.
+Dark are the ways of the Mighty Ones; - neither thou nor I know aught of them.
+#HIORDIS.
+Yet one thing I know surely: that to both of us must Sigurd's life be baleful.
+#HIORDIS.
+Of what thinkest thou?
+#GUNNAR.
+Of a dream I had of late. Methought I had done the deed thou cravest; Sigurd lay slain on the earth; thou didst stand beside him, and thy face was wondrous pale. Then said I: "Art thou glad, now that I have done thy will?" But thou didst laugh and answer: "Blither were I didst thou, Gunnar, lie there in Sigurd's stead."
+#HIORDIS.
+Ill must thou know me if such a senseless dream can make thee hold thy hand.
+#GUNNAR.
+Hm! - Tell me, Hiordis, what thinkest thou of this hall?
+#HIORDIS.
+To speak truly, Gunnar, - it sometimes seems to me to be straitened.
+#GUNNAR.
+Ay, ay, so I have thought; we are one too many.
+#HIORDIS.
+Two, mayhap.
+#GUNNAR.
+But that shall be remedied.
+#HIORDIS.
+Remedied? Then thou art minded to - ?
+#GUNNAR.
+To fit out my warships and put to sea; I will win back the honour I have lost because thou wast dearer to me than all beside.
+#HIORDIS.
+Thou wilt put to sea? Ay, so it may be best for us both.
+#GUNNAR.
+Even from the day we sailed from Iceland, I saw that it would go ill with us. Thy soul is strong and proud; there are times when I well nigh fear thee; yet, it is strange - chiefly for that do I hold thee so dear. Dread enwraps thee like a spell; methinks thou could'st lure me to the blackest deeds, and all would seem good to me that thou didst crave. Unfathomable is the Norn's rede; Sigurd should have been thy husband.
+#HIORDIS.
+Sigurd!
+#GUNNAR.
+Yes, Sigurd. Vengefulness and hatred blind thee, else would'st thou prize him better. Had I been like Sigurd, I could have made life bright for thee.
+#HIORDIS.
+That - that deemest thou Sigurd could have done?
+#GUNNAR.
+He is strong of soul, and proud as thou to boot.
+#HIORDIS.
+If that be so - No matter, no matter! Gunnar, take Sigurd's life!
+#GUNNAR.
+Never!
+#HIORDIS.
+By fraud and falsehood thou mad'st me thy wife - that shall be forgotten! Five joyless years have I spent in this house - all shall be forgotten from the day when Sigurd lives no more!
+#GUNNAR.
+From my hand he need fear no harm. Hiordis, Hiordis, tempt me not!
+#HIORDIS.
+Then must I find another avenger; Sigurd shall not live long to flout at me and thee! With her - that simpleton - with her mayhap he is even now sitting alone, dallying, and laughing at us; speaking of the bitter wrong that was done me when in thy stead he bore me away; telling how he laughed over his guile as he stood in my dark bower, and I knew him not!
+#GUNNAR.
+Nay, nay, he does not so!
+#HIORDIS.
+Sigurd and Dagny must die! I cannot breathe till they are gone! Would'st thou help me with that, Gunnar, then should I live in love with thee; then should I clasp thee in such warm and wild embraces as thou hast never dreamt of!
+#GUNNAR.
+Hiordis! Would'st thou -
+#HIORDIS.
+Do the deed, Gunnar - and the heavy days shall be past. I will no longer quit the hall when thou comest, no longer speak harsh things and quench thy smile when thou art glad. I will clothe me in furs and costly silken robes. When thou goest to war, I will ride by thy side. At the feast I will sit by thee and fill thy horn, and drink to thee and sing fair songs to make glad thy heart!
+#GUNNAR.
+Is it true? Thou wouldst - !
+#HIORDIS.
+More than that, trust me, ten times more! Give me revenge! Revenge on Sigurd and Dagny, and I will - Dagny - comest thou here!
+#DAGNY.
+Haste thee, Gunnar! Call thy men to arms!
+#GUNNAR.
+To arms! Against whom?
+#DAGNY.
+Kare the Peasant is coming, and many outlaws with him; he means thee no good; Sigurd has barred his way for the time; but who can tell -
+#GUNNAR.
+Sigurd has done this for me!
+#DAGNY.
+Sigurd is ever thy faithful friend.
+#GUNNAR.
+And we, Hiordis - we, who thought to - ! It is as I say - there is a spell in all thy speech; no deed but seemeth fair to me, when thou dost name it.
+#DAGNY.
+What meanest thou?
+#GUNNAR.
+Nothing, nothing! Thanks for thy tidings, Dagny; I go to gather my men together. Tell me - how goes it with Ornulf?
+#DAGNY.
+Ask me not. Yesterday he bore Thorolf's body to the ships; now he is raising a grave - mound on the shore; - there shall his son be laid.
+#DAGNY.
+Until evening there is no danger. Hiordis, I have another errand in thy house; it is to thee I come.
+#HIORDIS.
+To me? After all that befell yesterday?
+#DAGNY.
+Just because of that. Hiordis, foster - sister, do not hate me; forget the words that sorrow and evil spirits placed in my mouth; forgive me all the wrong I have done thee; for, trust me, I am tenfold more hapless than thou!
+#HIORDIS.
+Hapless - thou! Sigurd's wife!
+#DAGNY.
+It was my doing, all that befell - the stirring up of strife, and Thorolf's death, and all the scorn that fell upon Gunnar and thee. Mine is all the guilt! Woe upon me! - I have lived so happily; but after this day I shall never know joy again.
+#HIORDIS.
+But before - in these five long years - all that time hast thou been happy?
+#DAGNY.
+Canst thou doubt it?
+#HIORDIS.
+Hm; yesterday I doubted it not; but -
+#DAGNY.
+What meanest thou?
+#HIORDIS.
+Nay, 'tis nought; let us speak of other matters.
+#DAGNY.
+No truly. Hiordis, tell me - !
+#HIORDIS.
+It will profit thee little; but since thou wilt have it so - Canst thou remember once, over in Iceland - we had followed with Ornulf thy father to the Council, and we sat with our playmates in the Council Hall, as is the manner of women. Then came two strangers into the hall.
+#DAGNY.
+Sigurd and Gunnar.
+#HIORDIS.
+They greeted us in courteous fashion, and sat on the bench beside us; and there passed between us much merry talk. There were some who must needs know why these two vikings came thither, and if they were not minded to take them wives there in the island. Then said Sigurd: "It will be hard for me to find the woman that shall be to my mind." Ornulf laughed, and said there was no lack of high - born and well - dowered women in Iceland; but Sigurd answered: "The warrior needs a high - souled wife. She whom I choose must not rest content with a humble lot; no honour must seem to high for her to strive for; she must go with me gladly a - viking; war - weed must she wear; she must egg me on to strife, and never wink her eyes where sword - blades lighten; for if she be faint - hearted, scant honour will befall me." Is it not true, so Sigurd spake?
+#DAGNY.
+True, he did - but -
+#HIORDIS.
+Such was she to be, the woman who could make life fair to him; and then - then he chose thee!
+#DAGNY.
+Ha, thou wouldst say that - ?
+#HIORDIS.
+Doubtless thou has proved thyself proud and high - souled; hast claimed honour of all, that Sigurd might be honoured in thee - is it not so?
+#DAGNY.
+Nay, Hiordis, but -
+#HIORDIS.
+Thou hast egged him on to great deeds, followed him in war - weed, and joyed to be where the strife raged hottest - hast thou not?
+#DAGNY.
+No, no!
+#HIORDIS.
+Hast thou, then, been faint of heart, so that Sigurd has been put to shame?
+#DAGNY.
+Hiordis, Hiordis!
+#HIORDIS.
+Yet thy lot has been a happy one all these years; - think'st thou that Sigurd can say the same?
+#DAGNY.
+Torture me not. Woe is me! thou hast made me see myself too clearly. jesting word, and at once thou art in tears! Think no more of it. Look what I have done to - day. Are they not keen and biting - feel! I know well how to sharpen arrows, do I not?
+#DAGNY.
+And to use them too; thou strikest surely, Hiordis! All that thou hast said to me - I have never thought of before. But that Sigurd - ! That for all these years I should have made his life heavy and unhonoured; - no, no, it cannot be true!
+#HIORDIS.
+Nay now, comfort thee, Dagny; indeed it is not true. Were Sigurd of the same mind as in former days, it might be true enough; for then was his whole soul bent on being the foremost man in the land; - now he is content with a lowlier lot.
+#DAGNY.
+No, Hiordis; Sigurd is high - minded now as ever; I see it well, I am not the right mate for him. He has hidden it from me; but it shall be so no longer.
+#HIORDIS.
+What wilt thou do?
+#DAGNY.
+I will no longer hang like a clog upon his feet; I will be a hindrance to him no longer.
+#HIORDIS.
+Then thou wilt - ?
+#DAGNY.
+Peace; some one comes!
+#THE CARL.
+Sigurd Viking is coming to the hall.
+#HIORDIS.
+Sigurd! Then call Gunnar hither.
+#THE CARL.
+Gunnar has ridden forth to gather his neighbours together; for Kare the Peasant would -
+#HIORDIS.
+Good, good, I know it; go! Whither wilt thou?
+#DAGNY.
+I will not meet Sigurd. Too well I feel that we must part; but to meet him now - no, no, I cannot!
+#HIORDIS.
+And it was she I would have - That would have been a poor revenge; - nay, I have cut deeper now! Hm; it is hard to die, but sometimes it is harder still to live!
+#HIORDIS.
+Doubtless thou seekest Gunnar; be seated, he will be here even now.
+#SIGURD.
+Nay, stay; it is thee I seek, rather than him.
+#HIORDIS.
+Me?
+#SIGURD.
+And 'tis well I find thee alone.
+#HIORDIS.
+If thou comest to mock me, it would sure be no hindrance to thee though the hall were full of men and women.
+#SIGURD.
+Ay, ay, well I know what thoughts thou hast of me.
+#HIORDIS.
+I do thee wrong mayhap! Nay, nay, Sigurd, thou hast been as a poison to all my days. Bethink thee who it was that wrought that shameful guile; who it was that lay by my side in the bower, feigning love with the laugh of cunning in his heart; who it was that flung me forth to Gunnar, since for him I was good enough, forsooth - and then sailed away with the woman he held dear!
+#SIGURD.
+Man's will can do this and that; but fate rules in the deeds that shape our lives - so has it gone with us twain.
+#HIORDIS.
+True enough; evil Norns hold sway over the world; but their might is little if they find not helpers in our own heart. Happy is he who has strength to battle with the Norn - and it is that I have now in hand.
+#SIGURD.
+What mean'st thou?
+#HIORDIS.
+I will essay a trial of strength against those - those who are over me. But let us not talk more of this; I have much to do to - day.
+#SIGURD.
+Thou makest good weapons for Gunnar.
+#HIORDIS.
+Not for Gunnar, but against thee.
+#SIGURD.
+Most like it is the same thing.
+#HIORDIS.
+Ay, most like it is; for if I be a match for the Norn, then sooner or later shalt thou and Gunnar - Hm; knowest thou what I sometimes dream? I have often made it my pastime to limn pleasant pictures in my mind; I sit and close my eyes and think: Now comes Sigurd the Strong to the isle; - he will burn us in our house, me and my husband. All Gunnar's men have fallen; only he and I are left; they set light to the roof from without: - "A bow - shot," cries Gunnar, "one bow - shot may save us;" - then the bow - string breaks - "Hiordis, cut a tress of thy hair and make a bow - string of it, - our life is at stake." But then I laugh - "Let it burn, let it burn - to me, life is not worth a handful of hair!"
+#SIGURD.
+There is a strange might in all thy speech.
+#HIORDIS.
+Wouldst sit beside me?
+#SIGURD.
+Thou deemest my heart is bitter towards thee. Hiordis, this is the last time we shall have speech together; there is something that gnaws me like a sore sickness, and thus I cannot part from thee; thou must know me better.
+#HIORDIS.
+What wouldst thou?
+#SIGURD.
+Tell thee a saga.
+#HIORDIS.
+Is it sad?
+#SIGURD.
+Sad, as life itself.
+#HIORDIS.
+What knowest thou of the sadness of life?
+#SIGURD.
+Judge when my saga is over.
+#HIORDIS.
+Then tell it me; I shall work the while.
+#SIGURD.
+Once upon a time there were two young vikings, who set forth from Norway to win wealth and honour; they had sworn each other friendship; and held truly together, how far soever thy might fare.
+#HIORDIS.
+And the two young vikings hight Sigurd and Gunnar?
+#SIGURD.
+Ay, we may call them so. At last they came to Iceland; and there dwelt an old chieftain, who had come forth from Norway in King Harald's days. He had two fair women in his house; but one, his foster - daughter, was the noblest, for she was wise and strong of soul; and the vikings spoke of her between themselves, and never had they seen a fairer woman, so deemed they both.
+#HIORDIS.
+Both? Wilt thou mock me?
+#SIGURD.
+Gunnar thought of her night and day, and that did Sigurd no less; but both held their peace, and no man could say from her bearing whether Gunnar found favour in her eyes; but that Sigurd misliked her, that was easy to discern.
+#HIORDIS.
+Go on, go on - !
+#SIGURD.
+Yet ever the more must Sigurd dream of her; but of that wist no man. Now it befell one evening that there was a drinking - feast; and then swore that proud woman that no man should possess her save he who wrought a mighty deed, which she named. High beat Sigurd's heart for joy; for he felt within him the strength to do that deed; but Gunnar took him apart and told him of his love; - Sigurd said naught of his, but went to the -
+#HIORDIS.
+Sigurd, Sigurd! And this saga - is it true?
+#SIGURD.
+True it is. One of us had to yield; Gunnar was my friend; I could do aught else. So thou becamest Gunnar's wife, and I wedded another woman.
+#HIORDIS.
+And came to love her!
+#SIGURD.
+I learned to prize her; but one woman only has Sigurd loved, and that is she who frowned upon him from the first day they met. Here ends my saga; and now let us part. - Farewell, Gunnar's wife; never shall we meet again.
+#HIORDIS.
+Stay, stay! Woe to us both; Sigurd, what hast thou done?
+#SIGURD.
+I, done? What ails thee?
+#HIORDIS.
+And all this dost thou tell me now! But no - it cannot be true!
+#SIGURD.
+These are my last words to thee, and every word is true. I would not thou shouldst think hardly of me, therefore I needs must speak.
+#HIORDIS.
+Loved - loved me - thou! I will not believe thee! Yes, it is true, and - baleful for us both!
+#SIGURD.
+Hiordis!
+#HIORDIS.
+Nay, heed me not! This was all I meant, that - Sigurd, thou hast not told thy saga to the end; that proud woman thou didst tell of - she returned thy love!
+#SIGURD.
+Thou?
+#HIORDIS.
+Yes, Sigurd, I have loved thee, at last I understand it. Thou sayest I was ungentle and short of speech towards thee; what wouldst thou have a woman do? I could not offer thee my love, for then had I been little worthy of thee. I deemed thee ever the noblest man of men; and then to know thee another's husband - 'twas that caused me the bitter pain, that myself I could not understand!
+#SIGURD.
+A baleful web has the Norn woven around us twain.
+#HIORDIS.
+The blame is thine own; bravely and firmly it becomes a man to act. When I set that hard proof for him who should win me, my thought was of thee; - yet could'st thou - !
+#SIGURD.
+I knew Gunnar's soul - sickness; I alone could heal it; - was there aught for me to choose? And yet, had I known what I now know, I scarce dare answer for myself; for great is the might of love.
+#HIORDIS.
+But now, Sigurd! - A baleful hap has held us apart all these years; now the knot is loosed; the days to come shall make good the past to us.
+#SIGURD.
+It cannot be; we must part again.
+#HIORDIS.
+Nay, we must not. I love thee, that may I now say unashamed; for my love is no mere dalliance, like a weak woman's; were I a man - by all the Mighty Ones, I could still love thee, even as now I do! Up then, Sigurd! Happiness is worth a daring deed; we are both free if we but will it, and then the game is won.
+#SIGURD.
+Free? What meanest thou?
+#HIORDIS.
+What is Dagny to thee? What can she be to thee? No more than I count Gunnar in my secret heart. What matters it though two worthless lives be wrecked?
+#SIGURD.
+Hiordis, Hiordis!
+#HIORDIS.
+Let Gunnar stay where he is; let Dagny fare with her father to Iceland; I will follow thee in harness of steel, withersoever thou wendest. Not as thy wife will I follow thee; for I have belonged to another, and the woman lives that has lain by thy side. No, Sigurd, not as they wife, but like those mighty women, like Hilde's sisters, will I follow thee, and fire thee to strife and to manly deeds, so that thy name shall be heard over every land. In the sword - game will I stand by thy side; I will fare forth among thy warriors on the stormy viking - raids; and when the death - song is sung, it shall tell of Sigurd and Hiordis in one!
+#SIGURD.
+Once was that my fairest dream; now, it is too late. Gunnar and Dagny stand between us, and that by right. I crushed my love for Gunnar's sake; - how great soever my suffering, I cannot undo my deed. And Dagny - full of faith and trust she left her home and kindred; never must she dream that I longed for Hiordis as often as she took me to her breast.
+#HIORDIS.
+And for such a cause wilt thou lay a burden on thy life! To what end hast thou strength and might, and therewith all noble gifts of the mind? And deemest thou it can now beseem me to dwell beneath Gunnar's roof? Nay, Sigurd, trust me, there are many tasks awaiting such a man as thou. Erik is king of Norway - do thou rise against him! Many goodly warriors will join thee and swear thee fealty; with unconquerable might will we press onward, and fight and toil unresting until thou art seated on the throne of Harfager!
+#SIGURD.
+Hiordis, Hiordis, so have I dreamt in my wild youth; let it be forgotten - tempt me not!
+#HIORDIS.
+It is the Norn's will that we two shall hold together; it cannot be altered. Plainly now I see my task in life: to make thee famous over all the world. Thou hast stood before me every day, every hour of my life; I sought to tear thee out of my mind, but I lacked the might; now it is needless, now that I know thou lovest me.
+#SIGURD.
+If that be so - then know - I have loved thee; it is past now; - I have forgot those days.
+#HIORDIS.
+Sigurd, in that thou liest! So much at least am I worth, that if thou hast loved me once, thou canst never forget it.
+#SIGURD.
+I must; and now I will.
+#HIORDIS.
+So be it; but thou canst not. Thou wilt seek to hinder me, but in vain; ere evening falls, Gunnar and Dagny shall know all.
+#SIGURD.
+Ha, that wilt thou never do!
+#HIORDIS.
+That will I do!
+#SIGURD.
+Then must I know thee ill; high - souled have I ever deemed thee.
+#HIORDIS.
+Evil days breed evil thoughts; too great has been thy trust in me. I will, I must, go forth by thy side - forth to face life and strife; Gunnar's roof - tree is too low for me.
+#SIGURD.
+But honour between man and man hast thou highly prized. There lack not grounds for strife between me and Gunnar; say, now, that he fell by my hand, wouldst thou still make all known and follow me?
+#HIORDIS.
+Wherefore askest thou?
+#SIGURD.
+Answer me first: what wouldst thou do, were I to thy husband his bane.
+#HIORDIS.
+Then must I keep silence and never rest until I had seen thee slain.
+#SIGURD.
+It is well, Hiordis - I knew it.
+#HIORDIS.
+But it can never come to pass!
+#SIGURD.
+It must come to pass; thou thyself hast cast the die for Gunnar's life and mine.
+#GUNNAR.
+See now; the seed thou hast sown is shooting bravely!
+#SIGURD.
+What is amiss with thee?
+#GUNNAR.
+Sigurd, is it thou? What is amiss? Nought but what I might well have foreseen. As soon as Dagny, thy wife, had brought tidings of Kare the Peasant, I took horse and rode to my neighbours to crave help against him.
+#HIORDIS.
+Well?
+#GUNNAR.
+I was answered awry where'er I came: my dealings with Kare had been little to my honour, it was said; - hm, other things were said to boot, that I will not utter. - I am spurned at by all; I am thought to have done a dastard deed; men hold it a shame to make common cause with me.
+#SIGURD.
+It shall not long be held a shame; ere evening comes, thou shalt have men enough to face Kare.
+#GUNNAR.
+Sigurd!
+#HIORDIS.
+Ha, I knew it well!
+#SIGURD.
+But then is there an end to the peace between us; for hearken to my words, Gunnar - thou hast slain Thorolf, my wife's kinsman, and therefore do I challenge thee to single combat to - morrow at break of day.
+#GUNNAR.
+To single combat - ! Me! - Thou art jesting, Sigurd!
+#SIGURD.
+Thou art lawfully challenged to single combat; 'twill be a game for life or death; one of us must fall!
+#GUNNAR.
+Ha, I understand it well. When I came, thou didst talk with Hiordis alone; she has goaded thee afresh!
+#SIGURD.
+May hap. A high - souled woman must ever guard her husband's honour. And do ye, house - carls, now go to Gunnar's neighbours, and say to them that to - morrow he is to ply sword - strokes with me; none dare call that man a dastard who bears arms against Sigurd Viking!
+#GUNNAR.
+Sigurd, my brave brother, now I understand thee! Thou venturest thy life for my honour, as of old for my happiness!
+#SIGURD.
+Thank thy wife; she has the largest part in what I do. To - morrow at break of day -
+#GUNNAR.
+I will meet thee. Foster - brother, wilt thou have a good blade of me? It is a gift of price.
+#SIGURD.
+I thank thee; but let it hang. - Who knows if next evening I may have any use for it.
+#GUNNAR.
+Farewell, Sigurd!
+#SIGURD.
+Again farewell, and fortune befriend thee this night!
+#HIORDIS.
+To - morrow they fight! Which will fall? Let fall who will - Sigurd and I shall still be together!
+#DAGNY.
+There sits he still. Nay, speak not to him!
+#SIGURD.
+Thou say'st well; it is too soon; best leave him!
+#DAGNY.
+So strong was he yesterday when he bore Thorolf's body on his back; strong was he as he helped to heap the grave - mound; but when they were all laid to rest, and earth and stones piled over them - then the sorrow seized him; then seemed it of a sudden as though his fire were quenched. Tell me, Sigurd, when thinkest thou to fare homeward to Iceland?
+#SIGURD.
+So soon as the storm abates, and my quarrel with Gunnar is ended.
+#DAGNY.
+And then wilt thou buy land and build thee a homestead, and go a - viking no more?
+#SIGURD.
+Yes, yes, - that have I promised.
+#DAGNY.
+And I may believe without doubt that Hiordis spoke falsely when she said that I was unworthy to be thy wife?
+#SIGURD.
+Yes yes, Dagny, trust thou to my word.
+#DAGNY.
+Then am I glad again, and will try to forget all the evil that here has been wrought. In the long winter evenings we will talk together of Gunnar and Hiordis, and -
+#SIGURD.
+Nay, Dagny, wouldst thou have things go well with us, do thou never speak Hiordis' name when we sit together in Iceland.
+#DAGNY.
+Unjust is thy hatred towards her. Sigurd, Sigurd, it is unlike thee.
+#ONE OF THE MEN.
+There now, the mound is finished.
+#ORNULF.
+The mound? Is it - ay, ay -
+#SIGURD.
+Now speak to him, Dagny.
+#DAGNY.
+Father, it is cold out here; a storm is gathering to - night.
+#ORNULF.
+Hm; heed it not; the mound is close - heaped and crannyless; they lie warm in there.
+#DAGNY.
+Ay, but thou - I am not cold.
+#DAGNY.
+Nought hast thou eaten today; wilt thou not go in? The supper - board stands ready.
+#ORNULF.
+Let the supper - board stand; I have no hunger.
+#DAGNY.
+But to sit here so still - trust me, thou wilt take hurt of it; thou art ever wont to be stirring.
+#ORNULF.
+True, true; there is somewhat that crushes my breast; I cannot draw breath.
+#DAGNY.
+To - morrow wilt thou make ready thy ship and set forth for Iceland?
+#ORNULF.
+What should I do there? Nay, I will to my sons.
+#DAGNY.
+Father!
+#ORNULF.
+Go in and let me sit here; when the storm has played with me for a night or two, the game will be over, I ween.
+#SIGURD.
+Thou canst not think to deal thus with thyself.
+#ORNULF.
+Dost marvel that I fain would rest? My day's work is done; I have laid my sons in their grave. Go from me! - Go, go!
+#SIGURD.
+Let him sit yet a while.
+#DAGNY.
+Nay, I have one rede yet untried; - I know him. Thy day's work done, say'st thou? Nay, that it is not. Thou hast laid thy sons in the grave; - but art thou not a skald? It is meet that thou should'st sing their memory.
+#ORNULF.
+Sing? Nay, nay; yesterday I could sing; I am too old to - day.
+#DAGNY.
+But needs must thou; honourable men were thy sons, one and all; a song must be made of them, and that can none of our kin but thou.
+#ORNULF.
+To sing? What thinkest thou, Sigurd?
+#SIGURD.
+Meseems it is but meet; thou must e'en do as she says.
+#DAGNY.
+Thy neighbours in Iceland will deem it ill done when the grave - ale is drunk over Ornulf's children, and there is no song to sing with it. Thou hast ever time enough to follow thy sons.
+#ORNULF.
+Well well, I will try it; and thou, Dagny, give heed, that afterwards thou may'st carve the song on staves. mythology.] poetical inspiration. So - so; now is Ornulf sound and strong again. Follow me to the supper - board, lads; we have had a heavy day's work!
+#DAGNY.
+Praised be the Mighty Ones on high that gave me so good a rede. Wilt thou not go in?
+#SIGURD.
+Nay, I list not to. Tell me, are all things ready for to - morrow?
+#DAGNY.
+They are; a silk - sewn shroud lies on the bench; but I know full surely that thou wilt hold thee against Gunnar, so I have not wept over it.
+#SIGURD.
+Grant all good powers, that thou may'st never weep for my sake.
+#DAGNY.
+What art thou listening to?
+#SIGURD.
+Hear'st thou nought - there?
+#DAGNY.
+Ay, there goes a fearsome storm over the sea!
+#SIGURD.
+Hm, there will fall hard hailstones in that storm. Who comes?
+#KARE.
+Folk thou wot'st of, Sigurd Viking!
+#SIGURD.
+Whither would ye?
+#KARE.
+To Gunnar's hall.
+#SIGURD.
+As foemen?
+#KARE.
+Ay, trust me for that! Thou didst hinder me before; but now I ween thou wilt scarce do the like.
+#SIGURD.
+Maybe not.
+#KARE.
+I have heard of thy challenge to Gunnar; but if things go to my mind, weak will be his weapons when the time comes for your meeting.
+#SIGURD.
+'Tis venturesome work thou goest about; take heed for thyself, Peasant!
+#KARE.
+Leave that to me; if thou wilt tackle thy ship to - night, we will give thee light for the task! - Come, all my men; here goes the way.
+#DAGNY.
+Sigurd, Sigurd, this misdeed must thou hinder.
+#SIGURD.
+Up from the board, Ornulf; take vengeance on Kare the Peasant.
+#ORNULF.
+Kare the Peasant - where is he?
+#SIGURD.
+He is making for Gunnar's hall to burn it over their heads.
+#ORNULF.
+Ha - ha - let him do as he will; so shall I be avenged on Gunnar and Hiordis, and afterwards I can deal with Kare.
+#SIGURD.
+Ay, that rede avails not; wouldst thou strike at Kare, thou must seek him out to - night; for when his misdeed is done, he will take to the mountains. I have challenged Gunnar to single combat; him thou hast safely enough, unless I myself - but no matter. - To - night he must be shielded from his foes; it would ill befit thee to let such a dastard as Kare rob thee of thy revenge.
+#ORNULF.
+Thou say'st truly. To - night will I shield the slayer of Thorolf; but to - morrow he must die.
+#SIGURD.
+He or I - doubt not of that!
+#ORNULF.
+Come then, to take vengeance for Ornulf's sons.
+#SIGURD.
+Dagny, do thou follow them; - I must bide here; for the rumour of the combat is already abroad, and I may not meet Gunnar ere the time comes. But thou - do thou keep rein on thy father; he must go honourably to work; in Gunnar's hall there are many women; no harm must befall Hiordis or the rest.
+#DAGNY.
+Yes, I will follow them. Thou hast a kind thought even for Hiordis; I thank thee.
+#SIGURD.
+Go, go, Dagny!
+#DAGNY.
+I go; but be thou at ease as to Hiordis; she has gilded armour in her bower, and will know how to shield herself.
+#SIGURD.
+That deem I too; but go thou nevertheless; guide thy father's course; watch over all - and over Gunnar's wife!
+#DAGNY.
+Trust to me. Farewell, till we meet again.
+#SIGURD.
+'Tis the first time, foster - brother, that I stand weaponless whilst thou art in danger. I hear shouts and sword - strokes; - they are already at the hall. Hiordis! Comes she hither!
+#HIORDIS.
+Sigurd, Sigurd, canst thou see it?
+#SIGURD.
+What? Where ?
+#HIORDIS.
+The wolf there - close behind me; it does not move; it glares at me with its two red eyes. It is my wraith,, Sigurd! Three times has it appeared to me; that bodes that I shall surely die to - night! but the wraith seemed to be the nearest equivalent in English mythology to the Scandinavian "fylgie," an attendant spirit, often regarded as a sort of emanation from the person it accompanied, and sometimes typifying that person's moral attributes.
+#SIGURD.
+Hiordis, Hiordis!
+#HIORDIS.
+It has sunk into the earth! Yes, yes, now it has warned me.
+#SIGURD.
+Thou art sick; come, go in with me.
+#HIORDIS.
+Nay, here will I bide; I have but little time left.
+#SIGURD.
+What has befallen thee?
+#HIORDIS.
+What has befallen? That know I not; but true was it what thou said'st to - day, that Gunnar and Dagny stand between us; we must away from them and from life: then can we be together!
+#SIGURD.
+We? Ha, thou meanest - !
+#HIORDIS.
+I have been homeless in this world from that day thou didst take another to wife. That was ill done of thee! All good gifts may a man give his faithful friend - all, save the woman he loves; for if he do that, he rends the Norn's secret web, and two lives are wrecked. An unerring voice within me tells me I came into the world that my strong soul might cheer and sustain thee through heavy days, and that thou wast born to the end I might find in one man all that seemed to me great and noble; for this I know Sigurd - had we two held together, thou hadst become more famous than all others, and I happier.
+#SIGURD.
+It avails not now to mourn. Thinkest thou it is a merry life that awaits me? To be by Dagny's side day be day, and feign a love my heart shrinks from? Yet so it must be; it cannot be altered.
+#HIORDIS.
+It shall be altered! We must out of this life, both of us! Seest thou this bow - string? With it can I surely hit my mark; for I have crooned fair sorceries over it! Hark! hearest thou that rushing in the air? It is the dead men's ride to Nalhal: I have bewitched them hither; - we two will join them in their ride!
+#SIGURD.
+Hiordis, Hiordis - I fear thee!
+#HIORDIS.
+Our fate no power can alter now! Oh, 'tis better so than if thou hadst wedded me here in this life - if I had sat in thy homestead weaving linen and wool for thee and bearing thee children - pah!
+#SIGURD.
+Hold, hold! Thy sorcery has been too strong for thee; thou art soul - sick, Hiordis! Ha, see - see! Gunnar's hall - it is burning!
+#HIORDIS.
+Let it burn, let it burn! The cloud - hall up yonder is loftier than Gunnar's rafter - roof!
+#SIGURD.
+But Egil, thy son - they are slaying him!
+#HIORDIS.
+Let him die - my shame dies with him!
+#SIGURD.
+And Gunnar - they are taking thy husband's life!
+#HIORDIS.
+What care I! A better husband shall I follow home this night! Ay, Sigurd, so must it be; here on this earth is no happiness for me. The White God is coming northward; him will I not meet; the old gods are strong no longer; - they sleep, they sit half shadow - high; - with them will we strive! Out of this life, Sigurd; I will enthrone thee king in heaven, and I will sit at thy side. Hark, hark, here comes our company! Canst see the black steeds galloping? - one is for me and one for thee. Away, then, on thy last ride home!
+#SIGURD.
+Well aimed, Hiordis!
+#HIORDIS.
+Sigurd, my brother, - now art thou mine at last!
+#SIGURD.
+Now less than ever. Here our ways part; for I am a Christian man.
+#HIORDIS.
+Thou - ! Ha, no, no!
+#SIGURD.
+The White God is mine; King AEthelstan taught me to know him; it is to him I go.
+#HIORDIS.
+And I - ! Woe! woe!
+#SIGURD.
+Heavy has my life been from the hour I tore thee out of my own heart and gave thee to Gunnar. Thanks, Hiordis; - now am I so light and free.
+#HIORDIS.
+Dead! Then truly have I brought my soul to wreck! They come! I have bewitched them hither! No, no! I will not go with you! I will not ride without Sigurd! It avails not - they see me; they laugh and beckon to me; they spur their horses! They are upon me; - and no shelter no hiding - place! Ay, mayhap at the bottom of the sea!
+#ORNULF.
+Now may ye sleep in peace; for ye lie not unavenged.
+#DAGNY.
+Father, father - I die of fear - all that bloody strife - and the storm; - hark, hark!
+#GUNNAR.
+Peace, and shelter for my child!
+#ORNULF.
+Gunnar!
+#GUNNAR.
+Ay, Ornulf, my homestead is burnt and my men are slain; I am in thy power; do with me what thou wilt!
+#ORNULF.
+That Sigurd must look to. But in, under roof! It is not safe out here.
+#DAGNY.
+Ay, in, in! Sigurd, my husband! - They have slain him!
+#ORNULF.
+Sigurd!
+#GUNNAR.
+Sigurd dead!
+#DAGNY.
+No, no, it is not so; - he must be alive! Ha, what is that?
+#ORNULF.
+Daughter, it is as first thou saidst - Sigurd is slain.
+#GUNNAR.
+And Hiordis! - Has Hiordis been here?
+#DAGNY.
+I know not; but this I know, that her bow has been here.
+#GUNNAR.
+Ay, I thought as much!
+#DAGNY.
+Hush, hush! So bitterly did she hate him!
+#GUNNAR.
+She has slain him - the night before the combat; then she loved me after all.
+#EGIL.
+Father! See, see!
+#GUNNAR.
+What is it?
+#EGIL.
+Up there - all the black horses - !
+#GUNNAR.
+It is the clouds that -
+#ORNULF.
+Nay, it is the dead men's home - faring.
+#EGIL.
+Mother is with them!
+#DAGNY.
+All good spirits!
+#GUNNAR.
+Child, what say'st thou?
+#EGIL.
+There - in front - on the black horse! Father, father!
+#GUNNAR.
+Now is Hiordis surely dead!
+#ORNULF.
+So it must be, Gunnar; - and my vengeance was rather against her than thee. Dear has this meeting been to both of us; - - there is my hand; be there peace between us!
+#GUNNAR.
+Thanks, Ornulf! And now aboard; I sail with thee to Iceland.
+#ORNULF.
+Ay, to Iceland! Long will it be ere our forth - faring is forgotten.

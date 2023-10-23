@@ -1,0 +1,904 @@
+#STUDENT.
+Can I have the cup?
+#STUDENT.
+Are you not almost done?
+#HUMMEL.
+With whom is he talking? I don't see anybody. Wonder if he's crazy?
+#STUDENT.
+Why do you stare at me? Do I look so terrible - It is true that I haven't slept at all, and I suppose you think I have been making a night of it....
+#STUDENT.
+You think I have been drinking, do you? Do I smell of liquor?
+#STUDENT.
+I haven't shaved, of course.... Oh, give me a drink of water, girl. I have earned it. Well? Must I then tell you myself that I have spent the night dressing wounds and nursing the injured? You see, I was present when that house collapsed last night.... Now you know all about it.
+#STUDENT.
+Thanks!
+#STUDENT.
+Would you do me a favour? My eyes are inflamed, as you can see, and my hands have touched wounds and corpses. To touch my eyes with them would be dangerous.... Will you take my handkerchief, which is clean, dip it in the fresh water, and bathe my poor eyes with it? - Will you do that? - Won't you play the good Samaritan?
+#STUDENT.
+Thank you!
+#STUDENT.
+Pardon my absent - mindedness. I am not awake, you see.... Hummel. Excuse a stranger, but I heard you mention last night's accident.... I was just reading about it in the paper....
+#STUDENT.
+Is it already in the papers?
+#HUMMEL.
+All about it. Even your portrait. They are sorry, though, that they have not been able to learn the name of the young student who did such splendid work....
+#STUDENT.
+Oh, is that me? Well!
+#HUMMEL.
+Whom were you talking to a while ago?
+#STUDENT.
+Didn't you see?
+#HUMMEL.
+Would it be impertinent - to ask - your estimable name?
+#STUDENT.
+What does it matter? I don't care for publicity. Blame is always mixed into any praise you may get. The art of belittling is so highly developed. And besides, I ask no reward....
+#HUMMEL.
+Wealthy, I suppose?
+#STUDENT.
+Not at all - on the contrary - poor as a durmouse!
+#HUMMEL.
+Look here.... It seems to me as if I recognised your voice. When I was young, I had a friend who always said "dur" instead of door. Until now he was the one person I had ever heard using that pronunciation. You are the only other one.... Could you possibly be a relative of the late Mr. Arkenholtz, the merchant?
+#STUDENT.
+He was my father.
+#HUMMEL.
+Wonderful are the ways of life.... I have seen you when you were a small child, under very trying circumstances....
+#STUDENT.
+Yes, I have been told that I was born just after my father had gone bankrupt.
+#HUMMEL.
+So you were.
+#STUDENT.
+May I ask your name?
+#HUMMEL.
+I am Mr. Hummel.
+#STUDENT.
+You are? Then I remember....
+#HUMMEL.
+Have you often heard my name mentioned at home?
+#STUDENT.
+I have.
+#HUMMEL.
+And not in a pleasant way, I suppose?
+#HUMMEL.
+That's what I expected. - You were told, I suppose, that I had ruined your father? - All who are ruined by ill - advised speculations think themselves ruined by those whom they couldn't fool. The fact of it is, however, that your father robbed me of seventeen thousand crowns, which represented all my savings at that time.
+#STUDENT.
+It is queer how the same story can be told in quite different ways.
+#HUMMEL.
+You don't think that I am telling the truth?
+#STUDENT.
+How can I tell what to think? My father was not in the habit of lying.
+#HUMMEL.
+No, that's right, a father never lies.... But I am also a father, and for that reason....
+#STUDENT.
+What are you aiming at?
+#HUMMEL.
+I saved your father from misery, and he repaid me with the ruthless hatred that is born out of obligation.... He taught his family to speak ill of me.
+#STUDENT.
+Perhaps you made him ungrateful by poisoning your assistance with needless humiliation.
+#HUMMEL.
+All assistance is humiliating, sir.
+#STUDENT.
+And what do you ask of me now?
+#HUMMEL.
+Not the money back. But if you will render me a small service now and then, I shall consider myself well paid. I am a cripple, as you see. Some people say it is my own fault. Others lay it to my parents. I prefer to blame life itself, with its snares. To escape one of these snares is to walk headlong into another. As it is, I cannot climb stairways or ring door - bells, and for that reason I ask you: will you help me a little?
+#STUDENT.
+What can I do for you?
+#HUMMEL.
+Give my chair a push, to begin with, so that I can read the bills on that column. I wish to see what they are playing to - night.
+#STUDENT.
+Have you no attendant?
+#HUMMEL.
+Yes, but he is doing an errand. He'll be back soon. Are you a medical student?
+#STUDENT.
+No, I am studying philology, but I don't know what profession to choose....
+#HUMMEL.
+Well, well! Are you good at mathematics?
+#STUDENT.
+Reasonably so.
+#HUMMEL.
+That's good! Would you care to accept a position?
+#STUDENT.
+Yes, why not?
+#HUMMEL.
+Fine! They are playing "The Valkyr" at the matinee.... Then the Colonel will be there with his daughter, and as he always has the end seat in the sixth row, I'll put you next to him.... Will you please go over to that telephone kiosk and order a ticket for seat eighty - two, in the sixth row?
+#STUDENT.
+Must I go to the opera in the middle of the day?
+#HUMMEL.
+Yes. Obey me, and you'll prosper. I wish to see you happy, rich, and honoured. Your début last night in the part of the brave rescuer will have made you famous by to - morrow, and then your name will be worth a great deal.
+#STUDENT.
+What a ludicrous adventure!
+#HUMMEL.
+Are you a sportsman?
+#STUDENT.
+Yes, that has been my misfortune.
+#HUMMEL.
+Then we'll turn it into good fortune. - Go and telephone now.
+#HUMMEL.
+Ready?
+#STUDENT.
+It's done.
+#HUMMEL.
+Have you noticed this house?
+#STUDENT.
+Yes, I have been watching it.... I happened to pass by yesterday, when the sun was making every window - pane glitter.... And thinking of all the beauty and luxury that must be found within, I said to my companion: "Wouldn't it be nice to have an apartment on the fifth floor, a beautiful young wife, two pretty little children, and an income of twenty thousand crowns?"...
+#HUMMEL.
+So you said that? Did you really? Well, well! I am very fond of this house, too....
+#STUDENT.
+Do you speculate in houses?
+#HUMMEL.
+Mm - yah! But not in the way you mean.
+#STUDENT.
+Do you know the people who live here?
+#HUMMEL.
+All of them. A man of my age knows everybody, including their parents and grandparents, and in some manner he always finds himself related to every one else. I am just eighty - but nobody knows me - not through and through. I am very much interested in human destinies.
+#HUMMEL.
+There's the Colonel now, who will sit next to you at the opera this afternoon.
+#STUDENT.
+Is he - the Colonel? I don't understand this at all, but it's like a fairy - tale.
+#HUMMEL.
+All my life has been like a collection of fairy - tales, my dear sir. Although the tales read differently, they are all strung on a common thread, and the dominant theme recurs constantly.
+#STUDENT.
+Whom does that statue represent?
+#HUMMEL.
+His wife, of course.
+#STUDENT.
+Was she very lovely?
+#HUMMEL.
+Mm - yah - well....
+#STUDENT.
+Speak out.
+#HUMMEL.
+Oh, we can't form any judgment about people, my dear boy. And if I told you that she left him, that he beat her, that she returned to him, that she married him a second time, and that she is living there now in the shape of a mummy, worshipping her own statue - then you would think me crazy.
+#STUDENT.
+I don't understand at all.
+#HUMMEL.
+I didn't expect you would. Then there is the window with the hyacinths. That's where his daughter lives? She is out for a ride now, but she will be home in a few moments.
+#STUDENT.
+And who is the dark lady talking to the janitress?
+#HUMMEL.
+The answer is rather complicated, but it is connected with the dead man on the second floor, where you see the white sheets.
+#STUDENT.
+Who was he? human being like you or me, but the most conspicuous thing about him was his vanity.... If you were born on a Sunday, you might soon see him come down the stairway and go out on the sidewalk to make sure that the flag of the consulate is half - masted. You see, he was a consul, and he revelled in coronets and lions and plumed hats and coloured ribbons.
+#STUDENT.
+You spoke of being born on a Sunday.... So was I, I understand.
+#HUMMEL.
+No! Really?... Oh, I should have known.... The colour of your eyes shows it.... Then you can see what other people can't. Have you noticed anything of that kind?
+#STUDENT.
+Of course, I can't tell what other people see or don't see, but at times.... Oh, such things you don't talk of!
+#HUMMEL.
+I was sure of it! And you can talk to me, because I - I understand - things of that kind....
+#STUDENT.
+Yesterday, for instance.... I was drawn to that little side street where the house fell down afterward.... When I got there, I stopped in front of the house, which I had never seen before.... Then I noticed a crack in the wall.... I could hear the floor beams snapping.... I rushed forward and picked up a child that was walking in front of the house at the time.... In another moment the house came tumbling down.... I was saved, but in my arms, which I thought held the child, there was nothing at all....
+#HUMMEL.
+Well, I must say!... Much as I have heard.... Please tell me one thing: what made you act as you did by the fountain a while ago? Why were you talking to yourself?
+#STUDENT.
+Didn't you see the Milkmaid to whom I was talking?
+#HUMMEL.
+A milkmaid?
+#STUDENT.
+Yes, the girl who handed me the cup.
+#HUMMEL.
+Oh, that's what it was.... Well, I haven't that kind of sight, but there are other things....
+#HUMMEL.
+Look at that old woman in the window. Do you see her? - Well, she was my fiancée once upon a time, sixty years ago.... I was twenty at that time.... Never mind, she does not recognise me. We see each other every day, and I hardly notice her - although once we vowed to love each other eternally.... Eternally!
+#STUDENT.
+How senseless you were in those days! We don't talk to our girls like that.
+#HUMMEL.
+Forgive us, young man! We didn't know better. - Can you see that she was young and pretty once?
+#STUDENT.
+It doesn't show.... Oh, yes, she has a beautiful way of looking at things, although I can't see her eyes clearly.
+#HUMMEL.
+And the Janitress - hm! That Dark Lady is her daughter and the dead man's, and that's why her husband was made janitor.... But the Dark Lady has a lover, who is a dandy with great expectations. He is now getting a divorce from his present wife, who is giving him an apartment - house to get rid of him. This elegant lover is the son - in - law of the dead man, and you can see his bedclothes being aired on the balcony up there.... That's a bit complicated, I should say!
+#STUDENT.
+Yes, it's fearfully complicated.
+#HUMMEL.
+It certainly is, inside and outside, no matter how simple it may look.
+#STUDENT.
+But who was the dead man? Hummel. So you asked me a while ago, and I answered you. If you could look around the corner, where the servants' entrance is, you would see a lot of poor people whom he used to help - when he was in the mood....
+#STUDENT.
+He was a kindly man, then?
+#HUMMEL.
+Yes - at times.
+#STUDENT.
+Not always?
+#HUMMEL.
+No - o.... People are like that! - Will you please move the chair a little, so that I get into the sunlight? I am always cold. You see, the blood congeals when you can't move about.... Death isn't far away from me, I know, but I have a few things to do before it comes.... Just take hold of my hand and feel how cold I am.
+#STUDENT.
+I should say so!
+#HUMMEL.
+Don't leave me! I am tired now, and lonely, but I haven't always been like this, you know. I have an endlessly long life back of - enormously long.... I have made people unhappy, and other people have made me unhappy, and one thing has to be put against the other, but before I die, I wish to see you happy.... Our destinies have become intertwined, thanks to your father - and many other things....
+#STUDENT.
+Let go my hand! You are taking all my strength! You are freezing me! What do you want of me?
+#HUMMEL.
+Patience, and you'll see, and understand.... There comes the Young Lady now....
+#STUDENT.
+The Colonel's daughter?
+#HUMMEL.
+His daughter - yes! Look at her! - Did you ever see such a masterpiece?
+#STUDENT.
+She resembles the marble statue in there.
+#HUMMEL.
+It's her mother.
+#STUDENT.
+You are right.... Never did I see such a woman of woman born! - Happy the man who may lead her to the altar and to his home!
+#HUMMEL.
+You see it, then? Her beauty is not discovered by everybody.... Then it is written in the book of life!
+#HUMMEL.
+Are you crying?
+#STUDENT.
+Can you meet what is hopeless with anything but despair?
+#HUMMEL.
+I have the power of opening doors and hearts, if I can only find an arm to do my will.... Serve me, and you shall also have power....
+#STUDENT.
+Is it to be a bargain? Do you want me to sell my soul?
+#HUMMEL.
+Don't sell anything!... You see, all my life I have been used to take. Now I have a craving to give - to give! But no one will accept.... I am rich, very rich, but have no heirs except a scamp who is tormenting the life out of me.... Become my son! Inherit me while I am still alive! Enjoy life, and let me look on - from a distance, at least!
+#STUDENT.
+What am I to do?
+#HUMMEL.
+Go and hear "The Valkyr" first of all.
+#STUDENT.
+That's settled - but what more?
+#HUMMEL.
+This evening you shall be in the Round Room.
+#STUDENT.
+How am I to get there?
+#HUMMEL.
+Through "The Valkyr."
+#STUDENT.
+Why have you picked me to be your instrument? Did you know me before?
+#HUMMEL.
+Of course, I did! I have had my eyes on you for a long time.... Look at the balcony now, where the Maid is raising the flag at half - mast in honour of the consul.... And then she turns the bedclothes.... Do you notice that blue quilt? It was made to cover two, and now it is only covering one.... There is my little girl now. Look at her - look! She is talking to her flowers, and she herself looks like a blue hyacinth. She slakes their thirst - with pure water only - and they transform the water into colour and fragrance.... There comes the Colonel with the newspaper! He shows her the story about the house that fell down - and he points at your portrait! She is not indifferent - she reads of your deeds.... It's clouding up, I think.... I wonder if it's going to rain? Then I shall be in a nice fix, unless Johansson comes back soon Now my fiancée is closing her window.... She is seventy - nine - and the only mirror she uses is the window - mirror, because there she sees not herself, but the world around her - and she sees it from two sides - but it has not occurred to her that she can be seen by the world, too.... A handsome old lady, after all....
+#STUDENT.
+Good God, what is that I see?
+#HUMMEL.
+What do you see?
+#STUDENT.
+Don't you see?... There, at the entrance.... The dead man?
+#HUMMEL.
+I see nothing at all, but that was what I expected. Tell me....
+#STUDENT.
+He comes out in the street.... Now he turns his head to look at the flag.
+#HUMMEL.
+What did I tell you? And you may be sure that he will count the wreaths and study the visiting - cards attached to them.... And I pity anybody that is missing!
+#STUDENT.
+Now he goes around the corner....
+#HUMMEL.
+He wants to count the poor at the other entrance.... The poor are so decorative, you know.... "Followed by the blessings of many".... But he won't get any blessing from me! - Between us, he was a big rascal!
+#STUDENT.
+But charitable.... charitable rascal, who always had in mind the splendid funeral he expected to get.... When he knew that his end was near, he cheated the state out of fifty thousand crowns.... And now his daughter goes about with ... another woman's husband, and wonders what is in his will.... Yes, the rascal can hear every word we say, and he is welcome to it! - There comes Johansson now.
+#HUMMEL.
+Report!
+#HUMMEL.
+Not at home, you say? Oh, you are no good! - Any telegram? - Not a thing.... Go on! - Six o'clock to - night? - That's fine! - An extra, you say? - With his full name? - Arkenholtz, a student, yes.... Born.... Parents.... That's splendid! I think it's beginning to rain.... What did he say? - Is that so? - He won't? - Well, then he must! - Here comes the Dandy.... Push me around the corner, Johansson, so I can hear what the poor people have to say.... And you had better wait for me here, Arkenholtz.... Do you understand? - Hurry up now, hurry up!
+#DANDY.
+Well, what is there to do about it? We simply have to wait.
+#DARK LADY.
+But I can't wait!
+#DANDY.
+Is that so? Then you'll have to go to the country.
+#DARK LADY.
+I don't want to!
+#DANDY.
+Come this way, or they'll hear what we are saying.
+#JOHANSSON.
+My master asks you not to forget that other thing.
+#STUDENT.
+Look here.... Tell me, please.... Who is your master?
+#JOHANSSON.
+Oh, he's so many things, and he has been everything....
+#STUDENT.
+Is he in his right mind?
+#JOHANSSON.
+Who can tell? - All his life he has been looking for one born on Sunday, he says - which does not mean that it must be true....
+#STUDENT.
+What is he after? Is he a miser?
+#JOHANSSON.
+He wants to rule.... The whole day long he travels about in his chair like the god of thunder himself He looks at houses, tears them down, opens up new streets, fills the squares with buildings.... At the same time he breaks into houses, sneaks through open windows, plays havoc with human destinies, kills his enemies, and refuses to forgive anything.... Can you imagine that a cripple like him has been a Don Juan - but one who has always lost the women he loved?
+#STUDENT.
+How can you make those things go together?
+#JOHANSSON.
+He is so full of guile that he can make the women leave him when he is tired of them.... Just now he is like a horse thief practising at a slave - market.... He steals human beings, and in all sorts of ways.... He has literally stolen me out of the hands of the law.... Hm.... yes.... I had been guilty of a slip. And no one but he knew of it. Instead of putting me in jail, he made a slave of me. All I get for my slavery is the food I eat, which might be better at that....
+#STUDENT.
+And what does he wish to do in this house here?
+#JOHANSSON.
+No, I don't want to tell! It's too complicated....
+#STUDENT.
+I think I'll run away from the whole story....
+#JOHANSSON.
+Did you see the Young Lady drop her bracelet out of the window?
+#JOHANSSON.
+So you want to run away? That is more easily said than done when he has got you in his net.... And he fears nothing between heaven and earth except one thing or one person rather....
+#STUDENT.
+Wait - I think I know!
+#JOHANSSON.
+How could you?
+#STUDENT.
+I can guess! Is it not - a little milkmaid that he fears?
+#JOHANSSON.
+He turns his head away whenever he meets a milk wagon.... And at times he talks in his sleep.... He must have been in Hamburg at one time, I think....
+#STUDENT.
+Is this man to be trusted?
+#JOHANSSON.
+You may trust him - to do anything!
+#STUDENT.
+What is he doing around the corner now?
+#JOHANSSON.
+Watching the poor dropping a word here and a word there.... loosening a stone at a time ... until the whole house comes tumbling down, metaphorically speaking.... You see, I am an educated man, and I used to be a book dealer.... Are you going now?
+#STUDENT.
+I find it hard to be ungrateful.... Once upon a time he saved my father, and now he asks a small service in return....
+#JOHANSSON.
+What is it?
+#STUDENT.
+To go and see "The Valkyr"....
+#JOHANSSON.
+That's beyond me.... But he is always up to new tricks.... Look at him now, talking to the police - man! He is always thick with the police. He uses them. He snares them in their own interests. He ties their hands by arousing their expectations with false promises - while all the time he is pumping them.... You'll see that he is received in the Round Room before the day is over!
+#STUDENT.
+What does he want there? What has he to do with the Colonel?
+#JOHANSSON.
+I think I can guess, but know nothing with certainty. But you'll see for yourself when you get there!
+#STUDENT.
+I'll never get there.
+#JOHANSSON.
+That depends on yourself! - Go to "The Valkyr."
+#STUDENT.
+Is that the road?
+#JOHANSSON.
+Yes, if he has said so - Look at him there - look at him in his war chariot, drawn in triumph by the Beggars, who get nothing for their pains but a hint of a great treat to be had at his funeral.
+#HUMMEL.
+Give honour to the noble youth who, at the risk of his own, saved so many lives in yesterday's accident! Three cheers for Arkenholtz!
+#HUMMEL.
+Applaud, citizens! It is Sunday, of course, but the ass in the pit and the ear in the field will absolve us. Although I was not born on a Sunday, I have the gift of prophecy and of healing, and on one occasion I brought a drowned person back to life.... That happened in Hamburg on a Sunday morning just like this....
+#HUMMEL.
+Get me out of here, Johansson! Quick! - Arkenholtz, don't forget "The Valkyr!"
+#STUDENT.
+What is the meaning of all this?
+#JOHANSSON.
+We'll see! We'll see!
+#BENGTSSON.
+Now you'll have to do the waiting, Johansson, while I take the overclothes. Do you know how to do it?
+#JOHANSSON.
+Although I am pushing a war chariot in the daytime, as you know, I wait in private houses at night, and I have always dreamt of getting into this place.... Queer sort of people, hm?
+#BENGTSSON.
+Yes, a little out of the ordinary, one might say.
+#JOHANSSON.
+Is it a musicale, or what is it?
+#BENGTSSON.
+The usual spook supper, as we call it. They drink tea and don't say a word, or else the Colonel does all the talking. And then they munch their biscuits, all at the same time, so that it sounds like the gnawing of a lot of rats in an attic.
+#JOHANSSON.
+Why do you call it a spook supper?
+#BENGTSSON.
+Because they look like spooks.... And they have kept this up for twenty years - always the same people, saying the same things or keeping silent entirely, lest they be put to shame.
+#JOHANSSON.
+Is there not a lady in the house, too?
+#BENGTSSON.
+Yes, but she is a little cracked. She sits all the time in a closet, because her eyes can't bear the light. She is in there now.
+#JOHANSSON.
+In there, you say?
+#BENGTSSON.
+I told you they were a little out of the ordinary....
+#JOHANSSON.
+How does she look?
+#BENGTSSON.
+Like a mummy.... Would you care to look at her? There she is now!
+#JOHANSSON.
+Mercy!
+#MUMMY.
+Why does he open the door? Haven't I told him to keep it closed?
+#BENGTSSON.
+Ta - ta - ta - ta! Polly must be nice now. Then she'll get something good. Pretty polly!
+#MUMMY.
+Pretty polly! Are you there, Jacob? Currrrr!
+#BENGTSSON.
+She thinks herself a parrot, and maybe she's right
+#JOHANSSON.
+Much I have seen, but never the like of it!
+#BENGTSSON.
+Well, you see, a house gets mouldy when it grows old, and when people are too much together, tormenting each other all the time, they lose their reason. The lady of this house.... Shut up, Polly!... That mummy has been living here forty years - with the same husband, the same furniture, the same relatives, the same friends.... And the happenings this house has witnessed! Well, it's beyond me.... Look at that statue. That's the selfsame lady in her youth.
+#JOHANSSON.
+Good Lord! Can that be the Mummy?
+#BENGTSSON.
+Yes, it's enough to make you weep! - And somehow, carried away by her own imagination, perhaps, she has developed some of the traits of the talkative parrot.... She can't stand cripples or sick people, for instance.... She can't bear the sight of her own daughter, because she is sick....
+#JOHANSSON.
+Is the Young Lady sick?
+#BENGTSSON.
+Don't you know that?
+#JOHANSSON.
+No. - And the Colonel - who is he?
+#BENGTSSON.
+That remains to be seen!
+#JOHANSSON.
+It's horrible to think that.... How old is she now?
+#BENGTSSON.
+Nobody knows. But at thirty - five she is said to have looked like nineteen, and that's the age she gave to the Colonel.... In this house.... Do you know what that Japanese screen by the couch is used for? They call it the Death Screen, and it is placed in front of the bed when somebody is dying, just as they do in hospitals....
+#JOHANSSON.
+This must be an awful house! And the Student was longing for it as for paradise....
+#BENGTSSON.
+What student? Oh, I know! The young chap who is coming here to - night.... The Colonel and the Young Lady met him at the opera and took a great fancy to him at once.... Hm!... But now it's my turn to ask questions. Who's your master? The man in the invalid's chair?...
+#JOHANSSON.
+Well, well! Is he coming here, too?
+#BENGTSSON.
+He has not been invited.
+#JOHANSSON.
+He'll come without invitation - if necessary.
+#BENGTSSON.
+He's a sly old guy, isn't he?
+#JOHANSSON.
+Yes, he's a good one!
+#BENGTSSON.
+He looks like the very devil.
+#JOHANSSON.
+He's a regular wizard, I think because he can pass through locked doors....
+#HUMMEL.
+Look out, you scoundrel! Tell the Colonel I am here.
+#BENGTSSON.
+We expect company....
+#HUMMEL.
+I know, but my visit is as good as expected, too, although not exactly desired, perhaps....
+#BENGTSSON.
+I see! What's the name? Mr. Hummel?
+#HUMMEL.
+That's right.
+#HUMMEL.
+Vanish! hesitates.
+#HUMMEL.
+Vanish, I say!
+#HUMMEL.
+Amelia! - It is she! - She!
+#MUMMY.
+Prrretty Polly!
+#HUMMEL.
+What was that? Is there a parrot in the room? I don't see it!
+#MUMMY.
+Are you there, Jacob?
+#HUMMEL.
+The place is haunted!
+#MUMMY.
+Jacob!
+#HUMMEL.
+Now I am scared!... So that's the kind of secrets they have been keeping in this house! And that's he.... He!
+#MUMMY.
+Currrrr! Is that Currrrr?
+#HUMMEL.
+Good Lord in heaven!... Who are you?
+#MUMMY.
+Is that you, Jacob?
+#HUMMEL.
+Yes, my name is Jacob....
+#MUMMY.
+And my name is Amelia!
+#HUMMEL.
+Oh, no, no, no! - Merciful heavens!...
+#MUMMY.
+How I look! That's right! - And have looked like that! Life is a pleasant thing, is it not?... I live mostly in the closet, both in order to see nothing and not to be seen.... But, Jacob, what do you want here?
+#HUMMEL.
+My child our child....
+#MUMMY.
+There she sits.
+#HUMMEL.
+Where?
+#MUMMY.
+There - in the Hyacinth Room.
+#HUMMEL.
+Yes, that is she! And what does her father say.... I mean the Colonel.... your husband?
+#MUMMY.
+Once, when I was angry with him, I told him everything....
+#HUMMEL.
+And?...
+#MUMMY.
+He didn't believe me. All he said was: "That's what all women say when they wish to kill their husbands." - It is a dreadful crime, nevertheless. His whole life has been turned into a lie - his family tree, too. Sometimes I take a look in the peerage, and then I say to myself: "Here she is going about with a false birth certificate, just like any runaway servant - girl, and for such things people are sent to the reformatory."
+#HUMMEL.
+Well, it's quite common. I think I recall a certain incorrectness in regard to the date of your own birth.
+#MUMMY.
+It was my mother who started that.... I was not to blame for it.... And it was you, after all, who had the greater share in our guilt....
+#HUMMEL.
+No, what wrong we did was provoked by your husband when he took my fiancée away from me! I was born a man who cannot forgive until he has punished. To punish has always seemed an imperative duty to me - and so it seems still!
+#MUMMY.
+What are you looking for in this house? What do you want? How did you get in? - Does it concern my daughter? If you touch her, you must die!
+#HUMMEL.
+I mean well by her!
+#MUMMY.
+And you have to spare her father!
+#HUMMEL.
+No!
+#MUMMY.
+Then you must die ... in this very room ... back of that screen....
+#HUMMEL.
+Perhaps.... but I can't let go when I have got my teeth in a thing....
+#MUMMY.
+You wish to marry her to the Student? Why? He is nothing and has nothing.
+#HUMMEL.
+He will be rich, thanks to me.
+#MUMMY.
+Have you been invited for to - night?
+#HUMMEL.
+No, but I intend to get an invitation for your spook supper.
+#MUMMY.
+Do you know who will be here?
+#HUMMEL.
+Not quite.
+#MUMMY.
+The Baron - he who lives above us, and whose father - in - law was buried this afternoon....
+#HUMMEL.
+The man who is getting a divorce to marry the daughter of the Janitress.... The man who used to be - your lover!
+#MUMMY.
+Another guest will be your former fiancée, who was seduced by my husband....
+#HUMMEL.
+Very select company!
+#MUMMY.
+If the Lord would let us die! Oh, that we might only die!
+#HUMMEL.
+But why do you continue to associate?
+#MUMMY.
+Crime and guilt and secrets bind us together, don't you know? Our ties have snapped so that we have slipped apart innumerable times, but we are always drawn together again....
+#HUMMEL.
+I think the Colonel is coming.
+#MUMMY.
+I'll go in to Adèle, then.... Consider what you do, Jacob! Spare him....
+#COLONEL GRAHAM.
+Won't you be seated, please?
+#COLONEL GRAHAM.
+You wrote this letter, sir?
+#HUMMEL.
+I did.
+#COLONEL GRAHAM.
+Your name is Hummel?
+#HUMMEL.
+It is.
+#COLONEL GRAHAM.
+As I learn that you have bought up all my unpaid and overdue notes, I conclude that I am at your mercy. What do you want?
+#HUMMEL.
+Payment - in one way or another.
+#COLONEL GRAHAM.
+In what way? very simple one. Let us not talk of the money. All you have to do is to admit me as a guest....
+#COLONEL GRAHAM.
+If a little thing like that will satisfy you....
+#HUMMEL.
+I thank you.
+#COLONEL GRAHAM.
+Anything more?
+#HUMMEL.
+Discharge Bengtsson.
+#COLONEL GRAHAM.
+Why should I do so? My devoted servant, who has been with me a lifetime, and who has the medal for long and faithful service.... Why should I discharge him?
+#HUMMEL.
+Those wonderful merits exist only in your imagination. He is not the man he seems to be.
+#COLONEL GRAHAM.
+Who is?
+#HUMMEL.
+True! - But Bengtsson must go!
+#COLONEL GRAHAM.
+Do you mean to order my household?
+#HUMMEL.
+I do ... as everything visible here belongs to me ... furniture, draperies, dinner ware, linen and other things!
+#COLONEL GRAHAM.
+What other things?
+#HUMMEL.
+Everything! All that is to be seen is mine! I own it!
+#COLONEL GRAHAM.
+Granted! But for all that, my coat of arms and my unspotted name belong to myself.
+#HUMMEL.
+No - not even that much! You are not a nobleman!
+#COLONEL GRAHAM.
+Take care!
+#HUMMEL.
+If you'll read this extract from the armorial, you will see that the family whose name you are using has been extinct for a century.
+#COLONEL GRAHAM.
+I have heard rumours to that effect, but the name was my father's before it was mine.... That's right! Yes, you are right - I am not a nobleman! Not even that! - Then I may as well take off my signet - ring.... Oh, I remember now.... It belongs to you.... If you please!
+#HUMMEL.
+We had better continue. You are no colonel, either.
+#COLONEL GRAHAM.
+Am I not?
+#HUMMEL.
+No, you have simply held the title of colonel in the American volunteer service by special appointment. After the war in Cuba and the reorganisation of the army, all titles of that kind were abolished....
+#COLONEL GRAHAM.
+Is that true?
+#HUMMEL.
+Do you wish to see for yourself?
+#COLONEL GRAHAM.
+No, it won't be necessary. - Who are you, anyhow, and with what right are you stripping me naked in this fashion?
+#HUMMEL.
+You'll see by and by. As to stripping you naked - do you know who you are in reality?
+#COLONEL GRAHAM.
+How dare you?
+#HUMMEL.
+Take off that wig, and have a look at yourself in the mirror. Take out that set of false teeth and shave off your moustache, too. Let Bengtsson remove the iron stays - and perhaps a certain X Y Z, a lackey, may begin to recognise himself - the man who used to visit the maid's chamber in a certain house for a bite of something good....
+#HUMMEL.
+Don't touch that bell, and don't call Bengtsson! If you do, I'll have him arrested.... Now the guests are beginning to arrive.... Keep your composure, and let us continue to play our old parts for a while.
+#COLONEL GRAHAM.
+Who are you? Your eyes and your voice remind me of somebody....
+#HUMMEL.
+Don't try to find out! Keep silent and obey!
+#STUDENT.
+Colonel!
+#COLONEL GRAHAM.
+I bid you welcome to my house, young man. Your splendid behaviour in connection with that great disaster has brought your name to everybody's lips, and I count it an honour to receive you here....
+#STUDENT.
+Being a man of humble birth, Colonel and considering your name and position....
+#COLONEL GRAHAM.
+May I introduce? - Mr. Arkenholtz - Mr. Hummel. The ladies are in there, Mr. Arkenholtz - if you please - I have a few more things to talk over with Mr. Hummel.... splendid young chap - very musical - sings, and writes poetry.... If he were only a nobleman - if he belonged to our class, I don't think I should object....
+#HUMMEL.
+To what?
+#COLONEL GRAHAM.
+Oh, my daughter....
+#HUMMEL.
+Your daughter, you say? - But apropos of that, why is she always sitting in that room?
+#COLONEL GRAHAM.
+She has to spend all her time in the Hyacinth Room when she is not out. That is a peculiarity of hers.... Here comes Miss Betty von Holstein - Kron - a charming woman - a Secular Canoness, with just enough money of her own to suit her birth and position.... Hummel. My fiancée!
+#COLONEL GRAHAM.
+Miss von Holstein - Kron - Mr. Hummel.
+#COLONEL GRAHAM.
+Baron Skansenkorge....
+#HUMMEL.
+That's the jewelry thief, I think.... If you bring in the Mummy, our gathering will be complete.
+#COLONEL GRAHAM.
+Polly!
+#MUMMY.
+Currrrr!
+#COLONEL GRAHAM.
+How about the young people?
+#HUMMEL.
+No, not the young people! They must be spared.
+#COLONEL GRAHAM.
+Shall we order the tea now?
+#HUMMEL.
+What's the use? No one cares for tea, and I can't see the need of pretending.
+#COLONEL GRAHAM.
+Shall we make conversation?
+#HUMMEL.
+Talk of the weather, which we know all about? Ask one another's state of health, which we know just as well? I prefer silence. Then thoughts become audible, and we can see the past. Silence can hide nothing - but words can. I read the other day that the differentiation of languages had its origin in the desire among savage peoples to keep their tribal secrets hidden from outsiders. This means that every language is a code, and he who finds the universal key can understand every language in the world - which does not prevent the secret from becoming revealed without any key at times, and especially when the fact of paternity is to be proved - but, of course, legal proof is a different matter. Two false witnesses suffice to prove, anything on which they agree, but you don't bring any witnesses along on the kind of expedition I have in mind. Nature herself has planted in man a sense of modesty, which tends to hide that which should be hidden. But we slip into situations unawares, and now and then a favourable chance will reveal the most cherished secret, stripping the impostor of his mask, and exposing the villain....
+#HUMMEL.
+How silent everybody is! Here, for instance, in this respectable house, this attractive home, where beauty and erudition and wealth have joined hands.... All of us sitting here now - we know who we are, don't we? I don't need to tell.... And all of you know me, although you pretend ignorance.... In the next room is my daughter - mine, as you know perfectly well. She has lost the desire to live without knowing why.... The fact is that she has been pining away in this air charged with crime and deceit and falsehood of every kind.... That is the reason why I have looked for a friend in whose company she may enjoy the light and heat radiated by noble deeds Here is my mission in this house: to tear up the weeds, to expose the crimes, to settle all accounts, so that those young people may start life with a clean slate in a home that is my gift to them. Now I grant you safe retreat. Everybody may leave in his due turn. Whoever stays will be arrested. Do you hear that clock ticking like the deathwatch hidden in a wall? Can you hear what it says? - "It's time! It's time!" - When it strikes in a few seconds, your time will be up, and then you can go, but not before. You may notice, too, that the clock shakes its fist at you before it strikes. Listen! There it is! "Better beware," it says.... And I can strike, too Do you hear?
+#MUMMY.
+But I can stop time in its course. I can wipe out the past and undo what is done. Bribes won't do that, nor will threats - but suffering and repentance will We are miserable human creatures, and we know it. We have erred and we have sinned - we, like everybody else. We are not what we seem, but at bottom we are better than ourselves because we disapprove of our own misdeeds. And when you, Jacob Hummel, with your assumed name, propose to sit in judgment on us, you merely prove yourself worse than all the rest. You are not the one you seem to be - no more than we! You are a thief of human souls! You stole mine once upon a time by means of false promises. You killed the Consul, whom they buried this afternoon - strangling him with debts. You are now trying to steal the soul of the Student with the help of an imaginary claim against his father, who never owed you a farthing....
+#MUMMY.
+There is one dark spot in your life concerning which I am not certain, although I have my suspicions.... I believe Bengtsson can throw light on it.
+#HUMMEL.
+No! Not Bengtsson! Not him!
+#MUMMY.
+So he does know?
+#MUMMY.
+Do you know this man, Bengtsson?
+#BENGTSSON.
+Oh yes, I know him, and he knows me. Life has its ups and downs, as you know. I have been in his service, and he has been in mine. For two years he came regularly to our kitchen to be fed by our cook. Because he had to be at work at a certain hour, she made the dinner far ahead of time, and we had to be satisfied with the warmed - up leavings of that beast. He drank the soup - stock, so that we got nothing but water. Like a vampire, the sucked the house of all nourishment, until we became reduced to mere skeletons - and he nearly got us into jail when we dared to call the cook a thief. Later I met that man in Hamburg, where he had another name. Then he was a money - lender, a regular leech. While there, he was accused of having lured a young girl out on the ice in order to drown her, because she had seen him commit a crime, and he was afraid of being exposed....
+#MUMMY.
+That's you! And now, give up the notes and the will!
+#MUMMY.
+Polly! Are you there, Jacob?
+#HUMMEL.
+Here is Jacob! - Pretty Polly! Currrr!
+#MUMMY.
+May the clock strike?
+#HUMMEL.
+The dock may strike! Cuckoo, cuckoo, cuckoo....
+#MUMMY.
+Now the clock has struck! Rise and enter the closet where I have spent twenty years bewailing our evil deed. There you will find a rope that may represent the one with which you strangled the Consul as well as the one with which you meant to strangle your benefactor.... Go!
+#MUMMY.
+Put up the screen, Bengtsson.... The Death Screen!
+#MUMMY.
+It is finished! God have mercy on his soul!
+#ALL.
+Amen!
+#ARAMINTA ELLIS
+Sing to my flowers.
+#STUDENT.
+Is this the flower of your soul?
+#ARAMINTA ELLIS
+The one and only. - Are you fond of the hyacinth?
+#STUDENT.
+I love it above all other flowers. I love its virginal shape rising straight and slender out of the bulb that rests on the water and sends its pure white rootlets down into the colourless fluid. I love the colour of it, whether innocently white as snow or sweetly yellow as honey; whether youthfully pink or maturely red; but above all if blue - with the deep - eyed, faith - inspiring blue of the morning sky. I love these flowers, one and all; love them more than pearls or gold, and have loved them ever since I was a child. I have always admired them, too, because they possess every handsome quality that I lack.... And yet....
+#ARAMINTA ELLIS
+What?
+#STUDENT.
+My love is unrequited. These beautiful blossoms hate me.
+#ARAMINTA ELLIS
+How do you mean?
+#STUDENT.
+Their fragrance, powerful and pure as the winds of early spring, which have passed over melting snow - it seems to confuse my senses, to make me deaf and blind, to crowd me out of the room, to bombard me with poisoned arrows that hurt my heart and set my head on fire. Do you know the legend of that flower?
+#ARAMINTA ELLIS
+Tell me about it.
+#STUDENT.
+Let us first interpret its symbolism. The bulb is the earth, resting on the water or buried in the soil. From that the stalk rises, straight as the axis of the universe. At its upper end appear the six - pointed, starlike flowers.
+#ARAMINTA ELLIS
+Above the earth - the stars! What lofty thought! Where did you find it? How did you discover it?
+#STUDENT.
+Let me think.... In your eyes! - It is, therefore, an image of the Cosmos. And that is the reason why Buddha is holding the earth - bulb in his lap, brooding on it with a steady gaze, in order that he may behold it spread outward and upward as it becomes transformed into a heaven.... This poor earth must turn into a heaven! That is what Buddha is waiting for!
+#ARAMINTA ELLIS
+I see now.... Are not the snow crystals six - pointed, too, like the hyacinth - lily?
+#STUDENT.
+You are right! Thus the snow crystal is a falling star....
+#ARAMINTA ELLIS
+And the snowdrop is a star of snow - grown out of the snow.
+#STUDENT.
+But the largest and most beautiful of all the stars in the firmament, the red and yellow Sirius, is the narcissus, with its yellow - and - red cup and its six white rays....
+#ARAMINTA ELLIS
+Have you seen the shallot bloom?
+#STUDENT.
+Indeed, I have! It hides its flowers within a ball, a globe resembling the celestial one, and strewn, like that, with white stars....
+#ARAMINTA ELLIS
+What a tremendous thought! Whose was it?
+#STUDENT.
+Yours!
+#ARAMINTA ELLIS
+No, yours!
+#STUDENT.
+Ours, then! We have jointly given birth to something: we are wedded....
+#ARAMINTA ELLIS
+Not yet.
+#STUDENT.
+What more remains?
+#ARAMINTA ELLIS
+To await the coming ordeal in patience!
+#STUDENT.
+I am ready for it. Tell me! Why do your parents sit there so silently, without saying a single word?
+#ARAMINTA ELLIS
+Because they have nothing to say to each other, and because neither one believes what the other says. This is the way my father puts it: "What is the use of talking, when you can't fool each other anyhow?"
+#STUDENT.
+That's horrible....
+#ARAMINTA ELLIS
+Here comes the Cook.... Look! how big and fat she is!
+#STUDENT.
+What does she want?
+#ARAMINTA ELLIS
+Ask me about the dinner.... You see, I am looking after the house during my mother's illness.
+#STUDENT.
+Have we to bother about the kitchen, too?
+#ARAMINTA ELLIS
+We must eat.... Look at that Cook.... I can't bear the sight of her....
+#STUDENT.
+What kind of a monster is she? Young Lady. She belongs to the Hummel family of vampires. She is eating us alive.
+#STUDENT.
+Why don't you discharge her?
+#ARAMINTA ELLIS
+Because she won't leave. We can do nothing with her, and we have got her for the sake of our sins.... Don't you see that we are pining and wasting away?
+#STUDENT.
+Don't you get enough to eat?
+#ARAMINTA ELLIS
+Plenty of dishes, but with all the nourishment gone from the food. She boils the life out of the beef, and drinks the stock herself, while we get nothing but fibres and water. In the same way, when we have roast, she squeezes it dry. Then she eats the gravy and drinks the juice herself. She takes the strength and savour out of everything she touches. It is as if her eyes were leeches. When she has had coffee, we get the grounds. She drinks the wine and puts water into the bottles....
+#STUDENT.
+Kick her out!
+#ARAMINTA ELLIS
+We can't!
+#STUDENT.
+Why not?
+#ARAMINTA ELLIS
+We don't know! But she won't leave! And nobody can do anything with her. She has taken all our strength away from us.
+#STUDENT.
+Will you let me dispose of her?
+#ARAMINTA ELLIS
+No! It has to be as it is, I suppose. - Here she is now. She will ask me what I wish for dinner, and I tell her, and then she will make objections, and in the end she has her own way.
+#STUDENT.
+Why don't you leave it to her entirely?
+#ARAMINTA ELLIS
+She won't let me.
+#STUDENT.
+What a strange house! It seems to be bewitched!
+#ARAMINTA ELLIS
+It is! - Now she turned back on seeing you here.
+#COOK.
+Naw, that was not the reason.
+#STUDENT.
+Get out of here!
+#COOK.
+When it suits me! Now it does suit me!
+#ARAMINTA ELLIS
+Don't lose your temper! You must practise patience. She is part of the ordeal we have to face in this house. We have a chambermaid, too, after whom we have to put everything back where it belongs.
+#STUDENT.
+Now I am sinking! Cor in aethere! Music!
+#ARAMINTA ELLIS
+Wait!
+#STUDENT.
+Music!
+#ARAMINTA ELLIS
+Patience! - This is named the Room of Ordeal.... It is beautiful to look at, but is full of imperfections.
+#STUDENT.
+Incredible! Yet such things have to be borne. It is very beautiful, although a little cold. Why don't you have a fire?
+#ARAMINTA ELLIS
+Because the smoke comes into the room.
+#STUDENT.
+Have the chimney swept!
+#ARAMINTA ELLIS
+It doesn't help. - Do you see that writing - table?
+#STUDENT.
+Remarkably handsome!
+#ARAMINTA ELLIS
+But one leg is too short. Every day I put a piece of cork under that leg. Every day the chambermaid takes it away when she sweeps the room. Every day I have to cut a new piece. Both my penholder and my inkstand are covered with ink every morning, and I have to clean them after that woman - as sure as the sun rises. What is the worst thing you can think of?
+#STUDENT.
+To count the wash. Ugh!
+#ARAMINTA ELLIS
+That's what I have to do. Ugh!
+#STUDENT.
+Anything else?
+#ARAMINTA ELLIS
+To be waked out of your sleep and have to get up and dose the window - which the chambermaid has left unlatched.
+#STUDENT.
+Anything else?
+#ARAMINTA ELLIS
+To get up on a ladder and tie on the cord which the chambermaid has torn from the window - shade.
+#STUDENT.
+Anything else?
+#ARAMINTA ELLIS
+To sweep after her; to dust after her; to start the fire again, after she has merely thrown some wood into the fireplace! To watch the damper in the fireplace; to wipe every glass; to set the table over again; to open the wine - bottles; to see that the rooms are aired; to make over your bed; to rinse the water - bottle that is green with sediment; to buy matches and soap, which are always lacking; to wipe the chimneys and cut the wicks in order to keep the lamps from smoking and in order to keep them from going out when we have company, I have to fill them myself....
+#STUDENT.
+Music!
+#ARAMINTA ELLIS
+Wait! The labour comes first - the labour of keeping the filth of life at a distance.
+#STUDENT.
+But you are wealthy, and you have two servants?
+#ARAMINTA ELLIS
+What does that help? What would it help to have three? It is troublesome to live, and at times I get tired.... Think, then, of adding a nursery!
+#STUDENT.
+The greatest of joys....
+#ARAMINTA ELLIS
+And the costliest.... Is life really worth so much trouble?
+#STUDENT.
+It depends on the reward you expect for your labours.... To win your hand I would face anything.
+#ARAMINTA ELLIS
+Don't talk like that. You can never get me.
+#STUDENT.
+Why?
+#ARAMINTA ELLIS
+You mustn't ask.
+#STUDENT.
+You dropped your bracelet out of the window....
+#ARAMINTA ELLIS
+Yes, because my hand has grown too small....
+#ARAMINTA ELLIS
+There is the one that eats me and all the rest alive.
+#STUDENT.
+What has she in her hand?
+#COOK.
+This is my colouring bottle that has letters on it looking like scorpions. It's the soy that turns water into bouillon, and that takes the place of gravy. You can make cabbage soup out of it, or mock - turtle soup, if you prefer.
+#STUDENT.
+Out with you!
+#COOK.
+You take the sap out of us, and we out of you. We keep the blood for ourselves and leave you the water - with the colouring. It's the colour that counts! Now I shall leave, but I stay just the same - as long as I please!
+#STUDENT.
+Why has Bengtsson got a medal?
+#ARAMINTA ELLIS
+On account of his great merits.
+#STUDENT.
+Has he no faults?
+#ARAMINTA ELLIS
+Yes, great ones, but faults bring you no medals, you know.
+#STUDENT.
+You have a lot of secrets in this house....
+#ARAMINTA ELLIS
+As in all houses.... Permit us to keep ours!
+#STUDENT.
+Do you care for frankness?
+#ARAMINTA ELLIS
+Within reason.
+#STUDENT.
+At times I am seized with a passionate craving to say all I think.... Yet I know that the world would go to pieces if perfect frankness were the rule.
+#ARAMINTA ELLIS
+That of Mr. Hummel?
+#STUDENT.
+Yes, that of my pretended benefactor. An elderly friend of the deceased acted as mace - bearer and stood at the head of the coffin. I was particularly impressed by the dignified manner and moving words of the minister. I had to cry - everybody cried.... A number of us went to a restaurant afterward, and there I learned that the man with the mace had been rather too friendly with the dead man's son....
+#STUDENT.
+I learned, too, that the dead man had borrowed money of his son's devoted friend.... And the next day the minister was arrested for embezzling the church funds. - Nice, isn't it?
+#ARAMINTA ELLIS
+Oh!
+#STUDENT.
+Do you know what I am thinking of you now?
+#ARAMINTA ELLIS
+Don't tell, or I'll die!
+#STUDENT.
+I must, lest I die!
+#ARAMINTA ELLIS
+It is only in the asylum you say all that you think....
+#STUDENT.
+Exactly! My father died in a madhouse....
+#ARAMINTA ELLIS
+Was he sick?
+#STUDENT.
+No, perfectly well, and yet mad. It broke out at last, and these were the circumstances. Like all of us, he was surrounded by a circle of acquaintances whom he called friends for the sake of convenience, and they were a lot of scoundrels, of course, as most people are. He had to have some society, however, as he couldn't sit all alone. As you know, no one tells people what he thinks of them under ordinary circumstances, and my father didn't do so either. He knew that they were false, and he knew the full extent of their perfidy, but, being a wise man and well brought up, he remained always polite. One day he gave a big party.... It was in the evening, naturally, and he was tired out by a hard day's work. Then the strain of keeping his thoughts to himself while talking a lot of damned rot to his guests.... Well, while they were still at the table, he rapped for silence, raised his glass, and began to speak.... Then something loosed the trigger, and in a long speech he stripped the whole company naked, one by one, telling them all he knew about their treacheries. At last, when utterly tired out, he sat down on the table itself and told them all to go to hell!
+#ARAMINTA ELLIS
+Oh!
+#STUDENT.
+I was present, and I shall never forget what happened after that. My parents had a fight, the guests rushed for the doors - and my father was taken to a madhouse, where he died! To keep silent too long is like letting water stagnate so that it rots. That is what has happened in this house. There is something rotten here. And yet I thought it paradise itself when I saw you enter here the first time.... It was a Sunday morning, and I stood gazing into these rooms. Here I saw a Colonel who was no colonel. I had a generous benefactor who was a robber and had to hang himself. I saw a Mummy who was not a mummy, and a maiden - how about the maidenhood, by the by?... Where is beauty to be found? In nature, and in my own mind when it has donned its Sunday clothes. Where do we find honour and faith? In fairy - tales and childish fancies. Where can I find anything that keeps its promise? Only in my own imagination!... Your flowers have poisoned me and now I am squirting their poison back at you.... I asked you to become my wife in a home full of poetry, and song, and music; and then the Cook appeared.... Sursum corda! Try once more to strike fire and purple out of the golden harp.... Try, I ask you, I implore you on my knees.... Then I must do it myself! It has grown deaf and dumb! Only think that the most beautiful flower of all can be so poisonous - that it can be more poisonous than any other one.... There must be a curse on all creation and on life itself.... Why did you not want to become my bride? Because the very well - spring of life within you has been sickened.... Now I can feel how that vampire in the kitchen is sucking my life juices.... She must be a Lamia, one of those that suck the blood of children. It is always in the servants' quarters that the seed - leaves of the children are nipped, if it has not already happened in the bedroom.... There are poisons that blind you, and others that open your eyes more widely. I must have been born with that second kind of poison, I fear, for I cannot regard what is ugly as beautiful, or call evil good - I cannot! They say that Jesus Christ descended into hell. It refers merely to his wanderings on this earth - his descent into that madhouse, that jail, that morgue, the earth. The madmen killed him when he wished to liberate them, but the robber was set free. It is always the robber who gets sympathy! Woe! Woe is all of us! Saviour of the World, save us - we are perishing!
+#ARAMINTA ELLIS
+Bring the screen! Quick! I am dying!
+#STUDENT.
+The liberator is approaching! Be welcome, thou pale and gentle one! - Sleep, you beauteous, unhappy and innocent creature, who have done nothing to deserve your own sufferings! Sleep without dreaming, and when you wake again - may you be greeted by a sun that does not burn, by a home without dust, by friends without stain, by a love without flaw! Thou wise and gentle Buddha, who sitst waiting there to see a heaven sprout from this earth, endow us with patience in the hour of trial, and with purity of will, so that thy hope be not put to shame!
+#STUDENT.
+You poor little child - you child of a world of illusion, guilt, suffering, and death - a world of eternal change, disappointment, and pain - may the Lord of Heaven deal mercifully with you on your journey!

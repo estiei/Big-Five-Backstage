@@ -1,0 +1,2390 @@
+#MOORE.
+You’re to wait here.
+#MOORE.
+They’ve not got up from dinner yet, but he’ll come and see you at once.
+#GANN.
+I’ll wait.
+#MOORE.
+He said I was to tell him the moment you come. What can he be wanting of you at this time of night?
+#GANN.
+Maybe if he wished you to know he’d have told you.
+#MOORE.
+I don’t want to know what don’t concern me.
+#GANN.
+Pity there ain’t more like you.
+#MOORE.
+It’s the missus’ birthday to - day.
+#GANN.
+Didn’t he say you was to tell him the moment I come?
+#MOORE.
+I’ve only just took in the dessert. Give ’em a minute to sample the peaches.
+#GANN.
+I thought them was your orders.
+#MOORE.
+You’re a nice civil - spoken one, you are.
+#CLAUDE.
+Good evening, Gann.
+#GANN.
+Good evening, sir.
+#CLAUDE.
+I suppose you know what I’ve sent for you about.
+#GANN.
+No, sir.
+#CLAUDE.
+I should have thought you might guess without hurting yourself. The Rector tells me that your daughter Peggy came back last night.
+#GANN.
+Yes, sir.
+#CLAUDE.
+Bit thick, isn’t it?
+#GANN.
+I don’t know what you mean, sir.
+#CLAUDE.
+Oh, that’s all rot, Gann. You know perfectly well what I mean. It’s a beastly matter for both of us, but it’s no good funking it.... You’ve been on the estate pretty well all your life, haven’t you?
+#GANN.
+It’s fifty - four years come next Michaelmas that my father was took on, and I was earning wages here before you was born.
+#CLAUDE.
+My governor always said you were the best keeper he ever struck, and hang it all, I haven’t had anything to complain about either.
+#GANN.
+Thank you, sir.
+#CLAUDE.
+Anyhow, we shan’t make it any better by beating about the bush. It appears that Peggy has got into trouble in London.... I’m awfully sorry for you, and all that sort of thing.
+#GANN.
+Poor child. She’s not to blame.
+#GANN.
+I want ’er to forget all she’s gone through. It was a mistake she ever went to London, but she would go. Now I’ll keep ’er beside me. She’ll never leave me again till I’m put underground.
+#CLAUDE.
+That’s all very fine and large, but I’m afraid Peggy can’t stay on here, Gann.
+#GANN.
+Why not?
+#CLAUDE.
+You know the rule of the estate as well as I do. When a girl gets into a mess she has to go.
+#GANN.
+It’s a wicked rule!
+#CLAUDE.
+You never thought so before, and this isn’t the first time you’ve seen it applied, by a long chalk.
+#GANN.
+The girl went away once and come to grief. She wellnigh killed herself with the shame of it. I’m not going to let ’er out of my sight again.
+#CLAUDE.
+I’m afraid I can’t make an exception in your favour, Gann.
+#GANN.
+Where’s she to go to?
+#CLAUDE.
+Oh, I expect she’ll be able to get a job somewhere. Mrs. Insoley’ll do all she can.
+#GANN.
+It’s no good, Squire. I can’t let ’er go. I want ’er.
+#CLAUDE.
+I don’t want to be unreasonable. I’ll give you a certain amount of time to make arrangements.
+#GANN.
+Time’s no good to me. I haven’t the ’eart to send her away.
+#CLAUDE.
+I’m afraid it’s not a question of whether you like it or not. You must do as you’re told.
+#GANN.
+I can’t part with her, and there’s an end of it.
+#CLAUDE.
+You’d better go and talk it over with your wife.
+#GANN.
+I don’t want to talk it over with anyone. I’ve made up my mind.
+#CLAUDE.
+I’ll give you twenty - four hours to think about it.
+#GANN.
+What d’you mean by that, sir?
+#CLAUDE.
+If Peggy isn’t gone by that time, I am afraid I shall have to send you away.
+#GANN.
+You wouldn’t do that, sir? You couldn’t do it, Squire, not after all these years.
+#CLAUDE.
+We’ll soon see about that, my friend.
+#GANN.
+You can’t dismiss me for that. I’ll have the law of you. I’ll sue you for wrongful dismissal.
+#CLAUDE.
+You can do what you damned well like; but if Peggy hasn’t gone by to - morrow night I shall turn you off the estate on Tuesday.
+#GANN.
+You wouldn’t do it! You couldn’t do it.
+#CLAUDE.
+They’re just coming in. You’d better hook it.
+#EDITH.
+Oh, what a lovely night! Do let’s go out.
+#GRACE.
+Of course, if you want to.
+#EDITH.
+I’m perfectly sick with envy every time I look out of the window. Those lovely old trees!
+#GRACE.
+I wonder if you’d be sick with envy if you looked at nothing else for forty - six weeks in the year?
+#EDITH.
+I adore the country.
+#GRACE.
+People who habitually live in London generally do.
+#MISS VERNON.
+Aren’t you fond of the country?
+#GRACE.
+I hate it! I hate it with all my heart and soul.
+#CLAUDE.
+My dear Grace, what are you saying?
+#GRACE.
+It bores me. It bores me stiff. Those endless trees, and those dreary meadows, and those ploughed fields. Oh!
+#EDITH.
+I don’t think I could ever get tired of the view from your dining - room.
+#GRACE.
+Not if you saw it for three meals a day for ten years? Oh, my dear, you don’t know what that view is like at an early breakfast on a winter’s morning. You sit there looking at it, with icy fingers, wondering if your nose is red, while your husband reads morning prayers, because his father read morning prayers before him; and the sky looks as if it were going to sink down and crush you.
+#CLAUDE.
+You can’t expect sunshine all the year round, can you?
+#GRACE.
+True, O King!
+#EDITH.
+Well, I’m a Cockney, and I feel inclined to fall down on my very knees and worship those big trees in your park. Oh, what a night!
+#MISS VERNON.
+In such a night as this,
+#GRACE.
+What on earth was Gann doing here?
+#CLAUDE.
+I had something to say to him.
+#GRACE.
+May I know what?
+#CLAUDE.
+It would only bore you.
+#GRACE.
+That wouldn’t be a new experience.
+#CLAUDE.
+I say, you’re looking jolly to - night, darling.
+#GRACE.
+It’s kind of you to say so.
+#CLAUDE.
+Were you pleased with the necklace I gave you this morning?
+#GRACE.
+Surely I said so at the time.
+#CLAUDE.
+I was rather hoping you’d wear it to - night.
+#GRACE.
+It wouldn’t have gone with my frock.
+#CLAUDE.
+You might have put it on all the same.
+#GRACE.
+You see, your example hasn’t been lost on me. I’ve learnt to put propriety before sentiment.
+#CLAUDE.
+I should have thought, if you cared for me, you wouldn’t have minded.
+#GRACE.
+Are you reproaching me?
+#CLAUDE.
+No!
+#GRACE.
+Only?
+#CLAUDE.
+Hang it all, I can’t help wishing sometimes you’d seem as if - you were fond of me, don’t you know.
+#GRACE.
+If you’ll point out anything you particularly object to in my behaviour, I’ll try to change it.
+#CLAUDE.
+My dear, I don’t want much, do I?
+#GRACE.
+I don’t know why you should choose this particular time to make a scene.
+#CLAUDE.
+Hang it all, I’m not making a scene!
+#GRACE.
+I beg your pardon, I forgot that only women make scenes.
+#CLAUDE.
+I only wanted to tell you that I’m just about as fond of you as I can stick.
+#GRACE.
+After ten years of holy matrimony?
+#CLAUDE.
+It seems about ten days to me.
+#GRACE.
+Good God, to me it seems a lifetime.
+#CLAUDE.
+I say, Grace, what d’you mean by that?
+#GRACE.
+Oughtn’t you to go back to the dining - room? Your brother and Mr. Cobbett will be boring one another.
+#GRACE.
+Put it down on the table.
+#MOORE.
+Yes, madam.
+#GRACE.
+Miss Vernon’s in the garden with Miss Lewis. Will you tell them that coffee is here?
+#MOORE.
+Very good, ma’am.
+#GRACE.
+Isn’t Edith coming?
+#MISS VERNON.
+I sent her to get a wrap. We want to go down to the lake.
+#GRACE.
+Will you have some coffee?
+#MISS VERNON.
+Thank you.... I was trying to remember how long it is since I was here last.
+#GRACE.
+It was before I was married.
+#MISS VERNON.
+I’m devoted to Kenyon, I’m so glad you asked me to come and spend Whitsun here.
+#GRACE.
+My mother - in - law wrote and told us that you weren’t engaged.
+#MISS VERNON.
+That sounds rather chilly.
+#GRACE.
+Does it?
+#MISS VERNON.
+May I call you Grace?
+#GRACE.
+Certainly. If you wish it.
+#MISS VERNON.
+My name is Helen.
+#GRACE.
+Is it?
+#MISS VERNON.
+I wonder why you dislike me so much?
+#GRACE.
+I don’t know why you should think I do.
+#MISS VERNON.
+You don’t take much trouble to hide it, do you?
+#GRACE.
+I’m sorry. In future I’ll be more careful.
+#MISS VERNON.
+I wanted to be great friends with you.
+#GRACE.
+I’m afraid I don’t make friends very easily.
+#MISS VERNON.
+We live so near one another. It seems rather silly that we should only just be on speaking terms.
+#GRACE.
+They wanted Claude to marry you, didn’t they? And he married me instead.
+#MISS VERNON.
+When I saw you at your wedding, I couldn’t help feeling I’d have done just the same in his place.
+#GRACE.
+And now they want you to marry his brother Archibald.
+#MISS VERNON.
+So I understand.
+#GRACE.
+Are you going to?
+#MISS VERNON.
+He hasn’t asked me yet.
+#GRACE.
+Five thousand acres in a ring fence. It seems a pity to let it go out of the family.
+#MISS VERNON.
+It’s such a nuisance that a plainish woman of six - and - thirty has to be taken along with it.
+#GRACE.
+Did you ever care for Claude?
+#MISS VERNON.
+If I did or not, I’m very anxious to care for his wife.
+#GRACE.
+Why?
+#MISS VERNON.
+Well, partly because I’m afraid you’re not very happy.
+#GRACE.
+I? I should have thought I had everything that a woman can want to make her happy. I’ve got a husband who adores me. We’re rich. We’re - happy! I wish to God he had married you! It’s clear enough now that he made a mistake.
+#MISS VERNON.
+I don’t think it’s occurred to him, you know.
+#GRACE.
+How many times d’you suppose his mother has said to Claude: Things would be very different now if you’d had the sense to marry Helen Vernon.
+#MISS VERNON.
+Yes, in that case I must say it’s not to be wondered at if you don’t like me very much.
+#GRACE.
+Like you! I hate you with all my heart and soul!
+#MISS VERNON.
+Good gracious me, you don’t say so?
+#GRACE.
+You don’t mind my telling you, do you?
+#MISS VERNON.
+Not a bit, but I should very much like to know why?
+#GRACE.
+Because I’ve got an envious disposition and I envy you. solitary old maid like me?
+#GRACE.
+You’ve got everything that I haven’t got. D’you suppose I’ve lived ten years in my husband’s family without realising the gulf that separates Miss Vernon of Foley from the very middle - class young woman that Claude Insoley was such a damned fool as to marry? You’ve got money and I haven’t a farthing.
+#MISS VERNON.
+Money isn’t everything.
+#GRACE.
+Oh, don’t talk such nonsense! How would you like to be dependent on somebody else for every penny you had? If I want to get Claude a Christmas present I have to buy it out of his money.... It wouldn’t be so maddening if I only had forty pounds a year of my own, but I haven’t a penny, not a penny! And I have to keep accounts. After all, it’s his money. If he wants accounts why shouldn’t he have them? I have to write down the cost of every packet of hair - pins. And the worst of it is, I never could add.
+#MISS VERNON.
+That, of course, must increase the difficulty of keeping accounts.
+#GRACE.
+I’ve been an utter failure from the beginning. They despised me because I was a nobody and not even a rich nobody; but I was a strapping, healthy sort of young woman and they consoled themselves by thinking I’d have children - a milch cow was what they wanted - and I haven’t even had children....
+#GRACE.
+Oh! I’m about fed up with all the humiliations I’ve had to endure.
+#EDITH.
+Will this do?
+#MISS VERNON.
+Thanks so much. You’re a perfect angel.
+#GRACE.
+You mustn’t stay out more than a few minutes. The men will be here in a moment, and I want to play poker. When my mother - in - law comes we shall have to mind our p’s and q’s.
+#EDITH.
+You don’t like Mrs. Insoley?
+#GRACE.
+Mrs. Insoley doesn’t like me.
+#MISS VERNON.
+Nonsense! She’s very fond of you indeed.
+#GRACE.
+I could wish she had some pleasanter way of showing it than finding fault with everything I do, everything I say, and everything I wear.
+#EDITH.
+She’s coming to - morrow, isn’t she?
+#GRACE.
+Yes. She’ll thoroughly disapprove of you. When I introduce you to her: This is Miss Lewis - she’ll look at you for a moment as if you were a kitchen - maid applying for a situation and say: Lewis.
+#EDITH.
+Why?
+#GRACE.
+Because, like myself, you’re not county.
+#EDITH.
+Oh!
+#GRACE.
+It’s all very fine to say: Oh! but you don’t know what that means. In London, if you’re pretty and amusing and don’t give yourself airs, people are quite ready to be nice to you; but in a place like this, you can have every virtue under the sun, and if you’re not county you’re of no importance in this world, and you’ll certainly be very uncomfortable in the next.
+#MISS VERNON.
+I think you’re extremely hard on us. If you have the advantage of....
+#GRACE.
+Middle - class origins?
+#MISS VERNON.
+You needn’t grudge us the perfectly harmless delusion that there is a difference between a family that has lived in the same place for three or four centuries, with traditions of good breeding and service to the country - and one that has no roots in the soil.
+#GRACE.
+I seem to hear Claude’s very words.
+#MISS VERNON.
+Of course we have our faults.
+#GRACE.
+You’re the first member of your class that I’ve ever heard acknowledge it.
+#MISS VERNON.
+I wonder if you’d despise us so much if you had a string of drunken, fox - hunting squires behind you.
+#GRACE.
+Oh, my dear, when I was first married I used to lie awake at night wishing for them with all my heart. When the neighbours came to call on me I could see them obviously lying in wait for the aitches they were expecting me to drop. A Miss Robinson, wasn’t she? Robinson! Are there people called Robinson? Oh, how I wanted to scratch their ugly old faces!
+#MISS VERNON.
+How lucky I was abroad for so long! You might have disfigured me for life.
+#GRACE.
+I’ve often thought that if the Archangel Gabriel came down in Somersetshire, they’d look him out in the “Landed Gentry” before they asked him to a shooting - party.
+#MISS VERNON.
+I don’t think you ought to judge us all on Mrs. Insoley. She’s a type that’s dying out.
+#EDITH.
+I don’t want to seem inquisitive, but if you don’t like Mrs. Insoley why on earth d’you have her to stay here?
+#GRACE.
+Simple - minded child! Because even in a county family money’s the only thing in the world that really matters, and we’re penniless, while Mrs. Insoley - Mrs. Insoley stinks of it.... Do I shock you?
+#MISS VERNON.
+No, because I see you’re trying to.
+#GRACE.
+Claude has nothing but the house and land and his principles. And if we’re able to have the hounds and the shooting and a couple of cars, it’s because Mrs. Insoley pays for it.
+#MISS VERNON.
+Mrs. Insoley was an heiress.
+#GRACE.
+She was a Bainbridge, and you’ll hear her thank God for it frequently.
+#COBBETT.
+Are you going out?
+#EDITH.
+We were - but we won’t.
+#GRACE.
+I’ve been preparing Miss Lewis for your mother’s arrival.
+#EDITH.
+I’m beginning to tremble in my shoes.
+#ARCHIBALD.
+Our mother is what is usually described as a woman of character. With the best intentions in the world and the highest principles she succeeds in making life almost intolerable to every one connected with her.
+#CLAUDE.
+You won’t forget to send the carriage for her to - morrow, Grace?
+#GRACE.
+I won’t.... Last time we sent the car by mistake, and she sent it back again.
+#MISS VERNON.
+Good heavens, why did she do that?
+#GRACE.
+Mrs. Insoley never has driven in a motor - car, and Mrs. Insoley never will drive in a motor - car.
+#CLAUDE.
+I don’t think you ought to make fun of my mother, Grace.
+#GRACE.
+I wouldn’t if I could make anything else of her.
+#GRACE.
+Will you sing us a song, Mr. Cobbett?
+#COBBETT.
+No, thank you.
+#GRACE.
+I want to be amused.
+#ARCHIBALD.
+How desperately you say that!
+#GRACE.
+What will you sing?
+#COBBETT.
+I’m afraid I don’t know anything that will fit the occasion.
+#GRACE.
+I seem to have heard you warble a graceful little ditty about a top note.
+#COBBETT.
+Thank you very much, but I’m not fond of making a fool of myself.
+#GRACE.
+Part of a gentleman’s education should be how to make himself ridiculous with dignity.
+#CLAUDE.
+You make more fuss about singing than a young lady at a tea - party.
+#GRACE.
+Let us have no more maidenly coyness.
+#MOORE.
+Mrs. Insoley, Miss Hall.
+#CLAUDE.
+Mother!
+#MRS. INSOLEY.
+Is this a lunatic asylum that I have come into?
+#GRACE.
+We didn’t expect you till to - morrow.
+#MRS. INSOLEY.
+So I imagined by the fact that I found no conveyance at the station. I had to take a fly, and it cost me four - and - sixpence.
+#CLAUDE.
+But why didn’t you let us know you’d changed your plans, mother?
+#MRS. INSOLEY.
+I did let you know. I wrote to Grace yesterday. She must have got my letter this morning.
+#GRACE.
+Oh, how stupid of me! I recognised your writing, and as it was my birthday I thought I wouldn’t open it till to - morrow.
+#CLAUDE.
+Grace!
+#GRACE.
+I’m dreadfully sorry.
+#MRS. INSOLEY.
+It was only by the mercy of Providence that I didn’t have to walk.
+#GRACE.
+There are always flies at the station.
+#MRS. INSOLEY.
+Providence might very well have caused them to be all engaged.
+#GRACE.
+I don’t know why you should think Providence has nothing better to do than to play practical jokes on us.
+#MRS. INSOLEY.
+And may I inquire why you have turned the house in which your father died into a bear garden?
+#CLAUDE.
+It’s Grace’s birthday, and we thought there would be no harm in our having a little fun.
+#MRS. INSOLEY.
+I’m old - fashioned enough and well - bred enough to like people to be introduced to me.
+#GRACE.
+Nowadays every one’s so disreputable that we think it safer not to make introductions.... This is Miss Lewis.
+#EDITH.
+How d’you do?
+#MRS. INSOLEY.
+Lewis!
+#GRACE.
+I think you know Miss Vernon of Foley.
+#MRS. INSOLEY.
+Of course I know Miss Vernon of Foley. My dear Helen, you’re looking very handsome. It wants a woman of birth to wear the outrageous costumes of the present day.
+#MISS VERNON.
+It’s so nice of you to say so.
+#GRACE.
+I forget if you know Mr. Cobbett.
+#COBBETT.
+How do you do?
+#MRS. INSOLEY.
+Cobbett!
+#COBBETT.
+Cobbett!
+#MRS. INSOLEY.
+We used to have a milkman called Cobbett, Louisa.
+#MISS HALL.
+Our milkman is called Wilkinson now.
+#MRS. INSOLEY.
+You were singing a song when I came in. What was it called?
+#COBBETT.
+“I can’t reach that top note.”
+#MRS. INSOLEY.
+I wondered why you were trying.... Why are you hiding behind that sofa, Archibald? Do you not intend to kiss your mother?
+#ARCHIBALD.
+I’m delighted to see you, my dear mother.
+#MRS. INSOLEY.
+I’m rather surprised to see a clergyman at a dinner - party on a Sunday night.
+#ARCHIBALD.
+I find two sermons a day excellent for the appetite. And the Bible tells us that corn makes the young men cheerful.
+#GRACE.
+Aren’t you dreadfully hungry? Wouldn’t you like something to eat?
+#MRS. INSOLEY.
+No, I shall go straight to my room. It always upsets me to drive in a hired carriage.
+#GRACE.
+I’ll just go and see that everything’s nice and comfortable.
+#MRS. INSOLEY.
+Pray don’t put yourself to any trouble on my account. It would distress me.
+#EDITH.
+Don’t you think we might go down to the lake?
+#MISS VERNON.
+By all means.... There’s nothing I can get you, Mrs. Insoley?
+#MRS. INSOLEY.
+Nothing, my dear Helen.
+#MRS. INSOLEY.
+Claude, will you take Miss Hall into the dining - room and give her a sandwich and a glass of port?
+#CLAUDE.
+Certainly.
+#MISS HALL.
+I don’t think I want anything, thank you, Mrs. Insoley.
+#MRS. INSOLEY.
+Nonsense, Louisa! Allow me to know what is good for you. You’ll see that she drinks the port, Claude. I want to talk to Archibald.
+#ARCHIBALD.
+My dear mother, I throw myself at your feet.
+#MRS. INSOLEY.
+I very much doubt if you could. You’re growing much too fat. It’s quite time they made you something.
+#ARCHIBALD.
+The landed gentry hasn’t its old power. Promotion in the Church nowadays is given with new - fangled ideas about merit and scholarship and heaven knows what.
+#MRS. INSOLEY.
+I hope you never eat potatoes or bread?
+#ARCHIBALD.
+I fly from them as I would from temptation.
+#MRS. INSOLEY.
+Nor soup?
+#ARCHIBALD.
+It is as the scarlet woman to me.
+#MRS. INSOLEY.
+And I trust you never touch green peas.
+#ARCHIBALD.
+Ah, there you have me. Even the saints had their weaknesses. I confess that when green peas are in season I always put on flesh.
+#MRS. INSOLEY.
+You want some one to keep a firm hand on you. You must marry.
+#ARCHIBALD.
+I saw you approaching that topic by leaps and bounds, mother.
+#MRS. INSOLEY.
+It’s a clergyman’s duty to marry.
+#ARCHIBALD.
+St. Paul says....
+#MRS. INSOLEY.
+I know what St. Paul’s views were, Archibald, and I disagree with them.
+#ARCHIBALD.
+I have every reason to believe he was of excellent family, mother.
+#MRS. INSOLEY.
+We all know that it was a great disappointment to Helen Vernon when - you know what I mean.
+#ARCHIBALD.
+I can’t help thinking she showed bad taste in surviving the blow.
+#MRS. INSOLEY.
+It was a great disappointment to me. I had set my heart on joining Foley to Kenyon - Fulton.... It wouldn’t be too late even now if you had the sense to appreciate Helen Vernon’s affection for you.
+#ARCHIBALD.
+My dear mother, I can’t persuade myself for a moment that Helen Vernon has any affection for me. woman of her age is prepared to have affection for any one who asks her to marry him.
+#ARCHIBALD.
+Even if he’s a poor country parson?
+#MRS. INSOLEY.
+You’re a great deal more than a country parson, Archibald. It is unlikely that Grace will have any children, so unless - something happens to allow Claude to marry again....
+#ARCHIBALD.
+What d’you mean by that, mother?
+#MRS. INSOLEY.
+Grace is not immortal.
+#ARCHIBALD.
+On the other hand, she has excellent health.
+#MRS. INSOLEY.
+There may be other ways of disposing of her.
+#ARCHIBALD.
+What ways?
+#MRS. INSOLEY.
+Since when have you laboured under the delusion that I am the sort of woman to submit to cross - examination, Archibald?
+#GRACE.
+I hope I haven’t kept you waiting. I think you’ll find everything all right.
+#MRS. INSOLEY.
+In that case I shall go to my room. Archibald, tell Louisa that I am ready to go to my room.
+#ARCHIBALD.
+Certainly.
+#MRS. INSOLEY.
+Who is the young lady you have staying with you, Grace?
+#GRACE.
+Edith Lewis. She’s a friend of mine.
+#MRS. INSOLEY.
+Ah! And who is this Mr. Cobbett?
+#GRACE.
+He’s a friend of mine too.
+#MRS. INSOLEY.
+I didn’t imagine that you would invite total strangers to stay with you.
+#GRACE.
+I don’t know that there’s any other way of describing them.
+#MRS. INSOLEY.
+I dare say that is a sufficient description in itself.
+#MRS. INSOLEY.
+I’m going to my room, Louisa. I shall be ready for you to read to me in a quarter of an hour.
+#MISS HALL.
+Very good, Mrs. Insoley. I suppose you don’t have prayers on Sunday night?
+#GRACE.
+No, we read our pedigree instead. You’ll find the “Landed Gentry” in your bedroom.
+#MRS. INSOLEY.
+In my young days it was thought more important for a young lady to be well - born than to be clever.
+#GRACE.
+The result has been disastrous for the present generation.
+#MRS. INSOLEY.
+Good night.
+#GRACE.
+Be sure and let me know if you’re not quite comfortable. I hope you’ll find everything you want in your room.
+#MRS. INSOLEY.
+Of course Louisa will find everything she wants. She wants nothing. Come, Louisa.
+#ARCHIBALD.
+I think I’ll be toddling back to my rectory.
+#CLAUDE.
+Oh, all right.
+#ARCHIBALD.
+Good night, Grace.
+#GRACE.
+Good night.
+#CLAUDE.
+I talked to Gann about that matter.
+#ARCHIBALD.
+I’m afraid he’s going to make rather a nuisance of himself.
+#CLAUDE.
+I took a good firm line, you know.
+#ARCHIBALD.
+That’s right. It’s the only way with those sort of fellows. Good night, old man.
+#CLAUDE.
+Good night.
+#CLAUDE.
+You were asking about Gann just now, Grace?
+#GRACE.
+I was.
+#CLAUDE.
+At first I thought I’d better not tell you anything about it, but I’ve been thinking it over....
+#GRACE.
+It was quite unnecessary. I’m not at all curious.
+#CLAUDE.
+I think perhaps it would be better if I told you what I’d done.
+#GRACE.
+I’m sure that whatever you’ve done is right, Claude. That’s why you’re so detestable.
+#CLAUDE.
+That’s all very fine and large, but I think I’d like to have your approval.
+#GRACE.
+We agreed very early in our married life that your acts were such as must necessarily meet with my approval.
+#CLAUDE.
+What’s the matter with you, Grace?
+#GRACE.
+With me? Nothing.
+#CLAUDE.
+You’ve been so funny lately. I haven’t been able to make you out at all.
+#GRACE.
+I should have thought you had more important things to do than to bother about me.
+#CLAUDE.
+I’ve got nothing in the world to do more important than to bother about you, Grace.
+#GRACE.
+Don’t worry me to - night, Claude; my head’s aching so that I feel I could scream.
+#CLAUDE.
+My poor child, why didn’t you tell me? I’m so sorry I’ve been bothering you. Is it very bad?
+#GRACE.
+What a beast I am! How can you like me when I’m so absolutely horrid to you?
+#CLAUDE.
+My darling, I don’t blame you for having a headache.
+#GRACE.
+I’m sorry I was beastly to you just now.
+#CLAUDE.
+What nonsense!
+#GRACE.
+Please don’t, Claude.
+#CLAUDE.
+Why don’t you go to bed, darling?
+#GRACE.
+Oh, no!
+#CLAUDE.
+Bed’s the best place for everybody at this hour.
+#GRACE.
+I want to amuse myself. Go and fetch the others, they’re down by the lake. And we’ll all play poker.
+#GRACE.
+For God’s sake do as I ask you.
+#COBBETT.
+I’ve been waiting for the chance of speaking to you by yourself.
+#GRACE.
+Have you?
+#COBBETT.
+Why did you make me sing that idiotic song just now?
+#GRACE.
+Because I chose.
+#COBBETT.
+You made me look a perfect fool.
+#GRACE.
+That’s what I wanted to make you look.
+#COBBETT.
+Did you? Why?
+#GRACE.
+I have no explanation to offer.
+#COBBETT.
+You know, I’m hanged if I can make you out. You’re never the same for two minutes together.
+#GRACE.
+I suppose it is disconcerting. Claude complains of it too.
+#COBBETT.
+Oh, hang Claude.
+#GRACE.
+You’re growing more and more like him every day, Harry.
+#COBBETT.
+I don’t quite know what you mean by that.
+#GRACE.
+It seems hardly worth while to have - made a long journey to find oneself exactly where one started.
+#COBBETT.
+I never know what people are driving at when they talk metaphorically.
+#GRACE.
+I thought I loved you, Harry.
+#COBBETT.
+You’ve said it often enough.
+#GRACE.
+I wonder if I just said it to persuade myself. My heart’s empty! Empty! I know now that it wasn’t love I felt for you.
+#COBBETT.
+It’s rather late in the day to have found that out, isn’t it?
+#GRACE.
+Yes, that’s just it. It’s late in the day for everything.... Here they are.
+#CLAUDE.
+I found them on their way back.
+#GRACE.
+We’re going to play poker.
+#CINDERELLA.
+You will try, mum, won’t you?
+#GRACE.
+I ought to have been told before. It was wicked to keep it from me.
+#CINDERELLA.
+I thought you knew, mum. I wasn’t to know that you ’adn’t been told anything.
+#GRACE.
+I’m not blaming you, Peggy.... Mr. Insoley’s out now, but I’ll talk to him as soon as she come in. You’d better go home and fetch your father.
+#CINDERELLA.
+You know what father is, mum. I’m afraid he won’t come.
+#GRACE.
+Oh, but I think it’s very important. Tell him that....
+#COBBETT.
+Hulloa, am I in the way? Shall I go?
+#GRACE.
+No. I’ve just finished.... Try and get your father to come, Peggy.
+#CINDERELLA.
+Well, I’ll do what I can, mum.
+#COBBETT.
+What’s the matter? You seem rather put out.
+#GRACE.
+That’s the daughter of one of the keepers. She came to me just now and asked me to beg Claude to give them a little more time. I hadn’t an idea what she meant. Then she said Claude had told her father he must send her away within twenty - four hours or lose his place.
+#COBBETT.
+Oh, yes, I know. She seems to be rather a flighty young person. Claude and your brother - in - law were talking about it after lunch in the smoking - room.
+#GRACE.
+Why didn’t you tell me?
+#COBBETT.
+Well, it never struck me you didn’t know. Besides - you haven’t shown any great desire for my society the last day or two.
+#GRACE.
+I’ve had other guests to attend to.
+#COBBETT.
+And it seemed rather a sordid little story. I don’t think I can interest myself very much at this time of day in the gamekeeper’s daughter who kicks over the traces.
+#GRACE.
+It’s so devilish mid - Victorian, isn’t it?
+#COBBETT.
+It’s not really bothering you, is it?
+#GRACE.
+Don’t you see that wretched girl has done no more than I have?
+#COBBETT.
+Great Scott, you haven’t produced an unexpected baby, have you?
+#GRACE.
+Oh, don’t, don’t.
+#COBBETT.
+In point of fact she’s done a great deal more than you have. She’s been found out.
+#GRACE.
+How can you be so odiously cynical?
+#COBBETT.
+I notice people always call you odiously cynical when you talk plain horse - sense to them.
+#GRACE.
+Can’t you realise what I’m feeling? She had excuses. She was alone, and little more than a child; she had no education. How could she be expected to resist temptation?
+#COBBETT.
+It’s an absolute delusion that the lower classes are less able to resist temptation than their betters. In the first place, they have a much more systematic moral education, and then they’re taught from early youth to look upon virtue as a valuable asset.
+#GRACE.
+Harry, would you mind very much if I stopped the whole thing?
+#COBBETT.
+Of course I should mind.
+#GRACE.
+Oh, no, don’t say that because it’s the conventional thing to say. I want you to be frank with me.
+#COBBETT.
+Why do you ask me now?
+#GRACE.
+I feel so horribly mean.
+#COBBETT.
+Claude?
+#GRACE.
+He’s so awfully good to me, Harry. Every present he gives me, every kind word is like a stab in my heart. I’m beastly to him sometimes, I can’t help it, but nothing seems to make any difference to him.... Whatever I do, he loves me.
+#COBBETT.
+Are you beginning to care for Claude - differently?
+#GRACE.
+Oh, it’s no use pretending. I never loved him as he loved me. I couldn’t. I was bored by his love. Yes, all the time we’ve been married.... It’s only lately....
+#COBBETT.
+Oh!
+#GRACE.
+I don’t know what I feel or what to do. I’m so bewildered and wretched.... He bores me still - oh, horribly sometimes. And yet at moments I feel as though I were a good deal more than half in love with him. It’s too absurd. With Claude - after all these years. Something has changed me.... It’s the last thing that ought to have changed me towards him.
+#COBBETT.
+It’s not a very pleasant position for me, is it?
+#GRACE.
+I shouldn’t have thought it ever had been a very pleasant position considering what a good friend Claude has been to you.
+#COBBETT.
+If you look at it in that way, I dare say it would be better to put an end to the whole thing.
+#GRACE.
+You have been rather a blackguard, haven’t you?
+#COBBETT.
+No. I don’t pretend to be better than anybody else, but I’m quite certain I’m no worse. I’m a perfectly normal man in good health. It’s idiotic to abuse me because I’ve done what any other fellow would have done in my place.
+#GRACE.
+Is that all it was to you?
+#COBBETT.
+What d’you mean?
+#GRACE.
+Wasn’t I anything to you at all? Only a more or less attractive woman who happened to cross your path? If I was only that, why couldn’t you leave me alone? What harm did I ever do you? Oh, it was cruel of you. Cruel!
+#COBBETT.
+No man’s able to have an affair all by himself, you know.
+#GRACE.
+What d’you mean by that?
+#COBBETT.
+Well, most fellows are very shy, and they’re dreadfully frightened of a rebuff. A man doesn’t take much risk until - well, until he finds there’s not much risk to take.
+#GRACE.
+D’you mean to say I gave you to understand.... Oh, how can you humiliate me like that?
+#COBBETT.
+Isn’t there a certain amount of truth in it?
+#GRACE.
+Yes.... Oh, I’m so ashamed.
+#COBBETT.
+The world would be a jolly sight easier place to live in if people weren’t such humbugs.
+#GRACE.
+D’you think it was only curiosity on my side and nothing more than opportunity on yours?
+#COBBETT.
+That’s the foundation of nine love affairs out of ten, you know.
+#GRACE.
+I was so bored - so lonely. I never felt at home with the people I had to live with. They humiliated me. And you seemed the same sort of person as I was. I felt at my ease with you. At first I thought you cared for the things I cared for - music and books and pictures: it took me quite a time to discover that you didn’t know the difference between a fiddle and a jews’ harp.... I wonder why you troubled to take me in.
+#COBBETT.
+I naturally talked about what I thought would please you.
+#GRACE.
+I remember at first I felt as if I were just stepping out of a prison into the fresh air. It seemed to me as if - oh, I don’t know how to put it - as if spring flowers were suddenly blossoming in my heart.
+#COBBETT.
+I’m afraid you were asking more from me than I was able to give you.
+#GRACE.
+Oh, I don’t blame you. You’re quite right: it’s I who am to blame. Oh, how I envy that wretched girl! If she fell it was because she loved. I asked her who the man was, and she wouldn’t tell me. She said she didn’t want to get him into trouble. She must love him still.
+#COBBETT.
+I hope you don’t think me an awful skunk, Grace. I’m sorry we’ve made such a hash of things.
+#GRACE.
+It would be horrible if that wretched girl were punished while I go scot - free. I can’t let her be turned away like a leper. I should never rest in peace again.
+#COBBETT.
+Claude’s not very fond of going back on his word. He seems to have delivered an ultimatum, and I expect he’ll stick to it.
+#GRACE.
+It means so much to me. I feel somehow that if I can only save that poor child it’ll make up in a way - oh, very little - for all the harm I’ve done.... D’you think I’m perfectly absurd?
+#COBBETT.
+Life seems devilish complicated sometimes, doesn’t it?
+#GRACE.
+Devilish.
+#COBBETT.
+Hulloa, what’s that?
+#GRACE.
+It’s my mother - in - law. She’s been out for her drive. Claude ought to be in soon.
+#COBBETT.
+What are you going to do?
+#GRACE.
+I’m going to use every means in my power to persuade him to change his mind.
+#COBBETT.
+You’re not going to do anything foolish, Grace?
+#GRACE.
+How d’you mean? You don’t think I might have to.... Oh, that would be too much to ask me.... D’you think I might have to tell him?
+#COBBETT.
+Whatever you do, Grace, I want you to know that if anything happens I’m willing to do the straight thing.
+#GRACE.
+No, I should never ask you to marry me. Now we both know how things are between us - how they’ve always been....
+#COBBETT.
+I’m awfully sorry, Grace.
+#GRACE.
+There’s no need to be. I’m glad to know the truth. There was nothing that held us together before but my cowardice. I was so afraid of going back to that dreary loneliness. But you’ve given me courage.
+#COBBETT.
+Is there nothing left of it at all?
+#GRACE.
+So far as I’m concerned nothing at all - but shame.
+#EDITH.
+We’ve had such a lovely drive.
+#GRACE.
+And d’you think the country’s as beautiful as ever?
+#EDITH.
+Oh, I didn’t look at the country. I was much too excited. Mrs. Insoley has been telling me the dreadful pasts of all the families in the neighbourhood. It appears the further they go back the more shocking their behaviour has been.
+#COBBETT.
+I notice that even the grossest immorality becomes respectable when it’s a hundred years old.
+#GRACE.
+It’s very hard, isn’t it? Mrs. Grundy has no mercy. She’ll take even you to her bosom before you know where you are.
+#GRACE.
+I hope you enjoyed your drive.
+#MRS. INSOLEY.
+I didn’t go for my enjoyment, Grace; I went to exercise the horses.
+#GRACE.
+Meanwhile, I hear you took the opportunity of enlarging Edith’s young mind.
+#MISS VERNON.
+When you come to Foley you must remind me to show you the portraits of my great - grandmother, Mary Vernon. She had a tremendous affair with the Regent, you know.
+#MRS. INSOLEY.
+My dear Helen, I have the greatest affection for you, but I cannot allow a statement like that to go unchallenged. There is no evidence whatever of the truth of it.
+#MISS VERNON.
+I don’t know how you can say that, Mrs. Insoley, considering that I have all my great - grandmother’s letters to the Regent.
+#MRS. INSOLEY.
+Where are his letters to your great - grandmother?
+#MISS VERNON.
+She gave them back at the time he returned hers, naturally.
+#MRS. INSOLEY.
+I can see her. If she had any letters she would have kept them. Any woman would.
+#MISS VERNON.
+I can’t imagine why you should suddenly throw doubts on a story that the whole county has believed for a hundred years. Every one knew all about Mary Vernon.
+#MRS. INSOLEY.
+I am aware that your great - grandmother was an abandoned hussy, but that in itself is no proof that she ever had anything to do with the Regent.
+#MISS VERNON.
+You can’t deny that he slept at Foley, Mrs. Insoley.
+#MRS. INSOLEY.
+Only one night.
+#MISS VERNON.
+Well?
+#MRS. INSOLEY.
+It’s notorious that at that very time he was on terms of the greatest intimacy with Pamela Bainbridge. I am not an Insoley, thank God; I am a Bainbridge. And whenever he came to this part of the country he stayed with us.
+#MISS VERNON.
+I know you’ve always flattered yourself that there was something between them.
+#MRS. INSOLEY.
+And well I may, considering that I still have a lock of hair which he gave my grandmother.
+#MISS VERNON.
+Half the families in the country have a greasy lock of hair which they tell you was the Regent’s. Personally, I think it’s rather snobbish to make a claim of that sort unless one’s perfectly sure.
+#MRS. INSOLEY.
+I think you’re extremely rude, Helen. In the presence of a man I can’t go into details, but I have proof of every word I say. You know what I mean, Louisa?
+#MISS HALL.
+I believed the worst from the beginning, Mrs. Insoley.
+#MISS VERNON.
+I have no doubt you firmly believe what you say, Mrs. Insoley; but if you don’t mind my saying so, one has only to look at the portrait of Pamela Bainbridge to know the whole thing’s absurd.
+#MRS. INSOLEY.
+We won’t argue the point, Helen; I know I’m right, and there’s an end of it.... Put the dog on that chair, Louisa.
+#MISS HALL.
+That’s Mr. Cobbett’s chair, Mrs. Insoley.
+#MRS. INSOLEY.
+Has Mr. Cobbett bought it?
+#COBBETT.
+No, but Mr. Cobbett’s been sitting in it.
+#MRS. INSOLEY.
+And may no one use a chair that Mr. Cobbett has been sitting in?
+#COBBETT.
+Certainly. But it so happens that Mr. Cobbett is just going to sit in it again.
+#MRS. INSOLEY.
+Mr. Cobbett has legs.
+#COBBETT.
+Only two, and if a merciful Providence had intended him to stand on them it would undoubtedly have provided him with four.
+#MRS. INSOLEY.
+Mr. Cobbett seems to be better acquainted with the designs of Providence than I should have expected.... Louisa, give me the dog. He shall sit on my lap.
+#COBBETT.
+Ah, if you’d only told me that was the alternative, of course I wouldn’t have hesitated for a moment.
+#MRS. INSOLEY.
+I think you are very vulgar, sir.... I’m surprised that you should laugh at such an inane joke, Grace.
+#GRACE.
+You forget that I have a naturally vulgar nature.
+#MRS. INSOLEY.
+I try to, but you take great pains to remind me.
+#CLAUDE.
+Well, did you enjoy your drive, mother?
+#MRS. INSOLEY.
+I didn’t go for my enjoyment, Claude; I went to exercise the horses.
+#ARCHIBALD.
+We’ve been to a parish meeting.
+#CLAUDE.
+It’s getting almost impossible to do anything for these Somersetshire people. They’re such an obstinate, pig - headed lot.
+#MRS. INSOLEY.
+I prophesied it forty years ago. When they first introduced all this nonsense about education, I said it was a serious matter.
+#ARCHIBALD.
+Like all good prophets you apparently took care to be rather vague about it, mother.
+#MRS. INSOLEY.
+Considering you weren’t born I don’t see what you can know about it, Archibald. I said this would happen. I said they would make the lower classes so independent that no one would be able to do anything with them. I went for a walk in the village this morning and nobody took any notice of me. Isn’t that so, Louisa?
+#MISS HALL.
+No, Mrs. Insoley.
+#MRS. INSOLEY.
+What do you mean by no, Louisa?
+#MISS HALL.
+I beg your pardon. I mean yes, Mrs. Insoley. few old men touched their hats, and one old woman curtsied, but that was all.
+#CLAUDE.
+Of course it’s not important in itself, but it’s the sign of a change. The long and short of it is that they don’t look up to their betters as they used to.
+#GRACE.
+Perhaps they’ve ceased to realise that we are their betters.
+#CLAUDE.
+It’s not too late to teach them their mistake. Personally I mean to be master in my own house.
+#GRACE.
+Peggy Gann came to see me this afternoon, Claude.
+#CLAUDE.
+Did she?
+#COBBETT.
+Wouldn’t you like to come for a stroll in the garden?
+#EDITH LEWIS.
+Yes.
+#GRACE.
+I’ve asked her to fetch her father.
+#CLAUDE.
+I’m sorry you did that, Grace. I’ve got nothing to say to him.
+#GRACE.
+Do you know that Claude has threatened to dismiss Gann if Peggy hasn’t gone by ten o’clock to - night?
+#MRS. INSOLEY.
+For once in his life Claude has acted with spirit. He gave Gann twenty - four hours to think it over. My father would have given him fifteen minutes.
+#GRACE.
+Why was it all kept from me? It seems that everybody knew but me.
+#CLAUDE.
+Hang it all, Grace, I wanted to tell you last night and you wouldn’t let me.
+#GRACE.
+Oh! Was it that? I didn’t know.... Claude, I want you to be very kind and forgive that wretched girl. I want you to tell Gann that she needn’t go.
+#CLAUDE.
+My dear, I can’t do that. I’ve made up my mind and I must stick to it.
+#GRACE.
+Why?
+#CLAUDE.
+Hang it all, what would happen to the discipline of the estate if I were always shilly - shallying? Every one in the place knows that when I say a thing I mean it. It’s an enormous advantage to all concerned.
+#GRACE.
+It wouldn’t do any harm if you made an exception just this once.
+#CLAUDE.
+It’s a matter of upholding my authority. Gann refused to do what I told him, and I had to threaten him with immediate dismissal. I couldn’t eat my words now without looking a perfect fool.
+#GRACE.
+Don’t you think it’s awfully unjust to send a girl away because she’s got into trouble?
+#CLAUDE.
+It’s a rule of the estate. I didn’t make it.
+#GRACE.
+Helen, you’re a woman. You must see how cruel it is. Can’t you say something to help me?
+#MISS VERNON.
+I don’t know what else one’s to do. After all, we have the same rule at Foley.
+#CLAUDE.
+They have it on half the large estates in the kingdom. It’s absolutely essential if one has any regard for decency.
+#MISS VERNON.
+I don’t suppose it would be so common, and it certainly wouldn’t have lasted so long, if there hadn’t been some good in it.
+#GRACE.
+Oh, it’s maddening. Always, always, there’s that stone wall in front of me. Whatever is, is good. However cruel and unjust a custom is, no one must touch it because it’s a custom. If a law is infamous, does it become any less infamous because people have suffered from it for a dozen generations?
+#MRS. INSOLEY.
+Perhaps you’re not very competent to judge matters of this sort, my dear.
+#ARCHIBALD.
+I’m afraid your sympathy is rather wasted in this particular case. Peggy Gann isn’t a very deserving young woman.
+#GRACE.
+If she were, there’d be no need for me to plead for her.
+#MRS. INSOLEY.
+On those lines the more of a hussy a girl is the more she’s deserving of sympathy.
+#GRACE.
+You had nothing against her till this happened.
+#ARCHIBALD.
+Nothing very definite. She was always rather cheeky, and she never came to Sunday - school very regularly.
+#GRACE.
+Is that all?
+#MRS. INSOLEY.
+My own belief is that the Ganns are really Dissenters.
+#GRACE.
+Good heavens, they positively revel in going to church.
+#MRS. INSOLEY.
+That may be or it may not. But they give me the impression of chapel people.
+#ARCHIBALD.
+Heaven knows, I don’t want to seem hard and unsympathetic, but after all, you’re not going to keep people moral if you pamper those who aren’t.
+#GRACE.
+And what d’you think’ll happen to her if you make her leave here?
+#ARCHIBALD.
+We’ll do our best for her. It’s not a pleasant position for any of us, Grace. I’ve been wretched about the whole thing, and I’m sure Claude has too.
+#CLAUDE.
+Of course I have. But hang it all, in our position we can’t afford to think of sentiment. Especially now that they’re attacking us all round we’ve got to show them that we can keep a firm hand on the reins.
+#ARCHIBALD.
+Do us the justice to see that we’re really trying to do what’s right. It may be very wrong that we should be in our particular positions, and we may be quite unworthy of them. But we didn’t make society, and we’re not responsible for its inequalities. We find ourselves in a certain station, and we have to act accordingly.
+#CLAUDE.
+The long and the short of it is that it’s our duty to look after those whom Providence has placed in our charge. And it’s our duty to punish as well as to reward.
+#GRACE.
+Oh, how hard you are! One would think you’d never done anything in your life that you regret. Oh, you virtuous people, I hate you. You’re never content till you see the sinner actually frizzling. As if hell were needed when every sin brings its own punishment! And you never make excuses. You don’t know how many temptations we resist for the one we fall to.
+#MISS VERNON.
+Grace! What are you saying!
+#MOORE.
+Gann and his daughter are here, sir.
+#CLAUDE.
+Oh, yes, I’ll come at once.
+#MOORE.
+Very good, sir.
+#MRS. INSOLEY.
+Why shouldn’t he come here, Claude?
+#GRACE.
+Yes, let him come by all means. And then you can see for yourselves.
+#ARCHIBALD.
+I’ll tell Moore, shall I? Moore. Tell Gann to come here.
+#MISS VERNON.
+I think I’ll leave you. This isn’t any business of mine. Will you come with me?
+#MISS HALL.
+Do you want me, Mrs. Insoley?
+#MRS. INSOLEY.
+No. You’ve had no exercise to - day, Louisa. You’d better walk three times round the garden.
+#MISS HALL.
+I’m not very well to - day, Mrs. Insoley.
+#MRS. INSOLEY.
+Oh, nonsense! You’re in the best of health. And you can take the dog with you.
+#MISS HALL.
+Very well, Mrs. Insoley.
+#MRS. INSOLEY.
+Louisa’s very troublesome sometimes. She fancies she’s not feeling well. But she’s twenty - five years younger than I am, and I’ve never had a day’s illness in my life.
+#CLAUDE.
+Good afternoon, Gann.
+#GANN.
+Good afternoon, sir. Peggy said you wished to see me, sir.
+#GRACE.
+I asked her to bring you here, Gann. I thought it would be better if you spoke to Mr. Insoley.
+#GANN.
+I’ve got nothing to say to Mr. Insoley, ma’am.
+#CLAUDE.
+I was hoping to find you in a more reasonable state of mind, Gann. You know, you can only hurt yourself by being pig - headed and stubborn.
+#GANN.
+I didn’t know as how I was, sir.
+#CLAUDE.
+You see, the man doesn’t give me a chance.
+#GANN.
+Please, Squire, I come to know if I’m really to go to - morrow? I know you said you’d send me away, Squire. But I couldn’t bring myself to believe you meant it.
+#CLAUDE.
+I’m willing to listen to anything you’ve got to say. I want to be quite fair to you.
+#GANN.
+If I could only make you see as what you ask ain’t possible, I’m sure you’d let us stay. There’s nowhere Peggy can go to.
+#CLAUDE.
+Hang it all, Mrs. Insoley’ll do all she can for her. You may be quite sure that Peggy shan’t want for money.
+#GANN.
+It isn’t money the girl wants. If I send ’er away she’ll just go to the bad altogether.
+#CLAUDE.
+You see, it’s a matter of principle, Gann. It would be devilish unjust to make an exception in your favour.
+#GANN.
+I love the girl and I can’t bear to part with ’er. She’s a good girl in her ’eart, only she’s had a misfortune.
+#CLAUDE.
+That’s all very fine and large, Gann. But if she’d been a good girl, hang it all, she’d have had power to resist temptation.
+#GRACE.
+Claude, you don’t know what you’re saying.
+#CLAUDE.
+I don’t want to rub it in and all that sort of thing, but my own feeling is that if she came rather a cropper, it was because she was - if you don’t mind my saying so - because she was that way inclined. I don’t think anyone can accuse me of being a hard man, but I’m afraid I haven’t much pity for women who....
+#GRACE.
+Claude, don’t go on - for God’s sake.
+#GANN.
+That’s your last word, Squire? If the girl don’t go, I must?
+#CLAUDE.
+I’m afraid so.
+#GANN.
+I’ve served you faithful, man and boy, for forty years. And I was born in that there cottage I live in now. If you turn us out where are we to go to? I’m getting on in years, and I shan’t find it easy to get another job. It’ll mean the work’us.
+#CLAUDE.
+I’m very sorry. I can’t do anything for you. You’ve had your chance and you’ve refused to take it.
+#CLAUDE.
+In consideration of your long service I’ll give you fifty pounds so that you can tide over the next few months.
+#GANN.
+You can keep your dirty money.
+#GRACE.
+Oh, Claude, you can’t do it. You’ll break the man’s heart. Haven’t you any pity? Haven’t you any forgiveness?
+#CLAUDE.
+It’s no good, Grace. I must stick to what I’ve said.
+#GRACE.
+It’s not often I’ve begged you to do anything for me.
+#CLAUDE.
+Well, hang it all, this is the first time I’ve ever refused.
+#GRACE.
+I suppose because I’ve never asked you for anything before that wasn’t absolutely trifling.
+#MRS. INSOLEY.
+Why are you making such a point of it, Grace?
+#GRACE.
+Is it very strange that I should feel sorry for anyone who’s in distress?
+#CLAUDE.
+I’ll do anything in the world to please you, darling, but in this case you must trust to my better judgment.
+#GRACE.
+How can you be so hard?
+#CLAUDE.
+Come, Grace, don’t be angry with me. It’s bad enough as it is.
+#MRS. INSOLEY.
+I have no patience with you, Claude. When your father made up his mind to do anything it was done, and it would never have occurred to me to oppose him.
+#ARCHIBALD.
+You forget, mother, that was because you generally made up my father’s mind some time before he did.
+#GRACE.
+Will you leave me alone with Claude. I must talk to him alone.
+#ARCHIBALD.
+Come, mother. Let me take you for a stroll three times round the garden.
+#GRACE.
+I couldn’t say it before them. They’d never understand. They’d only sneer. But can’t you see, Claude, that it’s out of the question to drive Gann away so callously? He loves the place just as much as you love it.... In my heart I seem to feel suddenly all that his shabby little cottage means to him - the woods and coverts and the meadows and the trees. His life is bound up with Kenyon. His roots are in the earth as if he were a growing thing. Can’t you see what it must mean to him to leave it?
+#CLAUDE.
+He only goes because he’s headstrong and obstinate. He’s the Somersetshire peasant all over. You do your best for them and you get no gratitude. You try to reason with them, but you can’t get a single idea into their thick heads.
+#GRACE.
+You can’t punish him because he’s stupid and dull. You’re throwing him upon the world in his old age. It means starvation.
+#CLAUDE.
+You must know that I’m only doing it because I think it’s my duty.
+#GRACE.
+Oh, men always talk of their duty when they want to be odiously cruel.
+#CLAUDE.
+Grace, how can you be so unkind to me?
+#GRACE.
+Oh, Claude, if you love me at all, give in to me this time. You don’t know what it means to me. I’ve often been horrible to you, but I’m going to be different. I want to love you. I want to be more to you than I’ve ever been. Claude, I implore you to do what I ask you - just because I ask it, because you love me.
+#CLAUDE.
+I could not love you, dear, so much, loved I not honour....
+#GRACE.
+Oh, no, don’t, Claude; for God’s sake be sincere and natural. Can’t you forget that you’re a landed proprietor and a J.P. and all the rest of it, and remember that you’re only a man, as weak and as - as frail as the rest of us? You hope to be forgiven yourself, and you’re utterly pitiless.
+#CLAUDE.
+My darling, it’s just as much for your sake that I’m firm.
+#GRACE.
+Oh, how can you make phrases! What on earth have I got to do with it?
+#CLAUDE.
+Hang it all, don’t you see that it’s because of you that I can’t give way? It’s beastly having to say it. It makes me feel such an ass.
+#GRACE.
+What have I got to do with it?
+#CLAUDE.
+Until I knew you I don’t suppose I had a higher opinion of women than most men, but you taught me what a - what a stunning fine thing a good woman is.
+#GRACE.
+It’s perfectly absurd. It’s - it’s unreasonable. I’ve not been.... Only the other day you said I was cold. And just now you told me I was unkind.
+#CLAUDE.
+I dare say that’s all my fault. I expect I bore you sometimes. After all, I know you’re worth about six of me. I can’t expect you to love me as I love you.
+#GRACE.
+D’you mean to say that if I weren’t - what you think me, you wouldn’t insist on that poor girl going away?
+#CLAUDE.
+I don’t suppose I should feel quite the same about it.
+#GRACE.
+It’s so unreasonable.
+#CLAUDE.
+Even if it weren’t for the rule of the estate, I couldn’t let her live in the same place as you. I can’t help it. It’s just a sort of instinct. It simply disgusts me to think that you may meet that - that woman when you walk about, and her kid.
+#GRACE.
+Oh, Claude, you don’t know what you’re saying.
+#CLAUDE.
+When I heard she’d been here and you’d been talking to her, I felt almost sick.
+#GRACE.
+Oh, I can’t bear it.
+#CLAUDE.
+Come, darling, don’t let’s quarrel any more. It hurts me so awfully.
+#GRACE.
+Oh, I can’t. I can’t.
+#CLAUDE.
+Say you forgive me, darling.
+#GRACE.
+If I weren’t what you.... Oh, it’s too much to ask anyone. Claude, I beseech you to give way.
+#GRACE.
+Oh, what a punishment!
+#CLAUDE.
+By Jove, I had no idea it was so late. There’s the dressing gong. You must hurry up.
+#GRACE.
+What is it?
+#CLAUDE.
+Time to dress for dinner, darling. You won’t be late, will you? You know how mother hates to be kept waiting.
+#GRACE.
+No, I won’t be late.
+#MOORE.
+Peggy Gann wishes to know if you want to see her again, madam.
+#GRACE.
+Has she been waiting all this time?
+#MOORE.
+Yes’m. She didn’t know as Gann had left. He never come back to the servants’ hall.
+#GRACE.
+Tell her to come here.
+#MOORE.
+Very good, madam.
+#GRACE.
+Oh, Peggy, how ill you look! I’ve been able to do nothing for you.
+#CINDERELLA.
+Oh, mum, I was hoping. You said you’d do your best for me.
+#GRACE.
+My dear, I’m so dreadfully sorry for you.
+#CINDERELLA.
+It’s so ’ard on me, mum, and so ’ard on father. Wasn’t there something more you could do, mum?
+#GRACE.
+I did all I could. I couldn’t do anything more. I couldn’t really.... It’s too much to ask anyone.
+#CINDERELLA.
+I’ve got to go then, and there’s an end of it. You won’t let father be turned away, will you, mum? That’s all I care about now. It ’ud just break his ’eart.
+#GRACE.
+D’you think he’ll let you go? I think it’s the best thing after all, Peggy. I’ve done - I’ve done all I could.
+#CINDERELLA.
+No, he won’t hear of it. But I shall go all the same - somewhere he can’t find me.
+#GRACE.
+I dare say it won’t be for very long, Peggy. Have you as much money as you want? I should like to do something for you.
+#CINDERELLA.
+I shan’t want anything, thank you, mum. And thank you for all you’ve done. And if anything come to ’appen to me, you’d see as the baby wasn’t sent to the workhouse, wouldn’t you, mum?
+#GRACE.
+How d’you mean? I don’t understand.
+#CINDERELLA.
+I’m not going to take the baby with me, mum. It would only be a hindrance.
+#GRACE.
+Oh, I was so afraid you meant....
+#CINDERELLA.
+Is there anything else you want me for, mum?
+#GRACE.
+No, Peggy.
+#CINDERELLA.
+Then I’ll say good evening, mum.
+#GRACE.
+Good evening, Peggy.
+#GRACE.
+No, I couldn’t, I couldn’t. comes in gaily.]
+#EDITH LEWIS.
+There you are! I thought you were in your room. Your maid said you hadn’t come up yet.
+#GRACE.
+I was just going.
+#EDITH LEWIS.
+I’ve got something dreadfully important to ask you.
+#GRACE.
+What is it?
+#EDITH LEWIS.
+Well, I want to know if you’re going to wear the grey satin you wore on Saturday. You see, I only brought three dinner dresses down with me, and one of them’s a grey, only it’s much more slaty than yours, and it’ll look so cold beside it. So I shan’t put it on if you’re going to wear yours.
+#GRACE.
+No, I won’t wear my grey satin.
+#EDITH LEWIS.
+What are you going to wear?
+#GRACE.
+I don’t know.
+#EDITH LEWIS.
+But you must know.
+#GRACE.
+Does it matter?
+#EDITH LEWIS.
+I don’t want to clash with you.
+#GRACE.
+I won’t put on anything that’ll interfere with your grey.
+#EDITH LEWIS.
+Thank you. Now I can be quite happy. I say, we shall be so late.
+#MRS. INSOLEY.
+I didn’t see Grace’s maid, Claude.
+#CLAUDE.
+I dare say Grace couldn’t spare her.
+#MRS. INSOLEY.
+If Grace were more punctual she wouldn’t be obliged to deprive her maid of the pleasure and the duty of attending morning prayers.
+#MISS HALL.
+I didn’t see your maid either, Miss Vernon.
+#MISS VERNON.
+She’s a Roman Catholic. Papist, Helen? Isn’t that very risky?
+#MISS VERNON.
+Good gracious me, why?
+#MRS. INSOLEY.
+Aren’t you afraid she’ll corrupt the other servants?
+#MISS VERNON.
+She’s a highly respectable person of well over forty.
+#MRS. INSOLEY.
+She must be very flighty. I would as soon have an atheist.
+#MISS HALL.
+I would never dream of having a Romish maid myself.
+#MRS. INSOLEY.
+Is there any likelihood of your having a maid at all, Louisa?
+#MISS HALL.
+No, Mrs. Insoley.
+#MRS. INSOLEY.
+In that case I can’t quite see what is the use of your having an opinion on the subject.
+#CLAUDE.
+Miss Hall was only making a general reflection.
+#MRS. INSOLEY.
+I don’t like general reflections at the breakfast table.
+#MRS. INSOLEY.
+I suppose you have prayers at Foley, Helen?
+#MISS VERNON.
+I’m afraid I don’t. It makes me feel rather shy to read them.
+#MRS. INSOLEY.
+I don’t see why it should. It doesn’t make me feel shy.
+#MISS HALL.
+You read them so well, Mrs. Insoley.
+#MRS. INSOLEY.
+I never forget while I’m reading them that I’m a woman of birth and a woman of property.
+#MISS VERNON.
+And then I always think the servants hate them.
+#MRS. INSOLEY.
+The more they hate them, the better it is for them. That is life, my dear Helen. It’s a very good thing to begin the day by making it distinctly understood that masters are masters and servants are servants.
+#MISS HALL.
+And I think servants like that, Mrs. Insoley.
+#MRS. INSOLEY.
+It is not a matter of interest to me if they like it or not, Louisa. I have the authority of my maker for it, and that is quite enough for me. comes in.]
+#COBBETT.
+I’m sorry I’m late.
+#MRS. INSOLEY.
+When breakfast’s at ten o’clock I cannot imagine why people shouldn’t be punctual.
+#COBBETT.
+Neither can I. Let’s have a look at the food.
+#MRS. INSOLEY.
+See if there’s anything I’d like, Louisa.
+#COBBETT.
+There’s fried sole - eggs and bacon.
+#MRS. INSOLEY.
+The staple of every middle - class hotel in the kingdom.
+#COBBETT.
+And devilled kidneys.
+#MRS. INSOLEY.
+I’ll begin with fried sole, and then I’ll have eggs and bacon, Louisa.
+#CLAUDE.
+Oh, I’m sorry. Is there anything I can get you?
+#MRS. INSOLEY.
+And then, if Mr. Cobbett has left any, perhaps I’ll see if I can eat a devilled kidney.
+#COBBETT.
+Mr. Cobbett thinks he’ll have to look nippy to get anything at all.
+#CLAUDE.
+I wonder what I can tempt you with?
+#MISS VERNON.
+I think I’ll have some fried sole.
+#CLAUDE.
+That’s the beauty of the country. One does relish one’s breakfast, doesn’t one?
+#MISS VERNON.
+Is there anything in the Times, Claude?
+#CLAUDE.
+I haven’t read it yet.
+#MRS. INSOLEY.
+In some ways you’re much more of a Bainbridge than an Insoley, Claude. My father used always to sit on the Times so that no one should read it before him.
+#CLAUDE.
+I must say I don’t like to have my paper messed about by a lot of people before I’ve had a chance of looking at it. Half the pleasure of reading the Times is reading it first. Besides, the Morning Post and the Mail are on the sideboard for anyone who wants them. comes in.]
+#EDITH.
+Oh, I know I’m dreadfully late. Everybody’s going to scold me. And I’m so sorry.
+#COBBETT.
+When breakfast’s at ten o’clock I cannot imagine why people shouldn’t be punctual.
+#EDITH.
+Isn’t Grace down yet? No, don’t bother. I’ll help myself.
+#MRS. INSOLEY.
+When I was mistress of this house breakfast was served punctually at eight o’clock every morning.
+#COBBETT.
+It must have seemed just like supper. Did you have it the last thing before going to bed?
+#MRS. INSOLEY.
+I made no exceptions. The day after my cousin James broke his neck in the hunting - field and was brought to this very house on a stretcher, I came down as the clock struck. And a very hearty breakfast I ate too.
+#COBBETT.
+Perhaps he didn’t leave you anything.
+#MRS. INSOLEY.
+On the contrary, he left me all his debts. Enter GRACE.
+#GRACE.
+Good morning.
+#MRS. INSOLEY.
+Good afternoon, Grace.
+#GRACE.
+Am I late? I think punctuality’s the most detestable of all the virtues.
+#MRS. INSOLEY.
+It’s a royal virtue, my dear.
+#GRACE.
+In that case, as a member of the middle classes, it’s not surprising that I don’t practise it.
+#CLAUDE.
+What can I get you, darling?
+#GRACE.
+Is there anything nice to eat?
+#MRS. INSOLEY.
+That is a matter of opinion.
+#CLAUDE.
+There’s fried sole and eggs and bacon.
+#GRACE.
+Oh, I don’t think I’ll have anything. I’ll just have some tea and toast.
+#CLAUDE.
+My dear, you’re not off your feed, are you?
+#MRS. INSOLEY.
+Grace has probably been stuffing herself with bread and butter in her room. I have no patience with the new - fangled custom of giving people tea when they wake up. I never give it to my guests.
+#COBBETT.
+Then don’t ask me to come and stay with you.
+#MRS. INSOLEY.
+It may surprise you, but I have no intention of doing so.
+#COBBETT.
+There now. And I thought I’d made such an impression on you, Mrs. Insoley.
+#MRS. INSOLEY.
+That’s why I couldn’t risk asking you to stay with me. Perhaps at my age I am safe from your blandishments, but Louisa is extremely susceptible.
+#MISS HALL.
+Oh, Mrs. Insoley, how can you! Why, Mr. Cobbett must be ten years younger than I am.
+#MRS. INSOLEY.
+I should put it at fifteen.
+#COBBETT.
+Don’t dash my hopes to the ground, Miss Hall. I was flattering myself you didn’t look upon me altogether with indifference.
+#ARCHIBALD.
+Ah, I thought I’d find you still at breakfast.
+#CLAUDE.
+We’re a lazy lot. I suppose you’ve been up and about for the last two hours.
+#GRACE.
+Is anything the matter?
+#ARCHIBALD.
+Yes.
+#CLAUDE.
+I thought you looked a bit odd. most awful thing has happened. I’ve only just heard of it.
+#CLAUDE.
+What is it, old man?
+#ARCHIBALD.
+You’d better come along with me to the smoking - room.
+#GRACE.
+It’s too late to make a secret of it, Archibald. You’d better tell us all.
+#CLAUDE.
+Fire away, old man.
+#ARCHIBALD.
+Peggy Gann has killed herself.
+#CLAUDE.
+My God.
+#CLAUDE.
+Why on earth did she do it?
+#GRACE.
+How horrible!
+#CLAUDE.
+Grace.
+#GRACE.
+Don’t touch me.
+#ARCHIBALD.
+You’d better come along.
+#CLAUDE.
+I feel I ought to do something. I don’t know what to do.
+#ARCHIBALD.
+I’m afraid there’s nothing much that can be done.
+#CLAUDE.
+I’d better go and see Gann, hadn’t I?
+#MRS. INSOLEY.
+Won’t you finish your breakfast before you go, Claude?
+#CLAUDE.
+Oh, I can’t eat anything more.
+#MISS HALL.
+What a dreadful thing.
+#MRS. INSOLEY.
+Where are you going, Grace?
+#GRACE.
+For heaven’s sake, leave me alone.
+#MRS. INSOLEY.
+Louisa, get me some of those devilled kidneys that Mr. Cobbett has been making so much fuss about.
+#COBBETT.
+Let me.
+#MRS. INSOLEY.
+Louisa will get them. She likes to wait on me herself. Don’t you, Louisa?
+#MISS HALL.
+Yes, Mrs. Insoley.
+#MRS. INSOLEY.
+Have you finished, Helen?
+#MISS VERNON.
+Yes.
+#MRS. INSOLEY.
+You’ve eaten nothing.
+#MISS VERNON.
+I couldn’t.
+#MRS. INSOLEY.
+I cannot imagine why anyone should be upset because an abandoned hussy has been so wicked as to destroy herself.
+#COBBETT.
+Well, it hasn’t taken my appetite away, at all events.
+#MRS. INSOLEY.
+If we were honest with ourselves, Mr. Cobbett, we should acknowledge that nobody’s death is important enough to interfere with one’s appetite.
+#MISS HALL.
+Oh, Mrs. Insoley, how can you say such a thing?
+#MRS. INSOLEY.
+Louisa, I’ve been like a mother to you for ten years. Would you eat one potato less for your dinner if I were found dead in my bed to - morrow morning?
+#MISS HALL.
+Oh, yes, Mrs. Insoley. I really, really would.
+#MRS. INSOLEY.
+You are a good girl, Louisa, and you may have that black lace shawl of mine. If you mend it carefully, it’ll last you for years.
+#MISS HALL.
+Oh, thank you, Mrs. Insoley. You are so kind to me.
+#EDITH.
+D’you think I ought to offer to go away to - day? I was going to stay till to - morrow.
+#COBBETT.
+I was going to - day in any case. I’m due to stay with some people in Wiltshire.
+#MRS. INSOLEY.
+You seem to be in great demand.
+#COBBETT.
+I have a very pleasant fund of small talk.
+#MRS. INSOLEY.
+I’m afraid this is not an occasion upon which you’ll find it of any use.
+#EDITH.
+I’m going into the garden.
+#COBBETT.
+Come on. I’m dying for a smoke.
+#MRS. INSOLEY.
+I think you should remember, my dear Grace, that suicide is not only very wicked, but very cowardly. I have no patience with the sentimentalities of the present day. Our fathers buried people who were sinful enough to destroy themselves at the cross - roads with a stake in their insides. And it served them right.
+#GRACE.
+Oh, did you hear? They have the heart to chatter like that when that unhappy girl is lying dead. They haven’t a word of pity. It seems to mean nothing to them that she sacrificed herself. If she died, it was to save her father, so that he shouldn’t be thrown out of work in his old age. And they call her wicked and sinful.
+#MISS VERNON.
+But is that anything new to you? Haven’t you noticed that people always rather resent the heroism of others? They don’t like the claim it makes on them, and the easiest way to defend themselves is with a sneer.
+#GRACE.
+I might have saved her life if I’d chosen, but I hadn’t the courage.
+#MISS VERNON.
+Grace, don’t be stupid.
+#GRACE.
+Once I suspected what she was going to do, but she was too clever for me. I so wanted to believe it was all right. I wanted her to go away quietly.
+#MISS VERNON.
+Lots of women have been in difficulties before, and they haven’t killed themselves. There must have been some kink in her nature. I suppose the instinct of life wasn’t so strong as it is with most of us, and - and she would have committed suicide for almost any reason.
+#GRACE.
+There was only one thing to say, and I didn’t say it. I couldn’t.
+#MISS VERNON.
+My dear, for heaven’s sake pull yourself together.
+#GRACE.
+D’you know why Claude was so determined she should go? Because he couldn’t bear that I should come in contact with a woman who’d done wrong.
+#MISS VERNON.
+I had an idea that was at the back of his mind.
+#GRACE.
+Why should you know what Claude feels better than I do?
+#MISS VERNON.
+It was a mere guess on my part.
+#GRACE.
+When I asked you the other day whether you’d been very much in love with Claude, you wouldn’t answer.
+#MISS VERNON.
+I really thought it was no business of yours.
+#GRACE.
+Are you in love with him still?
+#MISS VERNON.
+Yes, I suppose I am.
+#GRACE.
+Much?
+#MISS VERNON.
+Hoarsely.] Yes.
+#GRACE.
+D’you know that my mother - in - law would give half her fortune to know - what you know? She’s been on the look - out to trip me up for years. It only wants a hint, and she can be trusted to make the most of it.
+#MISS VERNON.
+My dear, I haven’t a notion what you’re talking about.
+#GRACE.
+How did you find out?
+#MISS VERNON.
+I suspected before. In those circumstances hardly any men seem able to help a sort of proprietary air. He rather gave it away, you know.... And then yesterday I felt quite certain.
+#GRACE.
+I’m in your hands. What are you going to do?
+#MISS VERNON.
+My dear, what can I do? Claude wouldn’t love me more because he loved you less.
+#GRACE.
+You must utterly despise me.
+#MISS VERNON.
+No.... I feel awfully sorry for Claude.
+#GRACE.
+Claude’s your first thought always.
+#MISS VERNON.
+He’s been the whole world to me since I was a girl of sixteen.
+#GRACE.
+Is that why you never married?
+#MISS VERNON.
+I suppose it is.
+#GRACE.
+I never dreamt that anyone could care for Claude like that. I suppose you see something in him that I’ve never seen.... He has a hundred different ways of getting on my nerves.
+#MISS VERNON.
+You see, I’m not irritated by the mannerisms that irritate you.
+#GRACE.
+Real love accepts them, I suppose.
+#MISS VERNON.
+It wants them even because it’s something individual to cling to.... And then it laughs at them a little, and the best love of all includes a sense of humour.
+#GRACE.
+It’s made me feel so strange to know that you love him, Helen. It’s given him something that he’s never had before.
+#MISS VERNON.
+I don’t suppose any woman likes her husband less because she knows that another woman is eating her heart out for him.
+#GRACE.
+I wonder if I’ve misjudged him all these years.... D’you think I found him shallow because there was no depth in me, and narrow because I was narrow myself.
+#GRACE.
+Did you see Gann?
+#CLAUDE.
+No, he wasn’t at the cottage. I’ve sent for him and told him to come here.
+#GRACE.
+They know where he is then?
+#CLAUDE.
+Yes, worse luck. He’s been soaking at the public - house since it opened.
+#MISS VERNON.
+But when did it happen?
+#CLAUDE.
+Peggy, d’you mean? She did it last night.
+#GRACE.
+Last night? But why have we only just heard of it?
+#CLAUDE.
+Because they don’t come to us any more when they’re in trouble. They keep it to themselves.
+#CLAUDE.
+Oh, Moore, when Gann comes let me know. I’ll come and see him at once.
+#MOORE.
+He’s here now, sir.
+#CLAUDE.
+Is he? I didn’t expect him yet. All right.
+#GRACE.
+Won’t you let him come here, Claude? I should like to speak to him too.
+#CLAUDE.
+I don’t think you’d better see him if he’s been drinking. He may be going to make himself rather objectionable.
+#GRACE.
+I must say to him what I’ve got on my heart, Claude.
+#CLAUDE.
+Very well. Tell Gann to come here.
+#MOORE.
+Very good, sir.
+#MISS VERNON.
+I dare say you’d like me to leave you.
+#GRACE.
+You don’t mind, do you?
+#CLAUDE.
+What a nice woman that is! I can’t imagine why Archibald doesn’t hurry up and marry her.
+#GRACE.
+Perhaps he’s not in love with her.
+#CLAUDE.
+Any man in his senses would be in love with her.
+#CLAUDE.
+Take off your cap, Gann.
+#GANN.
+Did you want to speak to me, Squire?
+#CLAUDE.
+I’ve just been round to your cottage, Gann. I saw Peggy.... I want to tell you how awfully sorry I am for what’s happened. I can never forgive myself.
+#GANN.
+What d’you want me for? Couldn’t you let me be? D’you still want me to go?
+#CLAUDE.
+No. That’s what I wanted to tell you.
+#GANN.
+Give us time and we’ll clear. We don’t want long. Give us time to bury the girl. That’s all we want.
+#CLAUDE.
+I hope you’ll stay. I want to do everything I can to make up for your loss. I want you to know that I blame myself most awfully.
+#GANN.
+Will that bring ’er back to life, d’you think?
+#CLAUDE.
+I’d give anything for this horrible accident not to have happened. I’m afraid it’s my fault.
+#GANN.
+She killed ’erself so as I shouldn’t be turned off. That’s why she killed ’erself. You’re a hard master - you always was. She thought it was the only way to save me from the work’us.
+#CLAUDE.
+In future I’ll try to be different. I didn’t think I was hard. I thought I was only just.
+#GRACE.
+It was a cruel rule.
+#CLAUDE.
+I thought I was only doing my duty.
+#GANN.
+She was a good girl, after all, Squire, a good girl.
+#CLAUDE.
+I’m sure she was.
+#GANN.
+It’s easy enough for you people to keep straight. You don’t ’ave temptations like we ’ave.
+#CLAUDE.
+No, that’s true enough. I suppose it’s not really very hard for us to be moderately decent.
+#GRACE.
+Where is the child now, Gann?
+#GANN.
+D’you want that too? Ain’t you satisfied yet? Has the child got to go before I stay?
+#GRACE.
+No, no. I only wanted to know if there was anything I could do. I wanted to help you.
+#GANN.
+I don’t want your ’elp. I only want you to let me work and earn my wages.
+#CLAUDE.
+That you shall do, I promise you.
+#GANN.
+Can I go now? I’ve got a deal to do this morning.
+#CLAUDE.
+Yes.... Will you shake hands with me before you go?
+#GANN.
+What good’ll that do you?
+#CLAUDE.
+I can only repeat that I’m most awfully sorry. I’m afraid there’s absolutely nothing I can do to make up for your great loss.... You can go now.
+#GANN.
+Look ’ere, Squire, you take my gun. I ain’t fit to keep it.
+#CLAUDE.
+What the devil d’you mean?
+#GANN.
+Last night when the liquor was in me I swore I’d blow your brains out and swing for it. Don’t let me ’ave the gun. I’m not fit to keep it yet. If I get on the drink again I’ll kill you.
+#CLAUDE.
+What the dickens d’you mean by speaking to me like that! Of course you must have your gun. I can’t allow you to neglect your work.
+#GRACE.
+Claude, take care.
+#CLAUDE.
+Why isn’t it loaded?
+#GANN.
+They took the cartridges out. I was about mad, and I don’t know what I said. If I’d come across you then - you wouldn’t be standing where you are now.
+#CLAUDE.
+I suppose you take eights?
+#GANN.
+That’s right.
+#CLAUDE.
+Here you are. I don’t think I’m afraid. I’ll take my chance of your wanting to shoot me.
+#CLAUDE.
+That’ll do, Gann. I don’t think I have anything more to say to you. You can go.
+#GANN.
+By God!
+#CLAUDE.
+Gann, take your gun.
+#GRACE.
+I’m glad you did that, Claude.
+#CLAUDE.
+It was very difficult to know what to say to him.
+#GRACE.
+I didn’t mean that. I meant, I’m glad you made him take the gun.
+#CLAUDE.
+Oh! Hang it all, you didn’t think I was likely to be frightened of one of my own servants, did you?
+#GRACE.
+I was rather afraid he was going to shoot you.
+#CLAUDE.
+So was I. But I felt pretty sure he saw two of me, and I thought he’d probably shoot at the wrong one.
+#GRACE.
+You’re very plucky.
+#CLAUDE.
+Rot! Grace, I’m afraid you think I’ve been an awful skunk.
+#GRACE.
+We none of us knew anything like this was going to happen.
+#CLAUDE.
+Will you forgive me?
+#GRACE.
+I?
+#CLAUDE.
+I’ve been feeling such an awful cad. If I’d only done what you wanted me to, this wouldn’t have happened.
+#GRACE.
+That’s not your fault. I didn’t say - what I should have said to make you change your mind.
+#CLAUDE.
+It rather put my back up that you should be so set on letting Peggy stay. But it struck me afterwards, of course you couldn’t feel the same about it as I did. I think if one’s awfully straight, one’s full of charity, don’t you know.
+#GRACE.
+My dear Claude, you talk as if I were a girl of eighteen.
+#CLAUDE.
+I don’t suppose you remember, but when Archibald told us, I wanted to say something to you....
+#GRACE.
+Yes, your first thought was for me, wasn’t it?
+#CLAUDE.
+And I came near you. And - and you sort of shuddered, and said: “For God’s sake, don’t touch me!”
+#GRACE.
+I’m sorry. I didn’t mean to be unkind.
+#CLAUDE.
+No, I know you didn’t. It just came out unawares. And - oh, Grace, I couldn’t bear to think you - you couldn’t stick me, don’t you know.... I suppose I’m a damned fool, but I haven’t made you hate and loathe me, have I?
+#GRACE.
+I’m not worth so much troubling about, Claude.
+#CLAUDE.
+I can’t help it. You’ve just somehow got in my blood and bones, and if it didn’t sound such drivel, I’d say you meant everything in the world to me. Only you just laugh at me when I say things like that.
+#GRACE.
+It’s very hard for all of us to say what we mean. The words we use are so frayed. One ought to guess at - at the soul within them.
+#CLAUDE.
+I’ve been trying to think about Gann and his daughter, but I can’t really think of anything but you.
+#GRACE.
+You know, Claude, no one’s so wonderful as you think me. I’m no longer so young as all that, and you’re the only person who ever thought me very pretty.
+#CLAUDE.
+I don’t mind. Sometimes, so that my love should mean more to you, don’t you know, I’ve wanted you to get older quickly, and I’ve wanted you to be plain.
+#GRACE.
+Oh, my dear, what a horrible prospect.
+#CLAUDE.
+Don’t laugh at me now, Grace.
+#GRACE.
+I’m not laughing at you. God knows I’m not laughing at you.
+#CLAUDE.
+I’m such an ass at explaining myself. What I want to make you understand is that I don’t love you for anything that other people could love you for. I love you because you’re you, don’t you know. Because you’re so awfully good and straight. And you know I respect you so awfully.
+#GRACE.
+I’m not good, Claude.
+#CLAUDE.
+If I didn’t believe it, I should think the world a pretty rotten place.
+#GRACE.
+I haven’t been the sort of wife you wanted. I felt that always.
+#CLAUDE.
+You’ve been the only woman in the world for me. Always.
+#GRACE.
+Not many women can say that, can they? One ought to be very grateful.
+#CLAUDE.
+D’you remember the first time I ever saw you?
+#GRACE.
+I wonder you didn’t marry Helen Vernon years before you came across me.
+#CLAUDE.
+Hang it all, why on earth should I have done that!
+#GRACE.
+Your mother was very anxious that you should.
+#CLAUDE.
+I was just as little in love with Helen Vernon as she was in love with me.
+#GRACE.
+I can’t help seeing that she would have made you a much better wife than I have. She would have understood you. I don’t think I ever understood you. I’ve been a wretched failure, Claude.
+#CLAUDE.
+Darling, how can you talk such rot?
+#GRACE.
+She might have had children. You wanted them so much, Claude, and I haven’t given you any.
+#CLAUDE.
+That’s been hard luck on both of us, darling.
+#GRACE.
+It might have made all the difference.
+#CLAUDE.
+If I wanted children it was chiefly because I thought you’d be happier. You wouldn’t have minded the dull life down here then. And you might have cared a bit more for me because I was their father.
+#GRACE.
+It all comes back to me, doesn’t it? I’m in all your thoughts always.
+#CLAUDE.
+D’you mind?
+#GRACE.
+I’m so ashamed.
+#ARCHIBALD.
+Oh, Claude, I met the coroner’s officer on my way along here. He wants to see you.
+#CLAUDE.
+All right. I’ll come. Is he in the hall?
+#ARCHIBALD.
+I told him you knew nothing more than I’d said. But I’m afraid they’ll call you at the inquest.
+#CLAUDE.
+The only thing’s to grin and bear it.
+#COBBETT.
+I’m just starting. I was looking for you to say good - bye.
+#GRACE.
+Is it time for you to go already? I didn’t know it was late.
+#COBBETT.
+Thanks awfully for putting me up. It’s been perfectly topping.
+#GRACE.
+It was nice of you to come. I hope you’ll run down again one of these days.
+#COBBETT.
+I suppose you never want to set eyes on me again.
+#GRACE.
+Never.
+#COBBETT.
+You’re not awfully unhappy, are you?
+#GRACE.
+Awfully.
+#COBBETT.
+I’m dreadfully sorry.
+#GRACE.
+That doesn’t do me much good, does it?
+#COBBETT.
+If there’s anything I can do, I’d like awfully to do it if you’d let me.
+#GRACE.
+No, whatever happens no one can help me but myself.
+#COBBETT.
+I shouldn’t have played the fool if I’d thought you were going to take things so much to heart.
+#GRACE.
+That’s the nuisance of women, isn’t it? They will make an affair of what’s really only an episode.
+#COBBETT.
+You have a way of saying things that makes one feel an awful bounder. After all, one can’t help falling in love, and one’s not a blackguard because one falls out of it.
+#GRACE.
+D’you remember asking me yesterday if I was beginning to care for Claude differently?
+#COBBETT.
+Yes.
+#GRACE.
+I love him as I never thought it was possible to love. I don’t know why I love him. It’s come to me suddenly. I - oh, I can’t tell you what it is. It’s like hunger in my soul. And I’m frightened.
+#COBBETT.
+I should have thought that made everything all right.
+#GRACE.
+It’s come too late. I’m - soiled. Afterwards - you know what I mean, when you and I - the first thing I felt was surprise because I found myself no different. I thought when a woman had done that everything would seem altered. But I felt just the same as before. It’s only now. It’s like the stain of blood - don’t you remember - not all the perfumes of Arabia....
+#COBBETT.
+You know, it’s absurd to take it like that.
+#GRACE.
+Oh, what have I done! If I’d only had the strength to resist! It’s now that I see it all, the utter degradation of it, the hateful ugliness. Oh, I loathe myself. How can I take my heart to Claude when there’s you standing between us?
+#COBBETT.
+I’m awfully sorry, Grace.
+#GRACE.
+I’d give anything in the world if I hadn’t done what I have done. I might be so happy now. I haven’t a chance. The fates are against me. What’s the good of loving Claude now - I’m not fit to be his wife.
+#COBBETT.
+What’s that?
+#GRACE.
+It’s Rooney. He’s afraid you’ll miss the train. You’d better hurry up.
+#COBBETT.
+I can’t leave you like this.
+#GRACE.
+I shouldn’t like you to miss your train.
+#COBBETT.
+I suppose you hate and loathe me.
+#GRACE.
+I’d wish you were dead, only it wouldn’t do me much good, would it?
+#COBBETT.
+The fact is, only the wicked should sin.... When the virtuous do things they shouldn’t they do make such an awful hash of it.
+#GRACE.
+What is it?
+#MOORE.
+I was going to clear away, madam.
+#GRACE.
+Oh, yes, I forgot. You’ll have to look sharp.
+#MISS HALL.
+“ ... to whom it would give the suffrage are marked off from all citizens who have ever and anywhere enjoyed the franchise in great civil communities by physical differences which no legislation can affect. Women, they insist, pay rates and taxes as men do, and therefore, they argue, women ought to vote as men do. But rates and taxes may be imposed or abolished by legislation. Men may become ratepayers and taxpayers, or cease to be ratepayers and taxpayers. The one thing that no enthusiasm, no reasoning, no eloquence, demonstrations, or statutes can achieve is to make a woman a man.”
+#MRS. INSOLEY.
+How true that is, Louisa.
+#MISS HALL.
+I’ve always thought exactly the same myself, Mrs. Insoley.
+#MRS. INSOLEY.
+And there’s another thing, Louisa. No man can become a mother.
+#MISS HALL.
+No, I suppose not.
+#MRS. INSOLEY.
+Have you any doubts on the subject, Louisa?
+#MISS HALL.
+Oh, no, Mrs. Insoley.
+#MRS. INSOLEY.
+You may take it from me that no man can become a mother. And apparently very few women either nowadays.
+#ARCHIBALD.
+Good morning, mother.
+#MRS. INSOLEY.
+Good morning, my dear.
+#ARCHIBALD.
+Good morning, Miss Hall.
+#MISS HALL.
+Good morning.
+#MRS. INSOLEY.
+Louisa, you may read the rest of that article to yourself in the garden.
+#MISS HALL.
+Very well, Mrs. Insoley. Shall I take the dog?
+#MRS. INSOLEY.
+Yes. And be very careful with him. He says he’s not very well to - day.
+#MRS. INSOLEY.
+I’m glad to have an opportunity of talking to you, Archibald. I’ve fancied that you’ve been rather avoiding me the last day or two.
+#ARCHIBALD.
+Oh, no, my dear mother.
+#MRS. INSOLEY.
+When I asked Grace to invite Helen Vernon to stay here for a few days, it was in the confident hope that you would make her a proposal of marriage.
+#ARCHIBALD.
+I respect and esteem Miss Vernon, but I confess that no warmer feeling has ever entered my bosom.
+#MRS. INSOLEY.
+It’s not necessary that warm feelings should enter a clergyman’s bosom, Archibald. She’s of very good family indeed, and an heiress. Five thousand acres and a house that’s only just been done up.
+#ARCHIBALD.
+If there only weren’t a wife to be taken along with the property!
+#MRS. INSOLEY.
+It shouldn’t be necessary for me to tell a person of your profession that none of the pleasures of this world can be had without some drawback.
+#ARCHIBALD.
+What a pity it is you weren’t a man, mother. You would have made such a bishop.
+#MRS. INSOLEY.
+Are you trying to change the conversation, Archibald?
+#ARCHIBALD.
+I don’t think it would be a bad idea.
+#MRS. INSOLEY.
+Then I will only say one thing more. I am the meekest woman in the world, and a lamb could lead me. But I should like to remind you that the living of Kenyon - Fulton is not worth more than a hundred and seventy a year, and if you can keep a curate and live like a gentleman it’s only owing to my generosity.
+#ARCHIBALD.
+I’m quite prepared to live on a hundred and seventy a year, mother. I dare say it would have just as good an effect on my figure as matrimony.
+#MRS. INSOLEY.
+I don’t know what you’re talking about, Archibald.
+#ARCHIBALD.
+I understood you to recommend marriage as a sort of heroic remedy for corpulence.
+#MRS. INSOLEY.
+You have nothing against Helen, I presume?
+#ARCHIBALD.
+I could have wished that fewer summers had passed over a fringe which I shrewdly suspect to be artificial.
+#MRS. INSOLEY.
+Of course it’s artificial, but you’re no chicken yourself, Archibald.
+#ARCHIBALD.
+On the contrary, I’m much too old a bird to be caught by chaff.
+#MRS. INSOLEY.
+I’m sure we don’t want another flighty young thing in the family.
+#ARCHIBALD.
+I don’t think Grace has been very flighty the last day or two.
+#MRS. INSOLEY.
+What’s the matter with her? She’s been going about with a face as long as one of your sermons.
+#ARCHIBALD.
+I’m afraid Peggy’s death upset her very much.
+#MRS. INSOLEY.
+That’s the worst of those sort of people, they have no self - control. If she’s going to give way like this at the death of a kitchen - maid, what on earth is she going to do at the death of a duchess?
+#ARCHIBALD.
+Is it a riddle, mother?
+#GRACE.
+Good morning, Archibald.
+#ARCHIBALD.
+Good morning.
+#GRACE.
+I thought you’d be at the inquest.
+#ARCHIBALD.
+No. There was no need for me to go. And Claude seemed to think he’d rather I didn’t.
+#MRS. INSOLEY.
+What is this?
+#ARCHIBALD.
+The inquest on Peggy Gann.
+#GRACE.
+Have you seen Claude?
+#ARCHIBALD.
+He looked in at the Rectory for five minutes. I’m afraid he’s awfully worried.
+#MRS. INSOLEY.
+I have no patience with Claude. He should have more self - respect than to let such a thing worry him.
+#ARCHIBALD.
+He’s afraid he may be asked some very unpleasant questions.
+#MRS. INSOLEY.
+You seem entirely to forget the relative positions of the parties concerned. If Claude doesn’t want to answer an impertinent question, it’s the easiest thing in the world for him to fly into a passion and refuse. Who is the coroner?
+#GRACE.
+His name is Davies. He’s the local doctor.
+#MRS. INSOLEY.
+You’re not going to suggest that the local doctor would dream of asking a question unless he was quite sure Claude was prepared to answer it?
+#ARCHIBALD.
+Davies is an advanced Radical. I’m afraid he may take the opportunity to have a fling at Claude.
+#MRS. INSOLEY.
+I’m all at sea. In my day we wouldn’t have stood a doctor for five minutes who was a Radical. We’d have made life unbearable for him until he became a Conservative or left the district.
+#ARCHIBALD.
+You’re looking rather dicky, Grace.
+#GRACE.
+Oh, I’m quite well, thank you.
+#MRS. INSOLEY.
+Am I mistaken in thinking you have rouge on your cheeks?
+#GRACE.
+I’ve not been sleeping very well, and I didn’t want to look ill.
+#MRS. INSOLEY.
+In my young days ladies did not paint their faces.
+#GRACE.
+We don’t live in your young days, and I’m not a lady.
+#MRS. INSOLEY.
+As you are my hostess, it would be insolent of me to contradict you, my dear Grace.
+#ARCHIBALD.
+I wonder if you’d be very angry if I said something to you?
+#GRACE.
+Do you object to the way I do my hair, or is it the cut of my skirt that doesn’t quite meet with your approval?
+#ARCHIBALD.
+I was going to say something to you about Claude.
+#ARCHIBALD.
+You know how funny he is. He doesn’t say much when anything’s on his mind. But if one knows him well it’s not hard to tell when something’s bothering him.... He’s awfully worried about you.
+#GRACE.
+I don’t know why I should worry him now more than I usually do.
+#ARCHIBALD.
+He’s afraid you blame him for Peggy’s death.
+#GRACE.
+Why should I?
+#ARCHIBALD.
+He feels it was his fault.
+#GRACE.
+I suppose it was in a way.
+#ARCHIBALD.
+He’s so fond of you he can’t bear to think that - that it’s made a difference to you.
+#GRACE.
+Has he said anything to you about it?
+#ARCHIBALD.
+No.
+#GRACE.
+Perhaps it’s only your fancy. Why are you telling me now?
+#ARCHIBALD.
+I’m afraid he’ll have rather a rough time at the inquest. I thought you might say something to buck him up a little. A word or two from you would mean so much.
+#GRACE.
+I think it’s so strange that you should say all this to me now. It’s not as if we’d ever been great friends, is it?
+#ARCHIBALD.
+Our best friends are always those who put us in a good conceit of ourselves. I always think it’s a dreadful thing when a man loses his nerve.... You can do so much for Claude if you choose.
+#GRACE.
+I think you exaggerate the influence I have over him. After all, he’s always taken care to keep me and his life strictly apart.
+#ARCHIBALD.
+I think you should remember that if he made a mistake it was an honest one. He wouldn’t be human if he didn’t put his foot in it sometimes.
+#GRACE.
+You speak as if I were perfection itself.
+#ARCHIBALD.
+And then, if he was so determined not to break that particular rule of the estate, it was partly for your sake, wasn’t it? Because he thought it his duty to keep you from any possibility of contact with evil.
+#GRACE.
+Did he tell you that?
+#ARCHIBALD.
+No. It was not very difficult to guess.
+#GRACE.
+I suppose not - for anyone who had eyes to see.
+#ARCHIBALD.
+You will do your best, Grace?
+#GRACE.
+What do you suggest I should do?
+#ARCHIBALD.
+It’s very difficult for me to tell you. I think the chief thing is that you should tell Claude - if you can - that you’re fond of him, and that, whatever happens, you always will be fond of him.
+#GRACE.
+That oughtn’t to be very hard. I love him with all my heart and soul.
+#ARCHIBALD.
+If you could only say that to him - just in that way, as if you really felt it - you would make him so happy.
+#GRACE.
+Archibald, I want to speak to you for a minute - as a clergyman.
+#ARCHIBALD.
+My dear Grace, you frighten me.
+#GRACE.
+I’m sorry if I’ve been often bitter and unkind to you. I’m ashamed when I think of all the silly, cruel things I must have said to you during the ten years I’ve lived here.
+#ARCHIBALD.
+Oh, what nonsense! You’ve got a clever tongue, and like most people who have, you can’t resist saying a sharp thing when it strikes you.
+#GRACE.
+I’ve often set out to wound you. I’ve been fiendish sometimes. I’d like you to know that I’m grateful to you for being so patient with me. It wouldn’t be surprising if you loathed me.
+#ARCHIBALD.
+Oh, I think I’ve always had a very great affection for you, Grace. I know you’ve often found life down here rather dull. If any allowances have been necessary, I’ve been perfectly ready to make them.
+#GRACE.
+I expect I was often unjust to you. I sometimes felt you weren’t quite sincere.... I thought you’d only become a clergyman on account of the living and the house.
+#ARCHIBALD.
+Yes, I felt that. But I couldn’t bear you any ill - will on that account. It was true.
+#ARCHIBALD.
+I’m afraid I’m not much in the way of parsons. My class means so much more to me than my calling. I know it’s a mistake, and yet I can’t help it. I’m bound down by conventions that I haven’t the will to escape from. The day’s past of the family living, the perquisite of a younger son, and I’m out of place here. I can’t feel that the position is mine by right as my Uncle Robert felt before me, and I haven’t the enthusiasm which might make me feel I’d earned it by my own efforts.
+#GRACE.
+I’m so ashamed of myself. Because people didn’t carry their hearts on their sleeves I thought they had no hearts at all.
+#ARCHIBALD.
+For three years after I was ordained I was a curate at Wakefield. I was worked so hard that I never had a moment to myself. I think those were my happy days. And that’s what I ought to do now. I ought to exchange all this for some living in a city, and do some real work before it’s too late. But I haven’t the courage. And then I should do no good, for I haven’t conviction. That’s why I have no influence in the parish. They come to me for beef - tea and for coal - tickets, but when it’s real help they want they go elsewhere. All I’m fit for is to hold a family living and dine with the neighbouring gentry. You summed me up with the utmost precision.
+#GRACE.
+I don’t think so any more. I have an idea that perhaps one sees people most truly when one sees them charitably.
+#ARCHIBALD.
+You said you wanted to speak to me, and I’ve been talking only about myself.
+#GRACE.
+I think you’ve made it a little easier for me, Archibald. It’s kind of you.
+#GRACE.
+Archibald, I’m dreadfully unhappy. I’ve done something which I bitterly regret. I don’t know how to tell you. But I must tell you.... I’ve been unfaithful to Claude.
+#ARCHIBALD.
+Grace, you must be mad. You can’t mean what you say. It’s - it’s impossible.
+#GRACE.
+It’s torturing me. It’s torturing me.
+#ARCHIBALD.
+But I don’t understand. You don’t mean that....
+#GRACE.
+Oh, yes, I mean exactly what I say. Please understand me.
+#ARCHIBALD.
+You said you were in love with Claude.
+#GRACE.
+Yes. That’s why I can’t bear the agony of it. I’m so unhappy. I’m so dreadfully unhappy. I want you to help me. I want you to tell me what to do.
+#GRACE.
+You can hardly believe it, can you? It sounds incredible. Sometimes I can’t help saying to myself that it is not possible it should be true.
+#ARCHIBALD.
+It’s come as a most dreadful blow.
+#GRACE.
+Don’t reproach me. I’ve said all the obvious things to myself already.... Oh, I hate myself.
+#ARCHIBALD.
+I’m so bewildered. Why d’you tell me? I feel I ought to ask you all sorts of questions, and I can’t bear to ask you anything.
+#GRACE.
+I don’t think anything matters but that I’ve behaved odiously. Claude was always very good to me, and I’ve deceived him. And every kindness, every word of love he says to me is a reproach. And I love him with all my soul, and there’s always the horror of what I’ve done between us. And I can’t bear it any longer.
+#ARCHIBALD.
+I’m so helpless.
+#GRACE.
+Are you going to tell Claude? You must be mad.
+#GRACE.
+I thought perhaps you might feel it was your duty. You’re his brother.
+#ARCHIBALD.
+It would never occur to me to betray the confidence you’ve put in me.
+#GRACE.
+Then what shall I do?
+#ARCHIBALD.
+I can’t advise you. I haven’t got the experience. I know so little of the world.
+#GRACE.
+You must advise me. I’m at the end of my strength. I can’t go on like this any more.
+#ARCHIBALD.
+Is it all over between you and ... you know what I mean?
+#GRACE.
+Yes, it’s all over.
+#ARCHIBALD.
+I don’t know what to say to you. I’m awfully sorry.
+#GRACE.
+Is there no one who can do anything for me?
+#ARCHIBALD.
+I suppose nobody else knows?
+#GRACE.
+Helen Vernon. She found out. But I can’t go to her for advice. I can’t. I can’t humiliate myself. And the remorse is just killing me.
+#ARCHIBALD.
+It’s so difficult for me to say things that won’t seem sanctimonious. I don’t want to say a word that you can think is a reproach.
+#GRACE.
+I don’t mind what you say so long as you help me.
+#ARCHIBALD.
+We’re taught that there’s one course clear to the sinner that repenteth.
+#GRACE.
+You want me to tell Claude?
+#ARCHIBALD.
+I don’t see how there can be forgiveness till one has confessed one’s sin.
+#GRACE.
+Oh, if you knew what a relief it would be! For days I’ve been fighting with the temptation to make a clean breast of it. I’ve been trying to keep it from me, trying not to think of it. But it meets me at every turn. It haunts me. It’s like an obsession, and it’s stronger than I am. It’s driving me - driving me to confess. I know I shall have to do it; I can’t help myself. I shall go mad if I don’t tell him.
+#ARCHIBALD.
+For goodness’ sake, calm yourself.
+#GRACE.
+If I’d told him before, when I was trying to persuade him to let Gann stay, that girl wouldn’t have died. I hadn’t the courage. I wouldn’t sacrifice myself. It was too much to ask me. And since then I’ve been tortured by remorse. They say she had the suicidal instinct, and would have killed herself for almost anything. But I seem to see her lying there reproaching me. Reproaching me.
+#ARCHIBALD.
+Why don’t you go to Claude at once and get it over?
+#GRACE.
+I’m frightened. I’m just sick with fear. A dozen times I’ve been on the point of it - just to have done with it, to get rid of the agony that burnt my heart - and at the last moment I couldn’t. But it’s like being on a high place and looking down and holding on to something so that you shouldn’t throw yourself over. Sooner or later I shall have to do it. It’s the only way to get back my self - respect. It’s the only chance I have of living at all.
+#ARCHIBALD.
+I wish I could do more for you.
+#GRACE.
+No one can do anything for me. Oh, it is cruel. And to come just now when I love Claude! I didn’t love him at first. It came quite suddenly - as if scales had been torn away from my eyes. And it wasn’t till then that I saw the sin and the wickedness of it. Oh, it was so much more than sin and wickedness. The filthiness. The only thing’s to tell him and have done with it. You know he’ll divorce me, don’t you?
+#ARCHIBALD.
+He loves you so much.
+#GRACE.
+Even if it breaks his heart, he’ll force himself to divorce me. You know what Claude is. He’ll think it’s his duty. He’ll do what he thinks he ought to do even if it kills him. Oh, but if he’d only forgive me, I would try to make amends. It’s so hard that I’ve only learnt how to be a good wife now that I’m unfit to be his wife at all.
+#ARCHIBALD.
+Be brave, Grace.
+#GRACE.
+Will you ring the bell?
+#ARCHIBALD.
+What are you going to do?
+#GRACE.
+It’s a letter that I had from - the other. It’s proof of everything. I felt I couldn’t tell Claude. It was hopeless. And I thought I’d just press it into his hand....
+#GRACE.
+Have that given to Mr. Insoley the moment he comes in.
+#MOORE.
+Very good, madam.
+#ARCHIBALD.
+D’you mean to say you’re going to tell him like that?
+#GRACE.
+It’s the only way I can do it.
+#ARCHIBALD.
+Good God, what have I done?
+#GRACE.
+He’ll read the letter, and then the worst will be over. I couldn’t have told him - I couldn’t.
+#ARCHIBALD.
+I hope you’ve done right.
+#GRACE.
+Anyhow, it’s the end of everything - just when I might have started a new life.... I wonder when I shall have to go away from here?
+#ARCHIBALD.
+Don’t put it like that.
+#GRACE.
+I thought I hated the place. It’s bored me to the verge of tears. And now I shall never again see the night fall on the park slowly. And I feel ... and I feel that with me, too, those great trees, and the meadows, and the cawing rooks have come to be part of my blood and my bones.
+#GRACE.
+Oh, I thought it was Claude.
+#MISS VERNON.
+What on earth’s the matter?
+#GRACE.
+I’ve told him about me and....
+#MISS VERNON.
+Oh!
+#GRACE.
+I’m going to tell Claude. It’s the only thing to do.
+#MISS VERNON.
+Is that your advice? You fool, Archibald!
+#GRACE.
+I can’t bear the torture any more.
+#MISS VERNON.
+I suspected you were thinking of something like this. But you wouldn’t let me speak to you.
+#GRACE.
+I’ve been struggling against it, and now I’ve made up my mind.
+#MISS VERNON.
+My dear, there are three good rules in life. The first is - never sin; and that’s the most sensible. The second is - if you sin, never repent; and that’s the bravest. But the third is - if you repent, never never confess; and that’s the hardest of them all.
+#ARCHIBALD.
+I don’t think this is the time for flippancy, Helen.
+#MISS VERNON.
+Good heavens, I’m being as serious as I possibly can.
+#ARCHIBALD.
+D’you mean to say you think Grace oughtn’t to say anything?
+#MISS VERNON.
+I think it would be monstrous of her to say anything.
+#ARCHIBALD.
+If the sinner wants forgiveness, first of all he must confess his sin.
+#MISS VERNON.
+You still look upon your God as a God of vengeance, who wants sacrifices to appease Him.
+#ARCHIBALD.
+“If we confess our sins, He is faithful and just to forgive us our sins.”
+#MISS VERNON.
+That was said to a stiff - necked generation that wanted humbling. But no one can want to humble us, surely. We’re so timid already. We’re so unsure of ourselves. We’ve all got a morbid desire to unbosom ourselves. The commonest ailment of the day is a vulgar feminine passion for making scenes. Confession’s like a drug we fly to because we’ve lost the last shadow of our self - reliance.
+#ARCHIBALD.
+Don’t let her move you, Grace. I beseech you, for your soul’s sake. Be brave.
+#GRACE.
+I know that it’s my only chance of happiness.
+#MISS VERNON.
+But who cares about your happiness?
+#ARCHIBALD.
+Helen, how can you be so unkind?
+#MISS VERNON.
+No one knows why we’ve been brought into the world, but it evidently wasn’t for our happiness. Or if it was, the Being who put us here has made a most outrageous mess of it. Put your happiness out of the question.
+#ARCHIBALD.
+If the sinner repents, let him confess his sin. That’s the only proof he can give of a contrite spirit.
+#MISS VERNON.
+Nonsense. He can give a much more sensible proof by acting differently in future.
+#GRACE.
+That would be so easy now.
+#MISS VERNON.
+But actions aren’t good because they’re difficult.
+#GRACE.
+Part of my punishment is the feeling that except for this horrible mistake we should both be so much happier than we were before.
+#MISS VERNON.
+You love Claude now, don’t you?
+#GRACE.
+With all my heart.
+#MISS VERNON.
+I have an idea that it’s only your sin that has made your love worth having.
+#ARCHIBALD.
+Helen.
+#MISS VERNON.
+You were rather hard and selfish before because you had nothing in particular to reproach yourself with. Perhaps it was necessary that you should step from the narrow path of virtue in order to become a virtuous woman.
+#ARCHIBALD.
+Helen, you can’t mean that.
+#MISS VERNON.
+It’s very often only repentance that makes men and women human.
+#ARCHIBALD.
+Repentance is useless without sacrifice.
+#GRACE.
+Yes, I feel that. And the only sacrifice I can make is to lay bare my soul before Claude and accept my punishment.
+#ARCHIBALD.
+And then, I think Claude should be given the chance of deciding for himself. It’s not fair to leave him in ignorance.
+#MISS VERNON.
+Don’t you know that Claude loves you, and trusts you, and believes in you?
+#GRACE.
+That is all my torment. I’m so unworthy. If I didn’t love him - if I didn’t want him to love me so much - it wouldn’t be so dreadful.... I can’t bear that there should be this secret between us. I know that he’s not loving me, but some fancy of his own heart. And I’m jealous. I’m jealous of the woman he loves who isn’t me. And I want him to love me as I am, as I love him.
+#MISS VERNON.
+Grace, don’t forget that I’ve loved him, too, hopelessly, without any thought of a return. It gives me some claim, doesn’t it?
+#MISS VERNON.
+The only thing I care for is his happiness. And I beseech you to have mercy on him.
+#GRACE.
+What do you mean?
+#MISS VERNON.
+If you destroy his belief in you he’ll have nothing left. He thinks he’s strong, but he isn’t. He depends on a few simple principles, and some of them are already giving way under his feet. He wants you now more than ever. You can give him back his self - reliance. And you’re going to humiliate him. Besides everything else, the misery and the grief, don’t you see what a blow it’ll be to his vanity? I beseech you to have mercy.
+#GRACE.
+You’re asking me to go on living the hateful lie. But I can’t breathe. The air about me seems heavy with deceit. If Claude doesn’t love me for what I am, what can his love be to me?
+#MISS VERNON.
+My dear, it’s not for ourselves that our friends love us, but for the grace and the beauty that they’ve given us out of their own hearts. And the only way we can show them our gratitude is by doing all we can to preserve those precious illusions they have about us.
+#GRACE.
+I don’t want a love that’s based on illusion. At the back of my mind there was the hope that if I told Claude, some day in the future he might forgive me. And we could start fresh with mutual knowledge and mutual confidence. But if I don’t tell him, we can never come together. Even though we’re not separated for an hour, there’ll always be this barrier between us.
+#MISS VERNON.
+Then let that be your punishment.
+#GRACE.
+That! You don’t know what you’re asking me to do. It’s because I love Claude so much that I can’t let him go on thinking I’m good and pure and chaste.
+#ARCHIBALD.
+And how can good come out of a lie, Helen?
+#MISS VERNON.
+Perhaps it wouldn’t be a lie always. Don’t you remember the Happy Hypocrite? Love can work many miracles.
+#GRACE.
+You mean - you think I might become really what Claude thinks me?
+#MISS VERNON.
+You might try.
+#GRACE.
+D’you know that I should never have a moment’s peace?
+#MISS VERNON.
+If you love Claude really, that mightn’t be too great a price to pay for his happiness.
+#GRACE.
+Oh, it’s all very well for you to talk, but you don’t know what this sense of shame is. It’s killing me. And the degradation of being loved for what you’re not. And you want me never to escape from it. Oh, you’re right. It would be a fiendish punishment.
+#MISS VERNON.
+It’s the only return you can make for all the love that Claude has given you.
+#GRACE.
+For his wonderful kindness, and all these years of thought and loving tenderness.
+#MISS VERNON.
+Grace, it’s I who ask you now to be brave.
+#GRACE.
+I seem to see the chance of a greater sacrifice than anything I’d ever dreamt of. I wonder.... I believe there’s a chance.... Oh! listen.
+#GRACE.
+That’s settled it. It’s too late now to do anything.
+#MISS VERNON.
+What is it?
+#GRACE.
+Claude’s just come in. I heard him speaking to Moore. He’s been given the letter.
+#MISS VERNON.
+D’you mean to say.... Oh, it’s not that the human race are wicked that I mind, or that they’re weak - you can give them backbone; but what I can’t get over is that they are such blooming fools.
+#GRACE.
+Will you leave me, both of you? Claude had better find me alone.
+#MISS VERNON.
+Come.
+#GRACE.
+Is the inquest over?
+#CLAUDE.
+They brought in a verdict of suicide while of unsound mind.
+#GRACE.
+That was what you expected, wasn’t it?
+#CLAUDE.
+Yes.
+#GRACE.
+You must be thankful it’s finished and done with.
+#CLAUDE.
+The jury passed a vote of censure on me.
+#GRACE.
+Claude!
+#CLAUDE.
+Oh, if you’d only heard the questions they asked me! There were reporters there, so it’ll be in the papers and you can read for yourself. They made me appear a perfect brute.
+#GRACE.
+I’m sure it wasn’t as bad as you fancy.
+#CLAUDE.
+You see, I hadn’t a chance of defending myself. I wasn’t going to make excuses to a parcel of Dissenting shopkeepers. It made me look as if I hadn’t a leg to stand on.
+#GRACE.
+After all, what can it matter what a dozen yokels think of you?
+#CLAUDE.
+And afterwards when I came out - they had the inquest in that big room upstairs at the Insoley Arms - there was a crowd outside, people I’d known all my life, I suppose they’d been taking the opportunity to have a good soak, and they hissed me as I passed.
+#GRACE.
+Didn’t you say that you were going to abolish the rule?
+#CLAUDE.
+Of course I’m going to abolish the rule. Hang it all, it’s caused wretchedness enough.
+#GRACE.
+I wish you’d had an opportunity of telling them.
+#CLAUDE.
+The coroner asked me what I was going to do about it. I couldn’t knuckle under then with all those people round me. I simply couldn’t, Grace. I was obliged to say that I meant to be master in my own house, and I didn’t propose to let anyone dictate to me.
+#GRACE.
+I’m afraid you’ve been awfully worried, old man.
+#CLAUDE.
+It’s given me a bit of a knock to find out that they - they just hate me. I was rather fond of the people on the estate, and I thought they were fond of me. When they’ve been in trouble I’ve done every damned thing I could to help them. When times have been bad I’ve not bothered much about the rents, and we’ve never been rich. Hang it all, I’ve given them all my time and my thoughts for years, and the only result is that they can’t stick me. They haven’t got any mercy if I’ve made a mistake. They give me no credit for good intentions.
+#GRACE.
+I’m sure you exaggerate, Claude. You fancy they feel more bitter than they really do.
+#CLAUDE.
+Oh, if you’d only seen them! The pleasure they took in having a dig at me! I could see the hatred on their faces. Oh, I expect Archibald is right. Our time down here is over. The only fellow they want in the country now is the Jew stockbroker with his pockets full of money.
+#GRACE.
+Darling, I know that you’ve always acted for the best. I know how much you’ve done for the people on the estate. After all, it wasn’t for their gratitude that you did it, was it? It was because it was your duty.
+#CLAUDE.
+Oh, Grace, I don’t know what I should do without you. You’ve been so awfully good to me through the whole thing. I’m so grateful to you.
+#GRACE.
+What nonsense!
+#CLAUDE.
+I was so afraid it would make a difference to you, but it hasn’t, has it?
+#GRACE.
+No.
+#CLAUDE.
+If I lost you, Grace, I couldn’t live. Without you - I can’t imagine life without you.
+#GRACE.
+How absurd you are, Claude.
+#CLAUDE.
+I’m talking rot, aren’t I?
+#CLAUDE.
+Hulloa! I forgot to open this. Moore gave it me as I came in. It’s your hand - writing.
+#GRACE.
+It’s nothing. I was afraid I should have gone out by the time you came in, and I wanted to remind you about the herbaceous border. It’s only a note.
+#CLAUDE.
+Are you going out?
+#GRACE.
+I was going to motor to Wells with Helen Vernon.
+#CLAUDE.
+Don’t leave me to - day, Grace. I want you so awfully badly.
+#GRACE.
+No, I won’t leave you ... if you want me.
+#CLAUDE.
+I always want you, Grace. You’re so much to me.... After all, nothing can really matter to me so long as I have you. It’s such a comfort to think that I can trust you. And you’ll never round on me. I’m awfully grateful for you, Grace.
+#GRACE.
+I can never be such a wife to you as you deserve, Claude. But I can try. If you can believe in me always, Claude, perhaps in time I can become what you believe me. No, don’t look at me. I want you to know that I love you with all my heart, I love you with my body, and I love you with my soul. I want to forget myself and think only of you. What does my happiness matter so long as I can make you happy?

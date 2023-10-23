@@ -1,0 +1,662 @@
+#GRIMANA.
+Sulking again, are you? Waiting for Sister Benvenuta, are you? Remembering things that are really no concern of yours; and thinking they concern you because you remember them - doubtless quite inaccurately. I know. It's a way of the Badoer family - and of the Loredani, too, for that matter. When you were a child there was confiture with the bread - and you threw away the crust; and they let you do it, and now you can't find your vocation. Well - well - will you come? I might mention it to the Sister Sacristan. She'd fetch you. It's as well you didn't say that in so many words, Sister. Perhaps there is some one you would prefer to have me call, before the Sister Sacristan comes to fetch you? Sister Rosalba? So it must be Sister Benvenuta, must it?
+#ATALANTA.
+I would speak with her.
+#GRIMANA.
+Oho! You would speak with her! And so you shall - for the love I bore your mother when we were children together. But what good she can do you, with her chatter and laughing - childish laughing and chatter - I can't see. I'll send her to you. And meantime, count your buttons. That's my advice. Count your buttons. That helps greatly - it did when I was your age.
+#ATALANTA.
+Even you, Benvenuta! Heaven forgive me!
+#ATALANTA.
+Even you, Benvenuta! What amuses you so?
+#BENVENUTA.
+It's your hair. It's so funny - it's so long since I've seen your hair, Atalanta, dear.
+#ATALANTA.
+It's not that I want to talk to you about. You needn't have laughed.
+#BENVENUTA.
+I know, dear. I shouldn't have laughed, but I always do. I'm so unworthy. I can't seem to help it, though I tell myself, often and often, that it's trifling and worldly to laugh so much, and undignified, too, before the children and novices. I will try not to laugh, Atalanta. Sister Grimana said you wanted me. What is it, dear? Put on your veil, child.
+#ATALANTA.
+Don't call me child - I'm only three years younger than you, and I'm taller.
+#BENVENUTA.
+You're only a novice and I call you a child - very properly, too. And if you want me to talk to you, you must listen - like a good child.
+#ATALANTA.
+It's the Sister Sacristan. Now she'll make me go, and there's something you must tell me - you must - I beg of you.
+#SISTER SACRISTAN.
+Well, Mistress Perverse and Disobedient? Not come to reason yet?
+#BENVENUTA.
+Pray you, Sister Sacristan, pardon her. Let me speak with her a little while - only a little while. Her tasks can wait -
+#SISTER SACRISTAN.
+Her tasks! Praise the Blessed Mother, in this noble house we need not depend on the novices for anything. It's not that - it's the discipline in the pigeon cot. The Mother Abbess will be displeased -
+#BENVENUTA.
+Pray you, Sister Sacristan. This novice has asked of me some spiritual admonition. She is my kinswoman, and I cannot refuse it. So I ask you for a little time with her, to speak to her of spiritual things, and perhaps bring her some comfort, to the end that her holy vocation may the sooner come. I ask it in humility, Sister Sacristan.
+#SISTER SACRISTAN.
+Admonition, eh?
+#BENVENUTA.
+I ask you to remember, Sister, that last Thursday I took upon myself the vexed matter of the hair of the two new novices, and that it throve in my charge.
+#SISTER SACRISTAN.
+Yes - throve. You so coddled them that they cried for you each night after, and are more trouble to the lay sisters than ever. But since she's your kinswoman - have it as you will. I look for little effect from your admonitions, I may as well tell you.
+#ATALANTA.
+That was good of you, Benvenuta. Now, listen to me. I am unworthy. I am unhappy. I feel no call. Tell me - tell me about the world, Sister Benvenuta - I beg you, tell me -
+#BENVENUTA.
+I will tell you of God's love, and of this holy life -
+#ATALANTA.
+Yes - I know. But first, tell me about the world.
+#BENVENUTA.
+I only tell you by way of admonition - that you may see how hollow is the world, and full of delusion -
+#ATALANTA.
+I understand you. Go on.
+#BENVENUTA.
+You must know then, that I - even I, Sister Benvenuta, was a most worldly little girl. I can remember so clearly how I used to run madly through the gardens, and roll on the grass like - like a wild puppy, and bury my face in the roses - till they scratched my nose and the warm scent made me dizzy. And then I would climb on the wall and watch the barges go by, with the strong men sculling them, and the women under the awnings sorting crabs and prawns.
+#ATALANTA.
+Tell me about the barge people.
+#BENVENUTA.
+That was all I saw of them. And then they would take me to my lady mother, of a forenoon, while she was having her hair powdered and curled; and there would be a black page bringing her chocolate, and her serving cavalier would be leaning beside her mirror taking snuff.
+#ATALANTA.
+Yes - tell me about the cavalier servant.
+#BENVENUTA.
+That was all I ever saw of him. But he was very worldly, I am sure.
+#ATALANTA.
+I wish you had seen more of him. And your mother? Did she have little children?
+#BENVENUTA.
+You know well I was the youngest of our family. That was why I was destined for the benefice we possessed in this high born convent.
+#ATALANTA.
+Tell me about your father?
+#BENVENUTA.
+I used only to see him once in a month, and I was much frightened of him - he was so noble and so just.
+#ATALANTA.
+Oh, he was a father of that sort, was he?
+#BENVENUTA.
+And when he did receive me, he had a handkerchief like a turban around his head, and horn spectacles on his nose, and he would be making gold with an astrologer, or putting devils in retorts. That was what he said he was doing, but I know now that he deceived me; he was a very worldly man, though he was so noble and just.
+#ATALANTA.
+Tell me, Benvenuta, when you were in the world, did you ever see mothers and babies - tiny babies - not old at all?
+#BENVENUTA.
+The only one was in the picture in our chapel - the panel in the center with the Blessed Mother and the little Child Christ. He was so sweet, and his eyes were as if they would open in a moment and then I should know what color of eyes they were.
+#ATALANTA.
+And that's why you so love the Bambino they keep in the Sacristy closet?
+#BENVENUTA.
+Yes.
+#ATALANTA.
+And was it easy for you, Benvenuta - always easy in your heart, to give up the world?
+#BENVENUTA.
+I was destined for this, dear.
+#ATALANTA.
+I am not sure. I was not destined. I am -
+#BENVENUTA.
+Ssh! Dear Atalanta. Be quiet. Be calm. Yes, I was worldly, and I gave it up willingly -
+#ATALANTA.
+Yes, it was easy for you, and so you think it should be for me. You never even saw a little baby with her mother. You were destined, and you were the youngest -
+#BENVENUTA.
+It was for the best. I was unworthy, but I gave up the world willingly -
+#ATALANTA.
+Willingly - you were lame, and -
+#BENVENUTA.
+Yes. I was a little lame. But I was a worldly little girl.
+#ATALANTA.
+Forgive me, dear sister. I meant no hurt.
+#BENVENUTA.
+You did not hurt me.
+#ATALANTA.
+Dear Benvenuta, one thing I must tell you. I must. It happened just before I came here.
+#BENVENUTA.
+Are you sure it is to me you should tell it?
+#ATALANTA.
+It is not a sin - not something I could confess, dear. It was this. Just as you looked over the wall at the barges, it was. In our gardens there was a time when the old gardener brought a vinedresser to help him. And the vinedresser's wife came with his dinner and their baby. And I came on them eating under the ilex trees, very secretly, of course. And the baby was clambering over her. She was no older than I am now - the vinedresser's wife. And she fed the baby at her breast in the deep shade under the ilexes. And I talked to her. Then the old gardener came, and of course I walked away, very haughtily, as became a daughter of the house. But hear me, sister. I cannot forget her, the vinedresser's wife with the baby clambering over her, under the shade of the ilex trees, I cannot put her out of my thoughts.
+#BENVENUTA.
+I understand you, dear. I cannot put out of my thoughts the poor little Bambino in the Sacristy closet all the year around, shut up with the saint's bones and the spare vestments, and he with only a piece of stiff purple and gold stuff around his middle.
+#ATALANTA.
+I cannot think that the same. The vinedresser's baby was alive - so alive.
+#BENVENUTA.
+It is much the same, I think.
+#ATALANTA.
+Anyway, I am glad I told you, Benvenuta. Why can I not forget about it?
+#BENVENUTA.
+It would be better if you could forget it, Atalanta. You must go now.
+#ATALANTA.
+One moment - don't take your hand away. I had to tell somebody.
+#ATALANTA.
+I am full of thankfulness, Sister Benvenuta. I will go to my task.
+#BENVENUTA.
+My dear - my dear little Great One, can you hear my voice through the door? Dear little child Christ, I am so sorry for you, alone for days and days in the closet with the holy relics and the wax lights. And at night it must be very cold for you. I wish I might touch you, dear little Great One, with my hands. It is open; the Sister Sacristan has left it unlocked. For this I am thankful, for I am sure you put it into her mind to leave it so - or that you by your divine power and foresight put it out of her mind to lock it as she intended. If only I could get appointed Sacristan! But I am too young and being lame would prevent my getting on to the step - ladders, as a Sacristan must. But I would never leave you alone among the relics in their cotton - wool, little Great One. And now - just for a moment lest the Sister Sacristan come back - I will take you out of the closet. I will show you the chapter room, for while you have seen all places, and the high heavens and all the hells, it will be pleasant to you to see the chapter room, after so long in the closet. See, yonder is the seat of the Mother Abbess. She is very great, and very holy, and of the high house of the Morosini. And that way is to the refectory and the work room. And that way is to the chapel - up the stairs. And up that way are our cells, where I sleep and where I pray to dream of you, little Great One. Touch my cheek, I pray you.... How cold your hands are!... Touch my cheek as she said the vinedresser's babe touched his mother's - Forgive me, dear little Child Christ. I spoke not in vain glory. But all my life I have waited, not knowing for what ... but happy ... dreaming that sometime.... If it be a sin I will confess it - I will. She is coming back to lock the closet. But I will get you a coat for the cold nights. Your hands were so cold. I will get you a warm coat - that I promise, dear little Great One.
+#SISTER SACRISTAN.
+By your leave, Sister Benvenuta.
+#BENVENUTA.
+Sister Sacristan, I trust the novice you left in my charge has returned to her task.
+#SISTER SACRISTAN.
+I trust she has.
+#BENVENUTA.
+I wish I might help you with your duties sometimes, Sister.
+#SISTER SACRISTAN.
+I do not need you, little sister.
+#BENVENUTA.
+I am sorry.
+#ABBESS.
+Sister, go into the chapel and tell the Reverend Father that the Bolognese puppet man is waiting, and say that I wish to see him here; and bid the Reverend Father bring the manuscript of his poem for Shrove Tuesday. Well, my little sister?
+#BENVENUTA.
+I pray you, Mother.
+#ABBESS.
+I listen, little sister.
+#BENVENUTA.
+It is about the little Child Christ. I pray you that a coat may be made for him - a warm coat of soft silk; for at Christmas he lies out in the draughty manger before the altar, and even at other times he is very cold at night here in the Sacristy closet. And I pray you, Mother?
+#ABBESS.
+I listen.
+#BENVENUTA.
+That I may help with the making of the coat, for all that I sew so badly.
+#ABBESS.
+Truly, our little sister Benvenuta Loredan was born to be the nursery - maid of Heaven.
+#SISTER SACRISTAN.
+Is it for me to know also, Mother?
+#ABBESS.
+Our little sister wishes that a coat of warm silk be made for the little Bambino, against next Christmas in the cold of the chapel.
+#SISTER SACRISTAN.
+I suspected something of that kind.
+#ABBESS.
+You do not approve, sister?
+#SISTER SACRISTAN.
+No, mother. It would be taking the time and money from the redressing of the skeleton of Saint Prosdoscimus, which is a most creditable relic, of unquestioned authenticity, with real diamond loops in his eye holes; this skeleton ought to be made fit to exhibit for veneration. And besides, this Bambino never had any clothes, and so far as I know never wanted any. The purple sash is only for modesty's sake. And as for such a new - fangled proposal coming from Sister Benvenuta - that alone -
+#ABBESS.
+That will do. Fie, fie, little sister. The Sacred Bambino is not your serving Cavalier, that you should wish to cover him with silk and velvet. Is the Reverend Father coming?
+#SISTER SACRISTAN.
+Immediately, mother. He only stayed to gather his manuscript.
+#ABBESS.
+Call in the man with the puppets. And now, little sister, you may go. You see it is not wise, ... your thought for the Bambino.
+#BENVENUTA.
+No, mother. I see it is not wise.
+#ABBESS.
+You are welcome, Father.
+#ABBE FILOSI.
+Happy greetings, Reverendissima.
+#ABBESS.
+I have sent for you because the puppet man, the Bolognese one you sent for, has come to make his bargain for the Shrove - tide play, and I wished you to be present, lest he fail to serve your inspiration worthily.
+#ABBE FILOSI.
+I am grateful for your care in the matter, Reverendissima.
+#ABBESS.
+The fellow is waiting? Show him in. And now, Father, I pray that you will make terms for your play, as you please.
+#ABBE FILOSI.
+Perhaps I had better not do that, Reverendissima. Poets are proverbially improvident -
+#ABBESS.
+That does not matter in the least. Whatever he charges, I shall beat him down.
+#PUPPET MAN.
+Excellenza Reverendissima, my prayers shall in the future be lightened by the memory of your presence. Reverend Father, I am humbly your servant.
+#ABBE FILOSI.
+You have been summoned here, sir, with regard to the Shrove Tuesday play which her Excellenza condescends to give for the edification of the friends of this noble convent. She has commissioned me to write the poem, and she graciously proposes to allow you to perform it with your puppets.
+#PUPPET MAN.
+I am honored, and in me all my craft is honored.
+#ABBE FILOSI.
+I have here the manuscript of my poor device.
+#PUPPET MAN.
+I cannot have so excellent a work so slightly spoken of. trifle ... a trifle. But I trust, when you have done your part, it may amuse the novices and the ladies - noble guests of Our Lady of the Rosebush.
+#PUPPET MAN.
+Is it from the gospels, or a saint's story?
+#ABBE FILOSI.
+Humbly, it is the story of Judith.
+#PUPPET MAN.
+Humbly, as an artist, I am filled with delight. And I have for it just the figures you could wish. A Judith, lovely beyond the power of song, and a Prince, heavy with gold, and a cavalier for the lady -
+#ABBE FILOSI.
+That will not serve. In my play she goes with only her maid - servant to the tent of the Holophernes.
+#PUPPET MAN.
+It is not usual, in Venice. Will it not be deemed strange by the ladies present?
+#ABBE FILOSI.
+Better so, than its author be deemed ignorant by the learned Reverendissima, who will grace your performance personally.
+#PUPPET MAN.
+I bow to your learning, Reverend Father.
+#ABBE FILOSI.
+My poem will require of you some artistry, and not all of the stale and accustomed sort. I shall require, for example, that the head of the Holophernes be actually and visibly severed.
+#PUPPET MAN.
+I will undertake it, and moreover, I will promise a goodly flow of red blood from the corpus of the Holophernes.
+#ABBE FILOSI.
+Excellent. Further, there is required a Triumph of Judith, in a car of state, and a figure of Time, speaking, and a Religion, out of the clouds, who speaks some verse in praise of the Reverendissima and of the noble house of the Morosini. All this must be carried out precisely.
+#PUPPET MAN.
+All this I undertake, seeing how famous is this convent, and of how illustrious a house is its Abbessa. Suffer me to inquire if the entire poem is of a lofty and tragic nature.
+#ABBE FILOSI.
+Certainly.
+#PUPPET MAN.
+This is a great honor to me, but a ruinous one as well. For I see I shall have no opportunity to bring on my most potent figures - my Harlequino with the seven wires, and -
+#ABBE FILOSI.
+Harlequino does not appear in the poem.
+#PUPPET MAN.
+But might he not appear in an interlude? Let me suggest, in all humility, that I might perform an interlude between the Harlequino and the serving - wench of Judith, after the death of the Holophernes?
+#ABBE FILOSI.
+Dio, dio - what a profanation!
+#ABBESS.
+Come, come, your Reverence, I see no profanation in it. We must not be too severe - too lofty. Think of our guests, and of the novices, mere children in heart - who will be witnessing our play. Let there be something in it for the liking of all, I should say.
+#ABBE FILOSI.
+But, Reverendissima -
+#PUPPET MAN.
+I could assure you of the success of the poem, if you would permit it.
+#ABBESS.
+I am sure it will be permitted. And now, sir, there are some other matters to be settled. First, we shall require that you bring here your puppets, in advance of the play, for our inspection, lest there be anything ungodly and unfit about them.
+#PUPPET MAN.
+It is the custom. I have brought some; and you shall have the others when I have conned the reverend Father's poem, and know which ones shall be required. Here is a lady who might serve for Judith. And here a Prince, though I have a richer one, better perhaps for the Holophernes. And here a devil - a Satanasso, and here -
+#ABBESS.
+Leave them all on the table. I will have them examined at leisure. Now, sir, tell me what you expect to be paid for this performance?
+#PUPPET MAN.
+Reverendissima, considering the difficulties of the poem, and the Holophernes to be visibly beheaded, and the great fame of this convent, that is said to require of every novice sixteen quarterings to her crest and a thousand ducats of dowry, and considering the illustrious family of which the Abbessa herself descends - I will perform the poem in the best manner for twelve ducats.
+#ABBESS.
+Considering just the matters you mention, and the honor to you to bring your puppets into this convent at all, you shall have five ducats.
+#PUPPET MAN.
+Five ducats - Reverendissima, I cannot have heard you aright - five ducats.
+#ABBESS.
+Five ducats.
+#PUPPET MAN.
+Mercy of the Saints! Five ducats for Shrove Tuesday, and a Holophernes to be visibly beheaded - in a most illustrious convent, too. It is ruin to me, Reverendissima - black ruin.
+#ABBESS.
+Five ducats you shall have.
+#PUPPET MAN.
+It is not possible, Reverendissima. No one of my craft could do it - even the worst of them would ask more than I have. Mere jugglers and bunglers from Padua would ask twenty ducats. And the fame of this convent! I see I have been deceived, -
+#ABBESS.
+Be silent, sir. You cannot trifle with me. Put down your trinkets. Do you know who I am, and of what family in the world? Well, sir?
+#PUPPET MAN.
+Maybe it will profit me in the sight of the Saints -
+#ABBESS.
+I need not warn you further. Be prepared for the performance in the best style against Shrove Tuesday. And if all goes well, I may add a ducat to your fee. Now, Father, since the play is yours, it shall also be yours to pass on the propriety of the figures.
+#ABBE FILOSI.
+I do not seek the responsibility, Reverendissima. Will you not excuse me?
+#ABBESS.
+You have some intention in this, Father?
+#ABBE FILOSI.
+Will you not excuse me?
+#ABBESS.
+Certainly not. What troubles you about it?
+#ABBE FILOSI.
+Reverendissima, I would gladly have passed it in silence. Your wisdom in matters of the world - and of the Church - is greater than mine. But look you now. This Judith I think shows more of her bosom than is seemly.
+#ABBESS.
+I will instruct you. By the laws on the serene Republic, a Venetian lady may show one - half of her bosom and no more, and there is no immodesty in the proceeding. This law the lady Judith obeys.
+#ABBE FILOSI.
+I do not dissent from your wisdom, nor from the law of Venice. Still, it seems to me there would be more propriety in it if we were to have a collarette of tissue pinned about her - the eyes of all the novices, remember -
+#ABBESS.
+I remember also our guests, many of them ladies of the first houses, who would certainly take it amiss, and as a reflection upon themselves -
+#ABBE FILOSI.
+I wish with all my heart, Reverendissima, you had excused me.
+#ABBESS.
+I will ask the Sisters Grimana Emo and Rosalba Foscarini to examine the puppets. Their learning in theology may not be profound, but they know the world's judgment, coming as they do of the first families.
+#ABBE FILOSI.
+I shall be at your service, Reverendissima.
+#ABBESS.
+I thank you enough for the poem. Farewell.
+#GRIMANA.
+You have sent for us, Mother?
+#ABBESS.
+In the matter of the Shrove Tuesday play - yes. The puppets will be brought in advance, as usual. These few the show - man has already left.
+#GRIMANA.
+You wish them to be looked over, as usual?
+#ABBESS.
+Not quite as usual. This year they are to appear in a play or poem which the Father Confessor has written for us - dealing with the story of Judith. Now the good Abbe, though a man of great learning and a graceful poet withal, has not the advantage of family that some of our sisters -
+#GRIMANA.
+And some of our guests -
+#ROSALBA.
+I remember once, at a fête in the gardens of my uncle, the Doge -
+#ABBESS.
+I need instruct you no further. I do not wish anything ungodly or unfit to appear; nor do I wish anything in the play to suggest that there is any impropriety in the illustrious audience.
+#GRIMANA.
+I understand, Mother. It is chiefly a question of the dressing of the ladies.
+#ABBESS.
+Precisely. I shall leave it in your charge. Remembering, Sister Grimana, the laws of Venice and the customs of the house of your father, the most illustrious Admiral, and you Sister Rosalba, the fêtes in the gardens of your uncle, the Doge - surely it will be properly cared for.
+#GRIMANA.
+All this because we have been given a bourgeois Confessor -
+#ROSALBA.
+No matter for that, Sister. I love puppets. We had once a puppet festival, when they played the whole history of the Serene Republic, and there were great ships with puppet sailors -
+#BENVENUTA.
+Oh, the joy! Are these for the Shrove Tuesday play? If only we could show them to - Sister Rosalba, can you make them dance?
+#GRIMANA.
+Dance, forsooth - to what music, sister?
+#ROSALBA.
+You might sing for them, Sister.
+#GRIMANA.
+Aye, so I might. - Time was when I knew tunes enough.
+#BENVENUTA.
+There is a lute in the cloister - left from the musical mass. And my cousin Atalanta can play it - I should like to hear some music here. I'll fetch her.
+#GRIMANA.
+What personages have we here? This lady for Judith?
+#ROSALBA.
+That can scarcely be, Judith was black haired.
+#GRIMANA.
+Nothing of the sort. She had hair of a dark red - a smoldering color.
+#ROSALBA.
+Was she not of the tribe? -
+#GRIMANA.
+What matters the tribe? In her picture by Titian, in the great hall of my father's house -
+#ROSALBA.
+We had a Judith also - by Jacopo Bellini. He was Titian's master. Her hair was black.
+#GRIMANA.
+You may be right. In our picture by Titian, now I remember it, the head was so covered with a wonderful jeweled crown that we could see little of the hair.
+#GRIMANA.
+Here's a personage of terror. Saint Mark preserve us! You are queerly pleased, Sister. It's not many that laugh at this figure.
+#ROSALBA.
+He's Beelzebubb Satanasso, Prince of all Devils.
+#BENVENUTA.
+I pray your pardon. I could not keep from laughing. I can never look at a devil without laughing. He seems so anxious to understand, and so important with the responsibility of being Prince of all Devils.
+#ROSALBA.
+You may laugh if you like, but you should remember how ready he is to slip away with the unwary souls of people who laugh at him. How he is always in wait, by day and by night, for a wavering thought or a rift in one's faith -
+#GRIMANA.
+See here the pouch he carries to put your soul in. Truly, Sister, he might pluck you off like a cherry.
+#ATALANTA.
+Dear Sister Grimana - I beg of you -
+#GRIMANA.
+And he comes at the call of the secret thought - that's what makes him look so anxious - lest he should not be listening when you call him, and the Saints come to your soul first, and warn it -
+#ATALANTA.
+Sister Grimana!
+#BENVENUTA.
+Still, I can never look at him without laughing. He is droll. Atalanta, the lute. I saw the show - man. He was a most ill - favored man. Sister Rosalba, do you think he was excommunicate.
+#ROSALBA.
+Of course not. And if he were, that would not make his puppets excommunicate.
+#GRIMANA.
+What if it did? A noble convent has privileges. It would not matter to us.
+#ATALANTA.
+What shall I play?
+#GRIMANA.
+Can you play? : Go visto una colomba el cielo andare Che la svolava su per un giardino In mezzo 'l peto la gavea do ale E in boca la tegniva un zenzamino!
+#ATALANTA.
+I do not know the air. But I can play a furlana.
+#BENVENUTA.
+That will be gay, Atalanta. Play a furlana, I beg you.
+#GRIMANA.
+That will serve, Sister Rosalba, your prince.
+#ABBESS.
+Sisters, is this the solemn judgment I bespoke on these trinkets? Sister Grimana! Sister Rosalba! I will consider this, and will give out the penances in chapter.
+#GRIMANA.
+Yes, Mother.
+#ABBESS.
+There has been too much playing of lutes, too much worldly anticipation and imagining among us. So I have decided that all the holy relics shall be re - furbished, and all the vestments mended and cleaned, against Shrove Tuesday. And all other work, whether of embroidery or of whatever nature, shall wait till this be done. Sister Sacristan, let the tasks be set at once. Well, little Sister?
+#BENVENUTA.
+Holy Mother, I am waiting for my penance.
+#ABBESS.
+Your penance, Benvenuta?
+#BENVENUTA.
+The fault was mine. I brought Atalanta with her lute. I was to blame for it all. I am heedless, and unworthy, and stained with worldliness, Mother.
+#ABBESS.
+There, there, my child. I will overlook it. Come here, little Sister. Why should you weep? I have said I will overlook it.
+#BENVENUTA.
+I weep because I am unworthy to be penanced. I am nothing.
+#ABBESS.
+You are nothing? Is not this the very essence of humility? Little Sister, when I forgave you your fault, did you doubt my wisdom?
+#BENVENUTA.
+Yes, holy Mother. Oh, I have sinned in vain glory. I doubted. But I did not mean to doubt.
+#ABBESS.
+Come hither, little Sister. If I must set you a penance, what would you have it be?
+#BENVENUTA.
+I would have it ... no....
+#ABBESS.
+Speak, Sister.
+#BENVENUTA.
+I would have you set me to the making of a coat for the Holy Bambino, as I asked of you before.
+#ABBESS.
+That would hardly be a penance. And, besides, you sew so badly.
+#BENVENUTA.
+Yes, Mother. I sew badly. And it would not really be a penance.
+#ABBESS.
+I will speak of this another time. Another time, little Sister. What have you there?
+#SISTER SACRISTAN.
+The fine lawn for the surplices for His Eminence.
+#ABBESS.
+That can wait. I do not think it wise to leave the workroom alone while the relics are being done over.
+#BENVENUTA.
+Dear little Great One, I see no way but this to keep my promise. I do not understand what the Holy Mother means. But I will do my penance when she determines it. I do sew very badly, dear little Great One, but I will make the stitches slowly, night by night in my cell, and every one of them, no matter how far askew, shall have all the love of my heart drawn tight in it. I have promised you a coat, little Great One, and I will surely keep my promise.
+#BENVENUTA.
+Have you brought it, dear?
+#ATALANTA.
+I've got the coat of the gardener's child, but I fear it is not what you wanted.
+#BENVENUTA.
+I'm sure it will serve. Why do you fear for it?
+#ATALANTA.
+Because it's the little girl's coat. The boy's I could not get, for he has but the one, and the nights are so cold.
+#BENVENUTA.
+So they are - and we wouldn't have the poor lad shivering. Perhaps the girl's will serve. Did you get the thread of gold?
+#ATALANTA.
+Yes, dear. You wouldn't be happier telling me all about it? Or letting me help you, perhaps?
+#BENVENUTA.
+What good were there in that? You sew as badly as I do, child.
+#ATALANTA.
+It's not kind of you to say so.
+#BENVENUTA.
+I'm sorry, Atalanta, dear. And it's most ungrateful of me - for you are helping me - helping me very much. And as for my telling you - it's a great secret, and you should be content to know as much as you do of it.
+#ATALANTA.
+I'm afraid I know too much of it now. I'm afraid I ought to be confessing what I know already.
+#BENVENUTA.
+Confessing it. Oh, no; Atalanta, dear -
+#ATALANTA.
+I'm afraid I ought - unless you tell me more.
+#BENVENUTA.
+Oh, I see. Now, listen, my child. This matter is one concerning my devotions - a private matter surely, and needing no confessions from you.
+#ATALANTA.
+Then why these secret messages, and the gold thread, and the gardener's child's coat to be got by stealth?
+#BENVENUTA.
+For what I am doing, I would call for help from you - or from any one - from the Evil One himself, if it would serve. But it is surely no sin - though it might get you into trouble to help me with it, Atalanta, dear.
+#ATALANTA.
+Prt! That's not what I mind.
+#BENVENUTA.
+You - you love me enough to be troubled for my sake, a little, dear?
+#ATALANTA.
+I would flout the Mother Abbess to her face for you, Benvenuta. It's that you try to keep me in the dark that I mind about it. I'm going.
+#BENVENUTA.
+I promised it, dear little Great One, and I would give my soul to keep my promise, but I fear me it will never comfort you. I would give my soul.
+#BEELZEBUBB.
+Sister Benvenuta, did I hear you call for me, or wish for me to come?
+#BENVENUTA.
+Yes, I called you.
+#BEELZEBUBB.
+You wished me to help you?
+#BENVENUTA.
+Yes.
+#BEELZEBUBB.
+You know who I am.
+#BENVENUTA.
+I know. You are Beelzebubb Satanasso, Prince of all Devils.
+#BEELZEBUBB.
+You have made a promise, and you cannot keep it, so you call for help. I come, for I am always ready. Now tell me precisely what it is you want.
+#BENVENUTA.
+I have promised a coat to the little Child -
+#BEELZEBUBB.
+That will do. It were better not to speak the name. What sort of a coat do you wish?
+#BENVENUTA.
+May I have just what I like?
+#BEELZEBUBB.
+Certainly you may, my dear - if you are ready to pay for it.
+#BENVENUTA.
+I am ready. And I should like a little coat like the one on the second of the Magi in the Adoration by Bellini that is over the altar in our chapel at home - in the house of the Duke Loredano.
+#BEELZEBUBB.
+Let me understand exactly. The coat is to be like the coat on the second figure to the left from the center of the picture?
+#BENVENUTA.
+Yes - no, there's a Saint Joseph also at the back. He would be the third - from the Holy -
+#BEELZEBUBB.
+I pray you, keep the names of these people out of it.
+#BENVENUTA.
+These people!
+#BEELZEBUBB.
+And let your hand fall. You were about to make - to make some sort of sign with it. These practices are very distasteful to me. I cannot help you - or even stay for an interview - if you persist in them.
+#BENVENUTA.
+I beg your forgiveness. I had no intention -
+#BEELZEBUBB.
+I believe that - it is merely a habit you have learned - but it is distasteful to me.
+#BENVENUTA.
+I will not offend you again.
+#BEELZEBUBB.
+Now to business. You wish of me a coat, a rich coat like that on the third figure from the center of the picture that is in your father's chapel at Venice. And the size -
+#BENVENUTA.
+To fit the little Child -
+#BEELZEBUBB.
+I beg of you! I understand. The coat is of what color?
+#BENVENUTA.
+It is the coat of the second of the Magi - It is of carmine silk damask with gold thread, and the inner vest is of white lawn. I wish it precisely like the picture, since you promise so much.
+#BEELZEBUBB.
+It shall be so. I will undertake to bring you the coat. And in exchange I ask only that you sign your name here. I regret that ink will not do. You must prick one of your fingers. I am very sorry, but there is no other way.
+#BENVENUTA.
+Prick my finger? Once?
+#BEELZEBUBB.
+Only once, to secure the drop of blood. I am sorry to ask it, but -
+#BENVENUTA.
+As though it never happened to me before!
+#BEELZEBUBB.
+You will sign here.
+#BENVENUTA.
+And what does it say? I should be loath to sign anything unworthy of my family, or of this noble convent -
+#BEELZEBUBB.
+There is nothing novel about it - the form is quite usual, and has been signed, I assure you, by many of the highest families in Venice. It merely binds me at once to furnish you the rich coat, and you to give me your little flame of a soul - when I come for it. That is all.
+#BENVENUTA.
+Give me the pen.
+#BEELZEBUBB.
+My dear young lady - my dear little sister.
+#ABBESS.
+All are to be present. None are to be indulged. I beg you, so inform the sisters. And the novices are all to be in their places. I know the hour is late for them, and many are young, but this is an exceptional night. Stay. - The novice Atalanta Badoer - I shall require her apart from the others. She will be needed with her lute.
+#GRIMANA.
+I will look to it, Reverend Mother.
+#ABBESS.
+Now in the matter of the relics and vestments?
+#SISTER SACRISTAN.
+The relics are all re - furbished and repacked in new cotton - wool, Reverend Mother.
+#ABBESS.
+And the vestments?
+#SISTER SACRISTAN.
+The vestments are all in order -
+#ABBESS.
+Go on.
+#SISTER SACRISTAN.
+I must report, as a matter of duty, Reverend Mother, that certain goods - a piece of fine lawn - cannot be found. It was laid out here to be used for the new surplice for His Eminence.
+#ABBESS.
+I do not like this. Tell me what you know of it.
+#SISTER SACRISTAN.
+This is all I know. Except that when I returned here, the door to the Sacristy Closet was open -
+#ABBESS.
+Who was here at the time?
+#SISTER SACRISTAN.
+Sister Benvenuta was left here. When I returned she was gone, and the closet was open, and the lawn -
+#GRIMANA.
+I beg you, Reverend Mother -
+#ABBESS.
+Sister Grimana, I have given you your task. Be about it. Sister, remember that the Sister Benvenuta comes of the noble house of the Loredani. Guard your tongue. If she has removed the cloth to some other place, it does not matter. Remember who she is, and that she is after all a child in mind, in heart. We will speak no more of this.
+#SISTER SACRISTAN.
+No, Reverend Mother.
+#ABBESS.
+Send Sister Rosalba to me.
+#SISTER SACRISTAN.
+She is coming now, Reverend Mother.
+#ABBESS.
+I wish to speak with Benvenuta, Sister.
+#ROSALBA.
+I will fetch her, Reverend Mother.
+#ABBESS.
+One moment. You have observed her of late?
+#ROSALBA.
+Yes, Mother.
+#ABBESS.
+She seems pale, and not so strong as she was. And her mind - but then she was always a simple child.
+#ROSALBA.
+Of course, I do not know the cause of her pallor. Perhaps a penance she is undergoing secretly. She is still very young, Reverend Mother.
+#ABBESS.
+She has confided nothing to you, nor to Grimana?
+#ROSALBA.
+Not to me, Mother. Shall I call Sister Grimana?
+#ABBESS.
+No. Send Benvenuta to me. And ask Grimana to send the novice Atalanta also - a little later.
+#ABBESS.
+My child, I have called you to me because you have seemed so pale, and I fear you have burdened yourself beyond your strength.
+#BENVENUTA.
+No, Reverend Mother. I am not burdened.
+#ABBESS.
+You are not performing any secret penance?
+#BENVENUTA.
+None, Mother.
+#ABBESS.
+Answer me truly, Benvenuta. You have not been contemplating some penance, and so been filled with anxiety.
+#BENVENUTA.
+I look for no penance in this life, Reverend Mother, beyond such as may be imposed upon me.
+#ABBESS.
+Nothing beyond your strength will be imposed. If you have need of more sleep, I would be willing to relax for you, for a time.
+#BENVENUTA.
+I do not need it, Reverend Mother.
+#ABBESS.
+If you should find yourself overburdened, little Sister, come to me. That will do. Atalanta, one moment. I shall need your help with the lute to - night. I know you play it well. The best lute player among the lay sisters is ill. You can play from notes?
+#ATALANTA.
+If it be not too difficult, Reverend Mother.
+#ABBESS.
+It is simple. But I will have them give you the music, against the time when you will be needed.
+#BENVENUTA.
+Atalanta, dear!
+#ATALANTA.
+Yes, Benvenuta.
+#BENVENUTA.
+There is something I must talk to you about. I have put it off because I have been deep in my own thoughts. You told me not so long ago that you could not find your call, that the world still beckoned you.
+#ATALANTA.
+Yes, it did. But I have been calmer since we spoke of it. There was a thing in my heart that had to be spoken out -
+#BENVENUTA.
+Yes.
+#ATALANTA.
+I spoke it out to you, and since then it has not troubled me.
+#BENVENUTA.
+It was about the vinedresser's baby in your father's garden?
+#ATALANTA.
+Yes.
+#BENVENUTA.
+You told me about it here - in this room, was it not?
+#ATALANTA.
+Yes. Surely it was here. How strangely you speak, Benvenuta. Have you forgotten? It was after that you asked me to get the gold thread, and the child's coat.
+#BENVENUTA.
+So I did. I had almost forgotten it.
+#ATALANTA.
+It was a great comfort to me to tell you, Sister - and to serve you. Why have you asked nothing more of me?
+#BENVENUTA.
+I have all the help I need, now. The vinedresser's baby - did you ever hold him in your arms?
+#ATALANTA.
+No.
+#BENVENUTA.
+Nor ever felt his lips soft and moist against your cheek, nor his fingers warm on your neck?
+#ATALANTA.
+No. I only saw the child, as I told you.
+#BENVENUTA.
+I remember now. You only saw him. Atalanta, dear, do you know that we can only be happy by pleasing those we love most - that is what people live for, I think. And dear, remember this: the happiness you saw on the face of the vinedresser's wife was as torment beside the joy that is glowing in me. Don't, dear - don't think it too strange. Everything is strange, after all.
+#ATALANTA.
+Your face was like hers, then.
+#BENVENUTA.
+Please don't say that, dear. It's - it's foolish - isn't it? But I told you once I was waiting for something - all my life waiting. And now - and now!
+#GRIMANA.
+Well, mistress. Prideful over not sitting with the novices this night, eh? The lute - playing comes in well at last, does it?
+#ATALANTA.
+Oh, Sister Grimana, I -
+#GRIMANA.
+What is it, child?
+#ATALANTA.
+It's Benvenuta. Have you seen her? Have you? -
+#GRIMANA.
+Yes, dear, I've seen. She's young. These times come to all of us, I suppose. But they pass. Calm, child. Count your buttons.
+#ATALANTA.
+I was frightened, Sister Grimana.
+#GRIMANA.
+Aye, you'll frighten the novices just so in your turn. But just the same, I wish she wouldn't -
+#ABBESS.
+It is time. Let us all proceed to the chapel. Are all the sisters assembled?
+#SISTER SACRISTAN.
+All save those who are here, and Sister Benvenuta.
+#ABBESS.
+Please you, Sister Grimana, go for Benvenuta.
+#SISTER SACRISTAN.
+Here is the lute, Atalanta Badoer. The notes are clear, and the times you are to play them are written there.
+#ATALANTA.
+My hands tremble so. I'm afraid I shall fail in it.
+#ABBESS.
+Courage, child. I know it is the first time, but you will do well - I am sure you will do well. Come, let us take our places.
+#GRIMANA.
+Reverend Mother, forgive me. I have seen - I have seen -
+#ABBESS.
+What was it, Grimana?
+#GRIMANA.
+I scarcely know, Mother. Mary be my shield!
+#ABBESS.
+Speak, Sister.
+#GRIMANA.
+There was a great light through every crevice of the door of her cell. And music in the air - like harps and viols d'amour. And on the floor outside I found this - shattered and half burnt - this puppet. And from within, sounds -
+#ABBESS.
+Tell me all, Sister.
+#GRIMANA.
+Sounds as of a mother and her babe, cooing and kissing and caressing each other.
+#ABBESS.
+Call the Father Confessor. We must look to this. If her mind have broken under some penance -
+#ATALANTA.
+Let me go -
+#ABBESS.
+No. She was so pale - Reverend Father, the little sister of the house of Loredan -
+#ABBE FILOSI.
+A miracle!
+#ABBESS.
+She is healed! A miracle of the Holy Child. Blessed Mother - thy Holy Child in our house.
+#ABBE FILOSI.
+Let there be a special service of thanksgiving.
+#ABBESS.
+Let all hearts be uplifted!

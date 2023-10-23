@@ -1,0 +1,392 @@
+#LOGAN.
+Good mornin'.
+#DRISCOLL.
+Good mornin' and good luck. What can I do for you?
+#LOGAN.
+I'll have a glass of the best whiskey.
+#DRISCOLL.
+All right, my good man. You shall get it.
+#LOGAN.
+Be the pipers that played the dead march for Moses, but I'm twice as big a fool as I thought I was. And knowledge of that sort is cold comfort for any man. What's this I see here? "Daring burglary in the town of Castlemorgan. During the early hours of the morning, the house of Michael Cassily was broken into, and five pound notes, a gentleman's watch and a pair of silver candlesticks were stolen. So far, no arrests have been made, but the police have every hope of bringing those who committed the offence to justice, because Mr. Cassily states that he saw two men leaving by the back entrance, and found a piece of a coat - tail hanging from a nail on the porch."
+#DRISCOLL.
+This is your drink, stranger, and believe me, you couldn't get a better drop of whiskey in the whole United Kingdom, not even if you went to the King's palace itself for it.
+#LOGAN.
+'Tis good, you say.
+#DRISCOLL.
+None better, and wonderful stuff to put heart into a man.
+#LOGAN.
+'Tis the good flavor it has surely. I think I'll have another, for 'tis plenty of heart I'll be wantin' before the day goes to its close.
+#DRISCOLL.
+'Tis easy to feel plucky in the mornin', but 'tis a brave man who can feel happy at the heel of day, especially if he has an uneasy conscience and an empty stomach.
+#LOGAN.
+Hunger plays the devil with us all. A man with an empty stomach, an empty purse, and an empty house, except for a scoldin' wife, can never be happy.
+#DRISCOLL.
+That's so, but if that's all you have to contend with, you haven't much to worry about. Sure I thought by your looks and the way you spoke that you might have killed a man and had the bloodhounds after you. man's conscience is worse than having bloodhounds after him, if he has to spend months in idleness through no fault of his own, and no one to look for sympathy from but a scoldin' wife.
+#DRISCOLL.
+The Lord protect us from scoldin' wives, anyway. They're the scourge of Hell. But there are worse things than being married to a wife with no control over her temper. You might be like the thief who broke into the house of Michael Cassily and stole his grandfather's watch and chain and silver candlestick.
+#LOGAN.
+And when did all this happen?
+#DRISCOLL.
+During the small hours of the mornin'.
+#LOGAN.
+That was a damnable thing to do.
+#DRISCOLL.
+'Twas more foolish than anythin' else, because, if Michael Cassily should ever lay hands upon the man who stole his belongings, he'd shoot at him the way you'd shoot at a rabbit in a ditch and kill him as dead as one of Egypt's kings.
+#LOGAN.
+The Lord save us! You don't mean what you say.
+#DRISCOLL.
+I do, and every word of it. And a sure shot he is too. Indeed 'tis said that nothing in the sky or on the land could escape him when he has a gun in his hand.
+#LOGAN.
+I heard before comin' to this town that he was a very quiet and inoffensive man.
+#DRISCOLL.
+And so he is a quiet man when he's left alone. But when his temper is up, the devil himself is a gentleman to him.
+#LOGAN.
+I'll have another glass of whiskey.
+#BARNARD FALVEY.
+Good mornin', and God bless you, stranger.
+#LOGAN.
+Good mornin', kindly.
+#BARNARD FALVEY.
+It looks as though we were goin' to have a spell of fine weather.
+#LOGAN.
+Judgin' by the way the wind is, it would seem so.
+#BARNARD FALVEY.
+'Tis splendid weather for walkin' or tillin' the land.
+#LOGAN.
+'Tis good weather for anythin'.
+#BARNARD FALVEY.
+All the same, 'tis a long stretch of a road from here to Ballinore. How far is it, I wonder?
+#LOGAN.
+Twenty miles at least.
+#BARNARD FALVEY.
+Every step of it, and a long road for a man with the rheumatics and bronchitis too.
+#LOGAN.
+And what brought you from Ballinore?
+#BARNARD FALVEY.
+And what would bring any poor man from his native town but lookin' for work. And that's a hard thing to be doin' when a man hasn't a friend to help him towards a job. man can always make friends if he wants to.
+#BARNARD FALVEY.
+'Tis no easy thing for a man who hasn't a sleutherin' tongue and the takin' way with him to make friends, stranger.
+#LOGAN.
+'Tis easy enough to make fine weather friends. But I suppose a friend isn't worth a damn unless he can help a man when he's in trouble.
+#BARNARD FALVEY.
+To have a lot of money is the easiest way of makin' friends. But when a man hasn't either money or the sleutherin' tongue, he can't expect to have any more of the world's goods than myself.
+#LOGAN.
+And have you no friends at all among all the millions of people on the face of the earth?
+#BARNARD FALVEY.
+The devil a one ever bothers their head about me but myself. And what I can do for myself is hardly worth doin' for any one.
+#LOGAN.
+After all, when a man has his health and enough to eat, he should be contented.
+#BARNARD FALVEY.
+But how could you expect the likes of me to be contented when I didn't break my fast this blessed day yet, and all I have in the world is the bit of tobacco you see in my old pipe, and unless you're not as dacent as you look, 'tis hungry maybe I'll be until I find a turnip field before the fall of night.
+#LOGAN.
+Would you drink a pint of porter and eat a penny bun?
+#BARNARD FALVEY.
+Indeed I would, and remember the one in my prayers who'd give them to me. Bring this man a pint of porter and give him one of the penny buns or two that you have on the porter barrel in the shop.
+#DRISCOLL.
+Indeed I will and much good may they do him.
+#BARNARD FALVEY.
+God bless your noble soul and may you be long spared to do good in the world. There's no sauce like hunger, and no friend like the friend in need.
+#LOGAN.
+That's true. Now tell me, do you expect to get work in this town?
+#BARNARD FALVEY.
+'Tis my intention to try.
+#LOGAN.
+You'd have as much chance of slippin' into heaven with your soul as black as a skillet from mortal sins, unknownst to St. Peter, as you'd have of gettin' a job with an old coat like that.
+#BARNARD FALVEY.
+And what can I do, God help me, when I have no other?
+#LOGAN.
+I'll swap with you, and then you'll have some chance, but otherwise you might as well walk back to where you came from.
+#BARNARD FALVEY.
+But I couldn't take a coat from a strange gentleman like yourself and have an easy conscience. Sure, this old coat of mine is only fit to be used for a scarecrow.
+#LOGAN.
+You're a fool to be talkin' like that, stranger. Don't you know that you must take all you can get and give away as little as you can if you want to be successful in life?
+#BARNARD FALVEY.
+And why, then, should you be givin' me your coat when you want it yourself?
+#LOGAN.
+You had better say no more, lest I might change my mind. Sure, 'tis sorry I may be to - night when I'm facing the cold winds on the lonely roads that I exchanged my fine warm coat for an old threadbare garment that a rag man wouldn't give a child a lump of candy for.
+#BARNARD FALVEY.
+Sure, St. Francis himself couldn't do more, and he that tore his coat in two and shared it with the beggars.
+#LOGAN.
+'Tis easy for a saint of God to be good, when he feels that he'll be rewarded for his self - sacrifice, but have no more old talk and give me that old coat of yours, or if you don't I might change my mind, and then you'll have plenty of time to regret your foolishness.
+#BARNARD FALVEY.
+Very well, stranger, very well. May the Lord spare you all the days you want to live, and may you never want for anythin' but the ill wishes of your enemies.
+#LOGAN.
+That coat makes you look like a gentleman, and if you only had a better hat, and a good shave, you might get some old widow with a small farm to marry you, if you are a bachelor.
+#BARNARD FALVEY.
+Of course I'm a bachelor. Who'd be bothered with the likes of me for a husband. Sure, I wouldn't raise my hand to a woman in a thousand years, and what do women care about a man unless he can earn lots of money and leather the devil out of them when they don't behave themselves?
+#LOGAN.
+That's true. And when a man hasn't any money to give his wife, the next best thing to do is to give her a good beatin'.
+#BARNARD FALVEY.
+That's what my father used to say. But 'tis the lucky thing for me all the same that I'm not married, an' that I strayed into a house like this to - day. Yet I don't think 'tis a bit fair for me to be wearin' your fine coat and you wearin' mine. You don't look a bit comfortable in it.
+#LOGAN.
+I feel comfortable, and far more comfortable than you can imagine; and after all that's what matters. Every eye forms its own beauty, and when the heart is young, it doesn't matter how old you are.
+#BARNARD FALVEY.
+That's true! That's true! But 'tis the dacent man you are, nevertheless, and 'tisn't the likes of you that a poor man like myself meets every day.
+#LOGAN.
+No, and it may be a long time again before you will meet another like me. But be that as it may, I must be going now, so here's a shillin' for you and go to the barber's next door and have a shave before startin' to look for work. Good - by.
+#BARNARD FALVEY.
+Good - by, God bless you and long life to you.
+#GARRET DEVLIN.
+Only half - past ten, and damn the bit to do. Ah, me! ah, me! One bloody day like another!
+#DRISCOLL.
+Good mornin', Garret. Anythin' new to - day?
+#GARRET DEVLIN.
+Yes, I have good news this mornin'.
+#DRISCOLL.
+An' what is it?
+#GARRET DEVLIN.
+Oh, not much, only that a grand - uncle of mine is after dyin' in America and leavin' me a fortune of a hundred thousand pounds.
+#DRISCOLL.
+That's a terrible responsibility for a poor man to have thrust upon him. What are you going to do with it at all?
+#GARRET DEVLIN.
+Well, I was thinkin' of buyin' a new suit of clothes and dividin' what's left between the poor of the town, the Sisters of Charity, and the Salvation Army.
+#DRISCOLL.
+Wisha, I'm sick and tired of hearin' old yarns like that. I suppose 'tis the way that you want a half a glass of whiskey and haven't the price of it.
+#GARRET DEVLIN.
+How dare you insinuate such a thing. Give me a half a whiskey and no more old talk out of you.
+#DRISCOLL.
+And where did you get all that money?
+#GARRET DEVLIN.
+That's my business. I got it from the captain in the Salvation Army when I told him how much money I was goin' to give him by and by.
+#DRISCOLL.
+Well, that's the first and last donation you'll ever get from the Salvation Army. Sure, if you got all the money that was to be left to you since I knew you first, you'd be buildin' libraries all over the world like Carnegie to advertise your vanity.
+#GARRET DEVLIN.
+'Tis nothin' to you whether I will build libraries or public houses for the poor when I'll get all the money that's comin' to me.
+#DRISCOLL.
+Ah, wisha, I'm about sick and tired of hearin' all the things you're going to do.
+#GARRET DEVLIN.
+I don't give a damn whether you are or not. Go and get me the whiskey, or I'll get it elsewhere.
+#DRISCOLL.
+Very well, very well! I'll get you the whiskey.
+#GARRET DEVLIN.
+Good mornin', stranger.
+#BARNARD FALVEY.
+Good mornin' and good luck, sir.
+#GARRET DEVLIN.
+'Tis a fine mornin'. glorious mornin', thank God.
+#GARRET DEVLIN.
+Is that your breakfast that you're eatin'?
+#BARNARD FALVEY.
+Indeed it is, stranger, and maybe my dinner and supper too.
+#GARRET DEVLIN.
+'Tis the hell of a thing to be poor.
+#BARNARD FALVEY.
+Sure 'tis myself that knows it.
+#GARRET DEVLIN.
+And 'tis as bad to be rich and not to be able to get any of your money like myself.
+#BARNARD FALVEY.
+There's trouble in everythin', but no respect for the poor.
+#GARRET DEVLIN.
+None whatever! none whatever! And no greater misfortune could befall a man than to be poor and honest at the same time. But all the same I'll be a millionaire when my money comes from America.
+#BARNARD FALVEY.
+America must be a great country. One man is as good as another there, I believe.
+#GARRET DEVLIN.
+So they say, when both of them have nothin'. Tell me, haven't I seen you somewhere before? What's that your name is?
+#BARNARD FALVEY.
+My name is Bernard Falvey, and I come from Ballinore.
+#GARRET DEVLIN.
+Well, well, to be sure, and I'm Garret Devlin, your mother's first cousin! Who'd ever think of meetin' you here. The world is a small place after all!
+#BARNARD FALVEY.
+It must be fifteen or more years since last we met.
+#GARRET DEVLIN.
+Every day of it. And what have you been doing since? I'd hardly know you at all, the way you have changed.
+#BARNARD FALVEY.
+Workin' when I wasn't idle and idle when I wasn't workin', but in trouble all the time.
+#GARRET DEVLIN.
+You're like myself. I too only exchange one kind of trouble for another. When I got married I had to live with the wife's mother for two years, and when she died, I had to support my widowed sister - in - law's three children. And when they were rared and fit to be earnin' for themselves and be a help to me, they got drowned. Then my poor wife lost her senses, and I haven't had peace or ease ever since. She thinks that she is the Queen of England, and that I'm the King.
+#FALVEY.
+An' have you no children?
+#GARRET DEVLIN.
+One boy.
+#BARNARD FALVEY.
+An' what does he do for a livin'?
+#GARRET DEVLIN.
+He's a private in the militia, and his mother thinks he's the Prince of Wales.
+#BARNARD FALVEY.
+God help us all, but 'tis the queer things that happen to the poor.
+#GARRET DEVLIN.
+An' what are you doin' in these parts?
+#BARNARD FALVEY.
+Lookin' for work.
+#GARRET DEVLIN.
+An' that itself is the worst kind of hardship. I don't think that there's much doin' these times for the natives, not to mention the strangers, though 'tis the strangers get the pickings wherever they go. We'll have a look at the newspaper and see what's doin' anyway. "Wanted a respectable man, to act as a coachman to His Lordship the Bishop. He must have a good appearance, have sober habits, and a knowledge of horses and the ways of the clergy." That won't do. "Wanted, a young man of dashing appearance, with a good vocabulary to act as travelling salesman, must be well recommended, and have a thorough knowledge of the dry goods business." That won't do either. "Wanted, a middle - aged man to act as companion to an invalid. He must have a knowledge of French and German, and be able to play the violin." That won't do. "Wanted a man to make himself generally useful at an undertaker's establishment. Apply to Michael Cassily. William O'Brien St." Bedad, but that's the very job for you.
+#BARNARD FALVEY.
+But how am I to get it?
+#GARRET DEVLIN.
+I'll give you a letter of introduction to Micky Cassily. He's an old friend of mine.
+#BARNARD FALVEY.
+Sure, that would be a great thing entirely.
+#GARRET DEVLIN.
+Wait now, and I'll make a man of you, and if you should ever become Lord Mayor of Cork or Dublin, you must not forget me.
+#BARNARD FALVEY.
+Indeed, I'll never be able to forget this blessed day, and the kindness of the people I have met in Castlemorgan.
+#DRISCOLL.
+What's the matter?
+#GARRET DEVLIN.
+I want you to oblige me with a few sheets of note paper, a bottle of ink, and a writin' pen.
+#DRISCOLL.
+And what do you want them for?
+#GARRET DEVLIN.
+To write a letter of introduction for this poor man here. He's lookin' for work, and I want to help him to get it.
+#DRISCOLL.
+Then I'll give them to you with pleasure.
+#GARRET DEVLIN.
+You needn't worry any more. I'll get a job for you. Micky and myself are old friends. He buried my father and mother and all belongin' to me. And although I do say it myself, there isn't a better undertaker from here to Dublin. He's as good a judge of a dead man as any one you ever met, and could measure the size of a coffin without using the tape at all.
+#DRISCOLL.
+Here's the writing material, and may good luck attend you.
+#GARRET DEVLIN.
+Thank you, very much. Now to business.
+#BARNARD FALVEY.
+i - n - t - e - r - w - e - i - n -
+#GARRET DEVLIN.
+No. That's not right. We had better call Bill Driscoll. Are you there, Bill?
+#DRISCOLL.
+What's the matter?
+#GARRET DEVLIN.
+We want you to spell "introducing."
+#DRISCOLL.
+With pleasure. i - n - t - u - r - d - e - w - c - i - n - g.
+#GARRET DEVLIN.
+Are you sure that is right?
+#DRISCOLL.
+Of course I am. What do you think I went to school for?
+#GARRET DEVLIN.
+Very well, I'll take your word for it. But stay here awhile, because we may want your assistance soon again. This is an important matter, and we must give all our attention to it. I have the honor and likewise the unprecedented and the great pleasure of introducing to you a cousin of my own on my mother's side, one Barney Falvey. He is a man of many and n - e - w - m - e - r - o - w - s. Isn't that right?
+#DRISCOLL.
+That's all right. Proceed.
+#GARRET DEVLIN.
+- numerous a - c - o - m - p - l - i - s - h - m - e - n - t - s. That sounds wrong, doesn't it?
+#DRISCOLL.
+It sounds wrong, but let it go. No one will ever notice the mistake, when we can't find it out ourselves.
+#GARRET DEVLIN.
+He has an i - n - g - a - n - o - s turn of mind, and can do all kinds of hard or easy work. He can p - l - o - w a field, milk a cow, mind childer, and make nearly every thing from a bird cage, a mousetrap, or a snuff box, to a coffin. He is w - i - l - i - n, o - b - l - i - g - i - n, and can put up with all kinds of abuse. He can look i - n - o - s - c - e - n - t or guilty, as the occasion may require and will, I'm sure, and certain, taking his accomplishments all round, prove to be the very man you are lookin' for to fill the v - a - k - a - n - c - y in your highly respected e - s - t - a - b - 1 - i - shment. Anythin' you can do for him will be considered a personal f - a - v - o - u - r by your old and e - s - t - e - a - m - ed friend, Garret Devlin. "Deadwoman's Hill, Goulnaspurra. "Dear Mr. Cassily: "I have the honour and likewise the unprecedented and great pleasure of introducin' to you a cousin of my own on my mother's side, one Barney Falvey. He is a man of many parts and numerous accomplishments. He has an ingenious turn of mind and can do all kinds of hard and easy work. He can plow a field, milk a cow, mind childer, and make nearly everythin' from a bird cage, a mousetrap, or a snuff box, to a coffin. He is willin' and obligin' and can put up with all kinds of abuse. He can look innocent or guilty as the occasion may require, and will, I am certain and confident, taking his accomplishments all round, prove to be the very man you are lookin' for to fill the vacancy in your highly respected establishment. Anythin' that you can do for him will be considered a personal favour by your old and esteemed friend, "Garret Devlin." That's a great letter. Be God, sure 'twould nearly get the job for myself. But it would never do for one of my social standin' to take such a position in this town.
+#BARNARD FALVEY.
+'Tis a great thing to be able to put so many words together on paper. And 'tis the wonderful gift to have surely. A man that could write like you should be a secretary to the Lord Lieutenant himself, or writin' sermons for the Pope of Rome.
+#GARRET DEVLIN.
+Now, no more old palaver, talk is cheap, but it takes money to buy whiskey. Look as smart as you can , and deliver this letter before it's too late. There's nothin' like doin' things with despatch when you're in a hurry. Wait, your face is none too clean. Where's your handkerchief? Glory be to God! but you're a very careless man! When did you clean these boots last?
+#BARNARD FALVEY.
+Wisha, who could keep boots clean upon the dirty roads.
+#GARRET DEVLIN.
+That's better. Now take off that old tie, and I'll give you mine. But you must return it to me when you get the job. It belonged to my grandfather, and it always brought luck to the family.
+#GARRET DEVLIN.
+That may be, but your beauty isn't of the fatal kind. Good luck now, and I'll wait here until you'll return.
+#BARNARD FALVEY.
+God bless you, God bless you, I'll be back as soon as I can.
+#GARRET DEVLIN.
+Another half one. That letter took a lot out of me.
+#DRISCOLL.
+Literature, they say, is always a great strain on a man's vitality. I was offered a job as proof reader on a newspaper one time, but my friends advised me not to take it.
+#GARRET DEVLIN.
+Your friends were wise. Stayin' up at night is bad for any man. 'Tis hard enough to be up in the mornin' without bein' up at night as well. That's true.
+#BARRY NAGLE.
+Good mornin', stranger.
+#GARRET DEVLIN.
+Good mornin'.
+#BARRY NAGLE.
+'Tis a fine day for this time of year.
+#GARRET DEVLIN.
+This would be a fine day for any part of the year.
+#BARRY NAGLE.
+Fine weather is the least of the good things that the poor is entitled to.
+#GARRET DEVLIN.
+The poor have their wants, of course, but the rich, bad luck and misfortune to them one and all, have their troubles also, because they don't know what they want, the discontented, lazy, good - for - nothin' varmints. May they all perish be their own folly before the world or their money comes to an end.
+#BARRY NAGLE.
+'Tis only the poor who knows how bad the rich are. And only the rich that can be hard on the poor. Have you a match, if you please?
+#GARRET DEVLIN.
+You'll find plenty in that.
+#BARRY NAGLE.
+All the comfort some of us have in this world is a smoke, that's when we have the tobacco, of course.
+#GARRET DEVLIN.
+There'll be smokin' enough in the next world, they say, but that's cold comfort to a man without the fillin's of a pipe or a match to light it.
+#BARRY NAGLE.
+'Tis a great misfortune to be born at all.
+#GARRET DEVLIN.
+That's what I've often been thinkin'. And many's the time I've cursed the day that my father met my mother. 'Twould be better for us all in spite of what the clergy say that we were all Protestants, or else died before we came to the use of reason. But things might be worse.
+#BARRY NAGLE.
+Trouble comes to us all, and 'tis a consolation to know that the King must die as well as the beggar. Think of me, and I after losin' my return ticket to Carlow, and I must be there to - night even if I have to walk every step of the way.
+#GARRET DEVLIN.
+And haven't you the price of your ticket?
+#BARRY NAGLE.
+The devil a penny at all have I, and unless I can sell my watch to buy my ticket with, I'll lose my job, and then my wife and family must go to the workhouse.
+#GARRET DEVLIN.
+God himself seems to be no friend of the poor. That was a terrible calamity to befall a stranger. How much will your ticket cost?
+#BARRY NAGLE.
+Ten shillin's, and I'm willin' to part with my watch for that triflin' sum, though 'twas my poor father's, rest his soul. Look at it, 'tis as fine a timepiece as eyes ever rested on. A solid silver watch, and a chain of solid gold, and all for ten shillin's. And history enough attached to it to write a book.
+#GARRET DEVLIN.
+'Tis a bargain surely. man wearin' a watch and chain like that would get credit anywhere he'd be known, though 'twould be no use to a stranger.
+#GARRET DEVLIN.
+Leave me see how 'twould look on me. Bedad, but you're right. It does make a man feel good, and maybe better than he is. man walkin' into a friend's house with ornamentation on him like that would get the lend of anythin'.
+#GARRET DEVLIN.
+I believe he would.
+#BARRY NAGLE.
+Indeed you may say so.
+#GARRET DEVLIN.
+And you'll sell it for ten shillin's.
+#BARRY NAGLE.
+Yes, if you'll be quick about it, because I must catch the train and get home as soon as I can.
+#GARRET DEVLIN.
+Does it keep good time?
+#BARRY NAGLE.
+'Tis the best timekeeper that ever was.
+#GARRET DEVLIN.
+It has a good strong tick, anyway. I'll give you the ten shillin's for it. Here you are.
+#BARRY NAGLE.
+Thank you kindly, though it nearly breaks my heart to part with it.
+#GARRET DEVLIN.
+Life is made up of comin' and goin', and what we lose to - day we may gain to - morrow, and lose again the next day.
+#BARRY NAGLE.
+One man's loss is another man's profit, and that's how the world keeps movin'.
+#GARRET DEVLIN.
+True. And there's no use in being alive unless we can help each other. Sure 'tis for each other, and not by each other, that we should live.
+#BARRY NAGLE.
+'Pon my word, but to know how to live is the greatest problem of all.
+#GARRET DEVLIN.
+That's so. Sometimes 'tis foolish to be wise and other times 'tis wise to be foolish, but the sensible man will always look out for himself and let his friends look after his enemies.
+#BARRY NAGLE.
+Every word you say is true, but I must be goin' or I'll lose the train. So I'll bid you good - by and good luck.
+#GARRET DEVLIN.
+Good day and good luck to you also. The stranger was right. A man with a watch and chain like this, and able to tell every one the time of day, could get as much on his word as he'd want.
+#FIRST POLICEMAN.
+Is this the man who gave you the letter of introduction?
+#BARNARD FALVEY.
+That's the man who has brought all this trouble on me, but I'm as innocent as the babe unborn of the charge of burglary.
+#FIRST POLICEMAN.
+Hold your tongue, I say. What greater proof could we have than the torn coat which you're wearin'?
+#BARNARD FALVEY.
+I tell you that I got this coat from a stranger I met in this house, this mornin'.
+#FIRST POLICEMAN.
+And sure you're the one who can look innocent, believe me. But this won't be much good to you when you go before the magistrates. Now we'll deal with your partner. I must arrest you on suspicion for being an accomplice of this strange man here who broke into Mr. Michael Cassily's establishment last night, and stole five pound notes, two silver candlesticks and a silver watch and golden chain.
+#GARRET DEVLIN.
+Is it madness that has come upon the crowd of you? Me that never stole anythin' in my life, to be accused of robbin' from a dacent man like Michael Cassily!
+#SECOND POLICEMAN.
+Search him, constable.
+#FIRST POLICEMAN.
+Of course, I will. Is that yours?
+#CASSILY.
+Yes, constable, that's the watch and chain that was stolen from my house this mornin'.
+#FIRST POLICEMAN.
+What have you to say for yourself now?
+#GARRET DEVLIN.
+Nothin', only that I paid ten shillin's to a stranger less than half an hour ago.
+#FIRST POLICEMAN.
+And where did you get the ten shillin's, you that haven't had ten shillin's of your own altogether for ten years, but always borrowin' money and tellin' the people that you are goin' to inherit a fortune from America?
+#GARRET DEVLIN.
+Tis the truth I'm tellin' you.
+#FIRST POLICEMAN.
+Nonsense, nonsense. What greater proof could we have of your guilt? This man here who you gave the letter of introduction is a stranger to the town and the piece of cloth that Mr. Cassily found hangin' on a nail in his back porch after the burglary was committed, is the piece of cloth that is missin' from this man's coat. And we have found the identical watch and chain on your own person.
+#SECOND POLICEMAN.
+'Twas a clever scheme of the pair of them and no doubt about it.
+#CASSILY.
+I never thought that any one could add insult to injury in such a manner. I was always a friend to you, Garret Devlin, and you tried to get this man who had already robbed me, a position in my establishment so that he could rob me all the more.
+#BARNARD FALVEY.
+As sure as my great - grandfather is dead and gone, I tell you that I got this coat from a stranger in this very house.
+#GARRET DEVLIN.
+And as sure as the devil has paid a visit this blessed day to Castlemorgan, I tell you I bought that watch and chain from a stranger also. William Driscoll will prove that there were two such men in his house.
+#FIRST POLICEMAN.
+If William Driscoll says a word in your defence, he'll be arrested on suspicion also. What have you to say?
+#DRISCOLL.
+Not a word, constable, not a word. I know nothin' at all about the matter except readin' the account of the dreadful affair in the mornin' paper.
+#GARRET DEVLIN.
+What's goin' to happen to us at all, at all?
+#FIRST POLICEMAN.
+The judge will tell you that at the next assizes.

@@ -1,0 +1,646 @@
+#ASTERYI.
+Is Praskóvya Petróvna not at home?
+#VARVARA.
+She is not at home, Astéryi Ivanovitch. She has gone to Vespers at St. Pantaléimon's in the Marsh. It is the festival of the translation of St. Pantaléimon's relics. Will you not have your game of patience as usual?
+#ASTERYI.
+Without Praskóvya Petróvna?
+#VARVARA.
+She would be sorry if you missed your game because she was late. You can play again when she returns; she likes to watch you.
+#ASTERYI.
+Very well.
+#VARVARA.
+Shall I prepare the samovar?
+#ASTERYI.
+Not yet; I will wait. How greasy these cards are
+#VARVARA.
+No wonder, Astéryi Ivanovitch. It is two years since you bought this pack.
+#A VOICE.
+Varvára! Varvára! There is no water in my jug.
+#ASTERYI.
+There is one of the lodgers calling you.
+#VARVARA.
+It is the schoolmaster.
+#ASTERYI.
+Better not keep him waiting; he is an angry man.
+#VARVARA.
+I will go. Excuse me, please.
+#ASTERYI.
+Who's there? Come in, come in!
+#SPIRIT.
+Good - day, sir, good - day. May the holy saints preserve all in this house.
+#ASTERYI.
+Ah! it's you, Spiridón?
+#SPIRIT.
+Yes, sir. It is Spiridón the stonemason.
+#ASTERYI.
+What brings you here, Spiridón?
+#SPIRIT.
+Is Praskóvya Petróvna not at home?
+#ASTERYI.
+No, she has gone to Vespers at St. Pantaléimon's in the Marsh.
+#SPIRIT.
+The service is late to - night.
+#ASTERYI.
+Yes.... You are a hard man, Spiridón.
+#SPIRIT.
+Me, sir!
+#ASTERYI.
+And you lose money by your hardness. Praskóvya Petróvna is a poor woman. For years she has been saving up money to build a stone house over the grave of her son in the Tróitski Cemetery. You say that you will build it for 500 roubles, but you ask too much. By starving herself and pinching in every way she has saved up 400 roubles at last, and if you were a wise man you would accept it. For see, she is old; if she starve herself to save up another 100 roubles she will be dead before she has got it; her money will be sent back to her village or it will go into the pocket of some official, and you will not have the tomb - house to build at all.
+#SPIRIT.
+I have thought of all these things, Astéryi Ivanovitch, since you last spoke to me about it. And I said to myself: Astéryi Ivanovitch is perhaps right; it is not only Praskóvya Petróvna who is old; I myself am old also, and may die before she has saved up money enough. But it is very hard to work and be underpaid. Good Valdai stone is expensive and hard to cut, and workmen nowadays ask for unholy wages. Still, I said to myself, a tomb - house for her son - it is a God - fearing work: and I have resolved to make the sacrifice. I have come to tell her I will consent to build it for 400 roubles.
+#ASTERYI.
+You have done rightly. You are an honest man, and God and St. Nicholas will perhaps save your soul.
+#FOMA.
+Good - evening, Astéryi Ivanovitch. Is Praskóvya not at home?
+#ASTERYI.
+No, she is at Vespers.
+#FOMA.
+I come in and find my stove smoking. I wished to ask her permission to sit here awhile to escape a headache. Who is this? Ah, Spiridón. And by what miracle does Astéryi Ivanovitch hope that God and St. Nicholas will save your soul?
+#ASTERYI.
+He has consented to build Praskóvya Petróvna the tomb - house over Sasha's grave for 400 roubles instead of 500.
+#FOMA.
+That is good! She will be glad to hear the news, and shake hands on the bargain, and christen the earnest - money with vodka.
+#SPIRIT.
+The earnest - money? Ah no, sir, there can be no earnest - money. The whole sum of money must be paid at once. I am a poor man. I must pay the quarryman for the stone; my workmen cannot live on air.
+#ASTERYI.
+If she has the money she will pay you.
+#FOMA.
+Well, if there is to be no earnest - money, at least we will have the vodka. Vodka is always good.
+#ASTERYI.
+Sit down and wait till she returns. She will not be long.
+#SPIRIT.
+No, no; I will come again in an hour. I have to go to my brother - in - law two streets away. I will come again as I return.
+#ASTERYI.
+Why are they beating drums?
+#FOMA.
+It is a patrol passing.
+#SPIRIT.
+The soldiers are very watchful to - day.
+#FOMA.
+It is because the Empress comes this way to - morrow on her journey to Smolensk.
+#SPIRIT.
+They have arrested many suspicious people. All those who have no passports are being sent away to Siberia.
+#FOMA.
+Ah! poor creatures!
+#SPIRIT.
+Why should you say "poor creatures"? If they were honest men they would not be without passports. Good - evening.
+#FOMA.
+Wait till they have gone.
+#SPIRIT.
+We honest men have nothing to fear from them. Good - evening. I will return again in an hour.
+#FOMA.
+How glad Praskóvya will be.
+#ASTERYI.
+Say nothing of this to any one. We will keep it as a surprise.
+#FOMA.
+Varvára, my pretty child, fetch the bottle of vodka from my room.
+#VARVARA.
+Vodka in here? Praskóvya Petróvna will be angry.
+#FOMA.
+No, she will not be angry; she will be glad. Do you play patience here every night?
+#ASTERYI.
+Every night for more than twenty years.
+#FOMA.
+What is it called?
+#ASTERYI.
+It is called the Wolf!
+#FOMA.
+Does it ever come out?
+#ASTERYI.
+It has come out twice. The first time I found a purse in the street which somebody had lost. The second time the man above me at the office died, and I got his place.
+#FOMA.
+It brings good luck then?
+#ASTERYI.
+To me at least.
+#FOMA.
+How glad Praskóvya Petróvna will be!
+#VARVARA.
+Do you not want to drink tea?
+#FOMA.
+Very much, you rogue.
+#VARVARA.
+Then I will set the samovar for both of you in here.
+#ASTERYI.
+I did wrong in moving the seven.
+#FOMA.
+Put it back then.
+#ASTERYI.
+It is too late. Once it has been moved, it must not be put back.
+#PRASKOVYA.
+Hóspodi Bózhe moy!
+#VARVARA.
+Have you seen him again?
+#PRASKOVYA.
+I do not know. There seemed to be men standing everywhere in the shadows.... Good - evening, Fomá Ilyitch, good - evening, Astéryi Ivanovitch.
+#FOMA.
+I have been making myself at home; my stove smoked.
+#PRASKOVYA.
+Sit down, sit down! What ceremony! Why should you not be here? And vodka too? What is the vodka for?
+#ASTERYI.
+I will tell you when I have finished my patience.
+#PRASKOVYA.
+So you are playing already.
+#ASTERYI.
+If it comes out, the good luck that it brings shall be for you!
+#PRASKOVYA.
+For me? The knave goes on the queen.
+#FOMA.
+That is unfortunate.
+#VARVARA.
+You should not have moved the ten.
+#ASTERYI.
+That will be better.
+#PRASKOVYA.
+How brightly the eikon lamp burns before the portrait of my boy.
+#VARVARA.
+It does indeed.
+#PRASKOVYA.
+It is the new fire from the Candlemas taper.
+#FOMA.
+It is the new oil that makes it burn brightly.
+#PRASKOVYA.
+Nonsense! it is the new fire.
+#FOMA.
+Did ever one hear such stuff? She put out the lamp at Candlemas, and lighted it anew from the taper which she brought home from the midnight service, from the new fire struck by the priest with flint and steel; and now she thinks that is the reason why it burns so brightly.
+#VARVARA.
+Is that not so then, Astéryi Ivanovitch?
+#ASTERYI.
+Oh, Fomá Ilyitch is a chemist; he can tell you what fire is made of.
+#FOMA.
+So you have been all the way to St. Pantaléimon's in the Marsh? Oh, piety, thy name is Praskóvya Petróvna! Not a person can hold the most miserably little service in the remotest corner of the town but you smell it out and go to it.
+#VARVARA.
+It is a Christian deed, Fomá Ilyitch.
+#ASTERYI.
+Now I can get at the ace.
+#VARVARA.
+I must get your supper.
+#FOMA.
+And on All Souls' Day she brought home holy water in a bottle and sprinkled the rooms of all the lodgers. The schoolmaster was very angry. You spotted the cover of his Greek Lexicon. He says it is a pagan custom, come down to us from the ancient Scythians.
+#PRASKOVYA.
+I do not like to hear jokes about sacred things. One may provoke Heaven to anger.
+#ASTERYI.
+Now I get all this row off.
+#FOMA.
+You are always afraid of offending Heaven.
+#PRASKOVYA.
+Of course I am. Think what I have at stake. For you it is only a little thing. You have a life of your own on earth; I have none. I have been as good as dead for twenty years, and the only thing that I desire is to get safely to heaven to join my son who is there.
+#FOMA.
+We all wish to get to heaven.
+#PRASKOVYA.
+Not so much as I do. If I were in hell it is not the brimstone that would matter; it would be to know that I should not see my son.
+#ASTERYI.
+I believe it is coming out.
+#VARVARA.
+The six and the seven go. Saints preserve us! and the eight.
+#ASTERYI.
+No, not that one; leave that.
+#VARVARA.
+Where did it come from?
+#ASTERYI.
+From here.
+#PRASKOVYA.
+No, from there.
+#VARVARA.
+It was from here.
+#ASTERYI.
+It is all the same.
+#FOMA.
+It will go.
+#PRASKOVYA.
+And the knave from off this row.
+#VARVARA.
+The Wolf is going out!
+#PRASKOVYA.
+It is seven years since it went out.
+#FOMA.
+Seven years?
+#ASTERYI.
+It is out!
+#PRASKOVYA.
+It is done!
+#VARVARA.
+Hooray!
+#ASTERYI.
+Some great good fortune is going to happen.
+#VARVARA.
+What can it be?
+#PRASKOVYA.
+And what is the vodka for?
+#ASTERYI.
+The vodka?
+#PRASKOVYA.
+You promised to tell me when the patience was done.
+#ASTERYI.
+How much money have you saved up for the house on Sasha's tomb?
+#PRASKOVYA.
+Four hundred and six roubles and a few kopecks.
+#ASTERYI.
+And Spiridón asks for 500 roubles?
+#PRASKOVYA.
+Five hundred roubles.
+#ASTERYI.
+What if he should lower his price?
+#PRASKOVYA.
+He will not lower his price.
+#ASTERYI.
+What if he should say that he would take 450 roubles?
+#PRASKOVYA.
+Why, if I went without food for a year.... If one could but live without food!
+#ASTERYI.
+What if he should say that he would take 420 roubles?
+#PRASKOVYA.
+Astéryi Ivanovitch, you know the proverb - the elbow is near, but you cannot bite it. I am old and feeble. I want it now, now, now. Shall I outlive the bitter winter? A shelter to sit in and talk to my son. A monument worthy of such a saint.
+#ASTERYI.
+Spiridón has been here.
+#PRASKOVYA.
+Spiridón has been here? What did he say? Tell me!
+#ASTERYI.
+He will build it for 400 roubles.
+#VARVARA.
+For 400 roubles!
+#ASTERYI.
+He will return soon to strike a bargain.
+#PRASKOVYA.
+Is it true?
+#ASTERYI.
+As true as that I wear the cross.
+#PRASKOVYA.
+Oh, all the holy saints be praised! Sláva Tebyé Hóspodi! Oh, my darling Sasha, we will meet in a fine house, you and I, face to face.
+#VARVARA.
+Then this is the good luck.
+#ASTERYI.
+No, this cannot be what the cards told us; for this had happened already before the Wolf came out.
+#VARVARA.
+Then there is something else to follow?
+#ASTERYI.
+Evidently.
+#VARVARA.
+What can it be?
+#ASTERYI.
+To - morrow perhaps we shall know.
+#PRASKOVYA.
+And in a month I shall have my tomb - house finished, for which I have been waiting twenty years! A little stone house safe against the rain. There will be a tile stove which I can light: in the middle a stone table and two chairs - one for me and one for my boy when he comes and sits with me, and....
+#VARVARA.
+Ah! Heaven defend us!
+#PRASKOVYA.
+What is it?
+#VARVARA.
+The face! the face!
+#PRASKOVYA.
+The face again?
+#FOMA.
+What face?
+#VARVARA.
+The face looked in at the window!
+#ASTERYI.
+Whose face?
+#VARVARA.
+It is the man that we have seen watching us in the cemetery.
+#PRASKOVYA.
+Oh, Heaven preserve me from this man!
+#FOMA.
+There is nobody there.
+#ASTERYI.
+This is a false alarm.
+#FOMA.
+People who tire their eyes by staring at window - panes at night often see faces looking in through them.
+#PRASKOVYA.
+Oh, Hóspodi!
+#ASTERYI.
+Spiridón will be returning soon. Have you the money ready?
+#PRASKOVYA.
+The money? Yes, yes! I will get it ready. It is not here. Come, Varvára.
+#ASTERYI.
+If it is in the bank we must wait till the daytime.
+#PRASKOVYA.
+My money in the bank? I am not so foolish. Get the spade, Varvára. It is buried in the field, in a place that no one knows but myself.
+#ASTERYI.
+Are you not afraid to go out?
+#PRASKOVYA.
+Afraid? No, I am not afraid.
+#FOMA.
+But your supper - you have not eaten your supper.
+#PRASKOVYA.
+How can I think of supper at such a moment?
+#FOMA.
+No supper? Oh, what a wonderful thing is a mother's love!
+#PRASKOVYA.
+Stay here till we return.
+#VARVARA.
+I am afraid, Praskóvya Petróvna.
+#PRASKOVYA.
+Nonsense, there is nothing to fear.
+#FOMA.
+I will go with you to the corner of the street.
+#ASTERYI.
+I must try one for myself.
+#FOMA.
+What's the use? It will never come out.
+#ASTERYI.
+Oh, it never does to be discouraged.
+#FOMA.
+: In the shade there walked a maid Picking posies all of roses
+#ASTERYI.
+Don't make such a noise.
+#FOMA.
+I can't help it. I'm gay. I have a sympathetic soul. I rejoice with Praskóvya Petróvna. I think she is mad, but I rejoice with her.
+#ASTERYI.
+So do I; but I don't disturb others on that account.
+#FOMA.
+Come, old grumbler, have a mouthful of vodka. A glass of wine with Cæsar Borgia! As she went adown the bent He was drest in all his best So he was a saint, was he, that son of hers? Well, well, of what advantage is that? Saints are not so easy to love as sinners. You and I are not saints, are we, Astéryi Ivanovitch?
+#ASTERYI.
+I do not care to parade my halo in public.
+#FOMA.
+Oh, as for me, I keep mine in a box under the bed; it only frightens people. Do you think he would have remained a saint all this time if he had lived?
+#ASTERYI.
+Who can say?
+#FOMA.
+Nonsense! He would have become like the rest of us. Then why make all this fuss about him? Why go on for twenty years sacrificing her own life to a fantastic image?
+#ASTERYI.
+Why not, if it please her to do so?
+#FOMA.
+Say what you please, but all the same she is mad; yes, Praskóvya is mad.
+#ASTERYI.
+We call every one mad who is faithful to their ideas. If people think only of food and money and clothing we call them sane, but if they have ideas beyond those things we call them mad. I envy Praskóvya. Praskóvya has preserved in her old age what I myself have lost. I, too, had ideas once, but I have been unfaithful to them; they have evaporated and vanished.
+#FOMA.
+What ideas were these?
+#ASTERYI.
+Liberty! Political regeneration!
+#FOMA.
+Ah, yes; you were a sad revolutionary once, I have been told.
+#ASTERYI.
+I worshiped Liberty, as Praskóvya worships her Sasha. But I have lived my ideals down in the dull routine of my foolish, aimless life as an office hack, a clerk in the District Council, making copies that no one will ever see of documents that no one ever wants to read.... Suddenly there comes the Revolution; there is fighting in the streets; men raise the red flag; blood flows. I might go forth and strike a blow for that Liberty which I loved twenty years ago. But no, I have become indifferent. I do not care who wins, the Government or the Revolutionaries; it is all the same to me.
+#FOMA.
+You are afraid. One gets timid as one gets older.
+#ASTERYI.
+Afraid? No. What have I to be afraid of? Death is surely not so much worse than life? No, it is because my idea is dead and cannot be made to live again, while Praskóvya, whose routine as a lodging - house keeper is a hundred times duller than mine, is still faithful to her old idea. Let us not call her mad; let us rather worship her as something holy, for her fidelity to an idea in this wretched little town where ideas are as rare as white ravens.
+#FOMA.
+She has no friends to love?
+#ASTERYI.
+She has never had any friends; she needed none.
+#FOMA.
+She has relatives, I suppose?
+#ASTERYI.
+None.
+#FOMA.
+What mystery explains this solitude?
+#ASTERYI.
+If there is a mystery it is easily guessed. It is an everyday story; the story of a peasant woman betrayed and deserted by a nobleman. She came with her child to this town; and instead of sinking, set herself bravely to work, to win a living for the two of them. She was young and strong then; her work prospered with her.
+#FOMA.
+And her son was worthy of her love?
+#ASTERYI.
+He was a fine boy - handsome and intelligent. By dint of the fiercest economy she got him a nobleman's education; sent him to the Gymnase, and thence, when he was eighteen, to the University of Moscow. Praskóvya herself cannot read or write, but her boy ... the books on that shelf are the prizes which he won. She thought him a pattern of all the virtues.
+#FOMA.
+Aha! now we're coming to it! So he was a sinner after all?
+#ASTERYI.
+We are none of us perfect. His friends were ill - chosen. The hard - earned money that Praskóvya thought was spent on University expenses went on many other things - on drink, on women, and on gambling. But he did one good thing - he hid it all safely from his mother. I helped him in that. Together we kept her idea safe through a difficult period. And before he was twenty it was all over - he was dead.
+#FOMA.
+Yes, he was murdered by some foreigner, I know.
+#ASTERYI.
+By Adámek, a Pole.
+#FOMA.
+And what was the motive of the crime?
+#ASTERYI.
+It was for money. By inquiries which I made after the trial I ascertained that this Adámek was a bad character and an adventurer, who used to entice students to his rooms to drink and gamble with him. Sasha had become an intimate friend of his; and it was even said that they were partners in cheating the rest. Anyhow, there is no doubt that at one time or another they had won considerable sums at cards, and disputed as to the ownership of them. The last thing that was heard of them, they bought a sledge with two horses and set out saying they were going to Tula. On the road Adámek murdered the unfortunate boy. The facts were all clear and indisputable. There was no need to search into the motives. The murderer fell straight into the hands of the police. The District Inspector, coming silently along the road in his sledge, suddenly saw before him the boy lying dead by the roadside, and the murderer standing over him with the knife in his hand. He arrested him at once; there was no possibility of denying it.
+#FOMA.
+And it was quite clear that his victim was Sasha?
+#ASTERYI.
+Quite clear. Adámek gave intimate details about him, such as only a friend of his could have known, which put his identity beyond a doubt. When the trial was over the body was sent in a coffin to Praskóvya Petróvna, who buried it here in the Tróitski Cemetery.
+#FOMA.
+And the Pole?
+#ASTERYI.
+He was sent to penal servitude for life to the silver mines of Siberia.
+#FOMA.
+So Praskóvya is even madder than I thought. Her religion is founded on a myth. Her life is an absurd deception.
+#ASTERYI.
+No; she has created something out of nothing; that is all.
+#FOMA.
+In your place I should have told her the truth.
+#ASTERYI.
+No.
+#FOMA.
+Anything is better than a lie.
+#ASTERYI.
+There is no lie in it. Praskóvya's idea and Sasha's life are two independent things. A statement of fact may be true or false; but an idea need only be clear and definite. That is all that matters. Come in, come in! Who are you? What do you want?
+#EVERYCHILD.
+I came to speak to you.
+#ASTERYI.
+To speak to me?
+#FOMA.
+Take off your cap. Do you not see the eikons?
+#ASTERYI.
+What do you want with me?
+#EVERYCHILD.
+Only a word, Astéryi Ivanovitch.
+#ASTERYI.
+How have you learnt my name?
+#FOMA.
+Do you know the man?
+#ASTERYI.
+No.
+#EVERYCHILD.
+You do not know me?
+#ASTERYI.
+No.
+#EVERYCHILD.
+Have you forgotten me, Astéryi Ivanovitch?
+#ASTERYI.
+Sasha!
+#FOMA.
+What is it? You look as if you had seen a ghost. ghost? There are no such things as ghosts. Would that it were a ghost. It is Sasha.
+#FOMA.
+Sasha?
+#ASTERYI.
+It is Praskóvya's son alive.
+#FOMA.
+Praskóvya's son?
+#SASHA.
+You remember me now, Astéryi Ivanovitch.
+#ASTERYI.
+How have you risen from the dead? How have you come back from the grave - you who were dead and buried these twenty years and more?
+#SASHA.
+I have not risen from the dead. I have not come back from the grave; but I have come a long, long journey.
+#ASTERYI.
+From where?
+#SASHA.
+From Siberia.
+#FOMA.
+From Siberia?
+#SASHA.
+From Siberia.
+#ASTERYI.
+What were you doing in Siberia?
+#SASHA.
+Do you not understand, Astéryi Ivanovitch? I am a criminal.
+#ASTERYI.
+Ah! convict, a felon. I have escaped and come home.
+#ASTERYI.
+Of what crime have you been guilty?
+#SASHA.
+Do not ask me so many questions, but give me something to eat.
+#ASTERYI.
+But tell me this....
+#SASHA.
+There is food here. I smelt it as I came in.
+#FOMA.
+It is your mother's supper.
+#SASHA.
+I do not care whose supper it is. I am ravenous. I have had nothing to eat all day.
+#FOMA.
+Can this wild beast be Praskóvya's son?
+#SASHA.
+We are all wild beasts if we are kept from food. Ha! and vodka, too!
+#ASTERYI.
+Are you a convict, a felon, Sasha? You who were dead? Then we have been deceived for many years.
+#SASHA.
+Have you?
+#ASTERYI.
+Some other man was murdered twenty years ago. The murderer said that it was you.
+#SASHA.
+Ah, he said that it was me, did he?
+#ASTERYI.
+Why did Adámek say that it was you?
+#SASHA.
+Can you not guess? Adámek murdered no one.
+#ASTERYI.
+He murdered no one? But he was condemned.
+#SASHA.
+He was never condemned.
+#ASTERYI.
+Never condemned? Then what became of him?
+#SASHA.
+He died.... Do you not understand? It was I who killed Adámek.
+#ASTERYI.
+You!
+#SASHA.
+We had quarreled. We were alone in a solitary place. I killed him and stood looking down at him with the knife in my hand dripping scarlet in the snow, frightened at the sudden silence and what I had done. And while I thought I was alone, I turned and saw the police - officer with his revolver leveled at my head. Then amid the confusion and black horror that seized on me, a bright thought shot across my mind. Adámek had no relatives, no friends; he was an outcast. Stained with his flowing blood, I exchanged names with him; that's the old heroic custom of blood - brotherhood, you know. I named myself Adámek; I named my victim Sasha. Ingenious, wasn't it? I had romantic ideas in those days. Adámek has been cursed for a murderer, and my memory has been honored. Alexander Petróvitch has been a hero; my mother has wept for me. I have seen her in the graveyard lamenting on my tomb; I have read my name on the cross. I hardly know whether to laugh or to cry. Evidently she loves me still.
+#ASTERYI.
+And you?
+#SASHA.
+Do I love her? No. There is no question of that. She is part of a life that was ended too long ago. I have only myself to think of now. What should I gain by loving her? Understand, I am an outlaw, an escaped convict; a word can send me back to the mines. I must hide myself, the patrols are everywhere.... Even here I am not safe.
+#ASTERYI.
+Why have you returned? Why have you spoilt what you began so well? Having resolved twenty years ago to vanish like a dead man....
+#SASHA.
+Ah! if they had killed me then I would have died willingly. But after twenty years remorse goes, pity goes, everything goes; entombed in the mines, but still alive.... I was worn out. I could bear it no longer. Others were escaping, I escaped with them.
+#ASTERYI.
+This will break her heart. She has made an angel of you. The lamp is always burning....
+#SASHA.
+Aha! Alexander Nevski, my patron saint. I drink to you, my friend: but I cannot congratulate you on your work. As a guardian angel you have been something of a failure. And what is this? Myself! Who would have known this for my portrait? Look at the angel child, with the soft cheeks and the pretty curly hair. How innocent and good I looked! And even then I was deceiving my mother. She never understood that a young man must live, he must live. We are animals first; we have instincts that need something warmer, something livelier, than the tame dull round of home. And even now I have no intention of dying. Yet how am I to live? I cannot work; the mines have sucked out all my strength. Has my mother any money?
+#ASTERYI.
+What can we do with him?
+#SASHA.
+Has my mother any money?
+#ASTERYI.
+Money? Of course not. Would she let lodgings if she had? Listen. I am a poor man myself, but I will give you ten roubles and your railway fare to go to St. Petersburg.
+#SASHA.
+St. Petersburg? And what shall I do there when I have spent the ten roubles?
+#ASTERYI.
+How do I know? Live there, die there, only stay away from here.
+#FOMA.
+What right have you to send him away? Why do you suppose that she will not be glad to see him? Let her see her saint bedraggled, and love him still - that is what true love means. You have regaled her with lies all these years; but now it is no longer possible. She is at the door.
+#ASTERYI.
+Come with me. He must go out by the other way. No, I forbid it. It is the hand of God that has led him here. Go and unlock the door. Stand here a moment till I have prepared your mother.
+#PRASKOVYA.
+Why is the door locked? Were you afraid without old Praskóvya to protect you? Here is the money. Now let me count it. Have you two been quarreling? There are fifty roubles in this bag, all in little pieces of silver; it took me two years.
+#FOMA.
+How you must have denied yourself, Praskóvya, and all to build a hut in a churchyard!
+#PRASKOVYA.
+On what better thing could money be spent?
+#FOMA.
+You are so much in love with your tomb - house, I believe that you would be sorry if it turned out that your son was not dead, but alive.
+#PRASKOVYA.
+Why do you say such things? You know that I should be glad. Ah! if I could but see him once again as he was then, and hold him in my arms!
+#FOMA.
+But he would not be the same now.
+#PRASKOVYA.
+If he were different, he would not be my son.
+#FOMA.
+What if all these years he had been an outcast, living in degradation?
+#PRASKOVYA.
+Who has been eating here? Who has been drinking here? Something has happened! Tell me what it is.
+#ASTERYI.
+Your son is not dead.
+#PRASKOVYA.
+Not dead? Why do you say it so sadly? No, it is not true. I do not believe it. How can I be joyful at the news if you tell it so sadly? If he is alive, where is he? Let me see him.
+#ASTERYI.
+He is here.
+#PRASKOVYA.
+No, no! Tell me that that is not him ... my son whom I have loved all these years, my son that lies in the churchyard. Don't be cruel to me. Say that you are not my son; you cannot be my son.
+#SASHA.
+You know that I am your son.
+#PRASKOVYA.
+My son is dead; he was murdered. I buried his body in the Tróitski Cemetery.
+#SASHA.
+But you see that I was not murdered. Touch me; feel me. I am alive. I and Adámek fought; it was not Adámek that slew me, it was....
+#PRASKOVYA.
+No, no! I want to hear no more. You have come to torment me. Only say what you want of me, anything, and I will do it, if you will leave me in peace.
+#SASHA.
+I want food and clothing; I want shelter; I must have money.
+#PRASKOVYA.
+You will go if I give you money? Yes? Say that you will go, far, far away, and never come back to tell lies.... But I have no money to give; I am a poor woman.
+#SASHA.
+Come, what's all this?
+#PRASKOVYA.
+No, no! I need it; I can't spare it. What I have I have starved myself to get. Two roubles, five roubles, even ten roubles I will give you, if you will go far, far away....
+#FOMA.
+Before he can travel we must bribe some peasant to lend him his passport.
+#PRASKOVYA.
+Has he no passport then?
+#FOMA.
+No.
+#SPIRIT.
+Peace be on this house. May the saints watch over all of you! Astéryi Ivanovitch will have told you of my proposal.
+#PRASKOVYA.
+Yes, I have heard of it, Spiridón.
+#FOMA.
+Good - by, Spiridón; there is no work for you here. That is all over.
+#PRASKOVYA.
+Why do you say that that is all over?
+#FOMA.
+There will be no tomb - house to build.
+#PRASKOVYA.
+No tomb - house? How dare you say so? He is laughing at us, Spiridón. The tomb - house that we have planned together, with the table in the middle, and the two chairs.... Do not listen to him, Spiridón. At last I have money enough; let us count it together.
+#SASHA.
+Give me my share, mother!
+#PRASKOVYA.
+I have no money for you.
+#SASHA.
+I must have money.
+#PRASKOVYA.
+You shall not touch it.
+#SASHA.
+I will not go unless you give me money.
+#PRASKOVYA.
+It is not mine. I have promised it all to Spiridón. Help me, Astéryi Ivanovitch; he will drive me mad! Oh, what must I do? What must I do? Is there no way, Varvára? Go! go! go quickly, or worse will befall you.
+#SASHA.
+I will not go and starve while you have all this money.
+#PRASKOVYA.
+Ah! Since you will have it so.... It is you, not I! Patrol! Patrol!
+#FOMA.
+Stop her.
+#VARVARA.
+Oh, Hóspodi!
+#PRASKOVYA.
+Help! Help! Come here!
+#FOMA.
+What have you done? What have you done?
+#PRASKOVYA.
+This man is a thief and a murderer. He is a convict escaped from Siberia. He has no passport.
+#CORPORAL.
+Is that true? Where is your passport?
+#SASHA.
+I have none.
+#CORPORAL.
+We are looking for such men as you. Come!
+#SASHA.
+This woman is my mother.
+#CORPORAL.
+That's her affair. You have no passport; that is enough for me. You'll soon be back on the road to the North with the rest of them.
+#SASHA.
+Woman! woman! Have pity on your son.
+#CORPORAL.
+Come along, lad, and leave the old woman in peace.
+#PRASKOVYA.
+The Lord help me! Poor devil!
+#ASTÉRYI.
+What's a man compared to an idea?
