@@ -45,7 +45,6 @@ def is_correct(dataset:pd.DataFrame, baseline: pd.DataFrame, trait: str, feature
 
   mean1, mean2 = np.mean(sample_pos), np.mean(sample_neg)
 
-
   return True if (correct_marker == 'M' and mean1 - mean2 > 0) or (correct_marker == 'F' and mean1 - mean2 < 0) else False
 
 def d_corresp(baseline: pd.DataFrame, d_fict: dict) -> tuple[list,list,list]:
