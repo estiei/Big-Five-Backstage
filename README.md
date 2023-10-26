@@ -6,11 +6,11 @@
 [![Colab Demo][colab-demo-image]][colab-demo-url]
 
 Welcome to the official repo of the Big-Five Backstage (B5B) dataset -- a textual dataset comprising fictional character lines with annotations based on their gender and Big-Five personality traits. 
-Along with the data, here you can find the research notebooks used in the paper "Big-Five Backstage: A Dramatic Dataset for Fiction Character Personality Traits & Gender Analysis".
+Along with the data, here you can find the research notebooks used in the paper "_Big-Five Backstage: A Dramatic Dataset for Fiction Character Personality Traits & Gender Analysis_".
 
 # Dataset
 
-The dataset consists of 3265 text samples corresponding to the concatenation of lines spoken by fictional characters. Texts are extracted from 400 theatre plays written by 132 different authors. Overall, it contains 3419136 words in total with a mean equal to 1047.2 words per character. Each text entry have binary labels representing gender of a character (Male or Female) and their five personality traits (Extraversion, Agreeableness, Openness, Neuroticism, Conscientiousness). The auxiliary part of the dataset includes author-level labels reflecting their gender, country of origin, and years of life.
+The dataset consists of 3265 text samples corresponding to the concatenation of lines spoken by fictional characters. Texts are extracted from 400 theatre plays written by 132 different authors. Overall, it contains 3419136 words in total with a mean equal to 1047.2 words per character. Each text entry have binary labels representing gender of a character (_Male_ or _Female_) and their five personality traits (_Extraversion_, _Agreeableness_, _Openness_, _Neuroticism_, _Conscientiousness_). The auxiliary part of the dataset includes author-level labels reflecting their gender, country of origin, and years of life.
 
 # Notebooks
 
