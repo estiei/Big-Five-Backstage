@@ -1,4 +1,4 @@
-﻿trait;Extraversion;Neuroticism;Agreeableness;Conscientiousness;Openness
+﻿marker;Extraversion;Neuroticism;Agreeableness;Conscientiousness;Openness
 achieve;0;0;0;0;1
 Affect;0;1;0;1;1
 AllPunc;1;0;0;0;0
