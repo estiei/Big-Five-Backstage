@@ -1,7 +1,7 @@
 # Big-Five-Backstage
 
 [colab-demo-image]: https://camo.githubusercontent.com/84f0493939e0c4de4e6dbe113251b4bfb5353e57134ffd9fcab6b8714514d4d1/68747470733a2f2f636f6c61622e72657365617263682e676f6f676c652e636f6d2f6173736574732f636f6c61622d62616467652e737667
-[colab-demo-url]: https://colab.research.google.com/drive/1FmvHduvANWCviaA6kLQsnfmbb7nzXHIO?usp=sharing
+[colab-demo-url]: https://colab.research.google.com/drive/1RZPmKsSxfSS9CaFt5wPNRGrmnzDGw8ge?usp=sharing
 
 [![Colab Demo][colab-demo-image]][colab-demo-url]
 
@@ -14,7 +14,7 @@ The dataset consists of 3265 text samples corresponding to the concatenation of 
 
 # Notebooks
 
-We prepared [an introductory notebook](https://colab.research.google.com/drive/1FmvHduvANWCviaA6kLQsnfmbb7nzXHIO?usp=sharing) demonstrating different properties of the dataset -- feel free to use it to quickly get acquainted with Big-Five Backstage.
+We prepared [an introductory notebook][colab-demo-url] demonstrating different properties of the dataset -- feel free to use it to quickly get acquainted with Big-Five Backstage.
 
 # License
 
