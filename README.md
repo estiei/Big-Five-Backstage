@@ -10,7 +10,7 @@ Along with the data, here you can find the research notebooks used in the paper 
 
 # Dataset
 
-TBD
+The dataset consists of 3265 text samples corresponding to the concatenation of lines spoken by fictional characters. Texts are extracted from 400 theatre plays written by 132 different authors. Overall, it contains 3419136 words in total with a mean equal to 1047.2 words per character. Each text entry have binary labels representing gender of a character (Male or Female) and their five personality traits (Extraversion, Agreeableness, Openness, Neuroticism, Conscientiousness). The auxiliary part of the dataset includes author-level labels reflecting their gender, country of origin, and years of life.
 
 # Notebooks
 
