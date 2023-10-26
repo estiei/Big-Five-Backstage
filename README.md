@@ -14,9 +14,7 @@ The dataset consists of 3265 text samples corresponding to the concatenation of 
 
 # Notebooks
 
-There is an introductory notebook demonstrating different properties of the dataset (link).
-
-TBD
+We prepared [an introductory notebook](https://colab.research.google.com/drive/1FmvHduvANWCviaA6kLQsnfmbb7nzXHIO?usp=sharing) demonstrating different properties of the dataset -- feel free to use it to quickly get acquainted with Big-Five Backstage.
 
 # License
 
