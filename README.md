@@ -18,7 +18,7 @@ We prepared [an introductory notebook](https://colab.research.google.com/drive/1
 
 # License
 
-Established code released as open-source software under the MIT license.
+Established data and code released as open-source under the MIT license.
 
 # Contact us
 
