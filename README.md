@@ -27,8 +27,6 @@ If you have some questions about the code, you are welcome to open an issue, I w
 
 # Citation
 
-To be updated.
-
 ```
 @inproceedings{tiuleneva2024big,
   title={Big-Five Backstage: A Dramatic Dataset for Characters Personality Traits \& Gender Analysis},
